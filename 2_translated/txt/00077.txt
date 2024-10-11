@@ -1,655 +1,650 @@
 [0000]
-坂本雄二
+Yuuji Sakamoto
 **********
-明久、まさか勝つ気で
-いるのか？
+Akihisa, don't tell me you expect
+to win?
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-もちろん。この勝負、
-負けられないんだ！
+I can't afford to lose
+this contest.
 
 --------------------
 [0002]
-坂本雄二
+Yuuji Sakamoto
 **********
-姫路か。料理は今日じ
-ゃなくていいからな。
+Himeji. It's alright for you to skip
+cooking today.
 
 --------------------
 [0003]
-姫路瑞希
+Mizuki Himeji
 **********
-大丈夫です。私、頑張
-りますから！
+It's fine. I'm doing my best
+after all!
 
 --------------------
 [0004]
-坂本雄二
+Yuuji Sakamoto
 **********
-島田、ここは俺と手を
-組まないか？
+Shimada, why don't we 
+team up for this?
 
 --------------------
 [0005]
-島田美波
+Minami Shimada
 **********
-うーん、気が乗らない
-から、やめとくわ。
+Nah, I'm not really feeling it,
+so, I'll pass.
 
 --------------------
 [0006]
-坂本雄二
+Yuuji Sakamoto
 **********
-秀吉、こんな所にいた
-のか。
+Hideyoshi. You stick out like
+a sore thumb.
 
 --------------------
 [0007]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ああ、焦らずいくつも
-りじゃ。
+Ah. I planned on taking this
+slow and steady.
 
 --------------------
 [0008]
-坂本雄二
+Yuuji Sakamoto
 **********
-ムッツリーニ、相談が
-あるんだが…
+Kouta, there's something  I'd like 
+discuss with you ...
 
 --------------------
 [0009]
-土屋康太
+Kouta Tsuchiya
 **********
-…交渉不許可。今は敵
-同士。
+... negotiation denied. We are now
+fellow rivals.
 
 --------------------
 [0010]
-坂本雄二
+Yuuji Sakamoto
 **********
-ゲッ！？亊子…どうし
-てここに！？
+Eh!? Shouko... Why are 
+you here!?
 
 --------------------
 [0011]
-霧島亊子
+Shouko Kirishima
 **********
-…もちろん雄二がいる
-から。こっちに来て。
+... I came here because
+you are here, of course.
 
 --------------------
 [0012]
-坂本雄二
+Yuuji Sakamoto
 **********
-木下か。出来れば戦い
-たくないな。
+Kinoshita. I'd like to avoid battle
+with you if possible.
 
 --------------------
 [0013]
-木下優子
+Yuuko Kinoshita
 **********
-なら、アタシの邪魔を
-しないでちょうだい。
+Then, please do not get in
+my way.
 
 --------------------
 [0014]
-坂本雄二
+Yuuji Sakamoto
 **********
-お前は…清水か。用は
-無い。向こうへ行け。
+You are... Shimizu. I don't have
+time for you, I'll just be on my way.
 
 --------------------
 [0015]
-清水美春
+Miharu Shimizu
 **********
-お前がどこかに行けで
-す！
+Just where do you think you are
+going?!
 
 --------------------
 [0016]
-坂本雄二
+Yuuji Sakamoto
 **********
-明久、ここは俺が勝た
-せてもらうぞ。
+Akihisa? 
+this one is in the bag.
 
 --------------------
 [0017]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-それは僕のセリフだ！
-絶対に負けないよ！
+That's my line!
+I'll never lose to you!
 
 --------------------
 [0018]
-坂本雄二
+Yuuji Sakamoto
 **********
-姫路、悪いが相手にな
-ってもらうぞ。
+Himeji, I feel bad but I'll 
+be your opponent.
 
 --------------------
 [0019]
-姫路瑞希
+Mizuki Himeji
 **********
-分かりました！頑張り
-ます。
+I understand! I'll do my 
+best.
 
 --------------------
 [0020]
-坂本雄二
+Yuuji Sakamoto
 **********
-いや、頑張らなくても
-いいんだがな…
+No, there's no need for you
+try so hard...
 
 --------------------
 [0021]
-坂本雄二
+Yuuji Sakamoto
 **********
-島田、ここらで一戦交
-えよう。いいな？
+Shimada, let's settle the score
+once and for all, Okay?
 
 --------------------
 [0022]
-島田美波
+Minami Shimada
 **********
-嫌って言ってもやるん
-でしょ。
+You'll keep going even if I
+say no, huh?
 
 --------------------
 [0023]
-坂本雄二
+Yuuji Sakamoto
 **********
-秀吉、良い物を持って
-るな。いただくぜ。
+Hideyoshi, that's real nice to have
+it would be a shame if someone took it.
 
 --------------------
 [0024]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-これはわしの物じゃ。
-絶対に渡さんぞ。
+It's mine.
+You'll take it over my dead body.
 
 --------------------
 [0025]
-坂本雄二
+Yuuji Sakamoto
 **********
-ムッツリーニ、この備
-品が欲しくてなあ…
+Kouta, you won't mind if I
+borrow this stuff...
 
 --------------------
 [0026]
-土屋康太
+Kouta Tsuchiya
 **********
-…持ち主は一人だけ。
+... get your own.
 
 --------------------
 [0027]
-坂本雄二
+Yuuji Sakamoto
 **********
-しょ、亊子、お前にだ
-けは絶対負けない！
+Sh-Shouko, there's no way in
+hell I'd lose to you!
 
 --------------------
 [0028]
-霧島亊子
+Shouko Kirishima
 **********
-…私の愛の深さを教え
-てあげる。
+... I'll show you the depth 
+of my love
 
 --------------------
 [0029]
-坂本雄二
+Yuuji Sakamoto
 **********
-木下か…相手にとって
-不足はないな。
+Kinoshita, huh? ... I'm satisfied with
+you as an opponent.
 
 --------------------
 [0030]
-木下優子
+Yuuko Kinoshita
 **********
-実力の差を思い知らせ
-てあげるわ。
+Let me show you the difference in
+our ability.
 
 --------------------
 [0031]
-坂本雄二
+Yuuji Sakamoto
 **********
-清水か。バトルの相手
-をしてもらうぞ。
+Shimizu. Let's settle this
+man to man!
 
 --------------------
 [0032]
-清水美春
+Miharu Shimizu
 **********
-絶対に勝ちます。豚野
-郎には負けません！
+Who are you calling a man? No way
+It can lose to a swine like you!
 
 --------------------
 [0033]
-坂本雄二
+Yuuji Sakamoto
 **********
-明久、やっぱり俺の勝
-ちだったな。
+Akihisa, it's my win 
+obviously.
 
 --------------------
 [0034]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そ、そんな…少しは自
-信があったのに…
+N-No way... But I believed
+in myself...
 
 --------------------
 [0035]
-西村宗一
+Sōichi Nishimura
 **********
-しかし、実力は無し！
-つまりは補習だ！
+But, zero ability!
+Which means, Supplementary class!
 
 --------------------
 [0036]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-いやだー！！
+No!!!!!
 
 --------------------
 [0037]
-坂本雄二
+Yuuji Sakamoto
 **********
-姫路、俺の勝ちだな。
+Himeji. Looks like I won.
 
 --------------------
 [0038]
-姫路瑞希
+Mizuki Himeji
 **********
-はい…ありがとうござ
-いました。
+Yes... I had alot
+of fun.
 
 --------------------
 [0039]
-西村宗一
+Sōichi Nishimura
 **********
-殊勝な心がけやよし！
-しかし戦死者は補習！
+Such an admirable heart is great!
+Still, loser needs supplementary class!
 
 --------------------
 [0040]
-姫路瑞希
+Mizuki Himeji
 **********
-はい、宜しくお願いし
-ます。
+Yes. I'm in your care.
 
 --------------------
 [0041]
-坂本雄二
+Yuuji Sakamoto
 **********
-島田、結果が出たよう
-だな。
+Shimada. It's over.
 
 --------------------
 [0042]
-島田美波
+Minami Shimada
 **********
-はいはい、わかってる
-わよ。ウチの負け。
+Yeah yeah. I got it.
+It's my loss.
 
 --------------------
 [0043]
-西村宗一
+Sōichi Nishimura
 **********
-そして、負けたら補習
-だ！
+And, losing means supplementary class!
 
 --------------------
 [0044]
-島田美波
+Minami Shimada
 **********
-それも分かってます！
-はあ…最低…
+I know that!
+Sigh... this is the worst...
 
 --------------------
 [0045]
-坂本雄二
+Yuuji Sakamoto
 **********
-秀吉、これでこの備品
-は俺の物だな。
+Hideyoshi, with this, this equipment
+becomes mine.
 
 --------------------
 [0046]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-分かっておるわい。う
-う…無念じゃ。
+I understand...ugh...
+How could this get much worse.
 
 --------------------
 [0047]
-西村宗一
+Sōichi Nishimura
 **********
-悔しさを力に変えろ！
-補習が待っている！
+Turn your regret into strength!
+Supplementary class awaits!
 
 --------------------
 [0048]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-それは御免被りたいの
-じゃが…
+I would like to be excused from that 
+if possible.
 
 --------------------
 [0049]
-坂本雄二
+Yuuji Sakamoto
 **********
-ムッツリーニ、この備
-品はもらったぜ。
+Muttsurini. I'll taking this 
+equipment.
 
 --------------------
 [0050]
-土屋康太
+Kouta Tsuchiya
 **********
-…不覚。だが、すぐに
-奪い返す。
+... I've failed. However, I'll be taking
+that back soon enough.
 
 --------------------
 [0051]
-西村宗一
+Sōichi Nishimura
 **********
-その前に補習だ！
+Before that, supplementary class!
 
 --------------------
 [0052]
-土屋康太
+Kouta Tsuchiya
 **********
-…了解した。
+... roger.
 
 --------------------
 [0053]
-坂本雄二
+Yuuji Sakamoto
 **********
-亊子、俺の勝ちだ！
+Shouko, victory is mine!
 
 --------------------
 [0054]
-霧島亊子
+Shouko Kirishima
 **********
-…雄二の勝ちは私も嬉
-しい。こっちに来て。
+... Yuuji's victory is my happiness
+too. Come to me.
 
 --------------------
 [0055]
-西村宗一
+Sōichi Nishimura
 **********
-待て霧島！戦死者は補
-習だ！
+Hold it, Kirishima! Supplementary class
+comes first!
 
 --------------------
 [0056]
-霧島亊子
+Shouko Kirishima
 **********
-…仕方がない。雄二、
-少しだけ待ってて。
+... There's no other way. Wait just
+a little longer, Yuuji.
 
 --------------------
 [0057]
-坂本雄二
+Yuuji Sakamoto
 **********
-ああ、心配するな。全
-力で遠ざかってやる。
+Ah. Don't worry. Just go
+as far as you possibly can.
 
 --------------------
 [0058]
-坂本雄二
+Yuuji Sakamoto
 **********
-勝負はついたな。俺の
-勝ちだ、木下。
+Match is over.
+It's my win, Kinoshita.
 
 --------------------
 [0059]
-木下優子
+Yuuko Kinoshita
 **********
-ぐっ…坂本、覚えてい
-なさいよ！
+Gah... Sakamoto, I'll never
+forget this!
 
 --------------------
 [0060]
-西村宗一
+Sōichi Nishimura
 **********
-補習も忘れるな！
+Don't forget supplementary class too!
 
 --------------------
 [0061]
-木下優子
+Yuuko Kinoshita
 **********
-分かってます！うう…
-絶対に復讐してやる！
+I know! Ugh... 
+I'll definitely have my revenge!
 
 --------------------
 [0062]
-坂本雄二
+Yuuji Sakamoto
 **********
-清水、俺の勝ちだな。
+It seems I won this, Shimizu.
 
 --------------------
 [0063]
-清水美春
+Miharu Shimizu
 **********
-わざわざ言わなくても
-分かってます！
+I know! You don't have to
+state the obvious!
 
 --------------------
 [0064]
-西村宗一
+Sōichi Nishimura
 **********
-なら補習を受けること
-も分かってるな！
+Then, you should know that 
+you need to take supplementary class!
 
 --------------------
 [0065]
-清水美春
+Miharu Shimizu
 **********
-それは分かりません！
+I don't know that!
 
 --------------------
 [0066]
-坂本雄二
+Yuuji Sakamoto
 **********
-チッ、引き分けか。勝
-てると思ったんだが。
+Tsk, it's a tie, huh? Here I
+thought I would've won that.
 
 --------------------
 [0067]
-坂本雄二
+Yuuji Sakamoto
 **********
-ババア、何しに来やが
-った？
+Old hag, why are you
+here?
 
 --------------------
 [0068]
-藤堂カヲル
+Kaoru Toudou
 **********
-なあに、ちょっとした
-お遊びさね…ふふふ。
+It's nothing, really. I'm just come out 
+to have some fun... Huhuhu.
 
 --------------------
 [0069]
-坂本雄二
+Yuuji Sakamoto
 **********
-ババアめ…好き放題や
-りやがって…
+Damn hag! You're just doing what 
+pleases you...
 
 --------------------
 [0070]
-坂本雄二
+Yuuji Sakamoto
 **********
-お、良いカードだ。
+Oh, a nice draw.
 
 --------------------
 [0071]
-坂本雄二
+Yuuji Sakamoto
 **********
-チッ…使えねえな。
+Tsk... useless.
 
 --------------------
 [0072]
-坂本雄二
+Yuuji Sakamoto
 **********
-よし、とっとと勝って
-終わらすぜ！
+Okay, Let's just get this
+over with!
 
 --------------------
 [0073]
-坂本雄二
+Yuuji Sakamoto
 **********
-あと少しか。意外に長
-くかかったな。
+Just a little bit more. It's been 
+surprisingly long.
 
 --------------------
 [0074]
-坂本雄二
+Yuuji Sakamoto
 **********
-このまま行けば俺の勝
-ちだな。
+If this continues as planned, I'll
+be winning this.
 
 --------------------
 [0075]
-坂本雄二
+Yuuji Sakamoto
 **********
-取り過ぎだろ！どいつ
-の備品だ！？
+I think I've taken too much! 
+Whose equipment was this!?
 
 --------------------
 [0076]
-坂本雄二
+Yuuji Sakamoto
 **********
-俺としたことが…最悪
-だぜ！
+How did I end up like this... it's
+the worst!
 
 --------------------
 [0077]
-坂本雄二
+Yuuji Sakamoto
 **********
-これでこのエリアは俺
-の物だな。
+I'll be taking this area.
 
 --------------------
 [0078]
-坂本雄二
+Yuuji Sakamoto
 **********
-クッ…ふざけた真似し
-やがって…
+Gah... I got played for a fool...
 
 --------------------
 [0079]
-坂本雄二
+Yuuji Sakamoto
 **********
-よし、この種類は全て
-掌握したぜ！
+Alright! I've collected everything in this 
+category!
 
 --------------------
 [0080]
-坂本雄二
+Yuuji Sakamoto
 **********
-チッ…まあいい。すぐ
-に取り戻してやる。
+Tsk... fine. I'll take
+them back soon enough.
 
 --------------------
 [0081]
-坂本雄二
+Yuuji Sakamoto
 **********
-イカサマだ！
+What a cheap trick!
 
 --------------------
 [0082]
-坂本雄二
+Yuuji Sakamoto
 **********
-ツキが回ってきたぜ！
+Luck is with me!
 
 --------------------
 [0083]
-坂本雄二
+Yuuji Sakamoto
 **********
-仕方ない、とりあえず
-休憩するか。
+It can't be helped. I will rest
+for now.
 
 --------------------
 [0084]
-坂本雄二
+Yuuji Sakamoto
 **********
-…亊子、こんな所でお
-まえに会うとはな…
+... Shouko. What brings
+you to a place like this...
 
 --------------------
 [0085]
-霧島亊子
+Shouko Kirishima
 **********
-…雄二、照れなくてい
-い。全部わかってる。
+... Yuuji. You don't have to be 
+embarrased. I understand everything.
 
 --------------------
 [0086]
-坂本雄二
+Yuuji Sakamoto
 **********
-照れてねえ！それに、
-わざとじゃねえ！
+I'm not embarrased!. 
+I don't think you understand anything!
 
 --------------------
 [0087]
-坂本雄二
+Yuuji Sakamoto
 **********
-よし、楽勝だぜ！
+Yes, easy win!
 
 --------------------
 [0088]
-坂本雄二
+Yuuji Sakamoto
 **********
-まあ…次がある。
+Oh well... there's always next time.
 
 --------------------
 [0089]
-坂本雄二
+Yuuji Sakamoto
 **********
-ババア！てめえ、何を
-しやがる！？
+You old hag! What did
+you do!
 
 --------------------
 [0090]
-坂本雄二
+Yuuji Sakamoto
 **********
-くそ…勝手なマネを…
+Shit... That's not fair...
 
 --------------------
 [0091]
-坂本雄二
+Yuuji Sakamoto
 **********
-ふざけんな、ババア！
+Don't mess with me, old hag!
 
 --------------------
 [0092]
-坂本雄二
+Yuuji Sakamoto
 **********
-ババア！てめえいい加
-減にしろ！
+You old hag! 
+That's enough!
 
 --------------------
 [0093]
-坂本雄二
+Yuuji Sakamoto
 **********
-好き放題しやがって…
-覚えてろよ、ババア！
+You did that on purpose...
+I'll remember this, old hag!
 
 --------------------
 [0094]
-坂本雄二
+Yuuji Sakamoto
 **********
-くそっ！何の権利があ
-って俺のカードを！
+Hey! What gives you the
+right to take my card?!
 
 --------------------
 [0095]
-坂本雄二
+Yuuji Sakamoto
 **********
-おいっ！気軽に値段を
-変えるんじゃねえ！
+Oi! Don't change
+the price tag so freely! 
 
 --------------------

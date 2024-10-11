@@ -1,661 +1,657 @@
 [0000]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-姫路さんと会えるなん
-て、ラッキーだなあ。
+It's good to see you,
+Himeji!
 
 --------------------
 [0001]
-姫路瑞希
+Mizuki Himeji
 **********
-明久くん、私も嬉しい
-です。
+I'm glad to see you too,
+Akihisa.
 
 --------------------
 [0002]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-美波、こんな所でノン
-ビリしてていいの？
+Minami, is it really okay to be
+slacking off in a place like this?
 
 --------------------
 [0003]
-島田美波
+Minami Shimada
 **********
-今の言葉、そのままア
-ンタに返すわ。
+I could ask you the same thing.
 
 --------------------
 [0004]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-なんだ、誰かいると思
-ったら…雄二か。
+Hm, who are you again?
+Yuuji, was it?
 
 --------------------
 [0005]
-坂本雄二
+Yuuji Sakamoto
 **********
-なんだとはなんだ！
+What do you mean, who am I?!
 
 --------------------
 [0006]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-秀吉、ここで僕を待っ
-ててくれたんだね！
+Hideyoshi, you've been
+waiting here just for me!
 
 --------------------
 [0007]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-誰も待っておらぬ。と
-んだ勘違いじゃ。
+I'm not waiting for anyone.
+You're sadly mistaken.
 
 --------------------
 [0008]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ムッツリーニ、立ち止
-まって何してるの？
+Kouta, what are you doing
+hanging around here?
 
 --------------------
 [0009]
-土屋康太
+Kouta Tsuchiya
 **********
-自主トレ。
+Independent study.
 
 --------------------
 [0010]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-霧島さん、ごめんね。
-雄二じゃなくて。
+Sorry, Shouko. I'm not Yuuji.
 
 --------------------
 [0011]
-霧島亊子
+Shouko Kirishima
 **********
-…見ればわかる。
+...Obviously.
 
 --------------------
 [0012]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-あれ？木下さん、こん
-な所にいたんだ。
+Huh? Oh, Kinoshita, you're
+here too.
 
 --------------------
 [0013]
-木下優子
+Yuuko Kinoshita
 **********
-いちゃ悪いの？
-
+Is that a problem?
+	
 --------------------
 [0014]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-や、やあ…清水さん。
-偶然だね！
+Y-Yo... Shimizu.
+What a coincidence!
 
 --------------------
 [0015]
-清水美春
+Miharu Shimizu
 **********
-気安く話し掛けないで
-ください。
+Don't talk to me like
+we're friends, you pig.
 
 --------------------
 [0016]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-姫路さん、僕と対戦し
-てくれる？
+Himeji, will you battle me?
 
 --------------------
 [0017]
-姫路瑞希
+Mizuki Himeji
 **********
-はい、喜んで。でも手
-加減はなしですよ？
+I'd be happy to. But I'm not
+going to hold back, okay?
 
 --------------------
 [0018]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-行くよ、美波！
+Let's go, Minami!
 
 --------------------
 [0019]
-島田美波
+Minami Shimada
 **********
-いつでもどうぞ。返り
-討ちにしてあげるわ！
+Anytime. I'll turn the
+tables on you!
 
 --------------------
 [0020]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-雄二なら、僕でも勝
-てそうだな…
+If it's Yuuji, even I might be
+able to win...
 
 --------------------
 [0021]
-坂本雄二
+Yuuji Sakamoto
 **********
-おい、明久。おまえ今
-なんつった？
+Hey, Akihisa. How many 
+times is this now?
 
 --------------------
 [0022]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-秀吉、この備品、僕が
-もらうよ！
+Hideyoshi, I'll be taking this
+equipment!
 
 --------------------
 [0023]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-簡単に奪えると思った
-ら大間違いじゃ。
+You're gravely mistaken if you think 
+you can take it that easily.
 
 --------------------
 [0024]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-いざ尋常に…勝負だ！
-ムッツリーニ！
+Kouta! Let's fight
+fair and square!
 
 --------------------
 [0025]
-土屋康太
+Kouta Tsuchiya
 **********
-…受けて立つ。
+...Challenge accepted.
 
 --------------------
 [0026]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-霧島さん、僕と勝負し
-てくれ！
+Shouko, fight me!
 
 --------------------
 [0027]
-霧島亊子
+Shouko Kirishima
 **********
-…わかった。でも勝敗
-は見えてる。
+...Very well. But the outcome
+is already clear.
 
 --------------------
 [0028]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-強敵だけど…やるしか
-ない！
+A formidable foe... but I
+have no choice!
 
 --------------------
 [0029]
-木下優子
+Yuuko Kinoshita
 **********
-飛んで火に入る夏の虫
-ってとこかしら。
+You're like a moth flying into
+the flame, aren't you?
 
 --------------------
 [0030]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-清水さん、勝負だ！
+Shimizu, let's battle!
 
 --------------------
 [0031]
-清水美春
+Miharu Shimizu
 **********
-１秒で挽き肉にしてあ
-げます。
+I'll grind you up in a matter of
+seconds.
 
 --------------------
 [0032]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ごめん、姫路さん。
+Sorry, Himeji.
 
 --------------------
 [0033]
-姫路瑞希
+Mizuki Himeji
 **********
-ううん、おめでとう。
-明久くん。
+Well, congratulations,
+Akihisa.
 
 --------------------
 [0034]
-西村宗一
+Sōichi Nishimura
 **********
-姫路、わかってるな。
-戦死者は補習だ。
+Himeji, you know the rules.
+Those who died get a remedial class.
 
 --------------------
 [0035]
-姫路瑞希
+Mizuki Himeji
 **********
-はい。宜しくお願いし
-ます。
+Yes, of course.
 
 --------------------
 [0036]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-僕の勝ちだね、美波。
+I win, Minami.
 
 --------------------
 [0037]
-島田美波
+Minami Shimada
 **********
-ウチがアキに負けるな
-んて…
+To think I could lose to
+Aki...
 
 --------------------
 [0038]
-西村宗一
+Sōichi Nishimura
 **********
-０点になった戦死者は
-補習！
+Those who died in battle,
+meet me in the remedial classroom!
 
 --------------------
 [0039]
-島田美波
+Minami Shimada
 **********
-ウチがアキに負けるな
-んて…
+To think I could lose to
+Aki...
 
 --------------------
 [0040]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-雄二、見た？これが僕
-の実力さ。
+You see that, Yuuji? This is
+my true strength!
 
 --------------------
 [0041]
-坂本雄二
+Yuuji Sakamoto
 **********
-人生最大の屈辱だぜ…
+I've never been so humiliated
+in my life...
 
 --------------------
 [0042]
-西村宗一
+Sōichi Nishimura
 **********
-戦死者は補習ー！
+Those who died, meet me in the
+remedial classroom!
 
 --------------------
 [0043]
-坂本雄二
+Yuuji Sakamoto
 **********
-くそっ…こんなところ
-で時間を食うとは。
+Damn... Why do I have to
+waste my time there...?
 
 --------------------
 [0044]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-秀吉、ここの備品はも
-らったよ！
+Hideyoshi, this equipment is 
+mine!
 
 --------------------
 [0045]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-明久、覚えておれ！
+I'll remember this, Akihisa!
 
 --------------------
 [0046]
-西村宗一
+Sōichi Nishimura
 **********
-戦死者は補習ー！
+Those who died, meet me in the
+remedial classroom!
 
 --------------------
 [0047]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-そう大きな声を出さん
-でもわかっておる…
+I know, I know. You don't
+have to yell that every time...
 
 --------------------
 [0048]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-残念だったね、ムッツ
-リーニ。
+Akihisa Yoshii
+Better luck next time.
 
 --------------------
 [0049]
-土屋康太
+Kouta Tsuchiya
 **********
-…不覚。
+...I failed
 
 --------------------
 [0050]
-西村宗一
+Sōichi Nishimura
 **********
-戦死者は補習だ！
+Those who died, meet me in the
+remedial classroom!
 
 --------------------
 [0051]
-土屋康太
+Kouta Tsuchiya
 **********
-…できれば補習は遠慮
-したい。
+...I'd like to skip that, 
+if possible.
 
 --------------------
 [0052]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-こんな奇跡が起きるな
-んて…！
+It's a miracle...!
 
 --------------------
 [0053]
-霧島亊子
+Shouko Kirishima
 **********
-…次は負けない。
+...I won't lose next time.
 
 --------------------
 [0054]
-西村宗一
+Sōichi Nishimura
 **********
-霧島、わかってるな。
-戦死者は補習だ。
+Kirishima, you know the rules.
+Time for a supplementary class.
 
 --------------------
 [0055]
-霧島亊子
+Shouko Kirishima
 **********
-…早く済ませて復帰す
-る。
+...I'll be back soon.
 
 --------------------
 [0056]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-やった！これぞジャイ
-アントキリングだ！
+I did it! This is what they call
+killing a giant!
 
 --------------------
 [0057]
-木下優子
+Yuuko Kinoshita
 **********
-さりげなく自分がバカ
-だと認めてるわね。
+Do you even realize that you
+just admitted you're an idiot?
 
 --------------------
 [0058]
-西村宗一
+Sōichi Nishimura
 **********
-木下、戦死者は補習！
+Kinoshita, meet me in the
+remedial classroom!
 
 --------------------
 [0059]
-木下優子
+Yuuko Kinoshita
 **********
-わかってます。
+Understood.
 
 --------------------
 [0060]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-清水さんに勝った！
+I beat Shimizu!
 
 --------------------
 [0061]
-清水美春
+Miharu Shimizu
 **********
-何てことするんですか
-この豚野郎！
+You swine! What have 
+you done!?
 
 --------------------
 [0062]
-西村宗一
+Sōichi Nishimura
 **********
-清水、戦死者は補習！
+Shimizu, meet me in the
+remedial classroom!
 
 --------------------
 [0063]
-清水美春
+Miharu Shimizu
 **********
-ええっ、そんなぁ〜！
+Whaat?! No way!
 
 --------------------
 [0064]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ふう、どうにか負けず
-に済んだみたいだ。
+Phew, looks like I somehow
+managed to hold out.
 
 --------------------
 [0065]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-学園長！こんな所に出
-てこなくていいよ！
+Principal! You don't need
+to be here!
 
 --------------------
 [0066]
-藤堂カヲル
+Kaoru Toudou
 **********
-なに、ちょっとした刺
-激を与えるだけさね。
+Don't worry, I'm just here to
+stir things up a bit.
 
 --------------------
 [0067]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-さんざん好きなことを
-して帰って行ったよ…
+She just did whatever she
+wanted and left...
 
 --------------------
 [0068]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-よし！これは良いカー
-ド！
+Yeah! This is a good card!
 
 --------------------
 [0069]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-な、なんだってー！？
+Wh-What!?
 
 --------------------
 [0070]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-よーし、頑張ってトッ
-プを目指すぞ！
+Alright! I'm going to try my best
+and aim for the top!
 
 --------------------
 [0071]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-この勝負も、あと少し
-で終わりか…
+Just a little more till this match
+is over...
 
 --------------------
 [0072]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-最後まで気は抜けない
-な。
+I won't give up until the very end.
 
 --------------------
 [0073]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-よし、このまま行けば
-勝てる！
+If I can keep this up, I still
+have a shot at winning!
 
 --------------------
 [0074]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-このままじゃ破産し
-ちゃうよ…
+I'm going to go bankrupt 
+at this rate...
 
 --------------------
 [0075]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-僕の生活費が…って、
-これ仮想通貨だっけ。
+My food budget... Oh wait,
+it's just virtual money.
 
 --------------------
 [0076]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-このエリアの備品は、
-全部僕のものだ！
+All the equipment in this area
+belongs to me!
 
 --------------------
 [0077]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-せっかく独占してたの
-に…
+Just when I got a monopoly on
+that area...
 
 --------------------
 [0078]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-よし、これでこの種類
-の備品は揃ったぞ！
+Alright! I've collected all
+of this type of equipment.
 
 --------------------
 [0079]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ああっ！せっかく揃え
-てたのに…
+Aaah! I went through all that trouble
+to collect them all, too...
 
 --------------------
 [0080]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-何度回してもいい目が
-出ないよ！
+How long do I have to wait
+to get a decent spin?!
 
 --------------------
 [0081]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-何か細工がしてあるん
-じゃないの！？
+There's gotta be some kinda
+trick to this, right?!
 
 --------------------
 [0082]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-今日はなんだかツイて
-るなあ。
+I'm feeling kinda lucky
+today.
 
 --------------------
 [0083]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-慌てない、慌てない。
+Don't panic. Don't panic.
 
 --------------------
 [0084]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-急がば休めって、昔の
-偉い人も言ってるし。
+You know what they say,
+Slow and steady, just in case.
 
 --------------------
 [0085]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ここで一回休みかあ。
+Maybe I should rest here for a turn.
 
 --------------------
 [0086]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-でも、姫路さんと一緒
-ならそれもいいかな。
+Well, if Himeji is here too,
+I guess that's fine.
 
 --------------------
 [0087]
-姫路瑞希
+Mizuki Himeji
 **********
-わ、私も、明久くんと
-一緒なら…
+I-If Akihisa and I are here
+together...
 
 --------------------
 [0088]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ストライカー・シグマ
-Ｖは伊達じゃない！
+Striker Sigma V
+does it again!
 
 --------------------
 [0089]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-もっといい点が取れる
-と思ったんだけど…
+I thought I'd get a
+higher score than this...
 
 --------------------
 [0090]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ま、いつものことだし
-気にしないでおこう。
+Oh well, that's just how it is.
+It's no big deal.
 
 --------------------
 [0091]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ババア長、勝手な事し
-ないでよ！
+Hey, you can't do that!
+That's not fair!
 
 --------------------
 [0092]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ええと…何がどうなっ
-たんだっけ！？
+Huh? What just happened?
 
 --------------------
 [0093]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ああっ！僕のなけなし
-の点数が！？
+Aaah! My score was already
+pathetically low!
 
 --------------------
 [0094]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-生徒の所持金を狙うな
-んて！意地汚いよ！
+Stealing a student's cash?
+How greedy can you get?!
 
 --------------------
 [0095]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-え？移動させられたの
-って僕？ここどこ？
+Huh? You're moving me?
+Where am I?
 
 --------------------
 [0096]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ああっ！ここぞという
-時のための切り札が！
+Aaah! That was going
+to be my trump card!
 
 --------------------
 [0097]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-値上がりした！？
+Did that price just go up?!
 
 --------------------

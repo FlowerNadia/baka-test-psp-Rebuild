@@ -1,459 +1,473 @@
 [0000]
-姫路瑞希
+Mizuki Himeji
 **********
-失礼します。２年Ｆクラスの姫路瑞希です。
+Excuse me. I'm Mizuki Himeji from
+Class 2-F.
 
 --------------------
 [0001]
-藤堂カヲル
+Kaoru Toudou
 **********
-おや……アンタかい。
-その様子だと上手くいったようだね。
+Ah, so it's you. I see you've
+been doing quite well.
 
 --------------------
 [0002]
-姫路瑞希
+Mizuki Himeji
 **********
-はいっ。成績はこのとおりです。
-賞品はいただけますでしょうか？
+Right. Here are my results. 
+Is it enough for a reward?
 
 --------------------
 [0003]
-藤堂カヲル
+Kaoru Toudou
 **********
-ふむふむ……ああ、十分すぎるぐらいだね。
-すぐに用意させるよ。
+Let's see... Yes, this will do.
+I'll go make the necessary
+arrangements right away.
 
 --------------------
 [0004]
-姫路瑞希
+Mizuki Himeji
 **********
-本当ですか！？
-ありがとうございます！
+Really?!
+Thank you so much!
 
 --------------------
 [0005]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-どうしようどうしようどうしよう！！
-姫路さんが勝っちゃったよー！
+What should we do?!
+Himeji won!
 
 --------------------
 [0006]
-坂本雄二
+Yuuji Sakamoto
 **********
-ま、アイツの実力なら当然だな。
+With her kind of strength, it's not like
+we should've expected otherwise.
 
 --------------------
 [0007]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-何でそんなに平然としてるの！？
-姫路さんが勝ったんだよ！？
-また料理を作ってくるんだよ！？
+How are you this calm?!
+Himeji won! She's going to
+cook something for us!
 
 --------------------
 [0008]
-土屋康太
+Kouta Tsuchiya
 **********
-……理由は簡単。生弍は１人だけ。
+......It's simple. 
+We just need to sacrifice 1 person.
 
 --------------------
 [0009]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そうか、１人で全部食べてしまえば
-残りの３人は食べなくていい。
-最小限の犠牲で残りの皆を助ける作戦だね。
+I see... As long as one person sacrifice
+the other three won't have to eat at all.
+We can save everyone.
 
 --------------------
 [0010]
-坂本雄二
+Yuuji Sakamoto
 **********
-察しがいいな。そのとおりだ。
+Even you can get it, 
+it's as you say.
 
 --------------------
 [0011]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-で、誰がその生弍になるの？
-雄二？　ムッツリーニ？　それとも秀吉？
+So who's it going to be sacrificed?
+Yuuji? Kouta? Or Hideyoshi?
 
 --------------------
 [0012]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-明久、なぜ自分が入ってないのじゃ？
+Why didn't you include
+yourself in that, Akihisa?
 
 --------------------
 [0013]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-わかったよ、公平に決めるってことだね。
-じゃあ今までのように何かの勝負で……
+Okay, let's decide it fairly.
+Let's use the same method 
+we've always used...
 
 --------------------
 [0014]
-土屋康太
+Kouta Tsuchiya
 **********
-……それは必要ない。
+......There's no need for that.
 
 --------------------
 [0015]
-坂本雄二
+Yuuji Sakamoto
 **********
-そうだ、生弍はもう決まってる。
-なあ明久、姫路の悲しむ姿は見たくないよな？
+Right, the sacrifice has already 
+been decided. Akihisa, you don't 
+want Himeji to be sad, right?
 
 --------------------
 [0016]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そんなの、当たり前だよ！
+Of course not! Obviously!
 
 --------------------
 [0017]
-坂本雄二
+Yuuji Sakamoto
 **********
-さすがは明久だ。
-そう言うと思ったぜ。
-だったら……手料理を食べられるよな？
+Just as I expected of you, Akihisa.
+If that's true, then... You'd be okay
+with eating her food, right?
 
 --------------------
 [0018]
-土屋康太
+Kouta Tsuchiya
 **********
-……当然１人で。
+... Alone, of course.
 
 --------------------
 [0019]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-え？　ま、まさか生弍って僕のこと！？
-何でだよ！？　応援したから！？
-雄二たちもしたくせに！
+Huh? W-Wait! You're not planning to
+sacrifice me, right?! Is it because
+I cheered her on?! You all did, too!
 
 --------------------
 [0020]
-坂本雄二
+Yuuji Sakamoto
 **********
-そう、確かにその場を取り繕うために
-俺たちも姫路を応援した。
+Yes, we all did cheer for her.
+We were just going with the flow.
 
 --------------------
 [0021]
-坂本雄二
+Yuuji Sakamoto
 **********
-だがな、思い出せ明久。
-１回戦が終わった時、
-姫路はおまえになんて言ってた？
+But think about it, Akihisa. Do
+you remember what Himeji said
+to you after the first battle?
 
 --------------------
 [0022]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-え？　えーっと……
+Huh? Um...
 
 --------------------
 [0023]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-私、明久くんのために頑張りますね、じゃ。
-つまり、姫路の手料理は明久のためだけに
-作られるということじゃ。
+'I'm going to win this just for you,
+Akihisa.'' That means that the food
+she's cooking is all for you.
 
 --------------------
 [0024]
-土屋康太
+Kouta Tsuchiya
 **********
-…………だから生弍は１人だけ。
+That's why we only need one sacrifice.
 
 --------------------
 [0025]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-エエエエエエエエエ！？
-そんな！　僕だけを犠牲にするつもりなの！？
+Whaaaaaaaaaaaaaat?!
+You guys can't you just abandon
+me like this!
 
 --------------------
 [0026]
-坂本雄二
+Yuuji Sakamoto
 **********
-そうは言っても姫路がああ言ってる以上、
-どうしようもない。
+No matter how you look at it, 
+she's the one who said it.
+There's no other way.
 
 --------------------
 [0027]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姫路の思いを無視することはできんからのう。
-明久、頑張るんじゃぞ。
+We can't just ignore her wishes,
+after all. Good luck, Akihisa.
 
 --------------------
 [0028]
-土屋康太
+Kouta Tsuchiya
 **********
-…………骨は拾う。
+......I'll pick up your corpse.
 
 --------------------
 [0029]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そんなーーーーーー！！
+How can you...?!
 
 --------------------
 [0030]
-姫路瑞希
+Mizuki Himeji
 **********
-明久くーーーん！
+Akihisaaa~!
 
 --------------------
 [0031]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ひ、姫路さん……！？
+H-Himeji?!
 
 --------------------
 [0032]
-姫路瑞希
+Mizuki Himeji
 **********
-学園長の計らいで、
-すぐに賞品を貰うことができたんです！
-だからさっそくお料理を作っちゃいました。
+The principal let me have my
+prize right away, so I was able
+to prepare everything!
 
 --------------------
 [0033]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-あ、あはははは、そ、そうなんだ。
-もう作っちゃったんだ……
+Ahahaha... I-I see...
+So the food's ready...
 
 --------------------
 [0034]
-姫路瑞希
+Mizuki Himeji
 **********
-材料があまり無かったので、
-大した物はできなかったんですけど……
-明久くん、食べてくれますか？
+Unfortunately, I didn't have everything
+I needed, so it's nothing that special,
+but... Will you give it a try, Akihisa?
 
 --------------------
 [0035]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-も、もちろんだよ。
-ただ、その……さっきおやつ代わりに砂糖水を
-バケツ一杯飲んだからお腹いっぱいで……
+O-Of course! It's just, uh...
+I just drank an bucket of sugar
+water for lunch, so I'm pretty full...
 
 --------------------
 [0036]
-姫路瑞希
+Mizuki Himeji
 **********
-そ、それはだめです！
-ちゃんとした物を食べないと、体に悪いですよ？
+N-No way! That can't be!
+Isn't unhealthy not to eat properly?!
 
 --------------------
 [0037]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そ、それはまあ、分かってるんだけど……
-ははは……
+Oh, I know. I know that real well.
+Hahaha...
 
 --------------------
 [0038]
-姫路瑞希
+Mizuki Himeji
 **********
-ちょうど良かったです。
-食後の胃に優しい、消化を助ける食べ物を
-作ってきたんです。
+Lucky for you, the food I made
+is actually supposed to help with
+digestion.
 
 --------------------
 [0039]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-退路を断たれたーーーっ！
+There's no escape!
 
 --------------------
 [0040]
-姫路瑞希
+Mizuki Himeji
 **********
-さあ明久くん、どうぞ。
+Here, Akihisa. Try some.
 
 --------------------
 [0041]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ううう……わ、わかった……食べるよ。
-あ、ありがとう、姫路さん。
+Ooh... I-I get it. I'll have some.
+Thanks for the food, H-Himeji!
 
 --------------------
 [0042]
-姫路瑞希
+Mizuki Himeji
 **********
-えへへ……どういたしまして。
+*giggle* You're welcome.
 
 --------------------
 [0043]
-姫路瑞希
+Mizuki Himeji
 **********
-もちろん坂本くんたちの分もありますよ。
-遠慮せずに食べてくださいね。
+I made enough for everyone,
+so don't be shy! Dig in!
 
 --------------------
 [0044]
-みんな（坂本雄二＆木下秀吉＆土屋康太）
+Group
 **********
-なッ！？
+What?!
 
 --------------------
 [0045]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ありがとう、姫路さん！
-姫路さんがせっかく手料理を作って
-くれたんだから、皆絶対に食べるよね！？
+Thanks, Himeji! I'm sure you all
+are dying to try some of the food
+she prepared especially for us!
 
 --------------------
 [0046]
-坂本雄二
+Yuuji Sakamoto
 **********
-ぐっ……明久ぁ……！
+Tch... Akihisa, you...!
 
 --------------------
 [0047]
-土屋康太
+Kouta Tsuchiya
 **********
-……この展開は予想外。
+......This is unexpected.
 
 --------------------
 [0048]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-逃れられぬ宿命と言うべきかのう……
+Is this the so-called fate......
 
 --------------------
 [0049]
-姫路瑞希
+Mizuki Himeji
 **********
-おかわりもありますよ。
-たくさん食べてくださいね♪
+I made enough for all of you.
+So eat as much as you can! ♪
 
 --------------------
 [0050]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-皆……食べる時は一緒だよ。
+Alright, guys... Time to eat.
 
 --------------------
 [0051]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-今回もさぞ、素晴らしい味なのじゃろうな……
+This time as well, 
+it's an undescribable smell......
 
 --------------------
 [0052]
-坂本雄二
+Yuuji Sakamoto
 **********
-ああ、一口食べただけで天国へ行けるような。
+And a single bite will make you feel
+like you're on your way to heaven.
 
 --------------------
 [0053]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-じゃあ皆、そろそろ行こうか。
+Alright, everyone. It's time to go.
 
 --------------------
 [0054]
-土屋康太
+Kouta Tsuchiya
 **********
-……承知……向こうで会おう。
+...Understood
+...let's gather over there.
 
 --------------------
 [0055]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-それじゃ――
+Then...
 
 --------------------
 [0056]
-みんな（吉井明久＆坂本雄二＆木下秀吉＆土屋康太）
+GroupF
 **********
-いただきまーす！
+Let's dig in!
 
 --------------------
 [0057]
-みんな（吉井明久＆坂本雄二＆木下秀吉＆土屋康太）
+GroupF
 **********
-ウッ！？
+Ugh?!
 
 --------------------
 [0058]
-姫路瑞希
+Mizuki Himeji
 **********
-お味はいかがでしょうか？
+How is the taste?
 
 --------------------
 [0059]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-さ、最高だよ！
-天にも昇るっていうか……
+It's, it's too good!
+I'm ascending......
 
 --------------------
 [0060]
-坂本雄二
+Yuuji Sakamoto
 **********
-ひ、姫路、また腕をあげたみたいだな。
-気が遠くなってきやがったぜ……
-今にも昇天しそうだ。
+I-I see that you've improved, Himeji.
+I'm afraid I might pass out at
+any second...
 
 --------------------
 [0061]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ああ、胃を通り越して直接脳に響くような、
-インパクトのある味になっておるようじゃ……
+Ahh, It looks like it skipped my stomach 
+and went right to my brain.
+Such a strong taste...
 
 --------------------
 [0062]
-坂本雄二
+Yuuji Sakamoto
 **********
-だが、ちょっと……疲れて……
-きたようだ……
+But, I'm a little......tired......
+It's coming......
 
 --------------------
 [0063]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そ、そう……だね……少しだけ……
-休んでも……いい、かな……
+Ri......right......a little......
+Rest a little......is it fine......
 
 --------------------
 [0064]
-土屋康太
+Kouta Tsuchiya
 **********
-………………グッ！
+..................Ugh!
 
 --------------------
 [0065]
-姫路瑞希
+Mizuki Himeji
 **********
-皆さん、どうしたんですか？
-いきなり倒れちゃうなんて……
-よっぽど疲れてたのかしら？
+What's wrong, everyone?!
+You all just fell down...!
+Are you really that tired?
 
 --------------------
 [0066]
-姫路瑞希
+Mizuki Himeji
 **********
-こんなこともあろうかと、
-特製スタミナドリンクも作っておきました。
+I thought this might happen, so I also
+made you all a special energy drink!
 
 --------------------
 [0067]
-姫路瑞希
+Mizuki Himeji
 **********
-これも自信作だから、絶対に美味しいはず。
-起きたら皆に飲んでもらわなきゃです。
-うふふふ、楽しみだなぁ♪
+I know you all will love my masterpiece. 
+You can all try it once you've woken up.
+*giggle* I can't wait! ♪
 
 --------------------

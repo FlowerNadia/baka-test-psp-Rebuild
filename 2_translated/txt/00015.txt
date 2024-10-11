@@ -1,134 +1,138 @@
 [0000]
-清水美春
+Miharu Shimizu
 **********
-あうう……完敗です……
-美春の負けです……
+Ugh... decimated...
+Miharu totally lost...
 
 --------------------
 [0001]
-島田美波
+Minami Shimada
 **********
-さすがは瑞希ね。負けたわ。
-でも、美味しい手料理が食べられるから
-結果オーライなのかもね。
+Not surprising, us losing to Himeji.But, 
+I'll get a delicious homecooked meal out
+of it, So at least there's that.
 
 --------------------
 [0002]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そ、そうだね……た、楽しみだ……なぁ。
+Ye-yeah......lo-looking forward to it
+......haha.
 
 --------------------
 [0003]
-姫路瑞希
+Mizuki Himeji
 **********
-そ、そんな……勝てたのは明久くんたちが
-応援してくれたからです。
-だから……本当にありがとうございます！
+We-well... I was only able to win because 
+of Akihisa-kun and everyone helping me.
+So......Thank you very much!
 
 --------------------
 [0004]
-島田美波
+Minami Shimada
 **********
-ふーん。アキ、瑞希のこと応援してたんだ？
+Heeeeey! Aki, you were helping Himeji?
 
 --------------------
 [0005]
-清水美春
+Miharu Shimizu
 **********
-ハッ！？　わかりましたわお姉さま！
-この豚野郎、姫路さんをフォローするつもり
-だったのです！
+What?! Oh, I get it, Onee-Sama!
+This disgusting pig was on Himeji's
+side the whole time!
 
 --------------------
 [0006]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そ、そんなことないよ！　誤解だよ！
-だって僕は――
+You, You've got it all wrong! 
+This is a misunderstanding!
+I... I...
 
 --------------------
 [0007]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-（マズい！　本当のことを言ったら、
-　確実に姫路さんに気づかれる！
-　だとしたら、ここは――）
+(This is bad! If I tell the truth,
+Himeji-san will definitely notice!
+And in that case, then this--)
 
 --------------------
 [0008]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-だ、だって僕は姫路さんに
-勝つつもりだったんだ！
-そして料理道具をプレゼントしようって……
+Y-You see, I wanted to beat Himeji!
+But only so my gift to her could
+be cooking utensils!
 
 --------------------
 [0009]
-姫路瑞希
+Mizuki Himeji
 **********
-明久くん……そんな……
+Akihisa... you...
 
 --------------------
 [0010]
-姫路瑞希
+Mizuki Himeji
 **********
-わ、私、学園長室に行ってきます！
-賞品を貰って、すぐにお料理を作りますね。
+I-I'm off to the principal's office!
+Once I get the reward, 
+I'll start cooking right away!
 
 --------------------
 [0011]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-え！？
-いや、そんなに急がなくても！
+Eh!?
+You, you don't have to be in such a hurry!
 
 --------------------
 [0012]
-島田美波
+Minami Shimada
 **********
-アキ、ちょっと待て！
-話は終わってないわよ。
+Get back here, Aki!
+I'm not done with you!
 
 --------------------
 [0013]
-清水美春
+Miharu Shimizu
 **********
-そのとおりです。
-お姉さまと美春の愛の成就を妨げた罰、
-その身に受けてもらいます！
+Sweet justice. Your punishment for 
+interfering with Miharu and Onee-Sama's
+love will be swiftly inflicted upon you!
 
 --------------------
 [0014]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ちょ、ちょっと待って！　今のは嘘！
-本当は違うんだ！　逆なんだよ！
+Wa-Wait a second! Lying! I was lying!
+It's not like that! It's actually the 
+other way around!
 
 --------------------
 [0015]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-……って言ってる間に、手足の関節が
-極められてえええええええええ！
-と、とにかく二人とも、話を聞いて！
+Huh. I finished talking, but now I can't
+move my arms or le-aaaaaaggggghhh!
+W-Wait you two! Objection! Objection!
 
 --------------------
 [0016]
-島田美波
+Minami Shimada
 **********
-言い訳っ！
+Excuses!
 
 --------------------
 [0017]
-清水美春
+Miharu Shimizu
 **********
-無用ですーっ！
+No deal!
 
 --------------------
 [0018]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ああああああああああっ！
+Aaaaaaaaaaaaaaaaahhhhh!
 
 --------------------

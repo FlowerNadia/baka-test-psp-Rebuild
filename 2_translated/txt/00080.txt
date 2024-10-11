@@ -1,625 +1,626 @@
 [0000]
-霧島亊子
+Shouko Kirishima
 **********
-…吉井、雄二はどこ？
+...Yoshii, where’s Yuuji?
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ごめん霧島さん。僕も
-知らないんだ。
+Sorry, Kirishima. I 
+have no idea.
 
 --------------------
 [0002]
-霧島亊子
+Shouko Kirishima
 **********
-…瑞希は何を狙ってい
-る？
+...Mizuki, what’re you
+aiming for?
 
 --------------------
 [0003]
-姫路瑞希
+Mizuki Himeji
 **********
-お料理道具です！
+Cooking utensils!
 
 --------------------
 [0004]
-霧島亊子
+Shouko Kirishima
 **********
-…何を狙っている？
+...What’s your goal?
 
 --------------------
 [0005]
-島田美波
+Minami Shimada
 **********
-それは内緒よ。今は敵
-同士だから。
+That’s confidential. We're
+rivals now, after all.
 
 --------------------
 [0006]
-霧島亊子
+Shouko Kirishima
 **********
-…雄二、照れなくてい
-い。
+Yuuji, you don’t have to be
+shy.
 
 --------------------
 [0007]
-坂本雄二
+Yuuji Sakamoto
 **********
-だ、誰が照れるか！お
-い、近づくな！
+Wh-who’s being shy!?
+Hey! Get away from me!
 
 --------------------
 [0008]
-霧島亊子
+Shouko Kirishima
 **********
-…優子かと思った。
+...I thought you were
+Yuuko.
 
 --------------------
 [0009]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-わしは男じゃ。くれぐ
-れも忘れんでくれ。
+I’m a guy. 
+Please don’t ever forget that.
 
 --------------------
 [0010]
-霧島亊子
+Shouko Kirishima
 **********
-…土屋。雄二の写真が
-あったら買うけど。
+...Tsuchiya. I’ll buy Yuuji’s
+photo if you have it.
 
 --------------------
 [0011]
-土屋康太
+Kouta Tsuchiya
 **********
-…残念。今は品切れ。
+...Regrettably. It’s out of stock.
 
 --------------------
 [0012]
-霧島亊子
+Shouko Kirishima
 **********
-…優子…調子はどう？
+...Yuuko... How’re you feeling?
 
 --------------------
 [0013]
-木下優子
+Yuuko Kinoshita
 **********
-それなり、ね。負ける
-気はしないけど。
+It's as you can see. I’m not 
+planning to lose though.
 
 --------------------
 [0014]
-霧島亊子
+Shouko Kirishima
 **********
-…雄二を知らない？
+...Do you know Yuuji?
 
 --------------------
 [0015]
-清水美春
+Miharu Shimizu
 **********
-興味がありません！
+Not interested!
 
 --------------------
 [0016]
-霧島亊子
+Shouko Kirishima
 **********
-…勝負。
+...  let’s duel.
 
 --------------------
 [0017]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-霧島さんが相手！？絶
-対勝てないよ…
+Kirishima is the opponent!?
+It’s a lost cause already...
 
 --------------------
 [0018]
-霧島亊子
+Shouko Kirishima
 **********
-…バトルの相手をお願
-い。
+...please be my battle
+opponent.
 
 --------------------
 [0019]
-姫路瑞希
+Mizuki Himeji
 **********
-はい、分かりました。
-宜しくお願いします。
+Yes, I understand.
+I’m in your care.
 
 --------------------
 [0020]
-霧島亊子
+Shouko Kirishima
 **********
-…勝負。
+...let’s duel.
 
 --------------------
 [0021]
-島田美波
+Minami Shimada
 **********
-霧島さんが相手なの？
-ちょっとキツいわね。
+The opponent is Kirishima?
+It’ll be a little intense.
 
 --------------------
 [0022]
-霧島亊子
+Shouko Kirishima
 **********
-…雄二、私と戦って。
+...Yuuji, fight me..
 
 --------------------
 [0023]
-坂本雄二
+Yuuji Sakamoto
 **********
-いいだろう！お前にだ
-けは負けられん！
+Alright! You’re the only
+one that I won’t lose to!
 
 --------------------
 [0024]
-霧島亊子
+Shouko Kirishima
 **********
-…備品は頂く。
+...I’ll be taking that equipment.
 
 --------------------
 [0025]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-霧島が相手じゃと！？
-うう…弱ったのう。
+I’m up against Kirishima!?
+Ugh...I’m troubled.
 
 --------------------
 [0026]
-霧島亊子
+Shouko Kirishima
 **********
-…この備品、譲っても
-らう。
+...I’ll have you hand over
+This equipment.
 
 --------------------
 [0027]
-土屋康太
+Kouta Tsuchiya
 **********
-…なめるな。
+...Don’t mock me.
 
 --------------------
 [0028]
-霧島亊子
+Shouko Kirishima
 **********
-…優子…私と戦って。
+Yuuko...fight me.
 
 --------------------
 [0029]
-木下優子
+Yuuko Kinoshita
 **********
-相手が代表でも手加減
-はしないわよ。
+I won’t hold back even if
+the opponent is the class rep.
 
 --------------------
 [0030]
-霧島亊子
+Shouko Kirishima
 **********
-…この備品、私がもら
-う。
+...This equipment is
+mine.
 
 --------------------
 [0031]
-清水美春
+Miharu Shimizu
 **********
-渡しません！力ずくで
-も阻止します！
+I won't hand over this to you!
+Even if I have to stop you by force!
 
 --------------------
 [0032]
-霧島亊子
+Shouko Kirishima
 **********
-…私の勝ち。
+... it’s my victory.
 
 --------------------
 [0033]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-うう…やっぱりこうな
-るよね…
+Ugh...it has to come to 
+this after all...
 
 --------------------
 [0034]
-西村宗一
+Sōichi Nishimura
 **********
-戦死者は補習！鍛えて
-出直せ！
+Supplementary class for the loser!
+Train hard and try again!
 
 --------------------
 [0035]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-えええ遠慮しますー！
+Th-that’s not necessary!
 
 --------------------
 [0036]
-霧島亊子
+Shouko Kirishima
 **********
-…紙一重だったけど、
-私の勝ち。
+...the difference was 
+Paper-thin but I’ve won.
 
 --------------------
 [0037]
-姫路瑞希
+Mizuki Himeji
 **********
-さすが霧島さん、私の
-完敗です。
+As expected of Kirishima,
+I lost completely.
 
 --------------------
 [0038]
-西村宗一
+Sōichi Nishimura
 **********
-ならば克己せよ！戦死
-者は補習だ、姫路！
+In that case, stop being in denial!
+Himeji, loser to the supplementary class.
 
 --------------------
 [0039]
-姫路瑞希
+Mizuki Himeji
 **********
-分かりました。頑張り
-ます！
+Understood. I’ll do my
+best!
 
 --------------------
 [0040]
-霧島亊子
+Shouko Kirishima
 **********
-…勝負はついた。
+...the match’s decided.
 
 --------------------
 [0041]
-島田美波
+Minami Shimada
 **********
-あーあ…やっぱり負け
-ちゃったかー。
+Ahhh...a lost just as
+expected.
 
 --------------------
 [0042]
-西村宗一
+Sōichi Nishimura
 **********
-だが、次こそ勝利を！
-補習だ補習ー！
+But, win next the one!
+Supplement yourself with supplementary class!
 
 --------------------
 [0043]
-島田美波
+Minami Shimada
 **********
-仕方ないわね…分かり
-ました。
+This can’t be helped…
+I understand.
 
 --------------------
 [0044]
-霧島亊子
+Shouko Kirishima
 **********
-…この勝利、雄二に奉
-げる。
+...I’ll offer this win to 
+Yuuji.
 
 --------------------
 [0045]
-坂本雄二
+Yuuji Sakamoto
 **********
-俺に勝っておいて、俺
-に奉げるな！
+Don’t offer a victory
+that is won from me!
 
 --------------------
 [0046]
-西村宗一
+Sōichi Nishimura
 **********
-その屈辱を忘れるな！
-まず補習からだ！
+Don’t ever forget that humiliation!
+Now, start with supplementary class!
 
 --------------------
 [0047]
-坂本雄二
+Yuuji Sakamoto
 **********
-…ったく、この時間が
-ないときに…！
+Good grief. It just has 
+to be now...!
 
 --------------------
 [0048]
-霧島亊子
+Shouko Kirishima
 **********
-…私の勝ち。
+...Victory is mine.
 
 --------------------
 [0049]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-やはり、わしでは相手
-にならんようじゃ。
+As I thought, I am no
+match for her.
 
 --------------------
 [0050]
-西村宗一
+Sōichi Nishimura
 **********
-ならば実力をつけろ！
-木下、補習だーっ！
+If that’s the case, polish your ability!
+Kinoshita, to the supplementary class!
 
 --------------------
 [0051]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-さて、とっとと済ませ
-るとするかの。
+Well then, I should hurry
+Up and get on with it.
 
 --------------------
 [0052]
-霧島亊子
+Shouko Kirishima
 **********
-…勝負あり。
+...match ends.
 
 --------------------
 [0053]
-土屋康太
+Kouta Tsuchiya
 **********
-…屈辱は次で晴らす。
+...I’ll clear this shame next time.
 
 --------------------
 [0054]
-西村宗一
+Sōichi Nishimura
 **********
-しかし、その前に戦死
-者は補習だー！
+However, before that, 
+Loser to the supplementary class!
 
 --------------------
 [0055]
-土屋康太
+Kouta Tsuchiya
 **********
-…了解。補習室に向か
-う。
+...got it. I’ll just head to 
+The supplementary classroom.
 
 --------------------
 [0056]
-霧島亊子
+Shouko Kirishima
 **********
-…優子、私の勝ち。
+...Yuuko, I won.
 
 --------------------
 [0057]
-木下優子
+Yuuko Kinoshita
 **********
-負けたわ、さすが代表
-ね。
+I’m defeated. As expected
+of the class rep.
 
 --------------------
 [0058]
-西村宗一
+Sōichi Nishimura
 **********
-しかし次は勝て！補習
-すれば成長するぞ！
+But, win the next one!
+Growth comes with supplementary class.
 
 --------------------
 [0059]
-木下優子
+Yuuko Kinoshita
 **********
-わかってます。面倒だ
-けど仕方ないか…
+I understand. It’s troublesome
+but it can’t be helped...
 
 --------------------
 [0060]
-霧島亊子
+Shouko Kirishima
 **********
-…私の勝ち。
+...It’s my win.
 
 --------------------
 [0061]
-清水美春
+Miharu Shimizu
 **********
-嫌です！再戦を要求し
-ます！
+Unacceptable! I requests a 
+rematch!
 
 --------------------
 [0062]
-西村宗一
+Sōichi Nishimura
 **********
-潔く負けを認めろ！そ
-して戦死者は補習だ！
+Accept your defeat gracefully!
+And, supplementary lessons to the loser!
 
 --------------------
 [0063]
-清水美春
+Miharu Shimizu
 **********
-それが一番嫌ですー！
+That’s even more unacceptable!
 
 --------------------
 [0064]
-霧島亊子
+Shouko Kirishima
 **********
-…引き分け。次は勝た
-ないと。
+...It’s a tie. I’ll definitely
+win the next one.
 
 --------------------
 [0065]
-霧島亊子
+Shouko Kirishima
 **********
-…学園長？
+...Principal?
 
 --------------------
 [0066]
-藤堂カヲル
+Kaoru Toudou
 **********
-刺激が足りないようだ
-ね。任せておきな。
+Looks like there's not enough
+going on. Leave it to me.
 
 --------------------
 [0067]
-霧島亊子
+Shouko Kirishima
 **********
-…何をしたかったの。
+...What have you done?
 
 --------------------
 [0068]
-霧島亊子
+Shouko Kirishima
 **********
-…良いカード。
+...a fine card.
 
 --------------------
 [0069]
-霧島亊子
+Shouko Kirishima
 **********
-…これは悪いカード。
+...this is a poor card.
 
 --------------------
 [0070]
-霧島亊子
+Shouko Kirishima
 **********
-…雄二のために、必ず
-勝ってみせる。
+...for Yuuji’s sake, I 
+must win this.
 
 --------------------
 [0071]
-霧島亊子
+Shouko Kirishima
 **********
-…もう時間がない。
+...there’s no time.
 
 --------------------
 [0072]
-霧島亊子
+Shouko Kirishima
 **********
-…あと少し。
+...just a bit more.
 
 --------------------
 [0073]
-霧島亊子
+Shouko Kirishima
 **********
-…ふざけた使用料。二
-度と止まらない。
+...Don’t mess around. You 
+can’t stop me anymore.
 
 --------------------
 [0074]
-霧島亊子
+Shouko Kirishima
 **********
-…所持金ゼロ？何か手
-を考える。
+...Zero cash? Let’s think 
+of something.
 
 --------------------
 [0075]
-霧島亊子
+Shouko Kirishima
 **********
-…エリア掌握。
+...area conquered.
 
 --------------------
 [0076]
-霧島亊子
+Shouko Kirishima
 **********
-…まだ何とかなる。
+...I’ll manage this somehow.
 
 --------------------
 [0077]
-霧島亊子
+Shouko Kirishima
 **********
-…これで全部。
+...all done.
 
 --------------------
 [0078]
-霧島亊子
+Shouko Kirishima
 **********
-…邪魔された…
+...they got in my way…
 
 --------------------
 [0079]
-霧島亊子
+Shouko Kirishima
 **********
-…こういう時もある。
+...There are times like this too.
 
 --------------------
 [0080]
-霧島亊子
+Shouko Kirishima
 **********
-…運が向いている。
+...Luck is on my side.
 
 --------------------
 [0081]
-霧島亊子
+Shouko Kirishima
 **********
-…仕方が無い。この間
-に戦況を把握する。
+...There’s no other way. Let’s
+survey the war situation.
 
 --------------------
 [0082]
-霧島亊子
+Shouko Kirishima
 **********
-…何回休みでもいい。
-雄二と一緒なら。
+...I don’t mind resting many rounds.
+As long as I’m together with Yuuji.
 
 --------------------
 [0083]
-坂本雄二
+Yuuji Sakamoto
 **********
-俺は一回でも嫌だ！
+I refuse to do so even for one round!
 
 --------------------
 [0084]
-霧島亊子
+Shouko Kirishima
 **********
-…嘘。雄二は照れると
-必ずそう言う。
+...that’s a lie. Yuuji is just too shy 
+and said that.
 
 --------------------
 [0085]
-坂本雄二
+Yuuji Sakamoto
 **********
-お前には俺が照れてる
-ように見えるのか…
+Isn’t that only because
+you see me as being shy...
 
 --------------------
 [0086]
-霧島亊子
+Shouko Kirishima
 **********
-…いつもどおり。
+...as usual. 
 
 --------------------
 [0087]
-霧島亊子
+Shouko Kirishima
 **********
-…残念。
+...bad luck.
 
 --------------------
 [0088]
-霧島亊子
+Shouko Kirishima
 **********
-…傍若無人過ぎる。
+...you got too arrogant.
 
 --------------------
 [0089]
-霧島亊子
+Shouko Kirishima
 **********
-…私が立てた計画が台
-無しに…
+...the plan that I’ve set 
+up has been spoiled.
 
 --------------------
 [0090]
-霧島亊子
+Shouko Kirishima
 **********
-…その程度なら、耐え
-られる。
+...I can endure this if
+It’s only this much.
 
 --------------------
 [0091]
-霧島亊子
+Shouko Kirishima
 **********
-…愛の巣のための資金
-が…
+...the funds for the 
+Love nest is...
 
 --------------------
 [0092]
-霧島亊子
+Shouko Kirishima
 **********
-…まずはルートを
-確認。
+...let’s start by 
+Confirming the route.
 
 --------------------
 [0093]
-霧島亊子
+Shouko Kirishima
 **********
-…また補充しないと。
+If I don’t resupply...
 
 --------------------
 [0094]
-霧島亊子
+Shouko Kirishima
 **********
-…これは早く買収しな
-いと。
+If I don’t purchase 
+this quickly...
 
 --------------------

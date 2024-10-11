@@ -1,120 +1,125 @@
 [0000]
-霧島亊子
+Shouko Kirishima
 **********
-……負けた。
-油断したつもりはなかったのに。
+... I lost.
+It appears that I was not prepared.
 
 --------------------
 [0001]
-木下優子
+Yuuko Kinoshita
 **********
-嘘……秀吉が負けるのはともかく、
-なんでアタシと代表が負けるの！？
+No way... I can understand Hideyoshi,
+but how could the class rep and I lose?!
 
 --------------------
 [0002]
-霧島亊子
+Shouko Kirishima
 **********
-……こんな所でつまづくなんて。
-雄二が悲しむ。
+... I've really failed here.
+Yuuji will be sad.
 
 --------------------
 [0003]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-いや……それはどうだろう？
-もしかしたら、ありがたがるような気も……
+Uh... I don't know about that.
+He may actually be feeling grateful...
 
 --------------------
 [0004]
-霧島亊子
+Shouko Kirishima
 **********
-……それはありえない。
+... That is not impossible.
 
 --------------------
 [0005]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そ、そうだよね。ありえないよね。
+Y-Yeah. You're right. Impossible.
 
 --------------------
 [0006]
-霧島亊子
+Shouko Kirishima
 **********
-……次は雄二も一緒。
-私達の愛の豫にかけて……
-最後まであきらめない。
+... Next I'll be together with Yuuji.
+The bonds of our love...
+will carry us to the very end.
 
 --------------------
 [0007]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-え、次って……ちょっと待って！
-……って、もう行っちゃったし……
+Hold on, what do you mean next time?
+...and she's gone.
 
 --------------------
 [0008]
-木下優子
+Yuuko Kinoshita
 **********
-坂本君を取り合って、愛のバトル……か。
-何だか楽しそうね。
+Battling for love, 
+hand in hand with Sakamoto, huh?
+That sounds pretty fun.
 
 --------------------
 [0009]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-楽しいわけないじゃないか！
-……ていうか、
-そもそも取り合ってないからね！？
+That doesn't sound fun!
+...Wait, did you mean the part about
+being hand in hand with Yuuji?!
 
 --------------------
 [0010]
-木下優子
+Yuuko Kinoshita
 **********
-そう。代表と取り合うのが嫌なら、
-秀吉と取り合ってもいいけど？
+Yeah. Though, if he doesn't want to
+hold hands with the class rep, maybe
+could hold hands with... Hideyoshi?
 
 --------------------
 [0011]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-秀吉と雄二を取り合ってどうするんだよ！？
-秀吉を取り合うなら話はわかるけど……
+Why would Yuuji be holding hands with
+Hideyoshi?! Though, I wouldn't mind
+holding hands with Hideyoshi, myself...
 
 --------------------
 [0012]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-なぜそうなるのじゃ！
-明久はともかく、わしにそんな趣味はない。
-まったく姉上の妄想は――
+Why do you even understand that?! It's
+not like I'm interested in that...
+I wish she'd leave me out of her fantas--
 
 --------------------
 [0013]
-木下優子
+Yuuko Kinoshita
 **********
-秀吉、ちょっとそこまで来なさい。
+Hideyoshi, could you come here a sec?
 
 --------------------
 [0014]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ああっ……！
-明久、助けるのじゃ！
+Aaaaaah...!
+Save me, Akihisa!
+
 
 --------------------
 [0015]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ごめん、秀吉。
-よその家の事情には口を出さない主義なんだ。
+Sorry, Hideyoshi.
+It's my policy to not get involved
+in other's private family matters.
 
 --------------------
 [0016]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上！
-どこへ連れて行くつもりじゃ！？
-わしはどこへも行くつもりはないのじゃ！
+Sis!
+Where are you taking me!?
+Wherever it is, I don't wanna go!
 
 --------------------

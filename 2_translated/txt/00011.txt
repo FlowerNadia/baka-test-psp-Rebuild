@@ -1,136 +1,138 @@
 [0000]
-姫路瑞希
+Mizuki Himeji
 **********
-やった〜！　勝ちました〜！
+Yay~! I won~!
 
 --------------------
 [0001]
-坂本雄二
+Yuuji Sakamoto
 **********
-流石に強い……やはり、無理だったか。
+She's just as strong as we thought.
+We should have seen this coming.
 
 --------------------
 [0002]
-土屋康太
+Kouta Tsuchiya
 **********
-……後は誰かが姫路を
-倒してくれるのを期待するだけ。
+All we can do is hope that someone else
+takes her down, for our sakes.
 
 --------------------
 [0003]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-霧島さんや木下さんに頼んでみない？
-Ａクラスのあの２人なら……
+Can't we ask Shouko and Yuuko?
+They are from Class A, after all.
 
 --------------------
 [0004]
-坂本雄二
+Yuuji Sakamoto
 **********
-やむをえん。
-亊子に頼むのは気が進まないが、
-命には代えられないからな。
+No way.
+I'm not about to owe Shouko any favors.
+I may as well throw my life away now.
 
 --------------------
 [0005]
-姫路瑞希
+Mizuki Himeji
 **********
-あのぉ……さっきからヒソヒソ、
-どうしたんですか？
+Um... What are you guys
+whispering about?
 
 --------------------
 [0006]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-え？　あ、ああ、何でもないよ！
-それより姫路さん、次のテストも頑張ってね。
-僕たち、応援してるから！
+Huh?! W-What... Nothing!
+So, uh, good luck on the next test.
+We're behind you 100%, Himeji!
 
 --------------------
 [0007]
-姫路瑞希
+Mizuki Himeji
 **********
-ありがとうございます！
-明久くん、私、頑張ります！
+I really appreciate it!
+I'll do my best, Akihisa!
 
 --------------------
 [0008]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-でも、頑張りすぎないでね。
-姫路さんの体調も心配だよ。
+Just... don't overdo it, ok?
+I'm worried about your health.
 
 --------------------
 [0009]
-姫路瑞希
+Mizuki Himeji
 **********
-心配……
-明久くん、私のこと、心配してくれるんですか？
-………………えへへ。
+... Akihisa, are you really worried
+about me? ...*giggle*
 
 --------------------
 [0010]
-姫路瑞希
+Mizuki Himeji
 **********
-すっごく元気が出ました！
-私、明久くんのためにも頑張りますね！
+Then I'm REALLY going to try! I'm going
+to win this just for you, Akihisa!
 
 --------------------
 [0011]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-えええええ！？
-姫路さん、べ、別にそこまで――
+Whoa whaaaaaat!? Himeji, you, uh,
+really don't need to go that far...
 
 --------------------
 [0012]
-姫路瑞希
+Mizuki Himeji
 **********
-それでは次の場所に行きます！
-お料理、期待しててくださいね！
+Well, I'm off to the next round, Akihisa!
+You better look forward to my cooking,
+everyone!
 
 --------------------
 [0013]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-姫路さんちょっと待って！
-……って、行っちゃった……どうしよう？
+Himeji, wait a minute! D... Don't... go?
 
 --------------------
 [0014]
-坂本雄二
+Yuuji Sakamoto
 **********
-明久……テメェ、何やってんだよ！
-姫路をその気にさせやがって！！
+Akihisa... Look at what you did! Going
+and giving Himeji that kind of attention!
+What the hell is wrong with you?!
 
 --------------------
 [0015]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ええ！？　僕が悪いの！？
-って、ムッツリーニ、僕を縛らないで！
-お願いだから放してよっ！
+Huh? How the hell is this my fault?!
+W-Wait, Kouta! Quit tying me up!
+Please just let me go!
 
 --------------------
 [0016]
-土屋康太
+Kouta Tsuchiya
 **********
-……時には犠牲も必要。
+... Desperate times call for
+desperate measures.
 
 --------------------
 [0017]
-坂本雄二
+Yuuji Sakamoto
 **********
-そうだな。
-いざとなったらこいつ一人を差し出して、
-その間に俺たちはどうにか逃げおおせるんだ。
+That's right. And when that time comes,
+you'll be the sacrifice. You'll distract
+her, and we'll hightail it out of there.
 
 --------------------
 [0018]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-雄二、待って！
-さっきのは悪気があったわけじゃないんだ！
-僕を見捨てないでーっ！
+Yuuji, wait!
+How can you be so cruel?!
+Don't leave me like thiiiiiiis!
 
 --------------------

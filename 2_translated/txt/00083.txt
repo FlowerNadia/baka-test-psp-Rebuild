@@ -1,427 +1,412 @@
 [0000]
-藤堂カヲル
+Kaoru Todo
 **********
-さあて、どうしようか
-ねえ…
+what should I do...
 
 --------------------
 [0001]
-藤堂カヲル
+Kaoru Todo
 **********
-とりあえず、この備品
-は売ってしまうよ。
+Let's sell this equipment,
+for now.
 
 --------------------
 [0002]
-藤堂カヲル
+Kaoru Todo
 **********
-さあて、どうしようか
-ねえ…
+let's see...
 
 --------------------
 [0003]
-藤堂カヲル
+Kaoru Todo
 **********
-備品を交換してみるか
-ね。
+Let's try switching this
+equipment. 
 
 --------------------
 [0004]
-藤堂カヲル
+Kaoru Todo
 **********
-さあて、どうしようか
-ねえ…
+Now, what to do...
 
 --------------------
 [0005]
-藤堂カヲル
+Kaoru Todo
 **********
-点数でもちょこっと下
-げとこうかね。
+I'll just lower this score
+a little.
 
 --------------------
 [0006]
-藤堂カヲル
+Kaoru Todo
 **********
-さあて、どうしようか
-ねえ…
+what is it going to be...
 
 --------------------
 [0007]
-藤堂カヲル
+Kaoru Todo
 **********
-所持金を減らしてみよ
-うかね。
+Let's get rid of some of
+that money.
 
 --------------------
 [0008]
-藤堂カヲル
+Kaoru Todo
 **********
-さあて、どうしようか
-ねえ…
+what should I do now...
 
 --------------------
 [0009]
-藤堂カヲル
+Kaoru Todo
 **********
-ちょっと場所を移動さ
-せてみるかね。
+Let's try moving you a
+little bit.
 
 --------------------
 [0010]
-藤堂カヲル
+Kaoru Todo
 **********
-さあて、どうしようか
-ねえ…
+what should I do...
 
 --------------------
 [0011]
-藤堂カヲル
+Kaoru Todo
 **********
-見たところ、このカー
-ドは要らないね。
+I don't think you'll be
+needing this card.
 
 --------------------
 [0012]
-藤堂カヲル
+Kaoru Todo
 **********
-さあて、どうしようか
-ねえ…
+Now, what to do...
 
 --------------------
 [0013]
-藤堂カヲル
+Kaoru Todo
 **********
-おや？この備品はもっ
-と高くすべきだね。
+Oh? This equipment should be
+more expensive.
+
 
 --------------------
 [0014]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
+
 
 --------------------
 [0015]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0016]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの国語にし
-ようかね。
+High School Japanese.
 
 --------------------
 [0017]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0018]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの英語にし
-ようかね。
+High School English.
 
 --------------------
 [0019]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0020]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの数学にし
-ようかね。
+High School Math.
 
 --------------------
 [0021]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0022]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの古典にし
-ようかね。
+High School 
+Classical Literature.
 
 --------------------
 [0023]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0024]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの生物にし
-ようかね。
+High School Biology.
 
 --------------------
 [0025]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0026]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの物理にし
-ようかね。
+High School Physics.
 
 --------------------
 [0027]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0028]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの化学にし
-ようかね。
+High School Chemistry.
 
 --------------------
 [0029]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0030]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの現代社会
-にしようかね。
+High School 
+Modern Society.
 
 --------------------
 [0031]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0032]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの世界史に
-しようかね。
+High School 
+World History.
 
 --------------------
 [0033]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0034]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの日本史に
-しようかね。
+High School 
+Japanese History.
 
 --------------------
 [0035]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0036]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの地理にし
-ようかね。
+High School Geography.
 
 --------------------
 [0037]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0038]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの政治経済
-にしようかね。
+High School 
+Politics and Economics
 
 --------------------
 [0039]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0040]
-藤堂カヲル
+Kaoru Todo
 **********
-高校レベルの保健体育
-にしようかね。
+High School 
+Health
 
 --------------------
 [0041]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0042]
-藤堂カヲル
+Kaoru Todo
 **********
-中学校レベルの国語に
-しようかね。
+Middle School 
+Japanese.
 
 --------------------
 [0043]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0044]
-藤堂カヲル
+Kaoru Todo
 **********
-中学校レベルの英語に
-しようかね。
+Middle School English.
 
 --------------------
 [0045]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0046]
-藤堂カヲル
+Kaoru Todo
 **********
-中学校レベルの数学に
-しようかね。
+Middle School Math.
 
 --------------------
 [0047]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0048]
-藤堂カヲル
+Kaoru Todo
 **********
-中学校レベルの理科に
-しようかね。
+Middle School Science.
 
 --------------------
 [0049]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0050]
-藤堂カヲル
+Kaoru Todo
 **********
-中学校レベルの社会に
-しようかね。
+Middle School 
+Social Studies.
 
 --------------------
 [0051]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0052]
-藤堂カヲル
+Kaoru Todo
 **********
-中学校レベルの保健体
-育にしようかね。
+Middle School 
+Health/P.E.
 
 --------------------
 [0053]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0054]
-藤堂カヲル
+Kaoru Todo
 **********
-小学校レベルの国語に
-しようかね。
+Elementary School
+Japanese.
 
 --------------------
 [0055]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0056]
-藤堂カヲル
+Kaoru Todo
 **********
-小学校レベルの算数に
-しようかね。
+Elementary School
+Arithmetic.
 
 --------------------
 [0057]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0058]
-藤堂カヲル
+Kaoru Todo
 **********
-小学校レベルの理科に
-しようかね。
+Elementary School
+Science.
 
 --------------------
 [0059]
-藤堂カヲル
+Kaoru Todo
 **********
-次の試験科目は何にし
-ようかねえ…
+the next test subject
+will be...
 
 --------------------
 [0060]
-藤堂カヲル
+Kaoru Todo
 **********
-小学校レベルの社会に
-しようかね。
+Elementary School
+Social Studies.
 
 --------------------

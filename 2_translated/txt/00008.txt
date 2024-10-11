@@ -1,288 +1,306 @@
 [0000]
-吉井明久
+Akihisa Yoshii
 **********
-ババア長、賞品もらいに来ましたーっ！
+Yo, old hag, I've come for my prize!
 
 --------------------
 [0001]
-藤堂カヲル
+Kaoru Toudou
 **********
-入室許可。次が挨拶。そして最後が用件だ。
-やり直しな。
+You need to ask permission before
+entering a room. You perform a greeting,
+and business comes last. Go try again.
 
 --------------------
 [0002]
-吉井明久
+Akihisa Yoshii
 **********
-そんなのどうでもいいから、
-早く賞品をください！
+Yeaaaah, screw that.
+Hurry up and give me my prize!
 
 --------------------
 [0003]
-藤堂カヲル
+Kaoru Toudou
 **********
-要求ばかり達者なヤツは長生きしないさね。
-……まあ、いい。ほら、とっときな。
+An idiot who makes demands usually 
+doesn't live a long life.
+...Whatever. Here you go, take it.
 
 --------------------
 [0004]
-吉井明久
+Akihisa Yoshii
 **********
-これは……指輪！？
-ちょ、ちょっと待って、
-いくらなんでも酷すぎるよ！
+This is... a ring!? W-Wait just a second,
+this is just too serious a committment 
+for me at this time in my life!
 
 --------------------
 [0005]
-吉井明久
+Akihisa Yoshii
 **********
-僕はまだ高校生なのに、
-学園長みたいなお年寄りとだなんて……！
+I mean, I'm still just a high school 
+student, and you're like, the school 
+principal, and old and stuff...!
 
 --------------------
 [0006]
-吉井明久
+Akihisa Yoshii
 **********
-いくらなんでも年齢が違いすぎる。
-学園長からの命令でも、
-そんなもの、受け取れるわけないよ！
+This age gap is just way too big!
+I know you're the principal and all,
+but I just can't accept it!
+
 
 --------------------
 [0007]
-藤堂カヲル
+Kaoru Toudou
 **********
-無駄口叩けなくなるまで殴らないと
-分からないのかね、このバカは。
+This idiot really doesn't know when to
+shut his mouth.
+No wonder he keeps getting smacked around
 
 --------------------
 [0008]
-藤堂カヲル
+Kaoru Toudou
 **********
-何を誤解してるか知りゃしないけど、
-それが賞品さ。
+I have no idea what you're 
+misunderstanding about this,
+but that is the prize that you wanted.
+
 
 --------------------
 [0009]
-吉井明久
+Akihisa Yoshii
 **********
-え？　これが？
-なんだ……びっくりした。
+Wait, this is it? I'm kind of...
+surprised, actually.
 
 --------------------
 [0010]
-吉井明久
+Akihisa Yoshii
 **********
-じゃあ、これをつけたら
-僕は召喚獣が受けるダメージから
-解放されるんですね！？
+So if I use this, it'll protect me from
+the damage my avatar takes!?
 
 --------------------
 [0011]
-藤堂カヲル
+Kaoru Toudou
 **********
-ああ。ただし、一つ言っておくことがある。
-禍福はあざなえる縄の如し。
-世の中、都合の良いことばかりじゃないよ。
+Yep. Though I do have to warn you.
+Any blessing can easily turn into a curse.
+Nothing in life is really that convenient.
 
 --------------------
 [0012]
-吉井明久
+Akihisa Yoshii
 **********
-何を言ってるのかよくわからないけど、
-召喚獣のダメージから解放されるなら
-何だって構わないですよ。
+I'm not sure I get what you're saying,but
+if this thing can stop me from feeling 
+the pain my avatar feels, I don't care
 
 --------------------
 [0013]
-藤堂カヲル
+Kaoru Toudou
 **********
-そうかい。なら、好きにするといいさ。
+I see. In that case, do as you wish.
 
 --------------------
 [0014]
-吉井明久
+Akihisa Yoshii
 **********
-だったらさっそく……あれ？
-つけても別に変わった感じはしないなぁ。
+Alright then, here we go... huh?
+Putting it on doesn't make me 
+feel any different.
 
 --------------------
 [0015]
-藤堂カヲル
+Kaoru Toudou
 **********
-召喚獣を出して適当に動いてみな。
-それで全部わかるさ。
+Try summoning your avatar.
+Then you'll understand everything.
 
 --------------------
 [0016]
-吉井明久
+Akihisa Yoshii
 **********
-全部？　何が？
+Everything? What do you mean?
 
 --------------------
 [0017]
-藤堂カヲル
+Kaoru Toudou
 **********
-その指輪の効果がってことさ……フフフフ。
+That ring's effect... 
+well... heh heh heh.
 
 --------------------
 [0018]
-吉井明久
+Akihisa Yoshii
 **********
-そ、それじゃあ――試獣召喚っ！
-それで適当に、と。エイ！　トーッ！
+W-Well, here I go! Summon!
+That's weird. That should have... Hey!
 
 --------------------
 [0019]
-藤堂カヲル
+Kaoru Toudou
 **********
-どうだい？　何かあったかい？
+What's wrong? 
+Is Something troubling you?
 
 --------------------
 [0020]
-吉井明久
+Akihisa Yoshii
 **********
-え？　別に……って、イテテテテッ！？
-痛いっ！　体のあちこちがすごく痛いっ！？
-何これっ！？　前よりひどくなってる！
+Eh? Not really... Owwww!?
+That hurts! My body is hurting all over!?
+What is this!? This is worse than before!
 
 --------------------
 [0021]
-藤堂カヲル
+Kaoru Toudou
 **********
-物理干渉能力を残しつつ、召喚獣の
-ダメージを消したことによる対価さ。
-相応の負荷が体にかかるはずさね。
+Meddling with nature comes at a price.
+Since your avatar won't take damage,
+your body will have to bear its burden.
 
 --------------------
 [0022]
-吉井明久
+Akihisa Yoshii
 **********
-ちょっと、それってどういうこと！？
-わけわかんないよ！
+Wait, what are you talking about?!
+I don't get what's going on here!
 
 --------------------
 [0023]
-坂本雄二
-**********
-だったら分かるように教えてやるよ。
-明久、おまえの体にな……！
+Yuuji Sakamoto
+Then I'll step in and
+lay some knowledge on you.
+Akihisa, your body...
 
 --------------------
 [0024]
-吉井明久
+Akihisa Yoshii
 **********
-へ？　ゆ、雄二！？　それに秀吉も……！
+Huh? Y-Yuuji? And Hideyoshi too?!
 
 --------------------
 [0025]
-坂本雄二
+Yuuji Sakamoto
 **********
-さっきはよくも余計なことを言ってくれたな。
-おかげで俺がどんな目に遭ったか……
-この恨み、キッチリ晴らさせてもらうぜ！
+Remember what you said to Shouko?
+Well, thanks to that, my eyes had an...
+accident. Let me pay you back in full!
 
 --------------------
 [0026]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-わしもじゃ。
-あれから姉上にひどく折乖されてのう。
-関節の数が倍になるかと思ったわい。
+Same here. I was "corrected" pretty
+severely by my big sister before. I think
+the number of joints I have has doubled.
 
 --------------------
 [0027]
-吉井明久
+Akihisa Yoshii
 **********
-そ、それは便利そうだね。
-いろいろと役に立つんじゃないの？
+Well... That seems like 
+it could be pretty useful. Wouldn't that
+help you with a bunch of things?
 
 --------------------
 [0028]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-そうか、なら姉上に頼んで明久の関節の数も
-倍にしてもらうとするかのう。
+Oh, I see, in that case, I'll ask my big
+sister to double your body's joints for 
+you, as well.
 
 --------------------
 [0029]
-坂本雄二
+Yuuji Sakamoto
 **********
-待て、秀吉。
-その前に俺が恨みを晴らす方が先だ。
-試獣召喚っ！
+Hold on, Hideyoshi. Before you do that,
+let me and him ''settle'' our differences
+Summon!
+
 
 --------------------
 [0030]
-吉井明久
+Akihisa Yoshii
 **********
-雄二、ちょっと待って！
+Yuuji, wait a second!
 
 --------------------
 [0031]
-坂本雄二
+Yuuji Sakamoto
 **********
-抵抗してもいいんだぜ？
-おまえの自慢の召喚獣でな。
+Do you really think you can talk 
+your way out of this? What about 
+that pride you had in your avatar?
 
 --------------------
 [0032]
-吉井明久
+Akihisa Yoshii
 **********
-そんなことできないよ！
-手足を動かすだけでも痛いのに、
-激しく動いたら死んじゃうよ！
+I can't do anything! Just trying
+to move is painful. If I swing
+my limbs, I'm afraid I'll die!
 
 --------------------
 [0033]
-坂本雄二
+Yuuji Sakamoto
 **********
-なら、走らせてみるとどうなるんだろうな。
-ちょっと試してみようぜ。
+I wonder what would happen if you 
+tried to run away. C'mon, 
+give it a try for me, won't ya?
 
 --------------------
 [0034]
-吉井明久
+Akihisa Yoshii
 **********
-ありがたい申し出だけど、遠慮しておくよ！
+Thanks, but I think 
+I'll hold off for now!
 
 --------------------
 [0035]
-坂本雄二
+Yuuji Sakamoto
 **********
-何を言ってる、俺とおまえの仲だ。
-遠慮なんて必要ないぜ？
+What are you saying, we're best buds.
+There's no need to hold back, right?
 
 --------------------
 [0036]
-吉井明久
+Akihisa Yoshii
 **********
-それはどうかな。
-僕たち、そんなに仲が良かったっけ？
+I'm not too sure, anymore. Maybe we're
+more like former best friends?
 
 --------------------
 [0037]
-坂本雄二
+Yuuji Sakamoto
 **********
-なら、特に気遣う必要もないな。
+In that case, there's nothing especial 
+for us to hold back for.
 
 --------------------
 [0038]
-吉井明久
+Akihisa Yoshii
 **********
-うわあああああああああっ！？
+Gaaaaaaaaaaaaaaaaaaaaaaaaah!?
 
 --------------------
 [0039]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-このぶんだと、明久はもちそうにないのう。
-姉上にお願いするまでもなさそうじゃ。
+Looks like Akihisa's had about as much
+as he can take. Seems unlikely he'll be
+able to survive the request to my sister
 
 --------------------
 [0040]
-藤堂カヲル
+Kaoru Toudou
 **********
-何とかは死ななきゃ治らないと
-言うけどねえ……
+What do they say... 
+"Once a something, always
+a something..." (refering to idiot)
 
 --------------------

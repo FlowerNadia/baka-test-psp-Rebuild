@@ -1,646 +1,632 @@
 [0000]
-島田美波
+Minami Shimada
 **********
-アキじゃない。ウチの
-邪魔をするつもり？
+If it isn't Aki. Are you trying
+to get in my way?
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-違うよ！だから蹴らな
-いで！
+You've got me all wrong! Please don't
+hurt me!
 
 --------------------
 [0002]
-島田美波
+Minami Shimada
 **********
-瑞希、調子はどう？
+How are you doing, Mizuki?
 
 --------------------
 [0003]
-姫路瑞希
+Mizuki Himeji
 **********
-普段と勝手が違うから
-大変です。
+Well, this new system is a bit
+difficult to get used to.
 
 --------------------
 [0004]
-島田美波
+Minami Shimada
 **********
-坂本、そんなにニラま
-ないでよ。
+Why are you glaring at me like that?
 
 --------------------
 [0005]
-坂本雄二
+Yuuji Sakamoto
 **********
-今は敵同士だからな。
+Because we're enemies now, like it or not.
 
 --------------------
 [0006]
-島田美波
+Minami Shimada
 **********
-木下…のどっち？
+Kinoshita... which one are you?
 
 --------------------
 [0007]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-わしじゃ！ズボンを履
-いとるじゃろう？
+It's me! I'm wearing pants,
+see?
 
 --------------------
 [0008]
-島田美波
+Minami Shimada
 **********
-土屋、カメラをもって
-何やってるの？
+What do you think you're doing
+with that camera?
 
 --------------------
 [0009]
-土屋康太
+Kouta Tsuchiya
 **********
-…もちろんバトル。主
-に被写体との。
+...Battle, of course. I've got my sights
+set on the exceptionally photogenic.
 
 --------------------
 [0010]
-島田美波
+Minami Shimada
 **********
-霧島さんだ。調子はど
-う？
+Hey, Kirishima. How's
+it going?
 
 --------------------
 [0011]
-霧島亊子
+Shouko Kirishima
 **********
-…そんなことより雄二
-はどこ？
+...Never mind that. Where's
+Yuuji?
 
 --------------------
 [0012]
-島田美波
+Minami Shimada
 **********
-木下さん、勝ったら何
-を貰うつもり？
+Kinoshita, What prize are
+you fighting for?
 
 --------------------
 [0013]
-木下優子
+Yuuko Kinoshita
 **********
-そ、それは…教える必
-要はないわ。
+W-Well, um... It's nothing,
+really.
 
 --------------------
 [0014]
-島田美波
+Minami Shimada
 **********
-なんで美春がここにい
-るのよ！？
+What are you doing here,
+Miharu?!
 
 --------------------
 [0015]
-清水美春
+Miharu Shimizu
 **********
-もちろんお姉さまと愛
-し合うためです！
+Can't you see, Onee-Sama? I'm here so we
+can finally bring our love to harvest!
 
 --------------------
 [0016]
-島田美波
+Minami Shimada
 **********
-アキ、このバトル、受
-けてもらうわよ！
+Aki, Fight me!
 
 --------------------
 [0017]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-美波が相手なら勝機は
-ある…頑張るぞ！
+I might be able to win against Minami...
+Alright, let's do this!
 
 --------------------
 [0018]
-島田美波
+Minami Shimada
 **********
-瑞希、対戦してもらっ
-てもいい？
+Mizuki, do you mind fighting me?
 
 --------------------
 [0019]
-姫路瑞希
+Mizuki Himeji
 **********
-よろこんで。精一杯頑
-張ります！
+I'd be happy to. I'll do my best!
 
 --------------------
 [0020]
-島田美波
+Minami Shimada
 **********
-坂本、嫌とは言わない
-わよね？
+Sakamoto, don't think you
+can run away from this.
 
 --------------------
 [0021]
-坂本雄二
+Yuuji Sakamoto
 **********
-当たり前だ。後悔させ
-てやるぜ。
+I'm not! I'll make you
+regret this.
 
 --------------------
 [0022]
-島田美波
+Minami Shimada
 **********
-木下、この備品はウチ
-がもらうわ！
+Kinoshita, I will taking
+that equipment!
 
 --------------------
 [0023]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-いいや、ワシのじゃ！
-絶対に譲らんぞ！
+No, it's mine!
+I'll definitely not hand it over!
 
 --------------------
 [0024]
-島田美波
+Minami Shimada
 **********
-土屋、ウチの勝利に協
-力して。
+Kouta, Give me a 
+victory.
 
 --------------------
 [0025]
-土屋康太
+Kouta Tsuchiya
 **********
-…断固拒否。
+... I refused.
 
 --------------------
 [0026]
-島田美波
+Minami Shimada
 **********
-霧島さんが相手か…で
-も、今ならいける！
+Kirishima is my opponent now?
+I can take her!
 
 --------------------
 [0027]
-霧島亊子
+Shouko Kirishima
 **********
-…手は抜かない。
+... you won't surpass me.
 
 --------------------
 [0028]
-島田美波
+Minami Shimada
 **********
-木下さん、この備品、
-ウチにちょうだい！
+Kinoshita, hand over your
+equipment to me!
 
 --------------------
 [0029]
-木下優子
+Yuuko Kinoshita
 **********
-力ずくなら喜んで受け
-て立つわ。
+You have to earn it
+from me first.
 
 --------------------
 [0030]
-島田美波
+Minami Shimada
 **********
-美春、ここで休んでい
-なさい！
+Give it a rest,
+Miharu!
 
 --------------------
 [0031]
-清水美春
+Miharu Shimizu
 **********
-休憩するならお姉さま
-と一緒がいいです！
+It's fine as long as Miharu can
+rest together with you Onee-Sama.
 
 --------------------
 [0032]
-島田美波
+Minami Shimada
 **********
-アキ、ウチの勝ちよ。
+Aki, I won.
 
 --------------------
 [0033]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-勝てると思ったのに…
-甘かった…
+I thought I had a chance...
+I'm so naive...
 
 --------------------
 [0034]
-西村宗一
+Sōichi Nishimura
 **********
-安心しろ。補習で鍛え
-直してやる！
+Don't worry. Temper yourself with 
+supplementary class and do it over again!
 
 --------------------
 [0035]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-うわあああ！遠慮しま
-ーす！
+Uwaaaah! No, thank you!
 
 --------------------
 [0036]
-島田美波
+Minami Shimada
 **********
-ごめん、瑞希。ウチの
-勝ちみたい。
+Mizuki, I'm sorry. It looks
+like I win.
 
 --------------------
 [0037]
-姫路瑞希
+Mizuki Himeji
 **********
-美波ちゃん、すごい！
-私の完敗です！
+Amazing, Minami!
+I've totally lost!
 
 --------------------
 [0038]
-西村宗一
+Sōichi Nishimura
 **********
-姫路、今ので戦死だ。
-補習を受けろ。
+Himeji, you're now KIA.
+Take the supplementary class.
 
 --------------------
 [0039]
-姫路瑞希
+Mizuki Himeji
 **********
-はい、分かってます…
+Yes, I understand...
 
 --------------------
 [0040]
-島田美波
+Minami Shimada
 **********
-坂本、ウチの勝ちよ！
+Sakamoto, it's my victory.
 
 --------------------
 [0041]
-坂本雄二
+Yuuji Sakamoto
 **********
-言われなくても分かっ
-てる…油断したぜ。
+I know. You don't have to tell me that...
+I got careless there.
 
 --------------------
 [0042]
-西村宗一
+Sōichi Nishimura
 **********
-お前の実力不足だ！補
-習を行なう！
+Your ability is lacking! To the
+Supplementary class!
 
 --------------------
 [0043]
-坂本雄二
+Yuuji Sakamoto
 **********
-くそっ…最悪だ。
+Shit... this the worst.
 
 --------------------
 [0044]
-島田美波
+Minami Shimada
 **********
-木下、決着がついたよ
-うね。
+Kinoshita, the match is decided.
 
 --------------------
 [0045]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-分かっておる。備品は
-島田の物じゃ。
+I get it. This equipment is now 
+yours.
 
 --------------------
 [0046]
-西村宗一
+Sōichi Nishimura
 **********
-そしてお前は補習だ！
+And the supplementary class is now yours!
 
 --------------------
 [0047]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-それはいらん！勘弁し
-て欲しいのじゃ…
+I don't need that! Spare me 
+please...
 
 --------------------
 [0048]
-島田美波
+Minami Shimada
 **********
-土屋、ご協力ありがと
-う！
+Tsuchiya, thank you for your assistance!
 
 --------------------
 [0049]
-土屋康太
+Kouta Tsuchiya
 **********
-…協力したつもりはな
-い。
+... I've never intended to help you.
 
 --------------------
 [0050]
-西村宗一
+Sōichi Nishimura
 **********
-しかし、補習は受けて
-もらうぞ！
+But, I'll have you take the 
+supplementary class!
 
 --------------------
 [0051]
-土屋康太
+Kouta Tsuchiya
 **********
-…そのつもりもない…
-だが、無理か。
+... I'd rather not... but,
+that's not much of a choice.
 
 --------------------
 [0052]
-島田美波
+Minami Shimada
 **********
-やった…霧島さんに勝
-てたー！
+I did it... I beat
+Kirishima!
 
 --------------------
 [0053]
-霧島亊子
+Shouko Kirishima
 **********
-…油断した。
+... I got careless.
 
 --------------------
 [0054]
-西村宗一
+Sōichi Nishimura
 **********
-それもまた実力不足。
-今すぐ補習だ！
+That also means your ability is inadequate.
+To the Remedial class at once!
 
 --------------------
 [0055]
-霧島亊子
+Shouko Kirishima
 **********
-…仕方ない。
+... it can't be helped.
 
 --------------------
 [0056]
-島田美波
+Minami Shimada
 **********
-木下さん、この備品は
-ウチの物よ。
+Kinoshita, this equipment
+belongs to me.
 
 --------------------
 [0057]
-木下優子
+Yuuko Kinoshita
 **********
-ぐっ…こんなはずじゃ
-なかったのに…！
+Ugh... It wasn't supposed
+to end like this... !
 
 --------------------
 [0058]
-西村宗一
+Sōichi Nishimura
 **********
-負け惜しみを言う前に
-戦死者は補習だー！
+You can review your loss
+in supplementary class!
 
 --------------------
 [0059]
-木下優子
+Yuuko Kinoshita
 **********
-分かってます。はあ…
-何でこうなるの？
+I understand. Sigh...
+How did it end up like this?
 
 --------------------
 [0060]
-島田美波
+Minami Shimada
 **********
-美春、これでウチのこ
-とは諦めて！
+Miharu, now that I've won,
+give up on me!
 
 --------------------
 [0061]
-清水美春
+Miharu Shimizu
 **********
-できません！もう一戦
-お願いします！
+I can't do that! Another battle
+please!
 
 --------------------
 [0062]
-西村宗一
+Sōichi Nishimura
 **********
-その前に補習だ！
+First thing first, go to supplementary class!
 
 --------------------
 [0063]
-清水美春
+Miharu Shimizu
 **********
-あうう…お姉さまあ…
+*sob*.. Onee-Sama....
 
 --------------------
 [0064]
-島田美波
+Minami Shimada
 **********
-危なかったなあ…次は
-注意しないと。
+That was dangerous... I've got to
+be more careful next time.
 
 --------------------
 [0065]
-島田美波
+Minami Shimada
 **********
-学園長、どうしたんで
-すか？
+Principal, what's wrong?
 
 --------------------
 [0066]
-藤堂カヲル
+Kaoru Toudou
 **********
-楽しませてやろうと思
-ってね…ふふふ。
+I'm just trying to entertain
+myself... hu hu hu.
 
 --------------------
 [0067]
-島田美波
+Minami Shimada
 **********
-やっと帰った…
+Returned at last...
 
 --------------------
 [0068]
-島田美波
+Minami Shimada
 **********
-良いカードね。得した
-わ。
+A good card. Lucky!
 
 --------------------
 [0069]
-島田美波
+Minami Shimada
 **********
-こ、これは…どう使お
-う？
+T-this is... how do I use
+this?
 
 --------------------
 [0070]
-島田美波
+Minami Shimada
 **********
-よーし、頑張るぞー！
+Alright, I'll do my best!
 
 --------------------
 [0071]
-島田美波
+Minami Shimada
 **********
-もうすぐお終いかあ。
-意外と呆気ないわね。
+It's almost over.
+Quicker than you think.
 
 --------------------
 [0072]
-島田美波
+Minami Shimada
 **********
-あと少し…あと少しで
-ウチの勝利！
+Almost there... Just a little bit more and
+I'll win!
 
 --------------------
 [0073]
-島田美波
+Minami Shimada
 **********
-何でこんなに払わなき
-ゃならないのよー！
+Why must I pay
+like this?
 
 --------------------
 [0074]
-島田美波
+Minami Shimada
 **********
-所持金ゼロって…どう
-しよう？
+I'm broke... what should
+I do?
 
 --------------------
 [0075]
-島田美波
+Minami Shimada
 **********
-このエリアはウチがい
-ただいたわ！
+This area belongs
+to me!
 
 --------------------
 [0076]
-島田美波
+Minami Shimada
 **********
-ふ、ふんだ！すぐに取
-り返すもん！
+H- Hmph! I will get it back
+in no time!
 
 --------------------
 [0077]
-島田美波
+Minami Shimada
 **********
-この備品はコンプリー
-ト。良い感じね。
+This equipment is now
+complete. feels good.
 
 --------------------
 [0078]
-島田美波
+Minami Shimada
 **********
-あーあ、また揃え直さ
-なきゃ…
+Sigh... I need to collect them
+again?...
 
 --------------------
 [0079]
-島田美波
+Minami Shimada
 **********
-うあ…最悪だわ。
+Uwaaah... this is the worst.
 
 --------------------
 [0080]
-島田美波
+Minami Shimada
 **********
-うふふふ、今日はツイ
-てるかも。
+Uhuhu, this might just be my day.
 
 --------------------
 [0081]
-島田美波
+Minami Shimada
 **********
-あーもう！どうしてこ
-んな所で…
+Sheesh! Why here?...
 
 --------------------
 [0082]
-島田美波
+Minami Shimada
 **********
-よりにもよって、こん
-な所で美春と…！
+Of all places... why does Miharu
+have to be here?
 
 --------------------
 [0083]
-清水美春
+Miharu Shimizu
 **********
-美春のためにわざと止
-まったんですね。
+You stop and waited for me on purpose,
+right?
 
 --------------------
 [0084]
-清水美春
+Miharu Shimizu
 **********
-お姉さまったら…
+Oh, Onee-Sama...
 
 --------------------
 [0085]
-島田美波
+Minami Shimada
 **********
-わざとなワケないでし
-ょうが！
+I didn't mean to do
+that!
 
 --------------------
 [0086]
-島田美波
+Minami Shimada
 **********
-よし！なかなかの点数
-じゃない。
+Great! This score is not too shabby.
 
 --------------------
 [0087]
-島田美波
+Minami Shimada
 **********
-うう…この点数はキツ
-いわね。
+Ugh... this score is hard to take in.
 
 --------------------
 [0088]
-島田美波
+Minami Shimada
 **********
-あーっ！それ、ウチの
-備品なのに！
+Ah! That equipment
+was mine!
 
 --------------------
 [0089]
-島田美波
+Minami Shimada
 **********
-今の、ウチの備品？誰
-のと交換されたの！？
+Is this equipment mine?
+Who did I trade this with!?
 
 --------------------
 [0090]
-島田美波
+Minami Shimada
 **********
-ウチにとっては死活問
-題だわ…
+It's a matter of life and death
+for me...
 
 --------------------
 [0091]
-島田美波
+Minami Shimada
 **********
-ちょっと！買収できな
-くなるじゃない！
+Wait! I can't buy anything
+like this then!
 
 --------------------
 [0092]
-島田美波
+Minami Shimada
 **********
-わあっ！いきなり！？
+Whoa!? That's so sudden!
 
 --------------------
 [0093]
-島田美波
+Minami Shimada
 **********
-あーっ！それ、ウチの
-カードなのに！
+Ah! That's supposed to be
+my card!
 
 --------------------
 [0094]
-島田美波
+Minami Shimada
 **********
-勝手に値上げしちゃう
-の！？
+The price was raised
+on purpose?!
 
 --------------------

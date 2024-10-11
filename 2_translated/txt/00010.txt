@@ -1,63 +1,66 @@
 [0000]
-姫路瑞希
+Mizuki Himeji
 **********
-あれ？　明久くん達が１回戦の相手ですか？
-よろしくお願いします。
+Eh? Akihisa and the boys are going to be
+my opponents for the first round?
+Let's have a good match!
 
 --------------------
 [0001]
-坂本雄二
+Yuuji Sakamoto
 **********
-皆、わかってるな。
-ここはやるしかないぞ。
+Everyone, let me make this clear.
+We cannot fail here.
 
 --------------------
 [0002]
-土屋康太
+Kouta Tsuchiya
 **********
-……負ければ……死。
+...If we lose... We die...
 
 --------------------
 [0003]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-姫路さん……味方だと心強いけど、
-敵に回るとこんなにも
-恐ろしい相手になるなんて……！
+I know in my heart that Himeji is our friend,
+but now that the tables have turned,
+she became our most fearsome adversary!
 
 --------------------
 [0004]
-姫路瑞希
+Mizuki Himeji
 **********
-そ、そんな……
-私はそこまで強くありませんから。
+T-That's...
+I'm not that scary...
 
 --------------------
 [0005]
-坂本雄二
+Yuuji Sakamoto
 **********
-だまされるな。
-試召戦争を思い出せ。あの猛威を……
+She's deceiving us.
+Remember the Summoner Test Wars. 
+That fury...
 
 --------------------
 [0006]
-土屋康太
+Kouta Tsuchiya
 **********
-……一刀両断。一閃亂滅。
+...Dicing the competition like a sword,
+leaving nothing but absolute destruction.
 
 --------------------
 [0007]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-でも、やるしかない！
-皆、行くよ！
+So, we can't lose!
+Here we go, guys!
 
 --------------------
 [0008]
-姫路瑞希
+Mizuki Himeji
 **********
-えっ、えっ？
-皆さん、どうしてそんなに
-怖い顔してるんですか？
+H-Huh?
+Why do you all
+look so serious?
 
 --------------------

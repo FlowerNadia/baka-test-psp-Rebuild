@@ -1,665 +1,658 @@
 [0000]
-清水美春
+Miharu Shimizu
 **********
-こっちを見ないでくだ
-さい、この豚野郎。
+You swine! Don't look
+at this direction!
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ええっと…それ、もし
-かして僕のことかな？
+Eh... are you possibly  
+talking to me?
 
 --------------------
 [0002]
-清水美春
+Miharu Shimizu
 **********
-姫路さん、お姉さまは
-どこへ行きましたか？
+Himeji, do you know where 
+Onee-Sama has gone to?
 
 --------------------
 [0003]
-姫路瑞希
+Mizuki Himeji
 **********
-ごめんなさい。私も知
-らないんです…
+I'm sorry. I have no
+clue...
 
 --------------------
 [0004]
-清水美春
+Miharu Shimizu
 **********
-お姉さまー！！
+Onee-Sama!!
 
 --------------------
 [0005]
-島田美波
+Minami Shimada
 **********
-あーっ！やめて！くっ
-つかないでってば！
+Aaah! Stop! Don't stick
+so close to me!
 
 --------------------
 [0006]
-清水美春
+Miharu Shimizu
 **********
-このバカ一味…目障り
-過ぎます。
+This gang of Bakas... they are
+extremely an eyesore.
 
 --------------------
 [0007]
-坂本雄二
+Yuuji Sakamoto
 **********
-おい、俺と明久を一緒
-にするな。
+Oi! Don't group me together with
+Akihisa! 
 
 --------------------
 [0008]
-清水美春
+Miharu Shimizu
 **********
-む？お姉さまよりも胸
-が…
+Whoa? A chest that is more supple 
+than Onee-Sama's?
 
 --------------------
 [0009]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-大きくないのじゃ！わ
-しは男じゃぞ！
+It's not big at all! 
+I'm a guy!
 
 --------------------
 [0010]
-清水美春
+Miharu Shimizu
 **********
-お姉さまの新作があれ
-ば３枚ずつ買います。
+If there is any new pic of Onee-Sama,
+Miharu will order 3 of them!
 
 --------------------
 [0011]
-土屋康太
+Kouta Tsuchiya
 **********
-…備品と交換で。
+... only by trading your equipments.
 
 --------------------
 [0012]
-清水美春
+Miharu Shimizu
 **********
-くっ…足もとを見るつ
-もりですか！
+Grrr... are you planning 
+to slow me down?!
 
 --------------------
 [0013]
-清水美春
+Miharu Shimizu
 **********
-霧島さん…あなたに用
-はないです。
+Kirishima... Miharu have no
+business with you.
 
 --------------------
 [0014]
-霧島亊子
+Shouko Kirishima
 **********
-…私もない。
+... me too.
 
 --------------------
 [0015]
-清水美春
+Miharu Shimizu
 **********
-む…姉？それとも弟？
-いったいどっちです？
+Hmm... the sister or the brother?
+Just which one are you?
 
 --------------------
 [0016]
-木下優子
+Yuuko Kinoshita
 **********
-姉よ！秀吉と一緒にし
-ないでちょうだい！
+It's the sister! Don't compare me together
+with my brother!
 
 --------------------
 [0017]
-清水美春
+Miharu Shimizu
 **********
-美春の挑戦を受けるで
-す！
+Accept my challenge!
 
 --------------------
 [0018]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-わかった、その挑戦を
-受けるよ！
+I got it. I will accept that 
+challenge!
 
 --------------------
 [0019]
-清水美春
+Miharu Shimizu
 **********
-姫路さん、美春と戦っ
-てもらいます！
+Himeji, please have a match
+with Me!
 
 --------------------
 [0020]
-姫路瑞希
+Mizuki Himeji
 **********
-分かりました。よろし
-くお願いします！
+I understand.
+I'm in your care!
 
 --------------------
 [0021]
-清水美春
+Miharu Shimizu
 **********
-お姉さま、美春の愛を
-受け止めてください！
+Onee-Sama! Please don't stop
+accepting my love!
+
 
 --------------------
 [0022]
-島田美波
+Minami Shimada
 **********
-紛らわしい言い方しな
-いで！
+Don't talk in such a misleading manner!
 
 --------------------
 [0023]
-清水美春
+Miharu Shimizu
 **********
-美春が相手です！
-勝負！
+I'll be your opponent!
+Summon!
 
 --------------------
 [0024]
-坂本雄二
+Yuuji Sakamoto
 **********
-後悔させてやるぜ、か
-かってきな！
+I'll make you regret this.
+Come at me!
 
 --------------------
 [0025]
-清水美春
+Miharu Shimizu
 **********
-美春と対戦させてやる
-です！
+I'll will have you fight with
+me!
 
 --------------------
 [0026]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-お主、なぜ上から目線
-なのじゃ！
+Why are you looking at me from
+above?!(something about the chest)
 
 --------------------
 [0027]
-清水美春
+Miharu Shimizu
 **********
-持っている備品を寄こ
-しなさいです！
+Hand over all the equipments
+that you have!
 
 --------------------
 [0028]
-土屋康太
+Kouta Tsuchiya
 **********
-…徹底抗戦。
+... bitter defeat.
 
 --------------------
 [0029]
-清水美春
+Miharu Shimizu
 **********
-美春と勝負です！
+Duel with Me!
 
 --------------------
 [0030]
-霧島亊子
+Shouko Kirishima
 **********
-…時間がない…早く終
-わらせる。
+... I'm busy... let's finish
+ this quick
 
 --------------------
 [0031]
-清水美春
+Miharu Shimizu
 **********
-美春の挑戦、受けても
-らいます！
+accept my
+challenge!
 
 --------------------
 [0032]
-木下優子
+Yuuko Kinoshita
 **********
-結果は見えてるのに…
-まあ、いいけど。
+The result is clear as day...
+Oh well, fine.
 
 --------------------
 [0033]
-清水美春
+Miharu Shimizu
 **********
-美春の勝ちです、この
-豚野郎！
+It's my victory,
+you swine!
 
 --------------------
 [0034]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-グッ…なんでこんなに
-悔しいんだ？
+Guh... why do I feel
+so mortified.
 
 --------------------
 [0035]
-西村宗一
+Sōichi Nishimura
 **********
-ならば強くなれ！戦死
-者は補習だ！
+Become stronger then! Loser
+to the supplementary class!
 
 --------------------
 [0036]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-今回だけは補習を受け
-たい気分かも…
+I might actually feel like taking
+the supplementary class this time..
 
 --------------------
 [0037]
-清水美春
+Miharu Shimizu
 **********
-姫路さん、美春の勝ち
-です。
+It's my victory, Himeji.
 
 --------------------
 [0038]
-姫路瑞希
+Mizuki Himeji
 **********
-お疲れ様でした。
+Thank you.
 
 --------------------
 [0039]
-西村宗一
+Sōichi Nishimura
 **********
-姫路、戦死者になった
-からには補習だ。
+Since you are the loser, you need to take
+the supplementary class, Himeji.
 
 --------------------
 [0040]
-姫路瑞希
+Mizuki Himeji
 **********
-あ…は、はい、分かり
-ました。
+Ah... Y-yes. I understand.
 
 --------------------
 [0041]
-清水美春
+Miharu Shimizu
 **********
-お姉さま、これが美春
-の愛の強さです！
+Onee-Sama, this is the power of my
+love!
 
 --------------------
 [0042]
-島田美波
+Minami Shimada
 **********
-あーもう、どうしたら
-逃げられるの！？
+Oh jeez, how can I escape 
+from this!?
 
 --------------------
 [0043]
-西村宗一
+Sōichi Nishimura
 **********
-島田、忙しいところ悪
-いが、補習室行きだ。
+Shimada, sorry to bother when you are so busy. 
+But, onwards to supplementary class.
 
 --------------------
 [0044]
-島田美波
+Minami Shimada
 **********
-忙しくないです！すぐ
-に行きます！
+Not busy at all! I'm going there
+straight away!
 
 --------------------
 [0045]
-清水美春
+Miharu Shimizu
 **********
-坂本、誰の勝ちです？
-言ってみるです。
+Sakamoto, tell me now. Who won
+this?
 
 --------------------
 [0046]
-坂本雄二
+Yuuji Sakamoto
 **********
-クソッ…清水、おまえ
-の勝ちだ。
+Shit... Shimizu, you are the
+winner.
 
 --------------------
 [0047]
-西村宗一
+Sōichi Nishimura
 **********
-そしてお前は戦死！戦
-死者は補習だ！
+And you are the loser.
+Loser to the supplementary class!
 
 --------------------
 [0048]
-坂本雄二
+Yuuji Sakamoto
 **********
-分かってるって…った
-く、最悪だぜ。
+I know already... jeez...
+this is the worst.
 
 --------------------
 [0049]
-清水美春
+Miharu Shimizu
 **********
-美春の勝ちです！
+I have won this!
 
 --------------------
 [0050]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-分かっておる。はあ…
-戦死じゃわい。
+I know. Sigh...
+Killed in action.
 
 --------------------
 [0051]
-西村宗一
+Sōichi Nishimura
 **********
-というわけで補習だ！
+And so, supplementary class you go!
 
 --------------------
 [0052]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-この備品を取られてし
-まうとは…
+To let this equipment be taken
+away...
 
 --------------------
 [0053]
-清水美春
+Miharu Shimizu
 **********
-この勝負、美春の勝ち
-です！
+This bout, it's my victory!
 
 --------------------
 [0054]
-土屋康太
+Kouta Tsuchiya
 **********
-…不覚。
+... failure.
 
 --------------------
 [0055]
-西村宗一
+Sōichi Nishimura
 **********
-反省は成長の糧だ！補
-習を受けて来い！
+Introspection is the food for growth!
+Come and take the supplementary class!
 
 --------------------
 [0056]
-土屋康太
+Kouta Tsuchiya
 **********
-…了解。
+... roger.
 
 --------------------
 [0057]
-清水美春
+Miharu Shimizu
 **********
-霧島さんに、勝ちまし
-たー！
+Victory over Kirishima!
 
 --------------------
 [0058]
-霧島亊子
+Shouko Kirishima
 **********
-…不覚を取った。
+... I've taken a defeat.
 
 --------------------
 [0059]
-西村宗一
+Sōichi Nishimura
 **********
-霧島、戦死者は補習だ
-ぞ！わかってるな！
+Kirishima, loser to the supplementary class!
+Do you understand?!
 
 --------------------
 [0060]
-霧島亊子
+Shouko Kirishima
 **********
-…分かりました。急い
-で済ませます。
+... understood. I'll end this
+quick.
 
 --------------------
 [0061]
-清水美春
+Miharu Shimizu
 **********
-この勝負、美春の勝ち
-です！
+I have won this match!
 
 --------------------
 [0062]
-木下優子
+Yuuko Kinoshita
 **********
-分かってるわよ。油断
-したわ、はあ…
+I get it. I got careless.
+Sigh...
 
 --------------------
 [0063]
-西村宗一
+Sōichi Nishimura
 **********
-それは亳りが原因だ！
-補習で鍛え直せ！
+Your mind is the cause!
+Mold it with supplementary class!
 
 --------------------
 [0064]
-木下優子
+Yuuko Kinoshita
 **********
-…うう…何でこんなこ
-とに…
+...Ugh... why did it end up
+like this...
 
 --------------------
 [0065]
-清水美春
+Miharu Shimizu
 **********
-引き分けですか…残念
-です。
+A draw, huh? ... what
+a shame.
 
 --------------------
 [0066]
-清水美春
+Miharu Shimizu
 **********
-学園長、何をニヤニヤ
-してるです？
+Principal, why you grinning
+there like that?
 
 --------------------
 [0067]
-藤堂カヲル
+Kaoru Toudou
 **********
-これから楽しい事が起
-きるからさ。
+That's because something fun is about
+to occur.
 
 --------------------
 [0068]
-清水美春
+Miharu Shimizu
 **********
-さすが学園長。好き放
-題暴れて帰るなんて…
+The principal never fails our expectation. 
+She just wildly indulged herself...
 
 --------------------
 [0069]
-清水美春
+Miharu Shimizu
 **********
-このカード…ラッキー
-です！
+This card... lucky!
 
 --------------------
 [0070]
-清水美春
+Miharu Shimizu
 **********
-う…これは見なかった
-ことにするです…
+Ugh...I will treat this as 
+invisible...
 
 --------------------
 [0071]
-清水美春
+Miharu Shimizu
 **********
-お姉さまのために頑張
-るです！
+Miharu will try her best for Onee-Sama!
 
 --------------------
 [0072]
-清水美春
+Miharu Shimizu
 **********
-ふう…そろそろ終わり
-のようですね。
+Phew... looks like it's almost 
+done.
 
 --------------------
 [0073]
-清水美春
+Miharu Shimizu
 **********
-このままいけば、勝て
-るはずです！
+if this keeps up, a win
+is imminent!
 
 --------------------
 [0074]
-清水美春
+Miharu Shimizu
 **********
-この程度ではくじけま
-せん！
+This is not enough to stop
+me!
 
 --------------------
 [0075]
-清水美春
+Miharu Shimizu
 **********
-あうう…助けてお姉さ
-ま…！
+Auuu... Help me, 
+Onee-Sama...!
+
 
 --------------------
 [0076]
-清水美春
+Miharu Shimizu
 **********
-この勢いで、お姉さま
-も独占します！
+With this same vigour, Miharu
+will conquer Onee-Sama!
 
 --------------------
 [0077]
-清水美春
+Miharu Shimizu
 **********
-ああっ、そんな…！
+Aah, no... !
 
 --------------------
 [0078]
-清水美春
+Miharu Shimizu
 **********
-この種類の備品は全部
-美春のものです！
+All the equipments of this type are
+mine!
 
 --------------------
 [0079]
-清水美春
+Miharu Shimizu
 **********
-そしてお姉さまも美春
-のものです！
+and I owns sis
+as well!
 
 --------------------
 [0080]
-清水美春
+Miharu Shimizu
 **********
-ああっ、何てことする
-ですか！？
+Aaah! What have you 
+done!?
 
 --------------------
 [0081]
-清水美春
+Miharu Shimizu
 **********
-…最悪です…
+... This is the worst...
 
 --------------------
 [0082]
-清水美春
+Miharu Shimizu
 **********
-ラッキーです！
+Lucky!
 
 --------------------
 [0083]
-清水美春
+Miharu Shimizu
 **********
-お姉さまがいれば一緒
-に休憩できたのに…！
+If only Onee-Sama was here, we can rest
+together... !
 
 --------------------
 [0084]
-清水美春
+Miharu Shimizu
 **********
-お姉さま！美春と一緒
-にご休憩です！
+Onee-Sama! Rest here together with
+Miharu!
 
 --------------------
 [0085]
-島田美波
+Minami Shimada
 **********
-な、何を言い出すの、
-美春！？
+Wh-What are you talking about,
+Miharu!?
 
 --------------------
 [0086]
-清水美春
+Miharu Shimizu
 **********
-そうです、休憩ついで
-にご一泊しましょう！
+That's right! if we are resting, might as 
+well stop for the night!
 
 --------------------
 [0087]
-島田美波
+Minami Shimada
 **********
-誤解を生むような発言
-はやめてってば！
+Please stop uttering words that
+may be misleading!
 
 --------------------
 [0088]
-清水美春
+Miharu Shimizu
 **********
-これならお姉さまも誉
-めてくれるです！
+Even Onee-Sama will praise me with
+this score!
 
 --------------------
 [0089]
-清水美春
+Miharu Shimizu
 **********
-はうっ！？この点数…
-最悪です！
+Hau!?  This score...
+is the worst!
 
 --------------------
 [0090]
-清水美春
+Miharu Shimizu
 **********
-ああっ、美春の備品が
-勝手に…！？
+Aah! Don't just swipe away my 
+equipment...!?
 
 --------------------
 [0091]
-清水美春
+Miharu Shimizu
 **********
-もう、何て事をしやが
-るんですか！？
+Jeez, what have you 
+done!?
 
 --------------------
 [0092]
-清水美春
+Miharu Shimizu
 **********
-こんな妨害、ありえま
-せん！
+This sabotage.
+it's impossible!
 
 --------------------
 [0093]
-清水美春
+Miharu Shimizu
 **********
-ああっ！お姉さま、助
-けてくださいー！
+Aaah, Onee-Sama! Please help
+me!!
 
 --------------------
 [0094]
-清水美春
+Miharu Shimizu
 **********
-どこですかここは！？
-誰か教えてください！
+Where's this place!?
+Someone tell me!
 
 --------------------
 [0095]
-清水美春
+Miharu Shimizu
 **********
-もう、どうして勝手に
-捨てるんですか！？
+Jeez. Why are you doing 
+this so willfully!?
 
 --------------------
 [0096]
-清水美春
+Miharu Shimizu
 **********
-あーっ！そこ買おうと
-思ってたのに！
+Aaah! I was thinking of 
+buying that one!
 
 --------------------

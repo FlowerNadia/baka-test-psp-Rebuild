@@ -1,609 +1,603 @@
 [0000]
-土屋康太
+Kouta Tsuchiya
 **********
-…明久か。何をしてい
-る？
+... Akihisa. What are you doing?
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ムッツリーニには教え
-られないよ！
+I can't tell you, Kouta!
 
 --------------------
 [0002]
-土屋康太
+Kouta Tsuchiya
 **********
-…今は満腹。差し入れ
-無用。
+... I'm full now. Further provision is
+unneccesary.
 
 --------------------
 [0003]
-姫路瑞希
+Mizuki Himeji
 **********
-お腹が空いたら、いつ
-でも言って下さいね。
+Do tell me anytime you feel
+hungry.
 
 --------------------
 [0004]
-土屋康太
+Kouta Tsuchiya
 **********
-…ここで何を？
+... What're you doing here?
 
 --------------------
 [0005]
-島田美波
+Minami Shimada
 **********
-今は敵同士でしょ！？
-あっち行って！
+We are now enemies, right?
+Go that way!
 
 --------------------
 [0006]
-土屋康太
+Kouta Tsuchiya
 **********
-…雄二…絶対に負けな
-い。
+... Yuuji, I won't lose to you.
+
 
 --------------------
 [0007]
-坂本雄二
+Yuuji Sakamoto
 **********
-それは俺のセリフだ！
+That's my phrase!
 
 --------------------
 [0008]
-土屋康太
+Kouta Tsuchiya
 **********
-…邪魔はしないほうが
-賢明。
+... it'll be wise not to get in 
+my way.
 
 --------------------
 [0009]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-その言葉、そっくりお
-主に返すぞ。
+I'd return those words 
+to you.
 
 --------------------
 [0010]
-土屋康太
+Kouta Tsuchiya
 **********
-…入荷次第連絡する。
+... I'll inform you as soon 
+as stocks arrive.
 
 --------------------
 [0011]
-霧島亊子
+Shouko Kirishima
 **********
-…了解。
+... roger.
 
 --------------------
 [0012]
-土屋康太
+Kouta Tsuchiya
 **********
-…秀吉じゃない。
+... Hideyoshi. 
 
 --------------------
 [0013]
-木下優子
+Yuuko Kinoshita
 **********
-…秀吉じゃないなら、
-何！？
+... what if I am not 
+Hideyoshi!?
 
 --------------------
 [0014]
-土屋康太
+Kouta Tsuchiya
 **********
-…清水…お前の趣味は
-否定しない。
+... Shimizu.. I won't deny
+your taste.
 
 --------------------
 [0015]
-清水美春
+Miharu Shimizu
 **********
-お姉さまの写真なら高
-く買い取ります。
+If there's any picture of Onee-Sama,
+I will buy them at high price.
 
 --------------------
 [0016]
-土屋康太
+Kouta Tsuchiya
 **********
-…明久、勝負。
+...Akihisa, let's have a match.
 
 --------------------
 [0017]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ムッツリーニ、絶対に
-負けないよ！
+Kouta, I'll definitely not
+lose!
 
 --------------------
 [0018]
-土屋康太
+Kouta Tsuchiya
 **********
-…姫路、勝負。
+....Himeji, let's duel.
 
 --------------------
 [0019]
-姫路瑞希
+Mizuki Himeji
 **********
-分かりました。よろし
-くお願いします！
+I understand. 
+I'm in your care!
 
 --------------------
 [0020]
-土屋康太
+Kouta Tsuchiya
 **********
-…島田、備品はいただ
-く。
+... Shimada, I'm taking that equipment.
 
 --------------------
 [0021]
-島田美波
+Minami Shimada
 **********
-できるものならね！
+Only if you can!
 
 --------------------
 [0022]
-島田美波
+Minami Shimada
 **********
-さあ、かかってきなさ
-い！
+Now, come at me!
 
 --------------------
 [0023]
-土屋康太
+Kouta Tsuchiya
 **********
-…雄二、勝負。
+... Yuuji, let's duel.
 
 --------------------
 [0024]
-坂本雄二
+Yuuji Sakamoto
 **********
-勝てると思うな。すぐ
-に後悔させてやるぜ！
+Don't think you can win. I'll
+make you regret this soon!
 
 --------------------
 [0025]
-土屋康太
+Kouta Tsuchiya
 **********
-…不戦敗という
-選択もある。
+... There's a choice to lose 
+without a fight.
 
 --------------------
 [0026]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-それはお主が選ぶべき
-じゃろう。
+I reckon that should be your 
+choice.
 
 --------------------
 [0027]
-土屋康太
+Kouta Tsuchiya
 **********
-…やるしかない。
+... it seems I have to do this.
 
 --------------------
 [0028]
-霧島亊子
+Shouko Kirishima
 **********
-…負けない。
+... I won't lose.
 
 --------------------
 [0029]
-土屋康太
+Kouta Tsuchiya
 **********
-…倒す。
+... I'll defeat you.
 
 --------------------
 [0030]
-木下優子
+Yuuko Kinoshita
 **********
-はあ？誰にものを言っ
-ているのかしら？
+Huh? I wonder who's blurting out 
+such nonsense?
 
 --------------------
 [0031]
-土屋康太
+Kouta Tsuchiya
 **********
-…清水…負ける相手で
-はない。
+... Shimizu... is not an opponent 
+I can lose to.
 
 --------------------
 [0032]
-清水美春
+Miharu Shimizu
 **********
-豚に負けるほど落ちぶ
-れてはいませんわ！
+I haven't fall so low as to lose to
+you swine!
 
 --------------------
 [0033]
-土屋康太
+Kouta Tsuchiya
 **********
-…明久、俺の勝利だ。
+... Akihisa, it's my win.
 
 --------------------
 [0034]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ムッツリーニってこん
-なに強かったんだ？
+Kouta has become 
+this strong!?
 
 --------------------
 [0035]
-西村宗一
+Sōichi Nishimura
 **********
-吉井、こっちに来い。
-戦死者は補習だ。
+Yoshii, come here.
+Losers go to the supplementary class.
 
 --------------------
 [0036]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-地獄の始まりだ…
+It's the beginning of hell...
 
 --------------------
 [0037]
-土屋康太
+Kouta Tsuchiya
 **********
-…姫路、
-勝負はついた。
+... Himeji.
+The match's decided.
 
 --------------------
 [0038]
-姫路瑞希
+Mizuki Himeji
 **********
-分かっています…はあ
-…負けちゃいました…
+I understand... sigh...
+I have lost...
 
 --------------------
 [0039]
-西村宗一
+Sōichi Nishimura
 **********
-姫路、悪いが補習を受
-けてもらうぞ。
+Himeji, I feel sorry for you but 
+supplementary class is in order.
 
 --------------------
 [0040]
-姫路瑞希
+Mizuki Himeji
 **********
-…土屋くん、私の分ま
-で頑張って下さいね。
+... Tsuchiya. Fight for 
+my share too. 
 
 --------------------
 [0041]
-土屋康太
+Kouta Tsuchiya
 **********
-…島田…俺の勝ちだ。
+... Shimada... it's my victory.
 
 --------------------
 [0042]
-島田美波
+Minami Shimada
 **********
-分かってるわよ！うう
-…悔しいなあ…
+I know! Urgh... 
+It's so mortifying...
 
 --------------------
 [0043]
-西村宗一
+Sōichi Nishimura
 **********
-島田、補習の時間だ。
-こっちに来い。
+Shimada, it's time for supplementary class.
+Come here.
 
 --------------------
 [0044]
-島田美波
+Minami Shimada
 **********
-あうう…土屋の鬼！悪
-魔ーっ！
+Aaah... Tsuchiya, you're a demon! A devil!
 
 --------------------
 [0045]
-土屋康太
+Kouta Tsuchiya
 **********
-…雄二…終わりだ。
+... Yuuji... it's over.
 
 --------------------
 [0046]
-坂本雄二
+Yuuji Sakamoto
 **********
-くっ…まさかここで
-負けるとは…！
+Gurh... to think that I will lose
+here... !
 
 --------------------
 [0047]
-西村宗一
+Sōichi Nishimura
 **********
-坂本、来るんだ！補習
-を受けてもらうぞ。
+Sakamoto, come here! Take
+the supplementary class!
 
 --------------------
 [0048]
-坂本雄二
+Yuuji Sakamoto
 **********
-クソッ、すぐに復活し
-てやる！
+Damn! I'll be back 
+right away!
 
 --------------------
 [0049]
-土屋康太
+Kouta Tsuchiya
 **********
-…秀吉、これで決着は
-ついた。
+... Hideyoshi... this decides the match.
 
 --------------------
 [0050]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-分かっておるわい。う
-う…悔しいのう。
+I get it. Urgh... 
+how vexing.
 
 --------------------
 [0051]
-西村宗一
+Sōichi Nishimura
 **********
-戦死者は補習！
+Loser to Supplementary class!
 
 --------------------
 [0052]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-はあ…悔やんでも悔や
-みきれんのう。
+Sigh... I can't get over from regretting.
 
 --------------------
 [0053]
-土屋康太
+Kouta Tsuchiya
 **********
-…勝てた…霧島に…！
+... I won... against Kirishima... !
 
 --------------------
 [0054]
-霧島亊子
+Shouko Kirishima
 **********
-…次は必ず勝つ。
+... I'll win next time.
 
 --------------------
 [0055]
-西村宗一
+Sōichi Nishimura
 **********
-その前に補習だ！
+Supplementary class comes first!
 
 --------------------
 [0056]
-霧島亊子
+Shouko Kirishima
 **********
-…すぐに済ませます。
+... I'll finish this quick.
 
 --------------------
 [0057]
-土屋康太
+Kouta Tsuchiya
 **********
-…俺の勝ちだ。
+... It's my victory.
 
 --------------------
 [0058]
-木下優子
+Yuuko Kinoshita
 **********
-分かってるわよ！うる
-さいわねえ。
+I know! You're being 
+annoying.
 
 --------------------
 [0059]
-西村宗一
+Sōichi Nishimura
 **********
-なら補習があることも
-分かっているな？
+Then, you know there's supplementary class 
+too, don't you?
 
 --------------------
 [0060]
-木下優子
+Yuuko Kinoshita
 **********
-グッ…土屋、覚えてお
-きなさい！
+Gah... Tsuchiya, you better 
+remember this!
 
 --------------------
 [0061]
-土屋康太
+Kouta Tsuchiya
 **********
-…清水…勝負はこれま
-で。
+... Shimizu... the match's over.
+
 
 --------------------
 [0062]
-清水美春
+Miharu Shimizu
 **********
-まだです！美春はまだ
-終わってません！
+Not yet! It's not over for 
+me yet!
 
 --------------------
 [0063]
-西村宗一
+Sōichi Nishimura
 **********
-終わって無くても戦死
-者は補習だ！
+Even if it isn't over, loser takes 
+supplementary class!
 
 --------------------
 [0064]
-清水美春
+Miharu Shimizu
 **********
-うう…お姉さま、助け
-てくださーい！
+*Sob* ... dear Onee-Sama... 
+please help me!!
 
 --------------------
 [0065]
-土屋康太
+Kouta Tsuchiya
 **********
-…引き分けか。負けな
-かっただけ、良し。
+... a tie, huh? It's all well as long 
+as I don't lose.
 
 --------------------
 [0066]
-土屋康太
+Kouta Tsuchiya
 **********
-…学園長…戦いに
-介入するか。
+... Principal... are you interfering
+with the match.
 
 --------------------
 [0067]
-藤堂カヲル
+Kaoru Toudou
 **********
-人聞きの悪い。盛り上
-げてやるだけさね。
+That's disrespectful. I'm just trying to
+liven things up a bit.
 
 --------------------
 [0068]
-土屋康太
+Kouta Tsuchiya
 **********
-…やっと帰った…
+... she's finally gone.
 
 --------------------
 [0069]
-土屋康太
+Kouta Tsuchiya
 **********
-…ツイてる。
+... lucky.
 
 --------------------
 [0070]
-土屋康太
+Kouta Tsuchiya
 **********
-…必要ない。
+... that's uneccesary.
 
 --------------------
 [0071]
-土屋康太
+Kouta Tsuchiya
 **********
-…この勝負、負けられ
-ない。
+... I can't afford to lose
+ this match.
 
 --------------------
 [0072]
-土屋康太
+Kouta Tsuchiya
 **********
-…終了まであと少し。
+... Just a little bit more till it's over.
 
 --------------------
 [0073]
-土屋康太
+Kouta Tsuchiya
 **********
-…勝利が見えた。
+... Victory is in sight.
 
 --------------------
 [0074]
-土屋康太
+Kouta Tsuchiya
 **********
-…不覚。このままでは
-まずい。
+... what a blunder. Things are looking good
+if this goes on.
 
 --------------------
 [0075]
-土屋康太
+Kouta Tsuchiya
 **********
-…無念。
+... what a shame.
 
 --------------------
 [0076]
-土屋康太
+Kouta Tsuchiya
 **********
-…エリア独占に成功。
-さらに攻勢に出る。
+... area conquest succesful.
+I'm going offensive.
 
 --------------------
 [0077]
-土屋康太
+Kouta Tsuchiya
 **********
-…戦況を読み違えた。
+... I took the wrong move.
 
 --------------------
 [0078]
-土屋康太
+Kouta Tsuchiya
 **********
-…特定種確保。
+... specified type secured.
 
 --------------------
 [0079]
-土屋康太
+Kouta Tsuchiya
 **********
-…予想の範囲内。焦る
-必要はない。
+... Still within the threshold level, there's 
+no need to be impatient.
 
 --------------------
 [0080]
-土屋康太
+Kouta Tsuchiya
 **********
-…おかしい。
+... strange.
 
 --------------------
 [0081]
-土屋康太
+Kouta Tsuchiya
 **********
-…今日は…いける。
+... I can do this today.
 
 --------------------
 [0082]
-土屋康太
+Kouta Tsuchiya
 **********
-…休養も必要。
+... a break is required.
 
 --------------------
 [0083]
-土屋康太
+Kouta Tsuchiya
 **********
-…これは…シャッター
-チャンス。
+... this is... Shutter 
+chance.
 
 --------------------
 [0084]
-土屋康太
+Kouta Tsuchiya
 **********
-…ヤマが当たった。
+... perfect.
 
 --------------------
 [0085]
-土屋康太
+Kouta Tsuchiya
 **********
-…これは…予想外。
+... this is... unexpected.
 
 --------------------
 [0086]
-土屋康太
+Kouta Tsuchiya
 **********
-…想定外。
+... beyond expectation.
 
 --------------------
 [0087]
-土屋康太
+Kouta Tsuchiya
 **********
-…計画を立て直す。
+... time to rework the plan.
 
 --------------------
 [0088]
-土屋康太
+Kouta Tsuchiya
 **********
-…まずい。
+... this is bad.
 
 --------------------
 [0089]
-土屋康太
+Kouta Tsuchiya
 **********
-…かなり痛い。
+... it hurts a lot.
 
 --------------------
 [0090]
-土屋康太
+Kouta Tsuchiya
 **********
-…周囲を確認。
+... surroundings confirmed.
 
 --------------------
 [0091]
-土屋康太
+Kouta Tsuchiya
 **********
-…しまった。
+... crap!
 
 --------------------
 [0092]
-土屋康太
+Kouta Tsuchiya
 **********
-…しまった。
+... crap!
 
 --------------------

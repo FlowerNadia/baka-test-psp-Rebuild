@@ -1,288 +1,316 @@
 [0000]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-学園長！
+Hey, Principal!
 
 --------------------
 [0001]
-坂本雄二
+Yuuji Sakamoto
 **********
-ババア、邪魔するぞ。
+Yo old hag!, we're coming in.
 
 --------------------
 [0002]
-藤堂カヲル
+Kaoru Toudou
 **********
-このガキどもが。
-部屋に入るときは返事を待てと言ったろう？
+These damn kids.
+Have I not told you to wait for 
+permission to enter my office?
 
 --------------------
 [0003]
-藤堂カヲル
+Kaoru Toudou
 **********
-ん？　今日は吉井と坂本だけじゃないようだね。
-雁首そろえて何の用だい？
-まぁ、どうせ賞品のことだろうけどさ。
+Hm? Looks like it's not you and Yoshii.
+Why have you idiots come to in my office?
+I assume this is about the prize, right?
+
 
 --------------------
 [0004]
-坂本雄二
+Yuuji Sakamoto
 **********
-分かってるなら、話は早い。
-本当に何でも貰えるんだろうな？
+You know it already. 
+Let's make this quick, then.
+Can you really give us anything we want?
+
 
 --------------------
 [0005]
-藤堂カヲル
+Kaoru Toudou
 **********
-学生に分相応な物ならね。
+As long as it's within the school's means.
 
 --------------------
 [0006]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-物以外じゃ駄目ですか？
-たとえば僕の『観察処分者』を
-取り消してもらったりとか……
+Is there anything that's off limits?
+If I wanted to, say, remove my status
+as a probationary student...
+
 
 --------------------
 [0007]
-藤堂カヲル
+Kaoru Toudou
 **********
-そりゃ無理だね。
-アンタのような大バカのための処分だ。
-おいそれと取り消せないよ。
+That would be impossible. That is
+punishment for you being a colossal idiot
+I can't just revoke it at a given moment.
 
 --------------------
 [0008]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そんな！
+But...!
 
 --------------------
 [0009]
-藤堂カヲル
+Kaoru Toudou
 **********
-何を言われても無理なものは無理だね。
-アタシは忙しいんだ。それだけかい？
-じゃあとっとと出て行きな。
+There's nothing you can say, impossible
+is impossible. Now, I'm a busy woman. 
+If that all, then leave quickly.
+
+
 
 --------------------
 [0010]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ちょ、ちょっと待って！
+Wa-Wait a second!
 
 --------------------
 [0011]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-だったらせめて、召喚獣のダメージが僕に
-伝わらないようなアイテムをください！
-それなら大丈夫ですよね！
+Could I at least get something so that
+I won't get hurt when my avatar takes
+damage? I'd be fine with just that!
 
 --------------------
 [0012]
-藤堂カヲル
+Kaoru Toudou
 **********
-ふむ……バカにしては上出来の考えだ。
-それなら考えてやっても良いけどね……
-でも勝ち抜くのはバカには無理さね。
+Hmm... That's a good idea from you. That,
+I am willing to consider, but I doubt
+an idiot like you could actually win
+
 
 --------------------
 [0013]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-たとえバカでも、たくさん集まれば何とかなる！
-そうだよね、皆！
+I may be an idiot, but there's strength
+in numbers!
+Isn't that right, guys?
+
 
 --------------------
 [0014]
-坂本雄二
+Yuuji Sakamoto
 **********
-さて、行くか。
+we're out.
 
 --------------------
 [0015]
-土屋康太
+Kouta Tsuchiya
 **********
-……うむ。
+... Mmhm. (affirmation)
 
 --------------------
 [0016]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ちょっと、皆どこに行くの！？
+Wait, where are you going?!
 
 --------------------
 [0017]
-坂本雄二
+Yuuji Sakamoto
 **********
-おまえを手伝う理由は無い。
+We don't have any reason to help you.
 
 --------------------
 [0018]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-何でーっ！？
+What? Why not?!
 
 --------------------
 [0019]
-坂本雄二
+Yuuji Sakamoto
 **********
-俺も賞品が欲しいからな。
+You're not the only one 
+who wants the reward.
 
 --------------------
 [0020]
-坂本雄二
+Yuuji Sakamoto
 **********
-それに、おまえの召喚獣がどうなろうが、
-おまえがバカで戦力外なことに変わりはない。
+Besides, no matter what you change about 
+your avatar, it won't change the fact
+that you're an idiot.
+
 
 --------------------
 [0021]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そんなことないよ！
-召喚獣のダメージが伝わらなくなれば、
-今より１０……いや１００倍は頑張れるから！
+That's not true! If I didn't get hurt
+every time my avatar was damaged,I could
+totally do 10, No, even 100 times better!
+
 
 --------------------
 [0022]
-坂本雄二
+Yuuji Sakamoto
 **********
-今の言葉を信じるヤツ、いるか？
+Does anyone here actually believe 
+what Akihisa's saying?
 
 --------------------
 [0023]
-島田美波
+Minami Shimada
 **********
-無理ね。
+Imposible.
 
 --------------------
 [0024]
-土屋康太
+Kouta Tsuchiya
 **********
-……残念。
+...I am afraid not.
 
 --------------------
 [0025]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-右に同じじゃ。
+Same
 
 --------------------
 [0026]
-姫路瑞希
+Mizuki Himeji
 **********
-……ごめんなさい。
+Akihisa... Sorry
 
 --------------------
 [0027]
-坂本雄二
+Yuuji Sakamoto
 **********
-というわけで却下だ。
-ただまあ、俺も鬼じゃない。
-せめてもの亠別に、この言葉をやろう。
+There you go. Your idea? Rejected.
+But don't worry, I am not heartless.
+You can have some advice as parting gift.
+
 
 --------------------
 [0028]
-坂本雄二
+Yuuji Sakamoto
 **********
-俺の邪魔したらペンチで生爪ブチ抜くぞ……？
+If you dare to get in my way,
+I'll pry off your fingernails 
+one by one.
 
 --------------------
 [0029]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-それ亠別じゃないよ！　脅迫だよ！
+That's no parting gift! 
+That's a threat!
 
 --------------------
 [0030]
-坂本雄二
+Yuuji Sakamoto
 **********
-それが分かるなら棄権しろ。
-じゃあな。
+If you understand what's best
+for you, you'll drop out now.
+See ya.
+
 
 --------------------
 [0031]
-姫路瑞希
+Mizuki Himeji
 **********
-明久くん、ごめんなさい。
-でも、私にも欲しい物があって……
+I'm sorry, Akihisa, but there's
+something I really want...
+
 
 --------------------
 [0032]
-島田美波
+Minami Shimada
 **********
-アキ、せいぜい頑張ってね。
-けど、ウチの邪魔をしたらｔｏｒｔｕｒだから。
+Aki, the most you can do is just try your
+best. But if you get in my way... Werde 
+ich dich foltern. (i'll torture you) 
 
 --------------------
 [0033]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-何それ？　ドイツ語？　意味は？
+What is that? German? 
+What's does it mean?
 
 --------------------
 [0034]
-土屋康太
+Kouta Tsuchiya
 **********
-……拷問。
+... Torture.
 
 --------------------
 [0035]
-島田美波
+Minami Shimada
 **********
-そうそれ！
+That's right!
 
 --------------------
 [0036]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ムッツリーニ、何でそんなこと知ってるの？
+Kouta, how did you know that?
+
 
 --------------------
 [0037]
-土屋康太
+Kouta Tsuchiya
 **********
-……一般常識。亠別代わりに。
+It's common knowledge. 
+Take that as my parting gift.
 
 --------------------
 [0038]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そんな一般常識も亠別もいらないよ！
-ねえ、待って！　手伝って！
-僕を一人にしないでよーーーーーっ！！
+I don't need your common sense, or your
+gifts, I need help!This isn't funny, guys
+I don't want to go it aloooooooone!
+
 
 --------------------
 [0039]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-皆、行っちゃった……
+They're all gone...
 
 --------------------
 [0040]
-藤堂カヲル
+Kaoru Toudou
 **********
-利益が絡めば人間なんてこんなもんさ。
-せいぜい一人で頑張ることだね。
+It's common for people's interests to 
+clash in situations like this.
+Just do the best you can for yourself.
 
 --------------------
 [0041]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-まあいいか。賞品のためなら
-基本的には皆自分のことが優先だろうし。
-それに、きっと僕にも勝機があるはず。
+Oh well. I guess they would look after
+themselves when there's a prize on the
+line. Besides, I'm sure I can win!
 
 --------------------
 [0042]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-よーし、なんだか希望がわいてきたぞ。
-何としても賞品を手に入れて、
-皆を見返してやるっ！
+Alright, no point in losing hope now!
+No matter what happens, I'll definitely
+beat everyone and get that reward!
 
 --------------------

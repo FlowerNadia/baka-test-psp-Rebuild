@@ -1,663 +1,657 @@
 [0000]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-んん？明久、そこで何
-をしておるのじゃ？
+Hm? Akihisa, what are you
+doing there?
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-もちろん秀吉を待って
-たんだよ！
+I'm waiting for you 
+of course!
 
 --------------------
 [0002]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-笑えない冗談じゃ…
+That's a bad joke...
 
 --------------------
 [0003]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-おお姫路、調子はどう
-じゃ？
+Oh, Himeji. How are you
+faring?
 
 --------------------
 [0004]
-姫路瑞希
+Mizuki Himeji
 **********
-今は順調です。木下く
-んも頑張りましょう。
+All is well now. Do your best
+too, Hideyoshi.
 
 --------------------
 [0005]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-島田よ、何をぼんやり
-としておるのじゃ？
+Shimada, why are you spacing 
+out there?
 
 --------------------
 [0006]
-島田美波
+Minami Shimada
 **********
-失礼ね！これからの作
-戦を考えてるだけよ。
+That's rude! I'm thinking about 
+forming my strategy.
 
 --------------------
 [0007]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-雄二か、こんな所で奇
-遇じゃの。
+Yuuji. What a coincidence meeting you
+here.
 
 --------------------
 [0008]
-坂本雄二
+Yuuji Sakamoto
 **********
-ああ、お前もがんばれ
-よ。
+Ah. You do your best there!
 
 --------------------
 [0009]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ムッツリーニか、調子
-はどうじゃ？
+Kouta, huh? How's 
+your condition?
 
 --------------------
 [0010]
-土屋康太
+Kouta Tsuchiya
 **********
-…良い写真が撮れた。
+... I just took a great picture.
 
 --------------------
 [0011]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-それは良かったのう。
+Hideyoshi Kinoshita
+That's great to hear.
 
 --------------------
 [0012]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-霧島か。姉上でなくて
-ほっとしたのじゃ。
+Kirishima, huh? I'm relieved 
+that's it's not sister.
 
 --------------------
 [0013]
-霧島亊子
+Shouko Kirishima
 **********
-…わかった。優子にそ
-う伝えておく。
+... got it. I'll tell that to
+Yuuko.
 
 --------------------
 [0014]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-やめてくれ！そんなお
-節介は不要じゃ！
+Please don't! There's no 
+need for you to interfere!
 
 --------------------
 [0015]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-あ、姉上！？
+Ah, Sis!?
 
 --------------------
 [0016]
-木下優子
+Yuuko Kinoshita
 **********
-何よ…アタシがいちゃ
-迷惑なわけ？
+What... am I an eyesore
+now?
 
 --------------------
 [0017]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-清水、もしかして島田
-を探しておるのか？
+Shimizu, are you possibly looking
+for Shimada?
 
 --------------------
 [0018]
-清水美春
+Miharu Shimizu
 **********
-わかってるなら、一緒
-に探してください！
+If you know that, join me in 
+my search for sis!
 
 --------------------
 [0019]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-明久、いざ尋常に勝負
-じゃ！
+Akihisa, let's fight fair and
+square!
 
 --------------------
 [0020]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-望むところさ！この備
-品は誰にも渡さない！
+Exacly my wish! I won't 
+hand over this equipment to anyone!
 
 --------------------
 [0021]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姫路よ、バトルの相手
-をしてもらえんか。
+Himeji, can you be my battle
+opponent?
 
 --------------------
 [0022]
-姫路瑞希
+Mizuki Himeji
 **********
-分かりました。よろし
-くお願いします！
+I understand. Please
+treat me well!
 
 --------------------
 [0023]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-島田、わしの相手にな
-ってもらうぞ。
+Shimada, I'll have you be
+my opponent!
 
 --------------------
 [0024]
-島田美波
+Minami Shimada
 **********
-ウチに勝てると思って
-るの？
+Do you think you can beat
+me?
 
 --------------------
 [0025]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-雄二、わしと手合わせ
-してもらうぞ。
+Yuuji, let's have 
+a contest.
 
 --------------------
 [0026]
-坂本雄二
+Yuuji Sakamoto
 **********
-いつでもいいぜ。後悔
-すると思うがな。
+Sure. Don't you regret
+this.
 
 --------------------
 [0027]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ムッツリーニ、この備
-品はわしが頂くぞ。
+Kouta, I'll be taking that
+equipment.
 
 --------------------
 [0028]
-土屋康太
+Kouta Tsuchiya
 **********
-…実力で排除する。
+... I'll eliminate you with 
+my true ability.
 
 --------------------
 [0029]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-霧島、恨みはないがこ
-こで戦ってもらうぞ。
+Kirishima. No hard feelings. 
+Let's fight here.
 
 --------------------
 [0030]
-霧島亊子
+Shouko Kirishima
 **********
-…絶対に負けない。
+... I'll never lose.
 
 --------------------
 [0031]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上、バトルの相手を
-してもらうぞ！
+Sis, you are my battle
+opponent now!
 
 --------------------
 [0032]
-木下優子
+Yuuko Kinoshita
 **********
-姉であるアタシに勝と
-うなんて、甘いわね。
+How naive of you to think that you
+can defeat your older sister.
 
 --------------------
 [0033]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-清水よ、バトルの相手
-をしてくれぬか。
+Shimizu, would you mind 
+becoming my battle opponent?
 
 --------------------
 [0034]
-清水美春
+Miharu Shimizu
 **********
-相手になると思ってい
-るんですか？
+Do you think you can 
+match against me?
 
 --------------------
 [0035]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-わしの勝ちじゃ！
+It's my victory!
 
 --------------------
 [0036]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-秀吉のバカ！愛してる
-って言ったくせに！
+Idiot Hideyoshi! I told you
+I love you!
 
 --------------------
 [0037]
-西村宗一
+Sōichi Nishimura
 **********
-吉井、積もる話は補
-習室で聞いてやる！
+Yoshii, I will listen to your penned up
+feelings in the supplementary class!
 
 --------------------
 [0038]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ええっ！？そんな！
+Eeh! No way!
 
 --------------------
 [0039]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姫路、すまんのう。わ
-しの勝ちじゃ。
+Sorry, Himeji. 
+It's my win.
 
 --------------------
 [0040]
-姫路瑞希
+Mizuki Himeji
 **********
-はい…木下くん、完敗
-です。
+Yes... Kinoshita. It's my 
+total loss.
 
 --------------------
 [0041]
-西村宗一
+Sōichi Nishimura
 **********
-姫路、規則だ。補習を
-受けてもらうぞ。
+Himeji. It's the rule. Join the
+supplementary class.
 
 --------------------
 [0042]
-姫路瑞希
+Mizuki Himeji
 **********
-うう…がんばります。
+Uuu... I'll try my best.
 
 --------------------
 [0043]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-島田、勝負ありじゃ。
+Shimada, victory is decided.
 
 --------------------
 [0044]
-島田美波
+Minami Shimada
 **********
-なし！今のなし！リセ
-ットしてー！
+No! That doesn't count!
+Reset!
 
 --------------------
 [0045]
-西村宗一
+Sōichi Nishimura
 **********
-もう一度補習で鍛え
-直してやる！
+Time to whip yourself to shape
+in the supplementary class!
 
 --------------------
 [0046]
-島田美波
+Minami Shimada
 **********
-嫌あああ！補習だけは
-嫌ああああああっ！
+Nooo!!! I hate supplementary 
+class!!!
 
 --------------------
 [0047]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-雄二、わしの勝ちじゃ
-な！
+Yuuji, this is my win.
 
 --------------------
 [0048]
-坂本雄二
+Yuuji Sakamoto
 **********
-油断したぜ…だが、ナ
-イスファイトだ。
+You caught me off guard... but, 
+nice fight.
 
 --------------------
 [0049]
-西村宗一
+Sōichi Nishimura
 **********
-その意気やよし！補習
-でさらに鍛えてやる！
+That's the spirit! Train that spirit
+even more in the supplementary class!
 
 --------------------
 [0050]
-坂本雄二
+Yuuji Sakamoto
 **********
-ちょっと待て、話が繋
-がってねえぞ！
+Hold on a second. That doesn't tie together
+with what I said!
 
 --------------------
 [0051]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ムッツリーニ、勝負あ
-ったようじゃの。
+Kouta. It seems the battle
+is decided.
 
 --------------------
 [0052]
-土屋康太
+Kouta Tsuchiya
 **********
-…作戦ミス。
+... wrong strategy.
 
 --------------------
 [0053]
-西村宗一
+Sōichi Nishimura
 **********
-何にせよ戦死者は補習
-だ。こっちに来い！
+No matter! Supplementary class for the loser!
+Come!
 
 --------------------
 [0054]
-土屋康太
+Kouta Tsuchiya
 **********
-…無念。
+... how unfortunate.
 
 --------------------
 [0055]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-霧島に勝てるとは…奇
-跡じゃ！
+I won against Kirishima... it's a 
+miracle!
 
 --------------------
 [0056]
-霧島亊子
+Shouko Kirishima
 **********
-…残念。
+... deplorable.
 
 --------------------
 [0057]
-西村宗一
+Sōichi Nishimura
 **********
-後は補習しながら考
-えろ。霧島、行くぞ。
+Think about the rest in the supplementary
+class. Kirishima, let's go.
 
 --------------------
 [0058]
-霧島亊子
+Shouko Kirishima
 **********
-…早く済ませないと。
-時間が惜しい。
+... I'll finish this up quickly.
+Time is precious.
 
 --------------------
 [0059]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上に勝った…勝った
-のじゃーっ！
+I've won against sis... 
+I won!
 
 --------------------
 [0060]
-木下優子
+Yuuko Kinoshita
 **********
-秀吉に負けるなんて…
-最悪だわ！
+To think that I lost to Hideyoshi...
+this is the worst!
 
 --------------------
 [0061]
-西村宗一
+Sōichi Nishimura
 **********
-それは亰慢だ。補習で
-性根を鍛え直せ！
+That's just being egoistical. Change
+that attitute in the supplementary class!
 
 --------------------
 [0062]
-木下優子
+Yuuko Kinoshita
 **********
-うう…秀吉、覚えてな
-さい！
+Ugh... Hideyoshi, I will remember this!
 
 --------------------
 [0063]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-清水、わしの勝ちじゃ
-な。
+Shimizu. I've won this.
 
 --------------------
 [0064]
-清水美春
+Miharu Shimizu
 **********
-うるさいです！こんな
-の認めません！
+Shut up! I won't
+accept this!
 
 --------------------
 [0065]
-西村宗一
+Sōichi Nishimura
 **********
-だが、戦死したのは事
-実だ。補習ーっ！
+But, the fact remains that you lost this.
+Supplementary class!
 
 --------------------
 [0066]
-清水美春
+Miharu Shimizu
 **********
-美春は負けません！す
-ぐに復活します！
+I won't lose! It won't be 
+long before I comes back!
 
 --------------------
 [0067]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-むう…引き分けかの。
-勝負は水物じゃ。
+Hmm... it's a draw.
+Only luck can determine this match.
 
 --------------------
 [0068]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-学園長！？なぜここに
-いるのじゃ！？
+Principal!? What are doing
+you doing all the way here!?
 
 --------------------
 [0069]
-藤堂カヲル
+Kaoru Toudou
 **********
-これもおまえ達のため
-さ。さあ、いくよ。
+This is all for the sake of you guys.
+Now, here I go.
 
 --------------------
 [0070]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ふう…やっと帰ってく
-れたようじゃな。
+Phew... Looks like I made it 
+back.
 
 --------------------
 [0071]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-なんと！今日はついて
-おるのう。
+Whoa! Today's my lucky day.
 
 --------------------
 [0072]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-むう…厳しいのう。
+Urgh... this is harsh.
 
 --------------------
 [0073]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-試合開始じゃ！頑張ら
-なければのう！
+The contest has begun! I've
+do my best!
 
 --------------------
 [0074]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-そろそろ終わりのよう
-じゃな。
+Looks like It's almost time for this 
+to end.
 
 --------------------
 [0075]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-良い感じじゃ！これな
-ら勝てそうじゃな！
+I have a good feeling! I might 
+win this one!
 
 --------------------
 [0076]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ぬあっ！？今のは少々
-取り過ぎであろう…
+Whoa! Looks like I got carried away
+there...
 
 --------------------
 [0077]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-残金０じゃと！？最悪
-じゃ…！
+Zero Cash!? This is the worst... !
 
 --------------------
 [0078]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-これでこのエリアを独
-占じゃ！
+I conquered this area for 
+myself!
 
 --------------------
 [0079]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-なんじゃと！？
+What!?
 
 --------------------
 [0080]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-よし、備品の種類を揃
-えられたぞ。
+Great. I've gathered all the equipment of 
+this genre.
 
 --------------------
 [0081]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-むう…やられてしまっ
-たようじゃの。
+Urgh... looks like I have been
+had.
 
 --------------------
 [0082]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-不吉な…
+How unlucky...
 
 --------------------
 [0083]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-幸運も続くものじゃの
-う。
+Fortune is with me.
 
 --------------------
 [0084]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-急がば回れじゃ。しば
-し休むとするかのう。
+The more you rush, the slower you are.
+I should rest occasionally.
 
 --------------------
 [0085]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上もか。しばらく一
-緒に休憩じゃな。
+You too, Sis? Why don't we rest together
+for a while?
 
 --------------------
 [0086]
-木下優子
+Yuuko Kinoshita
 **********
-秀吉…アタシに断りも
-無くまた胸が…
+Hideyoshi... without me 
+realizing, your chest has...
 
 --------------------
 [0087]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上、いったいどこを
-見ておるのじゃ！？
+Sis, where do you think
+you are looking!?
 
 --------------------
 [0088]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-おおっ、我ながら良い
-成績じゃ。
+Oh. This is a pretty good score for
+me
 
 --------------------
 [0089]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-むう、この点数は…普
-段以上に厳しいのう。
+Urgh... This score... the 
+marking is harsher than usual.
 
 --------------------
 [0090]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-わ、わしの備品を勝手
-に…
+D-Don't just take 
+my equipment like that...
 
 --------------------
 [0091]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-勝手に交換されては、
-混乱のもとじゃ！
+Don't just switch equipment as you pleases.
+It'll be chaotic!
 
 --------------------
 [0092]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-なぜそんな嫌がらせを
-するのじゃ…
+Why are you harrasing me
+in a such way...
 
 --------------------
 [0093]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-破産する前にお金を工
-面せねばのう…
+I have to raise money before
+I go bankrupt...
 
 --------------------
 [0094]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-いったいどこに飛ばさ
-れたのじゃ…
+Where did it flew off to...
 
 --------------------
 [0095]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-くっ…さっさと使えば
-良かったのう…
+Gurh... I should have used it
+earlier...
 
 --------------------
 [0096]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-早く買収しておけばよ
-かったのう…
+If only I have bought 
+them earlier...
 
 --------------------

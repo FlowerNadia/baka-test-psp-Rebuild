@@ -1,7 +1,7 @@
 [0000]
 Mizuki Himeji
 **********
-Well, then, let's begin the explanation!
+O-Ok! I'm going to begin the explanation!
 Everyone, please take your seats!
 
 --------------------
@@ -12,216 +12,227 @@ Aki!　Hurry up and sit down!
 
 --------------------
 [0002]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Haha!
+Haha!~ 
+...
 
 --------------------
 [0003]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-...... is what I'm kneeling for!
+Wait ... what I'm kneeling for?!
 
 --------------------
 [0004]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-...... Accept it. ......
-That's a man's destiny.
+Just do what she says. 
+It's our fate as men to obey...
 
 --------------------
 [0005]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Women in suits are magical creatures.
+Those suits sure make them look 
+intimidating.
 
 --------------------
 [0006]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-...... plus glasses too.
-That thing is the essence of witchcraft.
+...With glasses, too.
+The essence of intimidation is in 
+those glasses.
 
 --------------------
 [0007]
 Mizuki Himeji
 **********
-What's wrong, everyone?
-Why are you looking at me like that?
+What's the matter, everyone?
+Why are you looking at us like that?
+
 
 --------------------
 [0008]
-Male student
+Male S
 **********
-Himeji-san, please look more
-high and mighty!
-Rather cuss me out!
+Himeji, please try to look stricter!
+Don't be nice, please abuse us!
 
 --------------------
 [0009]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Who is sending Himeji-san an ardent love call?
-Who is the one sending the love call to Mr. Himeji!
+What kind of weirdo would ask Himeji
+to do something like that?!
 
 --------------------
 [0010]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Marry me, though,
-I won't allow you to cuss me out!
+I could understand asking to marry her...
+But begging for abuse? 
+I can't stand for that!
 
 --------------------
 [0011]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
 ...... Rewards should be shared.
 
 --------------------
 [0012]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Wait a minute.
-Muttsurini, you misunderstand me,
-don't you?
+Wait, what?
+Muttsurini, I'm pretty sure you've got 
+the wrong idea.
 
 --------------------
 [0013]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-...... no problem.
-Akihisa is rather m.
+...I think it's pretty clear
+If I had to decribe you, Akihisa,
+I'd say you're a M (Masochist).
+
 
 --------------------
 [0014]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-No, I'm not!　I may be an idiot, but
-I'm not M!
+No way! I may be an idiot, 
+but I am definitely not a M!
+
 
 --------------------
 [0015]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-When Shimada was folding me,
-I'm sure he was feeling pretty
-good when Shimada was folding him.
+It must've felt pretty good disobeying
+Shimada earlier, huh?
 
 --------------------
 [0016]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Yeah, ...... consciousness flying is
-addictive, isn't it? Especially that
-fluttery moment when you ......,No way!
+Yeah, ...... losing consciousness is
+addictive. Especially that moment right
+before ...,No, I'm not like that at all!
 
 --------------------
 [0017]
 Hideyoshi Kinoshita
 **********
-Akihisa is a difficult sexuality.
+Well, Akishisa does seem to have a thing
+for suffering.
 
 --------------------
 [0018]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-That's not true!
-Rather, it's Yuji who is M!
-To Mr. Kirishima--
+I told you already! I'm no masochist!
+Yuuji is more of a masochist than me!
+He and Kiris-
+
 
 --------------------
 [0019]
 Minami Shimada
 **********
-So, Aki, sit down!
+For the last time, Aki, sit down!
 
 --------------------
 [0020]
-(TODO)
+Author (Stage Direction orginally)
 **********
---The story goes back a while.
+Let's go back to when this all began.
 
 --------------------
 [0021]
-Kaworu Todo
+Kaoru Todo
 **********
 I don't have much time, so I'll be brief.
-I know it's sudden, but I'm going to test
-of the new test system today.
+I know it's sudden, but starting today,
+you will be testing a new summoner system
 
 --------------------
 [0022]
-Kaworu Todo
+Kaoru Todo
 **********
-It's a new system, so it's different from
-the old one in many ways, I'm sure it will
-be of benefit to you as well.
+Because of the large gap in test scores,
+I think you'll agree that this change in
+the system will be to your advantage.
 
 --------------------
 [0023]
-Kaworu Todo
+Kaoru Todo
 **********
-Okay, I'm going to explain the details of the rules now.
-I'm only going to say it once, so listen carefully.
+Now, I'll go over the rules. I'll only
+explain these once, so listen carefully.
 
 --------------------
 [0024]
-Akihisa & Yuji (Akihisa Yoshii & Yuji Sakamoto)
+Aki&Yu (Yoshii Akihisa Yoshii & Yuuji Sakamoto)
 **********
-I'll only say it once, so listen carefully!
+What the hell was that?!
 
 --------------------
 [0025]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-What was that?　Did anyone figure it out?
+Now what? Did anyone get any of that?
 
 --------------------
 [0026]
 Hideyoshi Kinoshita
 **********
-I'm sorry, but I have no idea who this is.
+That's too bad. I guess we'll just have 
+to make it up as we go.
 
 --------------------
 [0027]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-All I know is
-The new test system will be tested,
-I think I'm up to the point of
+I understood that we're testing some kind
+of new Summoner Test System...
+But then I got lost.
+
 
 --------------------
 [0028]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Speaking of guys who seem
-to understand it all: ......
+But if anyone understood what
+she said, it'd have to be...
 
 --------------------
 [0029]
 Mizuki Himeji
 **********
-Oh, that ...... maybe ......
+U-Um... perhaps...
 
 --------------------
 [0030]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Himeji-san indeed!
+It'd be Himeji, of course!
 
 --------------------
 [0031]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Well then, Himeji, I'm sorry,
-but can you explain this to everyone?
+In that case, Himeji.
+Would you mind helping out 
+the rest of us idiots?
 
 --------------------
 [0032]
 Mizuki Himeji
 **********
-I understand.
-I'd better use a blackboard if that's the case.
+Of course! In that case, I think we
+should use the blackboard.
 
 --------------------
 [0033]
@@ -233,457 +244,490 @@ I'll help too.
 [0034]
 Mizuki Himeji
 **********
-Thank you, Minami.
-Well then, I'll take this note here.
-Can you write it on the blackboard with me?
+Thank you very much, Minami.
+Could you start by writing this
+on the blackboard for me?
 
 --------------------
 [0035]
 Minami Shimada
 **********
-Uh, what what what?
-While using virtual currency ...... Oh, no!
-I stained my clothes with chalk. ......
+Let's see. You will be using virtual
+currency to--Oh no! I'm getting
+chalk all over my clothes...
 
 --------------------
 [0036]
 Mizuki Himeji
 **********
-Aww, me too ......
+Oh... Me too...
 
 --------------------
 [0037]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-If it's ......, then ...... this.
+If that's the case, try these.
 
 --------------------
 [0038]
 Minami Shimada
 **********
-What is this?　Suit?
+What are these?　Suits?
 
 --------------------
 [0039]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-...... If you're going to be teaching,
-this is the best way to go.
+...If you're going to be teaching,
+these will fit best.
 
 --------------------
 [0040]
 Mizuki Himeji
 **********
-But I'm sorry if I stain it. ......
+But wouldn't it be worse if we got these
+suits dirty?
 
 --------------------
 [0041]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-It's ...... no problem.
-You can get dirty ...... rather dirty.
+...Don't worry about it.
+Get dirty... 
+the dirtier, the better...
 
 --------------------
 [0042]
 Minami Shimada
 **********
-Mizuki, what do you want to do?
+What do you think, Mizuki?
 
 --------------------
 [0043]
 Mizuki Himeji
 **********
-...... What should we do?
+I don't know...
+What should we do?
 
 --------------------
 [0044]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-......This is ......!
+Th-This is...!
 
 --------------------
 [0045]
 Minami Shimada
 **********
-I guess she's going to wear it after all.
-And even add glasses to it.
+We decided we'd wear them.
+And we added glasses too!
 
 --------------------
 [0046]
 Mizuki Himeji
 **********
-Because I can't let Tsuchiya-kun's goodwill go unnoticed.
-I can't let Tsuchiya-kun's favor go ungrudgingly. ......
-I'm sure Minami would look good in it too.
+Well, Tsuchiya insisted,
+and we just couldn't refuse.I think it 
+really suits you, Minami, don't you?
+
 
 --------------------
 [0047]
 Minami Shimada
 **********
-Well, yeah?
-What do you think ...... Aki?
+Y-You do?
+What do you think, Aki?
 
 --------------------
 [0048]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-(It certainly looks good on her.
-　The short length of the skirt emphasizes Minami's long and slender legs.
-　long legs are emphasized because of the short length of the skirt. ......)
+(Of course it looks great on her.
+And that short skirt is really 
+showing off her legs...)
+
 
 --------------------
 [0049]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-But when she's side by side with Himeji-san in that outfit,
-I'm very sorry to say that your chest is too thin--
+But compared to Himeji's figure, the
+flatness of the chest area is,
+how you say... disappointing.
 
 --------------------
 [0050]
 Minami Shimada
 **********
-Sorry to hear that!
+I'll show you disappointing!
 
 --------------------
 [0051]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-MimiMimiMiami!　No!　No joint techniques!
-Gib!　Gibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgib!
+M-M-Minami! Stop!
+Judo's against the rules!
+Uncle! Uncleeeee! Uncle uncle uncle!!!
+
 
 --------------------
 [0052]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Ohhhhhhhh!
+Aaaaaaaaaghhhhh!
 
 --------------------
 [0053]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-...... and now, and so on.
-I was just trying to get an explanation,
-Why do I feel so bad ......?
+...And now, we're back to the present.
+I was ready for the explanation, so
+how did I end up in that situation...?
+
 
 --------------------
 [0054]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Because you're the one who can't stop staring at the two of them in their suits, right?
+You think it might've had something to
+do with you perving out on their suits?
 
 --------------------
 [0055]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Well, there is such a thing ......,
-But then, so is Yuji!
+Th-That's... Ok, yes, maybe, but...
+You were too, Yuuji!
 
 --------------------
-[0056]?
-What? （Fitness)
+[0056]
+????? （Shouko)
 **********
-...... Is that true?
+Is that so?
 
 --------------------
 [0057]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Gwaaah!　My eyeballs are in the back of my head!
+Gaaaaagh!! I can feel my eyeballs
+pressing against my brain...!
 
 --------------------
 [0058]
-Kirishima Fitness
+Shouko Kirishima
 **********
-...... Yuji, don't flirt.
-I'm the only one who can watch you.
+Yuuji, affairs will not be tolerated.
+You're not allowed to look at anyone
+but me.
+
 
 --------------------
 [0059]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Guuuuuhhhh ...... why the fitness boy here?
-You're a class A student, right?
+Grrr... Why are you even here, Shouko?
+Shouldn't you be over in Class A?
 
 --------------------
 [0060]
-Yuko Kinoshita
+Yuuko Kinoshita
 **********
-I'm here to warn you that your voices are too loud.
-I came to warn you.
-I mean, what are Himeji-san and Shimada-san wearing?
+We came over to let you know how
+incredibly loud you were, and... Uh...
+Himeji, Shimada, what's with the suits?
 
 --------------------
 [0061]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-...... this is the best ...... magical charm.
+And here... is the master of dominance
+appeal.
 
 --------------------
 [0062]
-Kirishima Fitness
+Shouko Kirishima
 **********
-I understand .......
-Then I'll take this one.
+I understand.
+If that's what you like, 
+then I shall join them.
 
 --------------------
 [0063]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-......!　......!
+...H-mn! ...H-mn!
+
 
 --------------------
 [0064]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Oh?　She looks too good!
-The intellectual atmosphere is just the ideal female teacher!
+Wow! A female teacher that breathes
+sophistication, it's almost too perfect!
 
 --------------------
 [0065]
-Kirishima Fitness
+Shouko Kirishima
 **********
-...... Yuji, you can look at them.
-Get closer.
+...Yuuji, it's okay to look.
+Come closer.
 
 --------------------
 [0066]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Get closer!
-Better yet, Himeji, hurry up and start explaining!
+Come closer?!
+Himeji, could you hurry up and start 
+the explanation?
 
 --------------------
 [0067]
 Mizuki Himeji
 **********
-Ha, yes!　I understand.
-Then everyone, please look at the blackboard.
+O-Of course! I'll start right away.
+Alright everyone, please direct your
+attention to the blackboard!
 
 --------------------
 [0068]
 Mizuki Himeji
 **********
-About the part that differs from the previous one,
-The main points are as described here.
+Here, I've written each of the key points
+that we are going to cover.
 
 --------------------
 [0069]
 Mizuki Himeji
 **********
-First, each individual is given a virtual currency,
-and by using it to buy and sell
-and collect equipment by buying and selling with it.
+First, you will be given an allowance
+of virtual currency that'll be used to
+buy and sell equipment.
 
 --------------------
 [0070]
 Mizuki Himeji
 **********
-However, fixtures can also be taken away by making the summoner fight
-You can also take them away.
+However, this equipment can also be
+taken by fighting each other with your
+avatars.
 
 --------------------
 [0071]
 Minami Shimada
 **********
-Then, it's like the usual test war.
-The competition will not be a class competition, but an individual competition
-This time, it will be an individual competition among four people in pairs. ......
+It won't be like the war between clases.
+This time, four people from each class
+will be playing in a single match.
+
 
 --------------------
 [0072]
-Kirishima Fitness
+Shouko Kirishima
 **********
-...... In addition, if you get the top three times in a row
-You will get a prize.
+Additionally,
+A player who is able to win three times
+in a row will receive a prize.
 
 --------------------
 [0073]
 Mizuki Himeji
 **********
-As far as the explanation given earlier,
-It seems that you can be quite selfish about the prizes.
-I'm sure you will be able to get the prizes.
+From what I could hear of the
+explanation, it sounded like the winner
+will be able to choose their own prize.
 
 --------------------
 [0074]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Really?
-That means I can have whatever I want!
-I can get whatever I want!
+Seriously?!
+That means we can get
+anything we want?!
 
 --------------------
 [0075]
 Mizuki Himeji
 **********
-Yes, the headmaster mentioned it.
-I think that's what he meant by "our interests."
-I think that's what he meant.
+Right. I think that's what the Principal
+meant when she said that the change
+in system would be ''to our advantage''.
 
 --------------------
 [0076]
 Minami Shimada
 **********
-But it's three times in a row that you get it.
-If you make it to the top, you'll get ......, right?
-That's not possible.
+But, we need to win three times
+in a row to win the prize, right?
+I doubt I could pull that off.
 
 --------------------
 [0077]
-Shimizu Miharu
+Miharu Shimizu Miharu
 **********
-But I will do it!
-Miharu will do her best for her sister!
+But, I can! I'll do my very best 
+just for you Onee-Sama!
+(Transl Note: Onee-Sama is a yuri Trope)
 
 --------------------
 [0078]
 Minami Shimada
 **********
-Hey, why is Miharu here!
-It's class D, right!
+W-Why are you here, Miharu?!
+Shouldn't you be in Class D?
 
 --------------------
 [0079]
-Shimizu Bishun
+Miharu Shimizu Miharu
 **********
-For the sake of her sister,
-Miharu will go anywhere!
-Because Miharu loves her sister!
+Wherever my Onee-Sama goes,
+I shall follow!
+Because Miharu loves her Onee-Sama!
 
 --------------------
 [0080]
 Minami Shimada
 **********
-We don't have that kind of taste!
-Give it up for good!
+I've told you already, I don't swing
+that way! Give it up already!
 
 --------------------
 [0081]
-Miharu Shimizu
+Miharu Shimizu Miharu
 **********
-It's a lie!
-Your sister must love Miharu!
-Even yesterday, she was violently ...... many times in her dreams!
+Don't lie! I know Onee-Sama loves Miharu!
+Just yesterday, you wouldn't stop 
+telling Miharu ... in my dreams at least.
 
 --------------------
 [0082]
-Shimada Minami
+Minami Shimada
 **********
-I don't!　We usually like boys!
+I would never! 
+How many times do I have to say it? 
+I like boys! I'm just a regular girl!
 
 --------------------
 [0083]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Minami and Shimizu-san are getting along great as always.
-...... but prizes, huh?
+Minami and Miharu are just 
+as close as ever, huh?
+...Oh, right! About that prize
 
 --------------------
 [0084]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Three times in a row tops would certainly be difficult, though,
-I guess it's worth aiming for.
+Winning three times in a row is quite 
+the order,but it seems appropriate for
+the reward.
 
 --------------------
 [0085]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-What about Muttsurini?　I mean ......
+What do you think, Muttsurini? 
+...Muttsurini?
 
 --------------------
 [0086]
-Kota Tsuchiya
+Kouta Tsuchiya
 **********
-.................. (dabba dabba dabba)
+(drip.. drip.. drip..)
 
 --------------------
 [0087]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-...... Oh. I didn't realize you were already indulging in delusions.
-As expected of Muttsurini,
-Definitely going to get serious.
+I didn't realize you were already lost in
+fantasies. As expected of Muttsurini,he's
+definitely gonna be aiming for the top.
 
 --------------------
 [0088]
 Mizuki Himeji
 **********
-Wow, I'll do my best.
-Actually, there's something I want right now,
-My allowance is not enough at all. ......
+I-I will too!
+There's something I want right now,
+but my allowance can't afford it...
 
 --------------------
 [0089]
 Minami Shimada
 **********
-If everyone is going to do their best, we should do it too.
-Hey, what do you want for the prize, Aki?
+If everyone is going to try, then we 
+should too. Hey!, Aki!, what sort of
+prize would you want if you won?
 
 --------------------
 [0090]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Hmmm, I don't know yet.
-Anyway, I have to win everyone over.
+Hmmm, I haven't decided yet.
+It's too bad that we can't all win.
 
 --------------------
 [0091]
-Yuji Sakamoto
+Yuuji Sakamoto
 **********
-Hou ...... No way, Akihisa,
-You think you can beat me?
+Oho... Say, Akihisa.
+Do you actually believe you'll be
+winning this thing?
 
 --------------------
 [0092]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Of course. I'm not going to play a game I can't lose.
+Of course. I don't play to lose.
 
 --------------------
 [0093]
-Shimizu Miharu
+Miharu Shimizu Miharu
 **********
-No, it's not!　It is Miharu who wins!
-For your sister ......
-For your sister to realize true love!
+No way!Miharu is going to be the winner!
+Then, my Onee-Sama and Miharu will
+fall into the depths of love together!
 
 --------------------
 [0094]
-Kirishima Fitness
+Shouko Kirishima
 **********
-If it's the depth of ...... love, I won't lose.
-I am the best ...... and I will never lose.
+Shouko Kirishima
+If we're comparing the depths of love,
+my love runs deepest.
+...so I will not lose.
 
 --------------------
 [0095]
 Mizuki Himeji
 **********
-Wow, I won't lose either!
-I will do my best!
-I want to help the people I love!
+I definitely won't lose!
+I'm going to try my best so I can
+help the person that I love, too!
 
 --------------------
 [0096]
 Hideyoshi Kinoshita
 **********
-It looks like this battle is going to be quite a rough one.
-I hope nothing goes wrong.
+Looks like this battle is going
+to be pretty intense. I hope
+everything goes smoothly.
 
 --------------------
 [0097]
-Akihisa Yoshii
+Yoshii Akihisa Yoshii
 **********
-Yes, like ...... someone's chest.
-While I'm saying I hope it ends up flat.
-I got my leg joints mastered eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee. ......
+Yeah! This war might even help cure
+a certain someone's flat ches-owowow
+AHHHG! my legs don't bend that waaaaay!
+
 
 --------------------
 [0098]
-(TWITTER)
+Author
 **********
---And so it goes,
-Our unusual test war
-The curtain was opened.
+--And so, the opening act came
+to a close as the curtains rose
+on a unusual Summoner Test War.
 
 --------------------

@@ -1,215 +1,227 @@
 [0000]
-坂本雄二
+Yuuji Sakamoto
 **********
-ババア、入るぞ。
+Yo, Hagzilla, we're coming in.
 
 --------------------
 [0001]
-藤堂カヲル
+Kaoru Toudou
 **********
-なんだい。
-入る前はノックしろと言ったはずだよ？
+What do you want?
+Don't you brats know how to knock?
 
 --------------------
 [0002]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-耳が遠くて聞こえないだろうから、
-学園長に気を遣って
-自主的に省略してるんですよ。
+Well, you're too far from the door to
+hear us knocking, so we decided to be
+courteous and left that part out.
 
 --------------------
 [0003]
-坂本雄二
+Yuuji Sakamoto
 **********
-そういうことだ。
-それより、さっきのことで質問がある。
+Anyway, I have a question about 
+what you said before.
 
 --------------------
 [0004]
-藤堂カヲル
+Kaoru Toudou
 **********
-別のヤツに聞きな。
-アタシは暇じゃないんだ。
-とっとと出て行きな。
+Ask someone else.
+I don't have time for this.
+Now get out.
 
 --------------------
 [0005]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-姫路さん、よかったね。
-学園長が答えてくれるって。
+Ah, Himeji! Good timing!
+Ask the principal your question.
 
 --------------------
 [0006]
-姫路瑞希
+Mizuki Himeji
 **********
-ええっ！？
-…………学園長、本当によろしいですか？
+Eh!?
+...Is that okay with you, 
+Principal?
 
 --------------------
 [0007]
-藤堂カヲル
+Kaoru Toudou
 **********
-ハァ……無理だと言っても、
-このバカジャリどもは本当に聞きゃしないねえ。
-手短に済ませな。
+Hm...I told them no, but if it'll make it
+so I don't have to listen to these idiots
+Make it quick.
 
 --------------------
 [0008]
-姫路瑞希
+Mizuki Himeji
 **********
-は、はい、分かりました！
-あの、先ほどの賞品のことなのですが、
-どんな物でもいいのでしょうか。
+O-Ok, understood!
+Um, about the prize we get for winning...
+Can it be anything we want?
 
 --------------------
 [0009]
-藤堂カヲル
+Kaoru Toudou
 **********
-回りくどいねえ。
-何が欲しいんだい？　言ってみな。
+You're not really making this quick.
+What is it you want? 
+I'll tell you if it works.
 
 --------------------
 [0010]
-姫路瑞希
+Mizuki Himeji
 **********
-新しいお料理道具です。
-私、お世話になってる皆さんに
-お料理を作りたいんです。
+I'd like some new cookware.
+And I'd... like to prepare a big
+meal for everyone!
 
 --------------------
 [0011]
-みんな（吉井明久＆坂本雄二＆木下秀吉＆土屋康太）
+Idiots
 **********
-ッッッ！？
+...!?
 
 --------------------
 [0012]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-……ヤバいよ！　どうする？
+...Oh crap! This is seriously bad!
 
 --------------------
 [0013]
-坂本雄二
+Yuuji Sakamoto
 **********
-ああ……姫路の料理は劇物だ。
-今までに何度も殺されかけてるしな。
+Yeah... Himeji's cooking is some
+kind of poison. It should've killed 
+us a dozen times over by now.
 
 --------------------
 [0014]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-どうするのじゃ？
-このまま姫路が勝てば、死あるのみ、じゃぞ？
+Then what do we do?
+That means if Himeji wins... 
+we die, right?!
 
 --------------------
 [0015]
-土屋康太
+Kouta Tsuchiya
 **********
-…………断固阻止……！
+...We have to stop her...!
 
 --------------------
 [0016]
-島田美波
+Minami Shimada
 **********
-ねえアキ達、何をこそこそ話してるの？
+Hey Aki, what are you guys whispering
+about over there?
 
 --------------------
 [0017]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ななな何でもないよ！
-ねえ、雄二！？
+N-N-N-Nothing!
+Right, Yuuji!?
 
 --------------------
 [0018]
-坂本雄二
+Yuuji Sakamoto
 **********
-あ、ああっ、姫路、頑張れよ。
-だが、ほどほどにだ。いいか、無理はするな。
+U-Uh, yeah. Himeji, do your best.
+I mean, to an extent. 
+You don't want to go too far.
 
 --------------------
 [0019]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-そ、そのとおり！　無理は禁物じゃ。
+Th-That's right! 
+We don't want you to overdo it.
 
 --------------------
 [0020]
-姫路瑞希
+Mizuki Himeji
 **********
-でも、新しいお料理道具で、
-皆さんに、たくさん召し上がって
-もらいたいですから！
+But, if I get new cookware,
+I'll be able to make even more
+food for everyone to enjoy!
 
 --------------------
 [0021]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そ、その気持ちだけでもすごく嬉しいよ。
-あは……あははは……皆……どうしよう？
+J-Just the intention alone makes us
+happy.
+Ahaha... ha... Guys, what do we do?
 
 --------------------
 [0022]
-坂本雄二
+Yuuji Sakamoto
 **********
-姫路に勝たせないようにするしかない。
-俺達の命のために。
+There's no way we can let Himeji win.
+Our lives depend on it.
 
 --------------------
 [0023]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-死中に活を求める……それしかないようじゃの。
+We need to find our way out of this...
+It's a matter of life or death.
 
 --------------------
 [0024]
-土屋康太
+Kouta Tsuchiya
 **********
-……絶対に負けられない……！
+...We can't lose, 
+no matter what...!
 
 --------------------
 [0025]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そうだね、明日の朝日を生きて拝むんだ！
-皆、がんばろう！
+That's right, we will live to see that 
+wondrous morning sun, tomorrow!
+Guys, let's do this!
 
 --------------------
 [0026]
-みんな（吉井明久＆坂本雄二＆木下秀吉＆土屋康太）
+Idiots
 **********
-オーーーッ！！
+Yeah!
 
 --------------------
 [0027]
-島田美波
+Minami Shimada
 **********
-……あれ、円陣なんか組んじゃってる。
-アキ達、すごく気合入ってるみたいね。
+...Huh, they've formed some sort of 
+huddle.
+And... was that a battle cry?
 
 --------------------
 [0028]
-姫路瑞希
+Mizuki Himeji
 **********
-そうですね。
-あんなに張り切ってたら、終わる頃には
-ヘトヘトになってそうですね。
+With all that enthusiasm, 
+they're going to be
+exhausted by the end of the game.
 
 --------------------
 [0029]
-島田美波
+Minami Shimada
 **********
-ちょうどいいじゃない。
-賞品にお料理道具をもらって、
-アキ達に何か作ってあげるんでしょ？
+That'll be perfect, then.
+Once you win your cookware, you'll be
+able to make them a little dinner.
 
 --------------------
 [0030]
-姫路瑞希
+Mizuki Himeji
 **********
-ええ、そうですね。頑張りますっ！
+Ah, you're right. I'll do my best!
 
 --------------------

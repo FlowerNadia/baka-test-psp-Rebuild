@@ -1,87 +1,91 @@
 [0000]
-霧島亊子
+Shouko Kirishima
 **********
-……また負けた。
-雄二と一緒に戦ったのに、
-まだ足りない何かがある。
+... I lost again.
+Yuuji and I fought together,
+but somehow it still wasn't enough.
 
 --------------------
 [0001]
-吉井明久
+Akihisa Yoshii
 **********
-う〜ん、ペアで戦いに挑むなら、
-相手の合意を得た方がもっと効率的に力が
-発揮できるんじゃないのかな。
+Hmmm...if you are going in pairs, I think
+it's better to obtain your partner trust
+There's no way I'll beat you that way. 
 
 --------------------
 [0002]
-坂本雄二
+Yuuji Sakamoto
 **********
-明久、余計なことを言うな！
+Akihisa, stop talking.
 
 --------------------
 [0003]
-霧島亊子
+Shouko Kirishima
 **********
-……わかった。合意させる。
-来て、雄二。
+... We must establish trust.
+Come, Yuuji.
 
 --------------------
 [0004]
-坂本雄二
+Yuuji Sakamoto
 **********
-お、おい、どこへ行く！？
-そっちにあるのは保健室だろ！？
+H-Hey, where are you going?
+Isn't the infirmary in that direction?!
 
 --------------------
 [0005]
-霧島亊子
+Shouko Kirishima
 **********
-……そこで合意してもらう。
-既成事実を作る。
+... That is where you will give your 
+consent. We will make our mutual trust
+an established fact.
 
 --------------------
 [0006]
-坂本雄二
+Yuuji Sakamoto
 **********
-誰が作らせるか――
+Just what are you--
 
 --------------------
 [0007]
-坂本雄二
+Yuuji Sakamoto
 **********
-あがっ！　しょ、亊子、やめっ、あぶっ、
-やめぐぁあああ！！
+Ahh! Sh-Shoko, stop! No!
+Stop iiiiiiiit!
 
 --------------------
 [0008]
-霧島亊子
+Shouko Kirishima
 **********
-……これでいい。
+... This is good.
 
 --------------------
 [0009]
-島田美波
+Minami Shimada
 **********
-ほんと、仲が良くて羨ましいわね。
+I'm kind of jealous of how close 
+those two are.
 
 --------------------
 [0010]
-吉井明久
+Akihisa Yoshii
 **********
-そ……そうだね……
+Y-You don't say...
 
 --------------------
 [0011]
-島田美波
+Minami Shimada
 **********
-それよりアキって、今ので３連勝なの？
+Anyways. Wasn't that your third 
+win in a row, Aki?
 
 --------------------
 [0012]
-吉井明久
+Akihisa Yoshii
 **********
-そうだ！　これで賞品が手に入るんだ！
-早く学園長の所へ行かなきゃ！
+Huh, you're right! 
+I guess it's time to claim my prize!
+I need to hurry to the principal's office
 
 --------------------

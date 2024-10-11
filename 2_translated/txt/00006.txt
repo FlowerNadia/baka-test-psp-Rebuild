@@ -1,123 +1,135 @@
 [0000]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-これがラストだ！
-あと１回……あと１回勝てば……！
+This is it!
+One more... 
+If I win just once more...!
 
 --------------------
 [0001]
-坂本雄二
+Yuuji Sakamoto
 **********
-明久、悪いがそれは無理だ。
-……理由は、察しろ。
+Sorry, Akihisa, 
+but that won't be happening.
+... I'll make sure of it.
+
 
 --------------------
 [0002]
-霧島亊子
+Shouko Kirishima
 **********
-……その通り。
-私と雄二の愛の深さを、察するべき。
+... That's right.
+We can sense it with the depth
+of our love.
 
 --------------------
 [0003]
-坂本雄二
+Yuuji Sakamoto
 **********
-亊子、少し離れろ。
-一応は敵同士なんだぞ？
+Shouko, stand back a little.
+We're supposed to be opponents
+right now, remember?
 
 --------------------
 [0004]
-霧島亊子
+Shouko Kirishima
 **********
-……そんなことない。雄二は私の味方。
-それとも邪魔をするつもり？
+...But Yuuji, we are allies.
+Or do you intend to go against me?
 
 --------------------
 [0005]
-坂本雄二
+Yuuji Sakamoto
 **********
-当たり前だ。
-俺にだって欲しい物はあるし……
+Of course I do.
+I've still got something that 
+I want for that prize...
 
 --------------------
 [0006]
-霧島亊子
+Shouko Kirishima
 **********
-……分かっている。いつでもいい。
-そのための愛の巣だから。
+... I understand. Whenever is good.
+Since this is for our love nest, 
+after all.
 
 --------------------
 [0007]
-坂本雄二
+Yuuji Sakamoto
 **********
-違う！　そんなんじゃ――
+No way! I'm not doing that--
 
 --------------------
 [0008]
-坂本雄二
+Yuuji Sakamoto
 **********
-グアッ！？
-目がぁ……目がぁっ！？
+Gah!?
+My... My eyes!?
 
 --------------------
 [0009]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-今の、指の第二関節まで入ったような……
+I think she got all the way to 
+the second knuckle there...
 
 --------------------
 [0010]
-島田美波
+Minami Shimada
 **********
-アキ、今回はウチも参戦するからよろしくね。
+Aki, since I'll be competing this time,
+ let's have a good match, ok?
 
 --------------------
 [0011]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-美波も？
-だったら、ここは僕に協力してよ。
+Minami is here too?
+Then let's work together!
 
 --------------------
 [0012]
-島田美波
+Minami Shimada
 **********
-気持ちはわからないでもないけど……
-でも、アキに協力するってことは
-ウチが負けるってことでしょ？
+It's not that I don't get why you feel
+like that... But, if we were to work 
+together, what would I gain from losing?
 
 --------------------
 [0013]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-それはそうだけど……でもほら、
-人に良いことをした後は心が豊かになるよ！
+You do have a point...
+There may not be anything in it for you,
+but aren't experiences their own reward?
 
 --------------------
 [0014]
-島田美波
+Minami Shimada
 **********
-うーん……
+Not really...
 
 --------------------
 [0015]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-あ……でも、豊かになるのは心だけだよ？
-他の部分に期待してもだめだからね。
+But they're supposed to be good 
+for the heart! Don't you wanna 
+fill your chest with memories?
 
 --------------------
 [0016]
-島田美波
+Minami Shimada
 **********
-それ、どういう意味よ！？
-絶対に協力しない。覚悟しなさいよ、アキ！
+That... what kind of opinion is that!?
+I am absolutely not cooperating with you.
+Prepare yourself, Aki!
 
 --------------------
 [0017]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ええっ！？　どうしてそうなるの！？
-僕何か悪いこと言った？
+E..Eh!? Why wouldn't you!?
+What did I say wrong?
 
 --------------------

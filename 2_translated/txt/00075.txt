@@ -1,649 +1,617 @@
 [0000]
-姫路瑞希
+Mizuki Himeji
 **********
-明久くん、すぐにお料
-理作りますから！
+Akihisa, I'll be cooking you a meal
+in no time!
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-む、無理しないで！頑
-張らなくていいよ！
+D-Don't overdo it!
+There's no need to force yourself!
 
 --------------------
 [0002]
-姫路瑞希
+Mizuki Himeji
 **********
-美波ちゃん、調子はど
-うですか？
+Minami, how are you
+feeling?
 
 --------------------
 [0003]
-島田美波
+Minami Shimada
 **********
-ボチボチ、かな？瑞希
-も頑張って！
+Not too bad, I guess.
+Try your best too, Himeji!
 
 --------------------
 [0004]
-姫路瑞希
+Mizuki Himeji
 **********
-坂本くん、こんな所で
-どうしたんですか？
+Sakamoto, what are you doing here?
 
 --------------------
 [0005]
-坂本雄二
+Yuuji Sakamoto
 **********
-なあに、ちょっと作戦
-を練ってただけだ。
+Nothing, really. Just working on
+a strategy.
 
 --------------------
 [0006]
-姫路瑞希
+Mizuki Himeji
 **********
-木下くん、何をしてい
-るんですか？
+Hideyoshi, what are you
+up to?
 
 --------------------
 [0007]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-一休みじゃ。姫路も一
-緒にどうじゃ？
+Just resting. Would you like to
+join me, Himeji?
 
 --------------------
 [0008]
-姫路瑞希
+Mizuki Himeji
 **********
-土屋くん、調子はどう
-ですか？
+How is everything, Kouta?
 
 --------------------
 [0009]
-土屋康太
+Kouta Tsuchiya
 **********
-…カメラの調子ならい
-つでも万全。
+...If you're talking about my camera,
+it's working perfectly fine.
 
 --------------------
 [0010]
-姫路瑞希
+Mizuki Himeji
 **********
-霧島さん、お互い頑張
-りましょう。
+Kirishima, let's both try our best.
 
 --------------------
 [0011]
-霧島亊子
+Shouko Kirishima
 **********
-…ええ。でも私は負け
-ない。
+...Of course. But I won't lose.
 
 --------------------
 [0012]
-姫路瑞希
+Mizuki Himeji
 **********
-木下さんは、賞品は何
-にするんですか？
+Kinoshita, what would you want
+for your reward if you won?
 
 --------------------
 [0013]
-木下優子
+Yuuko Kinoshita
 **********
-うっ…な、内緒という
-事にしておくわ。
+Uh...I-I don't really
+have to tell you that.
 
 --------------------
 [0014]
-姫路瑞希
+Mizuki Himeji
 **********
-清水さん、誰かをお探
-しですか？
+Are you searching for someone,
+Shimizu?
 
 --------------------
 [0015]
-清水美春
+Miharu Shimizu
 **********
-当然、お姉さまに決ま
-ってます！
+I'm looking for my sweet
+Honey Bunch, obviously!
 
 --------------------
 [0016]
-姫路瑞希
+Mizuki Himeji
 **********
-明久くん、私と対戦し
-てください。
+Akihisa, please fight me.
 
 --------------------
 [0017]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-了解だよ、姫路さん。
+No problem, Himeji.
 
 --------------------
 [0018]
-姫路瑞希
+Mizuki Himeji
 **********
-美波ちゃん、お願いで
-きますか？
+Minami, shall we?
 
 --------------------
 [0019]
-島田美波
+Minami Shimada
 **********
-いいわよ、瑞希。でも
-負けないから！
+Sure. But I won't lose.
 
 --------------------
 [0020]
-姫路瑞希
+Mizuki Himeji
 **********
-坂本くん、お相手して
-もらっていいですか？
+Yuuji, do you mind
+being my opponent?
 
 --------------------
 [0021]
-坂本雄二
+Yuuji Sakamoto
 **********
-ああ。だが、手加減は
-できないぞ。
+Sure. I won't hold back, though.
 
 --------------------
 [0022]
-姫路瑞希
+Mizuki Himeji
 **********
-木下くん、お相手お願
-いします！
+Hideyoshi, please fight me!
 
 --------------------
 [0023]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-わかった、正々堂々勝
-負じゃ！
+Alright, let's have a fair fight!
 
 --------------------
 [0024]
-姫路瑞希
+Mizuki Himeji
 **********
-土屋くん、今お時間大
-丈夫でしょうか？
+Kouta, if it doesn't bother you...
 
 --------------------
 [0025]
-土屋康太
+Kouta Tsuchiya
 **********
-…問題ない。
+...No problem.
 
 --------------------
 [0026]
-姫路瑞希
+Mizuki Himeji
 **********
-霧島さん、対戦お願い
-します。
+Kirishima, please fight me.
 
 --------------------
 [0027]
-霧島亊子
+Shouko Kirishima
 **********
-…分かった。いつ始め
-てもいい。
+...I understand. Come at me when
+you're ready.
 
 --------------------
 [0028]
-姫路瑞希
+Mizuki Himeji
 **********
-木下さん、バトルをお
-願いしていいですか？
+Kinoshita, do you mind battling me?
 
 --------------------
 [0029]
-木下優子
+Yuuko Kinoshita
 **********
-相手にとって不足はな
-いわね。
+Nothing wrong with that,
+if you don't mind losing.
 
 --------------------
 [0030]
-姫路瑞希
+Mizuki Himeji
 **********
-清水さん、対戦しても
-らってもいいですか？
+Shimizu, may we fight?
 
 --------------------
 [0031]
-清水美春
+Miharu Shimizu
 **********
-いいですよ。後悔させ
-てあげます！
+Alright, but you'll regret this!
 
 --------------------
 [0032]
-姫路瑞希
+Mizuki Himeji
 **********
-明久くん、ごめんなさ
-い！
+I'm sorry, Akihisa!
 
 --------------------
 [0033]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-勝負だし仕方ないよ。
-気にしないで。
+It's just a game, after all.
+Don't worry about it.
 
 --------------------
 [0034]
-西村宗一
+Sōichi Nishimura
 **********
-その心根やよし！しか
-し、戦死者は補習だ！
+You've got a good heart, Yoshii!
+But, those who died get a remedial class!
 
 --------------------
 [0035]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-うわああああ！忘れて
-たーーーっ！
+Uwaaaaah! I forgot about
+thaaaat!
 
 --------------------
 [0036]
-姫路瑞希
+Mizuki Himeji
 **********
-美波ちゃん、ごめんな
-さい。
+I'm sorry, Minami.
 
 --------------------
 [0037]
-島田美波
+Minami Shimada
 **********
-イケると思ったんだけ
-ど…瑞希、負けたわ。
+I thought I might have had a chance...
+I guess I'm not as strong as you, Mizuki.
 
 --------------------
 [0038]
-西村宗一
+Sōichi Nishimura
 **********
-というわけで補習だ！
+And with that, to the remedial classroom!
 
 --------------------
 [0039]
-島田美波
+Minami Shimada
 **********
-うう…分かってます。
+Ugh... Alright.
 
 --------------------
 [0040]
-姫路瑞希
+Mizuki Himeji
 **********
-坂本くん、私の勝ちみ
-たいです。
+Looks like I won, Yuuji.
 
 --------------------
 [0041]
-坂本雄二
+Yuuji Sakamoto
 **********
-やられたな。さすがは
-姫路だ。
+You got me there. I'd expect no less
+from you.
 
 --------------------
 [0042]
-西村宗一
+Sōichi Nishimura
 **********
-坂本、次は勝て！補習
-室で鍛えてやる！
+Try to win next time, Sakamoto. Try to 
+find motivation in the remedial classroom!
 
 --------------------
 [0043]
-坂本雄二
+Yuuji Sakamoto
 **********
-それはパスだ！補習な
-んかいらねえ！
+Pass! No way in hell am I going there!
 
 --------------------
 [0044]
-姫路瑞希
+Mizuki Himeji
 **********
-木下くん、ありがとう
-ございました！
+Hideyoshi, thank you
+very much!
 
 --------------------
 [0045]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-むう…やはり負けてし
-まったのう。
+Mhm... I shouldn't have expected anything
+else.
 
 --------------------
 [0046]
-西村宗一
+Sōichi Nishimura
 **********
-０点になった戦死者は
-補習だ！
+Those who died with a score of zero,
+meet me in the remedial classroom!
 
 --------------------
 [0047]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-…分かっておる。
+...I know.
 
 --------------------
 [0048]
-姫路瑞希
+Mizuki Himeji
 **********
-土屋くん、私の勝ち、
-ですよね？
+Looks like I won this one, huh?
 
 --------------------
 [0049]
-土屋康太
+Kouta Tsuchiya
 **********
-…完敗。
+...This is the worst possible outcome.
 
 --------------------
 [0050]
-西村宗一
+Sōichi Nishimura
 **********
-ならば補習だぞ。
+I suppose a remedial class is in order, then.
 
 --------------------
 [0051]
-土屋康太
+Kouta Tsuchiya
 **********
-…これだけは避けたか
-った。
+...I spoke too soon.
 
 --------------------
 [0052]
-姫路瑞希
+Mizuki Himeji
 **********
-あら…私の勝ち…です
-か？
+Oh... did I win...?
 
 --------------------
 [0053]
-霧島亊子
+Shouko Kirishima
 **********
-…次は必ず勝つ。
+I'll definitely win next time.
 
 --------------------
 [0054]
-西村宗一
+Sōichi Nishimura
 **********
-その前に補習が先だ。
+But before that, meet me in the remedial
+classroom!
 
 --------------------
 [0055]
-霧島亊子
+Shouko Kirishima
 **********
-…分かりました。
+...Understood.
 
 --------------------
 [0056]
-姫路瑞希
+Mizuki Himeji
 **********
-あ…私、勝っちゃいま
-した。
+Ah... I guess I won.
 
 --------------------
 [0057]
-木下優子
+Yuuko Kinoshita
 **********
-やられたわ。でも次は
-こうは行かないから。
+You got me. But the next time we meet,
+you won't be so lucky.
 
 --------------------
 [0058]
-西村宗一
+Sōichi Nishimura
 **********
-その前におまえは補習
-だ、木下。
+But before that, Kinoshita,
+the remedial classroom awaits.
 
 --------------------
 [0059]
-木下優子
+Yuuko Kinoshita
 **********
-分かってます…
+Yeah, I got it...
 
 --------------------
 [0060]
-姫路瑞希
+Mizuki Himeji
 **********
-清水さん、ありがとう
-ございました！
+Thank you so much,
+Shimizu.
 
 --------------------
 [0061]
-清水美春
+Miharu Shimizu
 **********
-嫌です！礼を言うなら
-負けてください！　
+No! You should be apologizing
+for making me lose!
 
 --------------------
 [0062]
-西村宗一
+Sōichi Nishimura
 **********
-おまえは補習だ！その
-根性を叩き直す！
+Remedial class for you! We'll beat that
+temper of yours into shape.
 
 --------------------
 [0063]
-清水美春
+Miharu Shimizu
 **********
-何をするんですかー！
+What?! You can't do this!
 
 --------------------
 [0064]
-姫路瑞希
+Mizuki Himeji
 **********
-ふう、負けなくて良か
-った…
+Phew. That was a close
+one.
 
 --------------------
 [0065]
-姫路瑞希
+Mizuki Himeji
 **********
-あれ？学園長、どうな
-さったんです？
+Oh? Principal, what's
+the matter?
 
 --------------------
 [0066]
-藤堂カヲル
+Kaoru Toudou
 **********
-サプライズってヤツだ
-よ…楽しむといいさ。
+I've got a surprise for you...
+I hope you all enjoy this.
 
 --------------------
 [0067]
-姫路瑞希
+Mizuki Himeji
 **********
-あ…ようやくお帰りで
-すか。
+Ah... Finally, things can go back to normal.
 
 --------------------
 [0068]
-姫路瑞希
+Mizuki Himeji
 **********
-こんなカードを待って
-たんです！
+I've been waiting for this
+card!
 
 --------------------
 [0069]
-姫路瑞希
+Mizuki Himeji
 **********
-うう…気にしない…気
-にしない…
+Ugh... It's okay...
+No need to worry...
 
 --------------------
 [0070]
-姫路瑞希
+Mizuki Himeji
 **********
-がんばらなきゃ！ふぁ
-い、おーっ！
+I have to do my best!
+Let's go!
 
 --------------------
 [0071]
-姫路瑞希
+Mizuki Himeji
 **********
-あと少しでお終いです
-ね。
+Just a little more before it's
+over.
 
 --------------------
 [0072]
-姫路瑞希
+Mizuki Himeji
 **********
-最後まで頑張りましょ
-う！
+I'll do my best until the end!
 
 --------------------
 [0073]
-姫路瑞希
+Mizuki Himeji
 **********
-この調子なら勝てるか
-も…！
+I can win if I keep this up...!
 
 --------------------
 [0074]
-姫路瑞希
+Mizuki Himeji
 **********
-こんなにいっぱい取ら
-れるなんて…
+Hard to believe that I'd earned so much...
 
 --------------------
 [0075]
-姫路瑞希
+Mizuki Himeji
 **********
-ああ…どうしよう…負
-けちゃうかも…！
+Aah... What should I do...?
+I might lose...!
 
 --------------------
 [0076]
-姫路瑞希
+Mizuki Himeji
 **********
-えへへ、このエリアを
-独り占めです。
+*ehehe*. This area is all mine.
 
 --------------------
 [0077]
-姫路瑞希
+Mizuki Himeji
 **********
-そんなあ…
+No...
 
 --------------------
 [0078]
-姫路瑞希
+Mizuki Himeji
 **********
-この種類の備品はコン
-プリートですね。
+Looks like I've got all of this type of
+equipment.
 
 --------------------
 [0079]
-姫路瑞希
+Mizuki Himeji
 **********
-ああ、コンプリートし
-てたのに…
+Agh, I'd collected all of them, too...
 
 --------------------
 [0080]
-姫路瑞希
+Mizuki Himeji
 **********
-はう…運に見放されて
-るようです…
+Ugh... I guess my luck has
+abandoned me...
 
 --------------------
 [0081]
-姫路瑞希
+Mizuki Himeji
 **********
-神様、ありがとうござ
-います！
+Oh, thank goodness!
 
 --------------------
 [0082]
-姫路瑞希
+Mizuki Himeji
 **********
-焦りは禁物だし…まだ
-大丈夫。
+Haste makes waste...but that's
+alright.
 
 --------------------
 [0083]
-姫路瑞希
+Mizuki Himeji
 **********
-明久君も休憩ですか？
+You are resting too, Akihisa?
 
 --------------------
 [0084]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-うん、姫路さんも来て
-くれて嬉しいよ。
+Yeah. I'm glad that you also
+ended up here, Himeji.
 
 --------------------
 [0085]
-姫路瑞希
+Mizuki Himeji
 **********
-えへへ…しばらくお話
-でもしてましょうか。
+*ehehe*... Why don't we
+chat for a bit?
 
 --------------------
 [0086]
-姫路瑞希
+Mizuki Himeji
 **********
-うふふ、勉強した甲斐
-がありました。
+*hehe*... All that studying is finally
+paying off.
 
 --------------------
 [0087]
-姫路瑞希
+Mizuki Himeji
 **********
-ああ…こんな点数初め
-てかもしれません……
+Agh... I think this is the first time
+I've ever gotten a grade like this...
 
 --------------------
 [0088]
-姫路瑞希
+Mizuki Himeji
 **********
-ええっ…そんな！？
+Eh? ...No?!
 
 --------------------
 [0089]
-姫路瑞希
+Mizuki Himeji
 **********
-ちゃんと計画的に買っ
-てたのに…
+And I had the perfect strategy
+worked out for that piece, too...
 
 --------------------
 [0090]
-姫路瑞希
+Mizuki Himeji
 **********
-回復試験を受けないと
-いけませんね…
+Now I have to go take a
+recovery test...
 
 --------------------
 [0091]
-姫路瑞希
+Mizuki Himeji
 **********
-これは困りました…
+This is troubling...
 
 --------------------
 [0092]
-姫路瑞希
+Mizuki Himeji
 **********
-ええと…どこに移動し
-たのでしょうか…
+Um... Where is this...?
 
 --------------------
 [0093]
-姫路瑞希
+Mizuki Himeji
 **********
-カードを勝手に捨てら
-れてしまいました…
+She just went and took my card...
 
 --------------------
 [0094]
-姫路瑞希
+Mizuki Himeji
 **********
-買収できなくなってし
-まいます…
+I can't buy that out anymore...
 
 --------------------

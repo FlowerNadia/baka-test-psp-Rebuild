@@ -1,660 +1,652 @@
 [0000]
-木下優子
+Yuuko Kinoshita
 **********
-いいこと？アタシの邪
-魔をしないでよ？
+Guess The right thing? it's not to
+get in my way
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-性格は秀吉と全然似て
-ないなあ…
+Your personality is a total contrast to 
+Hideyoshi...
 
 --------------------
 [0002]
-木下優子
+Yuuko Kinoshita
 **********
-姫路さん、調子はどう
-かしら？
+Himeji, how are you feeling?
 
 --------------------
 [0003]
-姫路瑞希
+Mizuki Himeji
 **********
-順調です。木下さんも
-頑張ってくださいね。
+I'm doing well. Try your best,
+Kinoshita.
 
 --------------------
 [0004]
-木下優子
+Yuuko Kinoshita
 **********
-島田さん、成長は…し
-てないわね。
+Shimada. Your growth is...
+insignificant.
 
 --------------------
 [0005]
-島田美波
+Minami Shimada
 **********
-ちょっと！何の話！？
+Wait a minute! What are you talking about!?
 
 --------------------
 [0006]
-木下優子
+Yuuko Kinoshita
 **********
-あら坂本君じゃない。
-代表がすぐそこに…
+Oh, it's Sakamoto.
+Soon, at that spot, the class rep will...
 
 --------------------
 [0007]
-坂本雄二
+Yuuji Sakamoto
 **********
-いない！そんなもの俺
-の目には見えない！
+NOT! That is not visible to my 
+eyes!
 
 --------------------
 [0008]
-木下優子
+Yuuko Kinoshita
 **********
-秀吉、持ってる備品を
-全部寄こしなさい。
+Hideyoshi, hand over all the equipments 
+you have in your possession.
 
 --------------------
 [0009]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上、何という無茶を
-言い出すのじゃ！？
+Sis, why are you proposing such an 
+outrageous demand!?
 
 --------------------
 [0010]
-木下優子
+Yuuko Kinoshita
 **********
-こんな所で何をしてる
-の？
+What are you doing here?
 
 --------------------
 [0011]
-土屋康太
+Kouta Tsuchiya
 **********
-…教える義務はない。
+... I'm not obligated to tell you.
 
 --------------------
 [0012]
-木下優子
+Yuuko Kinoshita
 **********
-あら代表。どう？この
-勝負、勝てそう？
+Oh, class rep? So? Do you think
+you can win this contest?
 
 --------------------
 [0013]
-霧島亊子
+Shouko Kirishima
 **********
-…可能性の問題じゃな
-い。絶対に勝つ。
+... This is not a question of possiblity.
+I'm certainly winning this.
 
 --------------------
 [0014]
-木下優子
+Yuuko Kinoshita
 **********
-清水さん、こんな所で
-奇遇ね。
+Shimizu, what a coincidence meeting
+you here.
 
 --------------------
 [0015]
-清水美春
+Miharu Shimizu
 **********
-そんな偶然必要ありま
-せん。
+An unneeded coincidence.
 
 --------------------
 [0016]
-木下優子
+Yuuko Kinoshita
 **********
-吉井、アタシと戦いな
-さい。
+Yoshii, fight me.
 
 --------------------
 [0017]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-嫌だと言っても…無理
-だよね。
+It's impossible for me to refuse... after all.
 
 --------------------
 [0018]
-木下優子
+Yuuko Kinoshita
 **********
-姫路さんが相手…
+The opponent is Himeji...
 
 --------------------
 [0019]
-木下優子
+Yuuko Kinoshita
 **********
-でもこの備品は絶対に
-欲しい！
+but I absolutely desire
+that equipment!
 
 --------------------
 [0020]
-姫路瑞希
+Mizuki Himeji
 **********
-ごめんなさい、渡すわ
-けにはいきません。
+I'm sorry. I can't hand over
+this to you.
 
 --------------------
 [0021]
-木下優子
+Yuuko Kinoshita
 **********
-島田さん、アタシと対
-戦してくれる？
+Shimada, let's have 
+a match?
 
 --------------------
 [0022]
-島田美波
+Minami Shimada
 **********
-望むところよ！
+That suits me! 
 
 --------------------
 [0023]
-木下優子
+Yuuko Kinoshita
 **********
-坂本君、アタシと勝負
-よ。
+Sakamoto, let's duel.
 
 --------------------
 [0024]
-坂本雄二
+Yuuji Sakamoto
 **********
-いいだろう。返り討ち
-にしてやるぜ！
+Sure. I'll turn the table on 
+you!
 
 --------------------
 [0025]
-木下優子
+Yuuko Kinoshita
 **********
-秀吉、備品を置いてと
-っとと消えなさい。
+Hideyoshi, place the equipment and 
+begone.
 
 --------------------
 [0026]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-できん相談じゃ。いざ
-勝負じゃ、姉上！
+That's out of the question.
+Let's battle, sis!
 
 --------------------
 [0027]
-木下優子
+Yuuko Kinoshita
 **********
-この備品、アタシに譲
-って欲しいんだけど？
+It would please me if you could hand over this
+equipment to me?
 
 --------------------
 [0028]
-土屋康太
+Kouta Tsuchiya
 **********
-…愚問。戦う以外の選
-択肢はない。
+... that's foolish. This can only be settled through
+battle.
 
 --------------------
 [0029]
-木下優子
+Yuuko Kinoshita
 **********
-代表、悪いけどこの備
-品アタシがもらうわ。
+Class rep, no offense but I'll taking
+that equipment off you.
 
 --------------------
 [0030]
-霧島亊子
+Shouko Kirishima
 **********
-…優子でも手加減はし
-ない。
+... I'll show no mercy even if it's you, 
+Yuuko.
 
 --------------------
 [0031]
-木下優子
+Yuuko Kinoshita
 **********
-清水さん。この備品、
-アタシが頂くわね？
+Shimizu. Would you offer me
+that equipment?
 
 --------------------
 [0032]
-清水美春
+Miharu Shimizu
 **********
-ふざけるなです！これ
-は美春の物です！
+Stop making fun of me! This 
+is my equipment!
 
 --------------------
 [0033]
-木下優子
+Yuuko Kinoshita
 **********
-アタシの勝ち、ね。
+It's my victory.
 
 --------------------
 [0034]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-あーあ。やっぱり負け
-ちゃったかあ…
+Sigh. A defeat just 
+as expected... 
 
 --------------------
 [0035]
-西村宗一
+Sōichi Nishimura
 **********
-そして、戦死者は補習
-に直行だー！
+And, loser will go through
+supplementary class!
 
 --------------------
 [0036]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-はあ…早く済ませて戻
-ってこないと…
+Whoa... if I don't finish this quick
+and return...
 
 --------------------
 [0037]
-木下優子
+Yuuko Kinoshita
 **********
-惜しかったけど…アタ
-シの勝ちね。
+That was close... but I've won 
+this.
 
 --------------------
 [0038]
-姫路瑞希
+Mizuki Himeji
 **********
-はい、木下さん。あり
-がとうございました。
+Yes, Kinoshita. Thank
+you very much.
 
 --------------------
 [0039]
-西村宗一
+Sōichi Nishimura
 **********
-姫路、戦死者になった
-からには補習だぞ。
+Himeji, as the loser, supplementary
+class is obligatory.
 
 --------------------
 [0040]
-姫路瑞希
+Mizuki Himeji
 **********
-はい…頑張ります。
+Yes... I'll stand firm.
 
 --------------------
 [0041]
-木下優子
+Yuuko Kinoshita
 **********
-意外とやるじゃない。
+You're better than I expect.
 
 --------------------
 [0042]
-島田美波
+Minami Shimada
 **********
-負けちゃったけどね。
-やっぱり強いな〜。
+I still lost though.
+You are strong.
 
 --------------------
 [0043]
-西村宗一
+Sōichi Nishimura
 **********
-お前も強くなれ！補習
-で鍛えてやる！
+You'll be strong! Train yourself 
+in the supplementary class!
 
 --------------------
 [0044]
-島田美波
+Minami Shimada
 **********
-補習じゃない方法はな
-いのかなあ…
-
+I wonder if  there an alternative 
+besides supplementary class...
 --------------------
 [0045]
-木下優子
+Yuuko Kinoshita
 **********
-実力の差は理解しても
-らえたかしら？
+Do you now realize the difference
+in ability now?
 
 --------------------
 [0046]
-坂本雄二
+Yuuji Sakamoto
 **********
-…認めたくないがな。
+... I refuse to acknowledge this.
 
 --------------------
 [0047]
-西村宗一
+Sōichi Nishimura
 **********
-認めようが認めまいが
-戦死者は補習だ！
+Whether you acknowledge it or not, 
+losers go to the supplementary class!
 
 --------------------
 [0048]
-坂本雄二
+Yuuji Sakamoto
 **********
-チッ…仕方ないか。
+Tsk... that's unavoidable.
 
 --------------------
 [0049]
-木下優子
+Yuuko Kinoshita
 **********
-アタシに逆らうなんて
-百年早いのよ！
+You are 100 years too early to
+oppose me!
 
 --------------------
 [0050]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-双子なのに、なぜここ
-まで差が出るのじゃ…
+Why is there such a differention when
+we are twins.
 
 --------------------
 [0051]
-西村宗一
+Sōichi Nishimura
 **********
-鍛え方が足りんのだ！
-戦死者は補習だ！
+It' because your training is lacking!
+Loser takes supplementary class!
 
 --------------------
 [0052]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-補習なら今までに何度
-も受けたのじゃが…
+But, I've been taking supplementary classes
+countless time now...
 
 --------------------
 [0053]
-木下優子
+Yuuko Kinoshita
 **********
-アタシの勝ちね。
+It's my win.
 
 --------------------
 [0054]
-土屋康太
+Kouta Tsuchiya
 **********
-…無念だ。
+... regretful.
 
 --------------------
 [0055]
-西村宗一
+Sōichi Nishimura
 **********
-戦死者は補習だ！こっ
-ちへ来い！
+Supplementary class for the loser!
+Come!
 
 --------------------
 [0056]
-土屋康太
+Kouta Tsuchiya
 **********
-…最悪。
+....the worst.
 
 --------------------
 [0057]
-木下優子
+Yuuko Kinoshita
 **********
-勝った…代表に…
+I won... against class rep...
 
 --------------------
 [0058]
-霧島亊子
+Shouko Kirishima
 **********
-…おめでとう、優子。
-でも次は負けない。
+... congratulation, Yuuko.
+I won't lose next time.
 
 --------------------
 [0059]
-西村宗一
+Sōichi Nishimura
 **********
-霧島、わかってるな。
-戦死者は補習だぞ。
+Kirishima, this should be clear.
+Loser is to take supplementary class.
 
 --------------------
 [0060]
-霧島亊子
+Shouko Kirishima
 **********
-…すぐに行きます。
+... I'll be there immediately.
 
 --------------------
 [0061]
-木下優子
+Yuuko Kinoshita
 **********
-アタシの勝ちよ。
+It's my victory.
 
 --------------------
 [0062]
-清水美春
+Miharu Shimizu
 **********
-分かってます！うるさ
-いです！
+I know! You are 
+being noisy!
 
 --------------------
 [0063]
-西村宗一
+Sōichi Nishimura
 **********
-清水、戦死者は補習だ
-ぞ。
+Shimizu, loser to the supplementary class, 
+you know?
 
 --------------------
 [0064]
-清水美春
+Miharu Shimizu
 **********
-ああもう、それも分か
-ってます！
+Jeez, I already know about 
+that too!
 
 --------------------
 [0065]
-木下優子
+Yuuko Kinoshita
 **********
-…勝てる戦いだったの
-に。
+... it was a battle that I should
+have won.
 
 --------------------
 [0066]
-木下優子
+Yuuko Kinoshita
 **********
-学園長、どうされたん
-ですか？
+Principal, is there
+a problem?
 
 --------------------
 [0067]
-藤堂カヲル
+Kaoru Toudou
 **********
-なあに、ちょっとした
-余興ってやつさ。
+It's nothing. Just a little side show, 
+that's all.
 
 --------------------
 [0068]
-木下優子
+Yuuko Kinoshita
 **********
-余興どころか災難の手
-本じゃない…！
+Rather than side show, this event
+is more of a disaster!
 
 --------------------
 [0069]
-木下優子
+Yuuko Kinoshita
 **********
-うふふ、ラッキー。
+Ehehe... lucky.
 
 --------------------
 [0070]
-木下優子
+Yuuko Kinoshita
 **********
-何でこんなカードを…
+Why this card!...
 
 --------------------
 [0071]
-木下優子
+Yuuko Kinoshita
 **********
-さあ、とっとと終わら
-せるわよ。
+Now, let's end this fast.
 
 --------------------
 [0072]
-木下優子
+Yuuko Kinoshita
 **********
-あら、もうこんな時間
-なんだ。
+Oh my, how time 
+flies.
 
 --------------------
 [0073]
-木下優子
+Yuuko Kinoshita
 **********
-これで勝ったも同然だ
-わ！
+Winning this is a given!
 
 --------------------
 [0074]
-木下優子
+Yuuko Kinoshita
 **********
-ぐっ…アタシとしたこ
-とが…！
+aah... for this to happen 
+to me...!
+
 
 --------------------
 [0075]
-木下優子
+Yuuko Kinoshita
 **********
-うう…計算を間違えた
-わ…
+Ugh... I've made a miscalculation 
+there...
+
 
 --------------------
 [0076]
-木下優子
+Yuuko Kinoshita
 **********
-これでまた一歩勝利に
-近づいたわ。
+This is yet another step towards 
+victory.
+
 
 --------------------
 [0077]
-木下優子
+Yuuko Kinoshita
 **********
-ふ〜ん…やってくれる
-じゃない。
+Phew~ I've come a long way.
 
 --------------------
 [0078]
-木下優子
+Yuuko Kinoshita
 **********
-これでこの種類の備品
-は全部アタシの物ね。
+Now, all the equipments of this
+category belongs to me.
 
 --------------------
 [0079]
-木下優子
+Yuuko Kinoshita
 **********
-いいわよ、すぐに取り
-返すから！
+Fine! I'll take them back 
+soon enough!
 
 --------------------
 [0080]
-木下優子
+Yuuko Kinoshita
 **********
-もう…いい加減にして
-よ！
+Geez... that's enough!
 
 --------------------
 [0081]
-木下優子
+Yuuko Kinoshita
 **********
-いい感じね。
+I've a good feeling.
 
 --------------------
 [0082]
-木下優子
+Yuuko Kinoshita
 **********
-はあ…何でこんなとき
-に…
+Aaah... why at such a timing...
 
 --------------------
 [0083]
-木下優子
+Yuuko Kinoshita
 **********
-秀吉、今あからさまに
-胸を見たわね。
+Hideyoshi, you are staring 
+intently at my chest.
 
 --------------------
 [0084]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-何を言うのじゃ！わし
-は何も見ておらん！
+What are you talking about?
+I'm not looking at anything!
 
 --------------------
 [0085]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上の小さい胸など決
-して…ハッ！？
+Your tiny chest most certainly...
+Ah!?
 
 --------------------
 [0086]
-木下優子
+Yuuko Kinoshita
 **********
-ふうん…秀吉…覚悟は
-いい？
+Hi-Hideyoshi... have you 
+resing yourself?
+
 
 --------------------
 [0087]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-誤解じゃ姉上！まずは
-話し合いで……
+That's a misunderstanding, sis! First,
+let's talk...
 
 --------------------
 [0088]
-木下優子
+Yuuko Kinoshita
 **********
-うふふ、これが実力よ
-ね。
+Uhuhu. This is my true ability.
+
 
 --------------------
 [0089]
-木下優子
+Yuuko Kinoshita
 **********
-どうして！？どこを間
-違えたの！？
+Why!? Did I make a mistake
+somewhere!?
 
 --------------------
 [0090]
-木下優子
+Yuuko Kinoshita
 **********
-これって、ただの嫌が
-らせじゃないですか！
+Isn't this merely some form of 
+harrassment!?
 
 --------------------
 [0091]
-木下優子
+Yuuko Kinoshita
 **********
-アタシの備品に触らな
-いでください！
+Please do not touch
+my equipments!
 
 --------------------
 [0092]
-木下優子
+Yuuko Kinoshita
 **********
-どうしよう、試験を受
-けた方がいいかしら…
+What should I do? Should I take
+the trial...?
 
 --------------------
 [0093]
-木下優子
+Yuuko Kinoshita
 **********
-学園長が生徒のお金に
-手を出すなんて！
+To think that a principal would make a
+move on a student's cash!
 
 --------------------
 [0094]
-木下優子
+Yuuko Kinoshita
 **********
-えっと…どこまで飛ば
-されたのかしら…
+Hmm... I wonder where did it flew
+off to...?
 
 --------------------
 [0095]
-木下優子
+Yuuko Kinoshita
 **********
-人のものを勝手に捨て
-るなんて…
+Swiping off people's properties so casually
+is... 
 
 --------------------
 [0096]
-木下優子
+Yuuko Kinoshita
 **********
-地味な嫌がらせだわ…
+This is just plain harrassment...
 
 --------------------

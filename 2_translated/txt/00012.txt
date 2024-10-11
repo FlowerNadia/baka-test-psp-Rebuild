@@ -1,97 +1,100 @@
 [0000]
-霧島亊子
+Shouko Kirishima
 **********
-……次は瑞希が相手？
+...Mizuki are you my next foe?
 
 --------------------
 [0001]
-姫路瑞希
+Mizuki Himeji
 **********
-は、はい、よろしくお願いします！
+Y-Yes, let's have a good match!
 
 --------------------
 [0002]
-姫路瑞希
+Mizuki Himeji
 **********
-……でも、勝てるでしょうか。
-ううん、勝たなきゃ！
-明久くんのために頑張らないと！
+...But, I do want to win.
+No, I *need* to win!
+I have to do my best for Akihisa!
 
 --------------------
 [0003]
-霧島亊子
+Shouko Kirishima
 **********
-……それは私も同じ。
-雄二のためにも負けられない。
+...I have the same ambition.
+I cannot lose, for Yuuji's sake.
 
 --------------------
 [0004]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上。ワシらは眼中に無いみたいじゃぞ。
+Sis. We're being ignored over here.
 
 --------------------
 [0005]
-木下優子
+Yuuko Kinoshita
 **********
-アタシにとってはチャンスよ。
-隙を突けば、勝つのは難しくないわ。
+At least I've got a chance.
+Aim for you enemiy's weakness, 
+and winning isn't so hard.
 
 --------------------
 [0006]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-そう上手くいくかのう。
+Yeah, that'll do the trick.
 
 --------------------
 [0007]
-木下優子
+Yuuko Kinoshita
 **********
-秀吉、あんたはどうせ勝てないんだから
-せめてアタシの盾になりなさい。
+Hideyoshi, since you're obviously
+going to lose, the least you can
+do is be my meat shield.
 
 --------------------
 [0008]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-無茶を言うでない！
-そんなこと、できるわけがないじゃろう！
+Don't be ridiculous! There's no way
+I'd do something like that!
 
 --------------------
 [0009]
-木下優子
+Yuuko Kinoshita
 **********
-そんなに難しくないわよ。
-どうにかして、アタシがトップになる時間を
-稼いでくれさえすればいいの。
+It's not like it's that hard.
+How about you just find a way
+to help me win?
 
 --------------------
 [0010]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-わしはわしで欲しいものもあるし、何より
-この勝負で姫路に負けるわけにはいかんのじゃ。
-姉上の提案には乗れんぞい。
+I believe that's in my best interests.
+Himeji would not lose otherwise.
+Alright,Let's work together, sis.
 
 --------------------
 [0011]
-木下優子
+Yuuko Kinoshita
 **********
-姫路さんに？
-いったいどういうこと？
+You're doing this because of Himeji?
+What did she ever do to you?
 
 --------------------
 [0012]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-ちょっと事情が入り組んでおってのう……
-それに、詳しく説明している暇はなさそうじゃ。
+The situation may soon get... 
+complicated... I don't have time
+to explain the details.
 
 --------------------
 [0013]
-姫路瑞希
+Mizuki Himeji
 **********
-ではそろそろ始めましょうか。
-皆さん、よろしくお願いします！
+If everyone's ready, let's begin!
+Good luck, everyone!
 
 --------------------

@@ -1,291 +1,295 @@
 [0000]
-島田美波
+Minami Shimada
 **********
-それにしても変なことになったわね。
-みんな、本当にどうするのよ？
+Things sure are taking a weird turn.
+What should we do?
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-もちろんやるさ！
-欲しい物があるしね。美波はどうなの？
+We just have to go for it!
+We all have things we want.
+What's yours, Minami?
 
 --------------------
 [0002]
-島田美波
+Minami Shimada
 **********
-ウ、ウチ？
-ウチは……まあ、うん。
-欲しい物はある……けど……
+M-Me? I want, uh...
+That one thing... you know...
 
 --------------------
 [0003]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ああ、そっか――
+Oh, I see--
 
 --------------------
 [0004]
-島田美波
+Minami Shimada
 **********
-ちょっとアキ、どこ見てるのかしら？
+Aki, what are you looking at?
 
 --------------------
 [0005]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-見てない見てない！
-美波の胸なんて見てない間に
-関節の数が増えええええええええええ！！
+I didn't look, I didn't! There's no way
+I'd look at your chest and now my
+joints are being ripped apaaaaaaaart!!
 
 --------------------
 [0006]
-島田美波
+Minami Shimada
 **********
-悪かったわね！
+Serves you right!
 
 --------------------
 [0007]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ごめん！　全然悪気はなかったんだ！
-もう本当のことは言わないから！
-ギブッ！　ギブギブギブギブギブッ！！
+I'm sorry! I didn't mean anything by it!
+I won't talk out loud like that anymore!
+I give! Uncle! Uncle!
 
 --------------------
 [0008]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-あああああああああっ！
+Ahhhhhhhhhhh!
 
 --------------------
 [0009]
-島田美波
+Minami Shimada
 **********
-如月ハイランドの優待券が欲しいのよ。
-妹の葉月が行きたがっててさ。
+I want some VIP tickets for 
+Kisaragi Grand Park.
+Hazuki said she wanted to go there.
 
 --------------------
 [0010]
-姫路瑞希
+Mizuki Himeji
 **********
-葉月ちゃんはお元気ですか？
+How's your little sister?
 
 --------------------
 [0011]
-島田美波
+Minami Shimada
 **********
-うん、瑞希に作ってもらったぬいぐるみ、
-ちゃんと大事にしてるわ。
+She's good. She says she really likes
+the doll that you made her.
 
 --------------------
 [0012]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-葉月ちゃんと遊園地かぁ。
-楽しそうだね。
+Going to the amusement park with Hazuki, huh?
+Sounds like fun.
 
 --------------------
 [0013]
-島田美波
+Minami Shimada
 **********
-アキも来るのよ？
-葉月から直々のご指名なんだから。
+Want to join us, Aki?
+Hazuki was really insistent about you 
+coming with us.
 
 --------------------
 [0014]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-それは断れないなあ。
-わかった、僕も行くよ。
+If that's how it is, I can't say no!
+Sure, I'll come along.
 
 --------------------
 [0015]
-島田美波
+Minami Shimada
 **********
-あ……と、もちろんウチも行くわよ。
-大事な葉月にアキがよからぬことを
-しないようにね。
+Ah... I'll be going too, you know.
+Can't have you doing anything bad to
+my precious little Hazuki, can I?
 
 --------------------
 [0016]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そんなことしないよ。
-僕にそんな趣味はないったら！
+I won't do anything.
+I don't have such interests!
 
 --------------------
 [0017]
-坂本雄二
+Yuuji Sakamoto
 **********
-いや、むしろ明久だからこそ、ありえる話だ。
+No, I'd say it's possible as it's Akihisa.
 
 --------------------
 [0018]
-土屋康太
+Kouta Tsuchiya
 **********
-……確かに。
+That's true.
 
 --------------------
 [0019]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-だから本当に違うって！
+I already said I'm not into that!
 
 --------------------
 [0020]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-もう、美波が変なことを言い出すから
-皆に誤解されちゃったじゃないか。
-美波、ちゃんと訂正してよ。
+Really, I think everyone misunderstood
+since Minami said something weird.
+Could you please put a stop to it?
 
 --------------------
 [0021]
-島田美波
+Minami Shimada
 **********
-だ、だったら……
-ウチと二人だけで行ってみる？
-そ、それなら、みんなも信じてくれるでしょ？
+W-Well...
+Do you want to go, just the two of us?
+I-I'm sure everyone will believe you then!
 
 --------------------
 [0022]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-う〜ん……そうだなぁ……
+Hm... I guess that's true.
 
 --------------------
 [0023]
-島田美波
+Minami Shimada
 **********
-べ、別に、ウチがそうしたいわけじゃないわよ？
-仕方なく付き合ってあげるんだから……
+Of... Of course it's not like 
+I really want to! It's just there
+isn't really any other way...
 
 --------------------
 [0024]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-じゃあ……僕抜きで、美波と葉月ちゃん二人で
-行ってきたらどうかな？
+Then you and Hazuki should go 
+together instead.
+Isn't it better if I just don't go?
 
 --------------------
 [0025]
-島田美波
+Minami Shimada
 **********
-えっ？
+Eh...?
 
 --------------------
 [0026]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そうすれば、全て丸く収まるんじゃ――
+Wouldn't everything be fine then--
 
 --------------------
 [0027]
-島田美波
+Minami Shimada
 **********
-アキは、ウチと二人っきりになるのが
-そんなに嫌なの！？
+Do you really hate going out
+With me that much!?
 
 --------------------
 [0028]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そういうわけじゃないけど、
-でも、どうせ二人っきりになれるなら、
-美波じゃなくて秀吉の方が……
+I didn't mean that,
+But, if it's just two of us,
+Instead of Minami, Hideyoshi is more...
 
 --------------------
 [0029]
-島田美波
+Minami Shimada
 **********
-誰の賞品だと思ってるのよ！
+Who the heck do you think 
+is getting the prize?!
 
 --------------------
 [0030]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ギブギブギブギブギブ！
-ごめん！　ちょっと本音を言ってみただけだよ！
-秀吉は何の関係もありません！
+Ouch!
+I'm sorry! I was just thinking out loud!
+Hideyoshi has nothing to do with this!
 
 --------------------
 [0031]
-島田美波
+Minami Shimada
 **********
-それじゃあ、ウチと二人で
-如月ハイランドに行くって言いなさい！
+Then hurry up and say that you want
+to go to Kisaragi Grand Park together!
 
 --------------------
 [0032]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-わかった、わかったよ！
-美波と一緒に如月ハイランドに
-行きたああああああああああああっ！
+I know, I know!
+I want to go to Kisaragi Park together
+With Minami ahhhhhhhh!
 
 --------------------
 [0033]
-土屋康太
+Kouta Tsuchiya
 **********
 ………………明久と島田が、二人で。
 
 --------------------
 [0034]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-むう、これは所謂デートというヤツじゃな。
+Isn't that what you'd call a date?
 
 --------------------
 [0035]
-土屋康太
+Kouta Tsuchiya
 **********
-…………ＦＦＦ団としては。
-重大な抜け駆け行為。
+......The FFF Inquisition won't like it.
 
 --------------------
 [0036]
-清水美春
+Miharu Shimizu
 **********
-そのとおりですっ！
-美春というものがありながら、お姉さまは
-なぜあんな豚野郎とっ！
+Is that so!?
+You already have Miharu, why did Onee-Sama
+Want to ask such an idiot pig out!
 
 --------------------
 [0037]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-どこから現れたのじゃっ！？
+From where did you come from?!
 
 --------------------
 [0038]
-清水美春
+Miharu Shimizu
 **********
-ロッカーの中に潜んでいたのです。
-そんなことより……あの家畜め……
-絶対に許せませんっ！
+Oh, I was just hiding in a locker.
+But that's off-topic. That animal...
+I'll never forgive him!
 
 --------------------
 [0039]
-土屋康太
+Kouta Tsuchiya
 **********
-…………邪魔をしなくては。
+............I won't get in the way.
 
 --------------------
 [0040]
-清水美春
+Miharu Shimizu
 **********
-もちろん！　お姉さまは美春のものです！
-如月ハイランドへ一緒に行くのは、
-この美春ですっ！
+Good. Baby, you belong to me and no 
+one else! The one who's going with her to
+Kisaragi Grand Park will be me!
 
 --------------------
 [0041]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-えらいことになったのう。
-この様子では、一波乱も二波乱も
-ありそうじゃな……
+This sure is getting complicated.
+If it keeps going like this, there's
+going to be a lot of trouble...
 
 --------------------

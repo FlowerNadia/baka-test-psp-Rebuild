@@ -1,97 +1,101 @@
 [0000]
-霧島亊子
+Shouko Kirishima
 **********
-……勝つ。
-雄二のためにも。
+... I will win.
+For Yuuji.
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ええっ！？　今度の相手は霧島さんなの！？
+Huh? I'm up against Kirishima
+this time?!
 
 --------------------
 [0002]
-霧島亊子
+Shouko Kirishima
 **********
-……絶対に勝って、
-雄二との愛の巣を校内に築く。
+... I will absolutely win,
+and build a love nest with Yuuji 
+in the school.
 
 --------------------
 [0003]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そ、そうなんだ……すごいなあ。
-でもそれって、雄二は知ってるのかな？
+Th-That's... kind of amazing.
+But have you told Yuuji?
 
 --------------------
 [0004]
-霧島亊子
+Shouko Kirishima
 **********
-……大丈夫。愛してるから。
+... It ok. We're in love.
 
 --------------------
 [0005]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ははは……すごい愛されてるなあ。
+Hahaha...
+The power of love sure is crazy, huh?
 
 --------------------
 [0006]
-木下優子
+Yuuko Kinoshita
 **********
-それが愛情というものだわ。
-愛さえあれば、後ろから忍び寄って
-鈍器で襲いかかってもいいんだから！
+That's more along the lines of affection.
+If love is all you have, it's like saying
+it's okay to bash you over the head!
 
 --------------------
 [0007]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-姉上、それはちと無理が過ぎるのではないか。
-何より姉上が言っておるのは
-いつも読んでおる男同士の――
+Sis, that's taking it way too far. Isn't
+a bit weird for you to say that, anyway?
+You are always reading those boy's lo--
 
 --------------------
 [0008]
-木下優子
+Yuuko Kinoshita
 **********
-秀吉、ちょっとこっちに来て。
+Hideyoshi, come here a second.
 
 --------------------
 [0009]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-何じゃ――あ、姉上！？　ちがっ……！
-腕はそんなふうには曲がらなああああ……！
+What is-- S-Sis?! No, stop!
+My arm doesn't bend like thaaaaaaat....!
 
 --------------------
 [0010]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-残り２人は木下姉妹か。
-秀吉も強敵だけど、霧島さんと木下さんも
-Ａクラスだし……弱ったな。
+So the other 2 are the Kinoshita sisters.
+Hideyoshi is a formidable opponent, but
+Shouko and Yuuko come from class A.
 
 --------------------
 [0011]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-あ、明久……わしらは、姉妹ではないぞ……
-姉弟、じゃ……
+A, Akihisa... W-We're not, sisters...
+I'm a guy you know...
 
 --------------------
 [0012]
-霧島亊子
+Shouko Kirishima
 **********
-……どのみち結果は決まっている。
-勝つのは私。
+... No matter what, 
+the result will be the same:
+The winner shall be me.
 
 --------------------
 [0013]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-まあ、なるようになれだ。
-とにかく始めてみよう！
+Well, it's time to begin.
+Anyways, let's try getting started!
 
 --------------------

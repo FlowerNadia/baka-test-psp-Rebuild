@@ -1,89 +1,95 @@
 [0000]
-清水美春
+Miharu Shimizu
 **********
-やりましたわ！
-Ｆクラスのバカが相手です！
-この勝負、勝ったも同然です！
+I did it! I got matched up against
+the idiots in class F!
+It'll be a breeze to win this!
 
 --------------------
 [0001]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-グッ……清水さんはＤクラスだ。
-まともに戦ったらまずい。
+Damn. That's Miharu from D Class
+Fighting her directly is not a 
+good idea for me...
 
 --------------------
 [0002]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-だけど、こっちにはムッツリーニと
-姫路さんがいる！　これなら勝てる！
+But Kouta and Himeji 
+are here too.
+We might actually win!
 
 --------------------
 [0003]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-２人共さっきはあんなこと言ったけど、
-本当は手伝ってくれるんだよね？
-そうだよね！？
+I know what you guys said back 
+there,buuut... We'll be working
+together out here, right?!
 
 --------------------
 [0004]
-土屋康太
+Kouta Tsuchiya
 **********
 ……………………
 
 --------------------
 [0005]
-姫路瑞希
+Mizuki Himeji
 **********
-あう……ご、ごめんなさい。
-正々堂々戦いましょう。
+U-Um... I-I'm sorry.
+Let's fight fair and square.
 
 --------------------
 [0006]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-そんなこと言わずに手を組もうよ！
-勝つためにはどんな手段でも使わないと……
-勝負の世界は厳しいんだよ！？
+Let's not say that, we should cooperate!
+I guess I can't count on their help...
+Why is the world of this game so cruel?!
 
 --------------------
 [0007]
-土屋康太
+Kouta Tsuchiya
 **********
-……船越先生４５歳独身が。
+Because when you're single and lonely,
+like 45yo Ms. Funakoshi, life is unfair.
+Maybe you two can comfort each other.
 
 --------------------
 [0008]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-ええっ！？　ロッカーどこ！？
-逃げなきゃ隠れなきゃ！
+Huh?! Where's a locker?!
+I need to hide myself!
 
 --------------------
 [0009]
-清水美春
+Miharu Shimizu
 **********
-はあ？　船越先生なんていませんよ？
+What? 
+But Funakoshi sensei isn't here?
 
 --------------------
 [0010]
-吉井明久
+Yoshii Akihisa Yoshii
 **********
-亢したなムッツリーニ！　卑怯だぞ！？
+You tricked me! 
+Damn you, Kouta! You coward!
 
 --------------------
 [0011]
-土屋康太
+Kouta Tsuchiya
 **********
-……勝負の世界は厳しい。
+... The world of this game is ruthless.
 
 --------------------
 [0012]
-清水美春
+Miharu Shimizu
 **********
-そのとおりです！
-さあ、大人しく負けてください！
+You got that right!
+No way am I going down without a fight!
 
 --------------------
