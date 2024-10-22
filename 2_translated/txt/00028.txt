@@ -1,118 +1,121 @@
 [0000]
 Yuuji Sakamoto
 **********
-さてと、次は……
-よし、ちょうど４人揃ってるな。
+Well then, next up is...
+Great, just enough for four.
 
 --------------------
 [0001]
 Minami Shimada
 **********
-もう嫌っ！　何度言ったらわかるの！？
-ウチにそんな趣味はない！
-ないったら絶対にないのーっ！
+Damn it! How many times do I have to 
+repeat myself? I'm not into girls! 
+I don't swing that way!
 
 --------------------
 [0002]
 Miharu Shimizu
 **********
-そんなことありません！
-お姉さまは美春のことが好きなんです！
-わかってます！　照れなくていいですから！
+That can't be true!
+Onee-Sama likes Miharu!
+I know! You don't have to be shy about it!
 
 --------------------
 [0003]
 Minami Shimada
 **********
-それはあんたの妄想よ！
-ウ、ウチが好きなのは……好きなのは――！
+That's just you and your wild imagination!
+The person I like is... I like--
 
 --------------------
 [0004]
 Miharu Shimizu
 **********
-美春です！　お姉さま、分かってます！
-それ以上言わなくていいですから！
-２人っきりになれる所に行きましょう！
+Me! Don't worry Onee-Sama, I understand!
+You don't have to say a word!
+Let's find somewhere for us to be alone!
 
 --------------------
 [0005]
 Minami Shimada
 **********
-ちょっと！？　どこ連れてくの！？
-あんたと２人っきりになんてなりたくなーい！
+Hold on! Where are you taking me?!
+I don't want to be alone with you!
 
 --------------------
 [0006]
 Yoshii Akihisa Yoshii
 **********
-美波と清水さんは本当に仲が良いなあ。
-でも、もうすぐ対戦が始まるみたいだよ？
+Minami and Shimizu sure have a great
+relationship. But the battle should be 
+starting soon, right?
 
 --------------------
 [0007]
 Yuuji Sakamoto
 **********
-その通りだ。
-心配するな、パパッと済ませてやる。
-もちろん俺の勝ちでな。
+That's right.
+But don't worry, it'll be over soon.
+Of course, my victory will end it.
 
 --------------------
 [0008]
 Miharu Shimizu
 **********
-そうはさせません！
-美春は絶対に負けられないんです！
-勝ってお姉さまを手に入れるんです！
+You're completely and utterly wrong!
+I won't lose to the likes of you!
+My victory should finally sway Onee-Sama!
 
 --------------------
 [0009]
 Minami Shimada
 **********
-させてたまるもんですか！
-美春にだけは絶対に勝たせないんだから！
+Stop imagining the impossible!
+My heart will never sway in 
+your direction!
 
 --------------------
 [0010]
 Yuuji Sakamoto
 **********
-明久、おまえはどうなんだ？
-まさか俺に勝てるつもりでいるわけじゃ
-ないよな？
+What do you think, Akihisa?
+Do you really think you can win
+against me?
 
 --------------------
 [0011]
 Yoshii Akihisa Yoshii
 **********
-や、やだなあ、僕じゃ相手にならないってば。
-雄二に勝てるわけないよ。
+I-I don't know what to say, 
+but I'm not your enemy.
+I could never win against you.
 
 --------------------
 [0012]
 Yoshii Akihisa Yoshii
 **********
-……っていうのは真っ赤な嘘。
-霧島さんからの頼みもあるけど、
-今までの借りも返してやる……！
+...A little white lie should trick him.
+Shouko asked for my help,but he'll pay
+in blood for the things he's done to me!
 
 --------------------
 [0013]
 Yuuji Sakamoto
 **********
-明久、おまえはバカな上にバカ正直だな。
-考えてることが全部言葉に出てたぞ。
+Akihisa, you're not just some idiot.
+You're a fool who thinks out loud.
 
 --------------------
 [0014]
 Yoshii Akihisa Yoshii
 **********
-嘘っ！？
+Say what?!
 
 --------------------
 [0015]
 Yuuji Sakamoto
 **********
-……まあいい。
-とにかく、まとめてかかってきやがれ！
+...Nevermind.
+Come on, let's duke it out!
 
 --------------------

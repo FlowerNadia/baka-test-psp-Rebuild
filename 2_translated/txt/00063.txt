@@ -1,219 +1,229 @@
 [0000]
 Yuuko Kinoshita
 **********
-やった！　アタシの勝ちーっ！
+Great! I win!
 
 --------------------
 [0001]
 Shouko Kirishima
 **********
-……残念。
+... How disappointing.
 
 --------------------
 [0002]
 Yoshii Akihisa Yoshii
 **********
-くっ！　さすがはＡクラス……！
+Wow! 
+As expected from a Class A student...!
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-ええ、そして吉井君はやっぱりＦクラスね。
-まんまとアタシに乗せられて対戦するなんて。
-ちょろいもんだったわよ。
+Hehe, That's right, we're leagues ahead
+of class F. You acted as expected.
+What an easy win.
 
 --------------------
 [0004]
 Yoshii Akihisa Yoshii
 **********
-なんだって！　僕をハメたのか！？
+What! You actually tricked me!?
 
 --------------------
 [0005]
 Minami Shimada
 **********
-でも、霧島さんにも勝つなんて……！
-よほど賞品が欲しいみたいね。
-いったい何を手に入れるつもりなの？
+But, she even won against Kirishima-san!
+She looks like she really wants the prize
+What does she actually want?
 
 --------------------
 [0006]
 Yuuko Kinoshita
 **********
-それはもちろん、イベント限定のビー……
+That is of course, an event-limited B....
 
 --------------------
 [0007]
 Minami Shimada
 **********
-びー？
+B?
 
 --------------------
 [0008]
 Yuuko Kinoshita
 **********
-ビ、ビ、ビーフ！　そう、ビーフよ！
-極上の霜降り和牛が食べたかったのよ！
+B, B, beef! Correct, it's beef!
+I want to eat the finest marbling 
+wagyu beef!
 
 --------------------
 [0009]
 Minami Shimada
 **********
-ふーん、何だか意外ね……
+Hmm, can't say I saw that coming.....
 
 --------------------
 [0010]
 Yoshii Akihisa Yoshii
 **********
-意外なもんか！　極上の霜降りだよ！？
-誰でも食べたいって思うよ！
-もちろん僕も食べたい！
+How is it surprising! 
+It's the finest marbling beef! 
+Anyone would want to eat it! I sure do!
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-と、とにかく……アタシは行くからね！
+An, anyway......I'll be leaving!
 
 --------------------
 [0012]
 Yoshii Akihisa Yoshii
 **********
-くそっ！　バカにされたうえ、
-ハメられて負けるなんて悔しいなあ……
-せめて、一糸まとわぬようにしたいんだけど。
+Damn it! I was tricked, treated as an
+idiot and now I'm hungry
+At least let me be naked.
 
 --------------------
 [0013]
 Yuuji Sakamoto
 **********
-それを言うなら一矢報いたい、だろ？
-一糸まとわぬなら全裸だぞ？
+You wanted to say to avenge everyone,
+right?
+Why did you say stark naked?
 
 --------------------
 [0014]
 Yoshii Akihisa Yoshii
 **********
-あ、雄二……それに、皆。
+Ah, Yuuji......And everyone.
 
 --------------------
 [0015]
 Yuuji Sakamoto
 **********
-その様子じゃ、まんまとやられたようだな。
+Seeing your expression, 
+you've been completely humiliated.
 
 --------------------
 [0016]
 Yoshii Akihisa Yoshii
 **********
-……ねえ雄二、何とか木下さんを
-見返す方法はないのかな？
+......If so, Yuuji, do you have any plan
+That we can use against Kinoshita?
 
 --------------------
 [0017]
 Mizuki Himeji
 **********
-また挑戦してみますか？
+Shall we challenge her again?
 
 --------------------
 [0018]
 Hideyoshi Kinoshita
 **********
-挑戦しても受けないじゃろう。
-姉上は既に勝ち星を揃えておるからのう。
-何か良い手はないものか……
+She won't accept it even if we challenge
+her again. She already has enough victory
+stars. There's nothing we can do...
 
 --------------------
 [0019]
 Kouta Tsuchiya
 **********
-…………ある。
+............We do.
 
 --------------------
 [0020]
 Hideyoshi Kinoshita
 **********
-何じゃ、ムッツリーニ？
+What is it, Muttsurini?
 
 --------------------
 [0021]
 Kouta Tsuchiya
 **********
-…………こっちには秀吉がいる。
-学園長室へ行けば何とかなる。
+............We have Hideyoshi here.
+If we get to the principal's office then
+it'll work.
 
 --------------------
 [0022]
 Hideyoshi Kinoshita
 **********
-どういうことじゃ？
-詳しく聞かせてくれ。
+What do you mean?
+Please explain the details.
 
 --------------------
 [0023]
 Yuuji Sakamoto
 **********
-ほう……確かにそれなら、
-一矢報いることができそうだな。
+Oh......Of course,
+This way we can avenge everyone.
 
 --------------------
 [0024]
 Hideyoshi Kinoshita
 **********
-……というよりも、ただの嫌がらせじゃ。
+......But, what if we cause bigger
+problems.
 
 --------------------
 [0025]
 Yoshii Akihisa Yoshii
 **********
-そんなことない、これも勝負のうちだよ。
-それに僕たちにもメリットがある……！
+That's not true, this is a competition 
+too.
+Also it's beneficial to me......!
 
 --------------------
 [0026]
 Yuuji Sakamoto
 **********
-そういうことだ。
-……というわけで、さっそくだが秀吉。
+Then it's decided.
+......If so, hurry up and get started,
+Hideyoshi.
 
 --------------------
 [0027]
 Hideyoshi Kinoshita
 **********
-何じゃ？
+What?
 
 --------------------
 [0028]
 Yuuji Sakamoto
 **********
-脱いでくれ。
+Take it off.
 
 --------------------
 [0029]
 Hideyoshi Kinoshita
 **********
-別に脱ぐのはいいのじゃが……ここでは
-皆が見ておるからのう。
+I don't mind changing clothes but......
+If it's here...
+Everyone can see.
 
 --------------------
 [0030]
 Yoshii Akihisa Yoshii
 **********
-そうだよ！
-脱ぐならちゃんと秀吉専用の更衣室で……
+True!
+Hideyoshi has to change in the
+specialized changing room......
 
 --------------------
 [0031]
 Yoshii Akihisa Yoshii
 **********
-んゴアッ！？
+Huh!?
 
 --------------------
 [0032]
 Yuuji Sakamoto
 **********
-ふざけたこと言ってないで早くしろ！
-急がないと、間に合わなくなるぞ！
+Don't say stupid things, hurry up!
+If we don't rush, we won't make it!
 
 --------------------

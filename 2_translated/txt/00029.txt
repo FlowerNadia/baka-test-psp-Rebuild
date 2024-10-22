@@ -1,128 +1,127 @@
 [0000]
 Miharu Shimizu
 **********
-そんなっ！？　負けた！？
+How is it possible!? I've lost!?
 
 --------------------
 [0001]
 Minami Shimada
 **********
-さすが坂本！
-……って、ウチも欲しい物があるのに
-負けちゃだめじゃない……！
+Way to go, Yuuji!
+...Oh, right. I wanted the prize!
+How could I lose like this...?
 
 --------------------
 [0002]
 Yuuji Sakamoto
 **********
-これから頑張るんだな。
-それより明久、
-ポケットの中に隠してる物を出せ。
+You guys need to put more effort into it.
+By the way, Akihisa.
+Give me that thing you're hiding.
 
 --------------------
 [0003]
 Yoshii Akihisa Yoshii
 **********
-えっ！？　別に何も隠してないよ！
+Huh?! I'm not hiding anything!
 
 --------------------
 [0004]
 Yuuji Sakamoto
 **********
-いいから出せ。
+Give it to me. Now.
 
 --------------------
 [0005]
 Yoshii Akihisa Yoshii
 **********
-嫌だなあ、何を言い出すんだよ雄二。
-ポケットの中に牛ですら一撃で倒せる
-スタンガンなんて隠し持ってないから！
+Geez, Yuuji, what are you talking about?
+No way that I have a stun gun in my pocket
+And it can't possibly knock out a cow!
 
 --------------------
 [0006]
 Yuuji Sakamoto
 **********
-スタンガンか。
-亊子から借りたんだな……？
+I see. So it's a stun gun.
+Did Shouko lend that to you?
 
 --------------------
 [0007]
 Yoshii Akihisa Yoshii
 **********
-だから、超強力スタンガンなんて
-隠し持ってないって――
+I already told you! I don't have anything
+like a super powerful stun--
 
 --------------------
 [0008]
 Yoshii Akihisa Yoshii
 **********
-痛いっ！
-何するんだよ、雄二！？
-ああっ！　霧島さんに借りたスタンガンが……
+Ouch!
+What are you doing, Yuuji!?
+Aah! The stun gun Kirishima gave me...
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-うるせえ、没収だ。
-しかし亊子のヤツ、まさかこんな物まで……
-これは早いとこ婚姻届を取り戻さないとな。
+Shut it. I'm confiscating this.
+Dammit, Shouko. Why would you ...?
+I need to get that license ASAP.
 
 --------------------
 [0010]
 Yuuji Sakamoto
 **********
-いいか明久、次邪魔したら容赦しないぞ？
-亊子にもそう伝えておけ。
-じゃあな。
+Listen, Akihisa. Try any more funny
+business and you're dead. Pass that 
+massage to Shouko too. See ya!
 
 --------------------
 [0011]
 Minami Shimada
 **********
-あーあ、負けちゃったわね。
-アキ、これからどうするの？
+Ah, we still lost.
+Hey, Aki, what are we going to do now?
 
 --------------------
 [0012]
 Yoshii Akihisa Yoshii
 **********
-そんなの決まってるよ。
-雄二にリベンジする……！
+It's obvious.
+We find Yuuji and have our revenge....!
 
 --------------------
 [0013]
 Minami Shimada
 **********
-あきらめが悪いわね……
+Giving up is pretty bad...
 
 --------------------
 [0014]
 Yoshii Akihisa Yoshii
 **********
-このままじゃ引き下がれないからね。
-それじゃ美波、また後でね！
+But we can't just leave things like this.
+I'll go on ahead!
 
 --------------------
 [0015]
 Minami Shimada
 **********
-大丈夫かしら？
-何だかヤな予感しかしないんだけど……
+Are you sure there won't be any trouble?
 
 --------------------
 [0016]
 Miharu Shimizu
 **********
-お姉さま、それは風邪です！
-さあ、美春と保健室に行きましょう！
-裸で抱き合えば、風邪なんてすぐ治ります！
+Oh, Onee-Sama! You must've caught a cold!
+I'll make sure to warm your body right up
+with mine once we get to the infirmary!
 
 --------------------
 [0017]
 Minami Shimada
 **********
-いい加減にしなさーい！
+Stop it, Miharu! stooop!
 
 --------------------

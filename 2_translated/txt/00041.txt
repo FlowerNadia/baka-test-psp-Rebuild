@@ -1,238 +1,250 @@
 [0000]
 Yoshii Akihisa Yoshii
 **********
-ねえ、みんなは何を賞品にするか決めた？
+So, what prizes would you all want?
 
 --------------------
 [0001]
 Minami Shimada
 **********
-ウチはまだ。
-瑞希は決まってるの？
+I haven't really thought about it yet.
+How about you, Himeji?
 
 --------------------
 [0002]
 Mizuki Himeji
 **********
-私もまだです。
-何にしようか迷っちゃって。
+I haven't given it much thought either.
+There are so many things, I just can't
+choose...
 
 --------------------
 [0003]
 Yoshii Akihisa Yoshii
 **********
-だよねぇ。
-ムッツリーニはどう？　決まってる？
+Right.
+What about you, Muttsurini?
+Have you made up your mind yet?
 
 --------------------
 [0004]
 Kouta Tsuchiya
 **********
-……当然。
+...Of course.
 
 --------------------
 [0005]
 Hideyoshi Kinoshita
 **********
-早いのう。
-何にするのじゃ？
+That was quick.
+What do you want?
 
 --------------------
 [0006]
 Kouta Tsuchiya
 **********
-……小型衛星。
+...A mini satellite.
 
 --------------------
 [0007]
-明久＆秀吉（Yoshii Akihisa Yoshii＆Hideyoshi Kinoshita）
+Akihisa & Hideyoshi
 **********
-……は？
+Huh?
 
 --------------------
 [0008]
 Yuuji Sakamoto
 **********
-まさか盗撮用の小型衛星か？
+Are you seriously going to use a 
+mini-satellite to take creep shots?
 
 --------------------
 [0009]
 Kouta Tsuchiya
 **********
-……そのとおり。
-それでターゲットの行動を把握すれば、
-盗撮が容易になる。
+...What else would I use it for?
+I could find my targets at any time,
+and even take higher quality pictures.
 
 --------------------
 [0010]
-明久＆秀吉（Yoshii Akihisa Yoshii＆Hideyoshi Kinoshita）
+Akihisa & Hideyoshi
 **********
-えーーーーーーー！？
+Whaaaat?!
 
 --------------------
 [0011]
 Hideyoshi Kinoshita
 **********
-何を考えておるのじゃ！？
-さすがに、それはまずいじゃろう！
+What are you thinking!?
+You can't seriously mean that!
 
 --------------------
 [0012]
 Yoshii Akihisa Yoshii
 **********
-そうだよムッツリーニ！
-プライバシーの侵害だよ！
+He's right!
+That's an invasion of privacy!
 
 --------------------
 [0013]
 Kouta Tsuchiya
 **********
-…………それでいろいろな新作が
-発売されるとしても？
+...With this, I'll be able to release
+some new albums.
+What do you think now?
 
 --------------------
 [0014]
 Yoshii Akihisa Yoshii
 **********
-ううっ！？　そ、それは……！
-あ、悪魔の丕きだ……
-プライバシーと新作、どちらを取るか……
+Uhuh!? That, that......! 
+What a devil's temptation......
+Privacy or new products, I choose......
 
 --------------------
 [0015]
 Hideyoshi Kinoshita
 **********
-何を悩んでおるのじゃ。
-どう考えてもプライバシーが優先じゃろう。
+What is there to hesitate.
+Privacy is more important regardless of
+how you think.
 
 --------------------
 [0016]
 Kouta Tsuchiya
 **********
-…………衛星の力はすごい。
-今まで映せなかった場所も撮影可能。
+...The satellite would be very helpful.
+I'd even be able to take pictures in
+places I can't go now.
 
 --------------------
 [0017]
 Yoshii Akihisa Yoshii
 **********
-そ、それは……！　けど、それでも……！
-耐えろ！　僕の良心よ、がんばってくれっ！
+But... But... Even so!
+I can't... I can't give up my honor
+just for candid photos!
 
 --------------------
 [0018]
-悪魔（Yoshii Akihisa Yoshii）
+Devil Akihisa
 **********
-『小さいことは気にするな。
-　今の世の中、プライバシーなんて
-　あって無いようなものだろ？』
+『Don't bother about such trivial issues.
+How could privacy possibly be important
+with so much at stake?』
 
 --------------------
 [0019]
 Yoshii Akihisa Yoshii
 **********
-おまえは僕の中の悪魔！
-僕を悪の道に引きずり込むつもりだな！
+You're the devil within me!
+You're trying to bring me over to
+evilness!
 
 --------------------
 [0020]
-悪魔（Yoshii Akihisa Yoshii）
+Devil Akihisa
 **********
-『衛星があれば２４時間３６５日、
-　誰でも撮影し放題なんだ。相手の日常生活が
-　全部おまえのものになるんだぜ？』
+『A satellite functions 24/7 all 365 days,
+It can take photos of anyone, anytime, 
+they won't know...you could see them all』
 
 --------------------
 [0021]
 Yoshii Akihisa Yoshii
 **********
-そ、その僕にだって、プライバシーはある！
-だいたい、自分の良心を応援しているのに
-どうしておまえが出てくるんだ！？
+I don't want to give up my privacy too!
+And I'm trying to do the right thing,
+so why did you come out!?
 
 --------------------
 [0022]
-天使（Yoshii Akihisa Yoshii）
+Angel Akihisa
 **********
-『そう！　悪魔の言葉に耳を貸しちゃダメだ。
-　でも我慢のし過ぎは体に毒だよ。
-　だから、誰か一人で手を打ったら？』
+『Ignore the devil's lies! That said, you
+gotta put yourself first sometimes. You
+are not taking the picture, so it's okay』
 
 --------------------
 [0023]
 Yoshii Akihisa Yoshii
 **********
-僕の中の天使。
-君もいきなり出てきて何を言い出すんだ？
+You're supposed to be my angel.
+Why are you agreeing with him so easily?
 
 --------------------
 [0024]
-天使（Yoshii Akihisa Yoshii）
+Angel Akihisa
 **********
-『明久が一番覗き見したいのは誰なの？
-　美波？　秀吉？　霧島さん？
-　それとも、やっぱり姫路さんかな？』
+『Who do you want to see the most?
+Minami? Hideyoshi? Shouko?
+Or maybe Himeji?』
 
 --------------------
 [0025]
 Yoshii Akihisa Yoshii
 **********
-そりゃもちろん秀吉――じゃなくて！
+Hideyoshi, of course--I mean, it's wrong!
 
 --------------------
 [0026]
 Yuuji Sakamoto
 **********
-落ち着け、このバカ。
+Calm down, idiot.
 
 --------------------
 [0027]
 Yoshii Akihisa Yoshii
 **********
-ぼごァッ！？
+Eh!?
 
 --------------------
 [0028]
 Yuuji Sakamoto
 **********
-ムッツリーニ、その賞品はやめろ。
-他人はともかく自分が盗撮されるのはごめんだ。
+Muttsurini, give up on this prize.
+I don't care about others, but I don't 
+want any photos of me taken secretly.
 
 --------------------
 [0029]
 Kouta Tsuchiya
 **********
-…………なら、俺を勝たせなければいい。
-無論全力で抵抗する。
+.......You'll have to stop me then.
+Of course I won't go easy on you.
 
 --------------------
 [0030]
 Yuuji Sakamoto
 **********
-どうやら本気のようだな。
-なら俺もマジで行くぞ。
-恨むなよ、ムッツリーニ！
+I guess you really are serious about this
+I'll have to go all out then.
+Sorry about this, Muttsurini!
 
 --------------------
 [0031]
 Yoshii Akihisa Yoshii
 **********
-あれ？　雄二がやる気になるなんて意外だね。
+Eh!? 
+Even Yuuji is actually making an effort.
+I didn't see that coming.
 
 --------------------
 [0032]
 Yuuji Sakamoto
 **********
-当たり前だ！
-ムッツリーニのことだ……俺の盗撮写真を
-亊子に売らないとも限らない。
+Of course!
+If Muttsurini takes pictures of me...
+He'd sell them to Shouko, for sure.
 
 --------------------
 [0033]
 Yoshii Akihisa Yoshii
 **********
-あははは、まさかあ。
-ムッツリーニ、そんなことしないよね？
+Hahaha! No way, man!
+You wouldn't do something like that,
+right Muttsurini?
 
 --------------------
 [0034]
@@ -244,27 +256,30 @@ Kouta Tsuchiya
 [0035]
 Yoshii Akihisa Yoshii
 **********
-……あ、あれ？　ムッツリーニ？
+……right Muttsurini?
 
 --------------------
 [0036]
 Kouta Tsuchiya
 **********
-……市場の需要があれば、商品を作り、売る。
-それが基本。
+...As long as she's willing to pay, I'll
+take the pictures.
+That's the motto of Kouta Trading & Co.
 
 --------------------
 [0037]
 Yuuji Sakamoto
 **********
-とにかく手加減なしだ。
-どんな手を使ってでも負かしてやるからな！
+Anyway, you better not expect me to go
+easy on you. I'll take you down no matter
+what I have to do!
 
 --------------------
 [0038]
 Kouta Tsuchiya
 **********
-……望むところ。今回は本気を出す。
-ムッツリ商会の未来を賭けて……勝負！
+......Just as I thought. I won't hold back.
+For the future of my company......
+I have to win!
 
 --------------------

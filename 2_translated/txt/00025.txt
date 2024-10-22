@@ -1,279 +1,298 @@
 [0000]
 Yuuji Sakamoto
 **********
-ババア、邪魔するぞ。
+Hey, old hag. I'm coming in.
 
 --------------------
 [0001]
 Kaoru Toudou
 **********
-アンタは２年ＦクラスのYuuji Sakamoto……
-いつもながら無礼極まりないね。
+You're Yuuji Sakamoto from Class 2F......
+As rude as usual.
 
 --------------------
 [0002]
 Yuuji Sakamoto
 **********
-ババアを見習ってるからな。
-それよりさっきの件だ。
-賞品は何でもいいのか？
+Well, that's one thing you've taught me.
+Anyway, you said the prize
+could be anything, right?
 
 --------------------
 [0003]
 Kaoru Toudou
 **********
-ああ。成績と応相談だがね。
+Yes, but it has to correspond to your
+results.
 
 --------------------
 [0004]
 Yuuji Sakamoto
 **********
-人の家の金庫に保管された書類とかは？
+What about documents that someone keeps 
+locked up?
 
 --------------------
 [0005]
 Kaoru Toudou
 **********
-回りくどいガキは嫌いだよ。
-単刀直入に言いな。
+I hate when brats like you talk around 
+the issue.
+Just get to the point.
 
 --------------------
 [0006]
 Yuuji Sakamoto
 **********
-婚姻届を取り返したい。
-俺と、ＡクラスのShouko Kirishimaの婚姻届だ。
+I'd like you to get a marriage license.
+One between me and Shouko Kirishima 
+from Class A.
 
 --------------------
 [0007]
 Kaoru Toudou
 **********
-全く色気づいたガキだねぇ。
-婚姻届が欲しけりゃ役所にでも行きな。
+And I thought Akihisa was the idiot.
+If you want a marriage license, 
+get it from the department.
 
 --------------------
 [0008]
 Yuuji Sakamoto
 **********
-そうじゃない！　もう捺印してあるヤツだ。
-強引に押させられたんだ……！
+That's not what I meant. 
+It already has my signature on it.
+She forced me to...!
 
 --------------------
 [0009]
 Kaoru Toudou
 **********
-そういうことかい。
-なら、そのまま結婚しちまったらどうさね？
+So that's how it is.
+If that's all, why don't you just 
+get married and be done with it?
 
 --------------------
 [0010]
 Yuuji Sakamoto
 **********
-ふざけるな！　死んでも断るっ！
+Now's not the time to joke! 
+I'll die before I go through with that!
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-結納の場所も、結婚式の場所と日取りも、
-新居と子供の数と名前が決まってるのも、
-全部真っ平ごめんなんだよっ！
+She's picked everything! the venue, date,
+where we'll live,how many kids we'll have 
+even their names! I don't want any of it!
 
 --------------------
 [0012]
 Kaoru Toudou
 **********
-うるさいねえ。
-まあ、それぐらいなら何とかしてやるよ。
-ただしもちろん――
+You're so noisy.
+Fine, I'll help you think of something.
+But! of course--
 
 --------------------
 [0013]
 Yuuji Sakamoto
 **********
-俺の成績次第なんだろ？　それはわかってる。
-とにかく約束したぞ？　後で反故にすんなよ？
+It depends on my results, right? Got it.
+So it's a deal? Don't break your promise,
+okay?
 
 --------------------
 [0014]
 Kaoru Toudou
 **********
-分かってるよ。
-用が済んだらとっとと出て行きな、クソジャリ。
+I got it, I got it.
+If that's all you need, then leave, 
+you damn brat.
 
 --------------------
 [0015]
 Kouta Tsuchiya
 **********
-……と言っていた。
+...He said it
 
 --------------------
 [0016]
 Yoshii Akihisa Yoshii
 **********
-雄二も往生際が悪いなあ。
-でも、僕にも欲しい物があるし……
+I can't believe Yuuji was forced to that.
+But I really want that prize...
 
 --------------------
 [0017]
 Kouta Tsuchiya
 **********
-……俺も負けられない。
-ムッツリ商会の今後がかかっている。
+I can't lose, either.
+The fate of my Kouta Trading Co. 
+depends on me winning.
 
 --------------------
 [0018]
 Yoshii Akihisa Yoshii
 **********
-だったら……組む？
-２人がかりなら雄二に勝てるよ！
+How about a truce?
+If it's the two of us, 
+we'll beat him for sure!
 
 --------------------
 [0019]
 Shouko Kirishima
 **********
-……無理。
-あなた達に負けるほど雄二は弱くない。
+...It's useless.
+Yuuji isn't that weak.
 
 --------------------
 [0020]
 Yoshii Akihisa Yoshii
 **********
-き、霧島さんっ！？　いつからそこに……？
+K-Kirishima!? How long have you...?
 
 --------------------
 [0021]
 Shouko Kirishima
 **********
-……最初から。
-話は全部聞いた。私も協力する。
+From the beginning.
+I heard everything,so I will help as well
 
 --------------------
 [0022]
 Yoshii Akihisa Yoshii
 **********
-えっ……ど、どうして？
+Wh... Why?
 
 --------------------
 [0023]
 Shouko Kirishima
 **********
-……私の目的を達成するため。
-不安因子は排除する。誰にも邪魔はさせない。
+...For my own goal.
+I'll eliminate anyone who stands in my 
+way.
 
 --------------------
 [0024]
 Yoshii Akihisa Yoshii
 **********
-それって、雄二が勝つのを阻止するってこと？
+So, you basically want to stop Yuuji 
+from winning?
 
 --------------------
 [0025]
 Shouko Kirishima
 **********
-……そう。
-婚姻届はどんな手段を使っても守る。
+...Yes.
+We must keep the marriage license safe 
+by hook or by crook.
 
 --------------------
 [0026]
 Yoshii Akihisa Yoshii
 **********
-なんだか、どっちも大変そうだね。
-雄二は嫌がってるように見えなくも無いけど……
+I have a feeling that won't be easy.
+Isn't Yuuji against it...?
 
 --------------------
 [0027]
 Shouko Kirishima
 **********
-……違う。照れてるだけ。
-昔からそうだった。照れると、ああなる。
-そのたびに私は……
+You're wrong. He's just shy.
+He's always acted that way when he's shy.
+And I would always...
 
 --------------------
 [0028]
 Yoshii Akihisa Yoshii
 **********
-そのたびに……何？
+Always what?
 
 --------------------
 [0029]
 Shouko Kirishima
 **********
-……スタンガン。
-電撃は人の心を素直にする。
+...Stun gun.
+Electrocution will allow's one heart 
+to be honest.
 
 --------------------
 [0030]
 Yoshii Akihisa Yoshii
 **********
-ええと、それは素直になってるというより、
-電撃で気を失ってるだけじゃ……
+When you say he's showing how he really 
+feels, I'm pretty sure he's just 
+unconscious.
 
 --------------------
 [0031]
 Shouko Kirishima
 **********
-……とにかく、目的を果たすためなら
-吉井達と手を組んでもいい。
+...Regardless, if it means achieving 
+my goals, I'll cooperate with both of you
 
 --------------------
 [0032]
 Shouko Kirishima
 **********
-……私の目的を果たせたら、
-後で吉井達が勝てるように協力する。
+As long as I achieve my aim,
+I'll repay the both of you after that.
 
 --------------------
 [0033]
 Yoshii Akihisa Yoshii
 **********
-ほ、ほんとっ！？
+R-Really!?
 
 --------------------
 [0034]
 Yoshii Akihisa Yoshii
 **********
-……どうするムッツリーニ？　いいのかな？
+How about it, Muttsurini? 
+That should be fine, right?
 
 --------------------
 [0035]
 Kouta Tsuchiya
 **********
-……霧島と共闘すれば雄二に勝てる。
-しかもその後、引き続き霧島の協力が
-得られるとなれば……
+We can probably win with her around.
+But after it's over, to continue getting
+her aid we'd need to......
 
 --------------------
 [0036]
 Yoshii Akihisa Yoshii
 **********
-僕たちは、もはや賞品を手に入れたも
-同然ってことだよね……
+That means we'll be getting
+the prize...
 
 --------------------
 [0037]
 Kouta Tsuchiya
 **********
-……これで念願の
-盗撮用小型衛星が……（ダバダバ）
+The mini-probe for candid shots...
+If I have that, then... *drip* *drip*
 
 --------------------
 [0038]
 Yoshii Akihisa Yoshii
 **********
-そうと決まれば、この話……
+Then the deal...
 
 --------------------
 [0039]
 Kouta Tsuchiya
 **********
-…………断る理由はない。
+... I have no reason to be rejected.
 
 --------------------
 [0040]
 Shouko Kirishima
 **********
-……同盟成立。
-待ってて雄二、すぐに素直にしてあげる。
+Our alliance has been formed.
+Wait for me, Yuuji. 
+I'll let you show your true feelings.
 
 --------------------

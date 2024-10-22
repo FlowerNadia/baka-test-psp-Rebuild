@@ -1,135 +1,136 @@
 [0000]
 Kouta Tsuchiya
 **********
-……負けた？　３人がかりで……？
+...How could we lose a 3 on 1?
 
 --------------------
 [0001]
 Yuuko Kinoshita
 **********
-なんとか姫路さんにも勝てた……
-アタシに勝ちたければ、３人じゃ無理ね。
-１０人は揃えてもらわないと。
+I won against Himeji-san in the end......
+If you want to win against me,
+3 is not enough. Try 10 next time.
 
 --------------------
 [0002]
 Mizuki Himeji
 **********
-え？　それは無理だと思いますよ？
-このテストは４人一組が原則では……？
+Eh? That can't be right?
+We can only have 4 people in a team...?
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-そういうことじゃなくて！
-丐えよ、比丐ってこと。
+I don't mean that!
+Metaphor, it's a metaphor.
 
 --------------------
 [0004]
 Mizuki Himeji
 **********
-あ……よ、良く考えればそうですよね。
-ごめんなさい、気が付かなくて……
+Ah......I get it, a metaphor...
+I'm sorry, I was confused....
 
 --------------------
 [0005]
 Miharu Shimizu
 **********
-うう……お姉さま、すみません……
-美春は負けました……
-お姉さまの愛に応えられませんでした……！
+Uhh......Onee-sama, I'm sorry......
+Miharu lost......
+I can't reciprocate Onee-Sama's love...!
 
 --------------------
 [0006]
 Mizuki Himeji
 **********
-清水さん、大丈夫ですか？
-ハンカチお貸ししますから……
-涙を拭いて、ね？
+Shimizu-san, are you okay?
+Here, have a hankerchief......
+Dry your tears, ok?
 
 --------------------
 [0007]
 Miharu Shimizu
 **********
-同情は要りません！
-同情するなら、協力してください！
+I don't need pity!
+Rather than pitying me, why not just help
+me!
 
 --------------------
 [0008]
 Mizuki Himeji
 **********
-協力、ですか？
-もし私にできることなら……
+Help with what?
+If it's something I can help with......
 
 --------------------
 [0009]
 Miharu Shimizu
 **********
-簡単です。
-この薬を、お姉さまの飲み物に
-ポトンと落としてください。
+It's really simple.
+Take this drug and sneak it into 
+Onee-Sama's drink.
 
 --------------------
 [0010]
 Mizuki Himeji
 **********
-ええっ！？
-そ、それ、何の薬なんですか……？
+Ehh!?
+Tha, that, what drug is it......?
 
 --------------------
 [0011]
 Miharu Shimizu
 **********
-少し眠たくなるだけです。
-その間、美春が添い寝してますから
-心配ありません。
+It'll just make her slightly sleepy.
+To help her, Miharu will sleep with her
+So you don't have to worry.
 
 --------------------
 [0012]
 Kouta Tsuchiya
 **********
-……添い寝だけなのか？
+......Just sleep with her?
 
 --------------------
 [0013]
 Miharu Shimizu
 **********
-もちろん、添い寝しながら
-あんなことやこんなことを……！
+Of course, while sleeping
+I'll do this and do that......!
 
 --------------------
 [0014]
 Kouta Tsuchiya
 **********
-……あんなことや、こんなこと……
+......This, that......
 
 --------------------
 [0015]
 Mizuki Himeji
 **********
-ああっ！　土屋くん、鼻血が出てます！
-大丈夫ですか！？
+Ahh! Tsuchiya, your nose is bleeding!
+Are you fine!?
 
 --------------------
 [0016]
 Miharu Shimizu
 **********
-そんなのその辺に放っておいてください！
-美春のためにお願いします、
-真実の愛を得るために必要なんです！
+Forget about him!
+I beg of you,
+I have to do this to obtain true love!
 
 --------------------
 [0017]
 Mizuki Himeji
 **********
-そ……そんなこと言われても……
+Even......even if you put it that way....
 
 --------------------
 [0018]
 Yuuko Kinoshita
 **********
-はあ……付き合ってられないわ。
-次の対戦相手を探そっと。
+Ha...I can't stand playing with you all.
+I'll go find my next opponent.
 
 --------------------

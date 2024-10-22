@@ -1,86 +1,86 @@
 [0000]
 Yuuji Sakamoto
 **********
-さてと、第１回戦の始まりだな。
-相手は…………ん？　おまえらなのか？
+So the first battle begins.
+My opponents are... Hm? It's you guys?
 
 --------------------
 [0001]
 Mizuki Himeji
 **********
-は、はいっ！　よろしくお願いします！
+R-Right! Let's have a fair fight!
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-わしもよろしく頼むぞ。
-それにしても雄二、
-ずいぶんと表情が険しいのう。
+Please take care of me too.
+Also, Yuuji,
+you look very serious.
 
 --------------------
 [0003]
 Yuuji Sakamoto
 **********
-負けられない理由があるからな。
-悪いが本気でいかせてもらう。
+I have no reason to resign myself.
+Sorry, but I'll be giving it my all.
 
 --------------------
 [0004]
 Kouta Tsuchiya
 **********
-…………俺もそのつもり。
-絶対に負けられない。
+............Me too.
+I absolutely can't lose.
 
 --------------------
 [0005]
 Yuuji Sakamoto
 **********
-上等だ、ムッツリーニ！
-ぐうの音も出ないようにしてやるぜ。
+Good, Muttsurini!
+Just bear with it. 
+I won't beat you too hard.
 
 --------------------
 [0006]
 Kouta Tsuchiya
 **********
-…………そうはいかない。
-こっちもムッツリ商会の未来がかかっている。
+............I can't do that.
+I'm putting Kouta Trading Co. at stake.
 
 --------------------
 [0007]
 Yuuji Sakamoto
 **********
-甘いな。
-鼻血を垂らしながら何を想像しているのかは
-知らないが――
+You're too naive.
+I don't have to imagine what's causing
+your nose to bleeding...
 
 --------------------
 [0008]
 Yuuji Sakamoto
 **********
-しょせん、おまえと俺とじゃ
-背負ってるものの重さが違うんだよ……
+But I'm sorry to say,
+our goals are just too different.
 
 --------------------
 [0009]
 Hideyoshi Kinoshita
 **********
-気のせいかのう。
-雄二の言葉から悲壮なほどの覚悟を
-感じるのじゃが……
+I might be wrong about this,
+but did Yuuji sound sort of sad?
 
 --------------------
 [0010]
 Mizuki Himeji
 **********
-どうかしたのでしょうか、坂本くん。
+Is everything fine, Yuuji?
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-まあいい、とにかく俺は
-何があっても負けないからな！
-始めるぞ！
+It's all good. Besides,
+there's no way I can lose!
+Let's begin!
 
 --------------------

@@ -1,84 +1,87 @@
 [0000]
 Hideyoshi Kinoshita
 **********
-さて、まずは１回戦目じゃな。
-何とか勝てればよいのじゃが……
+Alright, looks like this'll be my first
+match. I wonder what kind of strategy I
+should use...
 
 --------------------
 [0001]
 Yuuko Kinoshita
 **********
-絶対に無理ね。
-アンタの相手は、このアタシたちよ。
+Stop dreaming.
+Look at your opponents. 
+Do you really think you can beat us?
 
 --------------------
 [0002]
 Mizuki Himeji
 **********
-木下くん、よろしくお願いしますね。
+Kinoshita, please take care of me
 
 --------------------
 [0003]
 Shouko Kirishima
 **********
-……勝つのは私。
+I will be victorious.
 
 --------------------
 [0004]
 Hideyoshi Kinoshita
 **********
-これはどういうことじゃ！？
-全員Ａクラスレベルではないか！
-まさか姉上が……
+What the heck is this?!
+Everyone here's a Class A student!
+I never thought you'd...
 
 --------------------
 [0005]
 Yuuko Kinoshita
 **********
-嫌ねぇ、ただの偶然よ偶然。
-他の子たちに対戦を申し込もうとしたら、
-アタシたちを見て逃げてくんだもん。
+Man, what an unexpected coincidence.
+We tried to challenge other students,
+but they ran away as soon as they saw us.
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-当たり前じゃ！
-わしも今すぐ逃げたいくらいじゃ！
+Well, obviously!
+I want to run away, myself!
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-あらそう。
-なら、この勝負、秀吉の負けね。
+Is that so?
+I guess we'll have to consider this a 
+loss for you.
 
 --------------------
 [0008]
 Hideyoshi Kinoshita
 **********
-ううっ、それは……認められん。
-わしには、どうしても欲しいものが
-あるのじゃ！
+U-Uh, well... No, I can't accept that.
+I have to get the thing I want,
+no matter what!
 
 --------------------
 [0009]
 Yuuko Kinoshita
 **********
-……いつになくムキになるわね。
-やっぱり、彼氏が出来たんだ……！
-
+He really is serious...
+Looks like he really does have a 
+boyfriend, just like I thought.
 --------------------
 [0010]
 Hideyoshi Kinoshita
 **********
-姉上、何をぶつぶつ言っておる？
+Sis, what are you mumbling about?
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-何でもないわよ！
-さあ、始めるわよ！
+Nothing!
+Let's just get this started already.
 
 --------------------

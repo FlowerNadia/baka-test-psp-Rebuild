@@ -1,154 +1,158 @@
 [0000]
 Kouta Tsuchiya
 **********
-……これで３勝。
-ミッションコンプリート。
+Three straight wins.
+Mission accomplished.
 
 --------------------
 [0001]
 Yuuko Kinoshita
 **********
-そ、そんな！？
-ＡクラスのアタシがＦクラスのヤツに
-負けるなんて……！
+W-what?
+I, a class A student, lost to
+a class F student...!
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-むうっ、姉上でも歯が立たぬとは……
-本気のムッツリーニとは、ここまでのものか。
+Uh, I didn't think that even sis would 
+lose...... Muttsurini actually had such
+strength when he gets serious.
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-今のはちょっと油断しただけよ！
-もう一回戦えばわかる！
+It was just a fluke!
+I'll prove it if we battle again!
 
 --------------------
 [0004]
 Hideyoshi Kinoshita
 **********
-姉上、落ち着くのじゃ！
-冷静にならんと勝てるものも勝てぬ。
+Sis, calm down!
+Battles that can be won will be lost if
+you're this agitated.
 
 --------------------
 [0005]
 Yuuko Kinoshita
 **********
-アタシのどこが冷静じゃないっていうの！
+Can't you see? I am calm!
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-口調が怒っておるではないか。
-わしに八つ当たりをしたところで、
-何も結果は変わらんぞい。
+You're obviously angry.
+Even if you take it out on me,
+You still can't change the results.
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-秀吉、まるで保護者のような口を
-利くのはやめてよね！
-アタシの方が姉なのよ？
+Hideyoshi, who do you think you are
+You dare talk to me like that!
+I'm the elder sister, don't you know?
 
 --------------------
 [0008]
 Hideyoshi Kinoshita
 **********
-そんなこと、分かっておる。
-とにかく気を鎮めて欲しいのじゃ……
+I know,
+Just calm down...
 
 --------------------
 [0009]
 Yuuko Kinoshita
 **********
-わ、分かったわよ……
+I, I know......
 
 --------------------
 [0010]
 Yoshii Akihisa Yoshii
 **********
-でも、改めてこうして見ると、
-どっちが姉でどっちが弟かわからないよね。
+But, from an observer's point of view,
+It's really difficult to discern who's
+the sister or the brother.
 
 --------------------
 [0011]
 Hideyoshi Kinoshita
 **********
-あ、明久！
-何を言い出すのじゃ！？
+A-Akihisa!
+What are you saying!?
 
 --------------------
 [0012]
 Yoshii Akihisa Yoshii
 **********
-だってさ、腰のくびれ方とか、
-身体付きは秀吉の方が断然女の子っぽく――
+Just think, regardless of which part we
+talk about, Hideyoshi is the one that
+looks more feminine--
 
 --------------------
 [0013]
 Hideyoshi Kinoshita
 **********
-あああ姉上！　耳を貸す必要はないのじゃ！
-たとえ身体つきがそうであっても、
-わしが男で姉上が女であることには変わらん！
+Siiis! Don't listen to him!
+It doesn't matter how we look,
+I'm a guy, and you're a girl!
 
 --------------------
 [0014]
 Kouta Tsuchiya
 **********
-…………墓穴を掘った。
+You just dug your own grave.
 
 --------------------
 [0015]
 Hideyoshi Kinoshita
 **********
-ん？　何がじゃ？
+Huh? What are you talking about?
 
 --------------------
 [0016]
 Yuuko Kinoshita
 **********
-秀吉……ちょっとこっちに来なさい……
+Hideyoshi...come over here for a sec...
 
 --------------------
 [0017]
 Hideyoshi Kinoshita
 **********
-な、何じゃ姉上！
-わしは行きとうない！
-明久、見てないで助けるのじゃ！
+Sis, what are you going to do!?
+I'm not going! 
+Akihisa, you go over there!
 
 --------------------
 [0018]
 Yuuko Kinoshita
 **********
-吉井君、これは木下家の問題だから
-邪魔しないでくれるかしら？
+Yoshii, this is a Kinoshita family's
+problem, Please don't obstruct me, okay?
 
 --------------------
 [0019]
 Yoshii Akihisa Yoshii
 **********
-そ、そう……
+O-okay......
 
 --------------------
 [0020]
 Hideyoshi Kinoshita
 **********
-あ、姉上！
-いったいどこへ連れて行くつもりじゃ！？
-放して欲しいのじゃ！
+S-sis!
+Where are you bringing me!?
+Please let me go!
 
 --------------------
 [0021]
 Kouta Tsuchiya
 **********
-…………邪魔者は消えた。
-後は賞品を受け取りに行くだけ。
+...The nuisances disappeared.
+I'll go claim my prize now.
 
 --------------------

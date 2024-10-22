@@ -1,75 +1,78 @@
 [0000]
 Mizuki Himeji
 **********
-あ、あのぉ〜……よろしいですか？
+T-Then...Is it okay?
 
 --------------------
 [0001]
 Miharu Shimizu
 **********
-姫路さんですか。どうしました？
+Himeji What is it?
 
 --------------------
 [0002]
 Mizuki Himeji
 **********
-で、ですから挑戦しに来ました。
-明久くんたち、言ってませんでした？
+Tha, that's why I'm here to challenge you
+Didn't Akihisa and the others tell you?
 
 --------------------
 [0003]
 Miharu Shimizu
 **********
-ああ、そんなことを言っていましたね。
-いいですよ、美春は誰の挑戦でも受けます。
+Ahh, that is right.
+Sure, 
+Miharu will accept anyone's challenge.
 
 --------------------
 [0004]
 Shouko Kirishima
 **********
-……私も対戦する。
-早く賞品が欲しい。
+......I want to challenge you as well.
+I want to get my prize sooner.
 
 --------------------
 [0005]
 Kouta Tsuchiya
 **********
-……俺も参戦する。
-ムッツリ商会の未来がかかっている。
+...I will be joining in.  
+This affects the future of 
+Kouta Trading & Co.
 
 --------------------
 [0006]
 Miharu Shimizu
 **********
-それは奇遇です。
-美春もお姉さまとの未来がかかってます。
-だから絶対に負けません！
+What a coincidence. This affect's the
+future of Miharu and Onee-Sama's love.
+That's why I won't lose!
 
 --------------------
 [0007]
 Mizuki Himeji
 **********
-な、何だか私、ちょっと場違いかも……
+I, I kinda feel that, I'm at the wrong
+place......
 
 --------------------
 [0008]
 Miharu Shimizu
 **********
-どうするのですか？
-降りるなら今のうちですよ。
+What's the problem?
+If you want to withdraw, best do it now.
 
 --------------------
 [0009]
 Mizuki Himeji
 **********
-い、いえ！　やります！
-明久くんたちに頼まれましたし……
+N, no! I'll stay!
+Akihisa and the others begged me to...
 
 --------------------
 [0010]
 Kouta Tsuchiya
 **********
-…………参加定員数に達した。
-では開始する！
+............There's enough participants.
+Then let's begin!
 
 --------------------

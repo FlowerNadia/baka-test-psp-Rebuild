@@ -1,103 +1,107 @@
 [0000]
 Yuuko Kinoshita
 **********
-アタシの勝ちよ。
-これで、暴言じゃなくて事実だって
-分かってくれた？
+I won.
+Now you all see I was right!
+You never stood a chance.
 
 --------------------
 [0001]
 Yuuji Sakamoto
 **********
-まさかこれほどとは……さすがはＡクラスだぜ。
+I didn't expect you to be this strong...
+truly a Class A student.
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-うう……無念じゃ……
+Uhh......I can't believe it......
 
 --------------------
 [0003]
 Minami Shimada
 **********
-こうなったら、
-アキにがんばってもらうしか……
+Since it's this way,
+We can only rely on Akihisa's effort now.
 
 --------------------
 [0004]
 Yuuji Sakamoto
 **********
-島田、負けて悔しいのは分かるが落ち着け。
-明久が勝てると思うか？
+Shimada, I know you've just lost but
+please think clearly.
+You think that Akihisa will win?
 
 --------------------
 [0005]
 Minami Shimada
 **********
-え？
-…………木下、どう思う？
+Huh?
+...Kinoshita, what do you think?
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-勝ったら奇跡、じゃな。
+It's a miracle if he can win.
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-わかってるじゃない。
-まあ、挑戦ならいつでも受けてあげるわ。
-……それじゃあね。
+I guess you all do understand.
+Ah, I'll accept any challenges anytime.
+......See you.
 
 --------------------
 [0008]
 Minami Shimada
 **********
-……どうする？
-アキに対戦してもらう？
+......What should we do?
+Should we send Aki after her?
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-勝算も無いのに戦わせるのか？
+Send him even if there's no chance of
+winning?
 
 --------------------
 [0010]
 Hideyoshi Kinoshita
 **********
-じゃが……もし明久が姉上に遭遇したら、
-間違いなく戦うじゃろう。
+But......if Akihisa meets sis,
+They will definitely battle.
 
 --------------------
 [0011]
 Minami Shimada
 **********
-それって、もしかして
-ウチたちの仇を討つために？
+It can't be that
+It's to avenge us?
 
 --------------------
 [0012]
 Yuuji Sakamoto
 **********
-違う、あいつがバカだからだ。
-木下にうまく乗せられて、
-みすみす勝ち星をくれてやるのがオチだ。
+No, he is an idiot. He'll definitely fall
+for Kinoshita's trick, and give her a 
+free win.
 
 --------------------
 [0013]
 Hideyoshi Kinoshita
 **********
-その通りじゃ。
+That is so.
 
 --------------------
 [0014]
 Minami Shimada
 **********
-こうしちゃいられない！
-そうなる前にアキを探しに行かないと！
+We can't just stand and watch!
+We'll have to find Akihisa before things
+turn sour!
 
 --------------------

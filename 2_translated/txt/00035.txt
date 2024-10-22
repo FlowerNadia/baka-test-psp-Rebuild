@@ -1,99 +1,101 @@
 [0000]
 Hideyoshi Kinoshita
 **********
-おお？
-もしかして、わしが勝ったのか！？
+Huh?
+I-I won?!
 
 --------------------
 [0001]
 Shouko Kirishima
 **********
-……負けた。
+...I lost.
 
 --------------------
 [0002]
 Mizuki Himeji
 **********
-木下くん、おめでとうございます！
+Congratulations, Kinoshita!
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-秀吉、アンタ……ズルしたでしょ！？
-じゃなきゃ、おかしいわよ。
-どうしてアタシが負けるのよ！？
+Hideyoshi, you... You played some kind of
+trick, didn't you? There's no way you
+could've beat me otherwise!
 
 --------------------
 [0004]
 Hideyoshi Kinoshita
 **********
-ズルなどはしておらん。
-正真正銘、わしの実力で勝ったのじゃ。
+I didn't play any tricks.
+I won fairly with my own strength.
 
 --------------------
 [0005]
 Yuuko Kinoshita
 **********
-な、何それ！？
-彼氏が出来たからって調子に乗って！
+Wha, what do you mean!?
+You think you're better now that you have
+a boyfriend!
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-は？　姉上、今なんと言ったのじゃ？
-もう一度言ってもらえるかのう？
+Ah? Sis, what did you just say?
+Would you mind repeating it?
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-いいわよ、何度でも言ってあげる。
-彼氏が出来たからって、
-調子に乗るんじゃないわよ！
+I'll repeat as many times as you need.
+Don't think that you're better than me,
+now that you have a boyfriend!
 
 --------------------
 [0008]
 Hideyoshi Kinoshita
 **********
-な、何を言っておる！
-そんなもの、出来てはおらん！
+Wh-What are you saying?!
+I don't have a boyfriend!
 
 --------------------
 [0009]
 Hideyoshi Kinoshita
 **********
-それにわしは男じゃ！
-仮にできたとしても、それは彼氏じゃなくて
-彼女じゃろう！？
+In any case, I'm a guy! Even if I was
+dating I would not have a boyfriend, 
+It'll be a girlfriend.
 
 --------------------
 [0010]
 Yuuko Kinoshita
 **********
-そんなのどっちでも良いわよ。
-とにかく、相手は誰なの！？
+That's not important.
+Just tell me who is it!?
 
 --------------------
 [0011]
 Hideyoshi Kinoshita
 **********
-どっちでも良くないのじゃ！
-それに、そんな相手はおらん！
+It's important!
+I'll say it again, I'm not dating anyone!
 
 --------------------
 [0012]
 Hideyoshi Kinoshita
 **********
-もういい、話はテストが終わってからじゃ。
-姉上、わしはもう行くぞ。
+Ah, nevermind, we can finish this 
+discussion after this test is over.
+See you later, Sis.
 
 --------------------
 [0013]
 Yuuko Kinoshita
 **********
-あーっ！？
-秀吉、待てーっ！　待ちなさい！
+Wha?!
+Hideyoshi, wait! Come back here!
 
 --------------------

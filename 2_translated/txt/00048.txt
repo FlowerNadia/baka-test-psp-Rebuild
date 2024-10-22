@@ -1,300 +1,306 @@
 [0000]
 Kouta Tsuchiya
-**********
-…………学園長。
+...Principal.
 
 --------------------
 [0001]
 Kaoru Toudou
 **********
-い、いつの間に入ったんだい！？
-ノノ、ノックしろと言ったはずだよ！？
+Wh, when did you come in!?
+Wh, why didn't you knock!?
 
 --------------------
 [0002]
 Kouta Tsuchiya
 **********
-……耳が遠くなっただけ。
-それより賞品を。成績は十分なはず。
+...You just didn't hear it.
+I'm here to claim my prize.
 
 --------------------
 [0003]
 Kaoru Toudou
 **********
-確か２年ＦクラスのKouta Tsuchiyaだったね？
-……ふむ、確かに。
-で、何が欲しいんだい？　言ってみな。
+You're Tsuchiya Kouta from Class F, 
+correct?
+Hm... What is it you want?
 
 --------------------
 [0004]
 Kouta Tsuchiya
 **********
-……小型衛星。
+...A mini satellite.
 
 --------------------
 [0005]
 Kaoru Toudou
 **********
-…………アタシの耳がおかしくなったかねぇ。
-何やらおかしな言葉が聞こえた気がしたよ。
+I must've heard wrongly.
+I thought you said a mini satellite.
 
 --------------------
 [0006]
 Kouta Tsuchiya
 **********
-……聞き間違いじゃない。
-欲しいのは小型衛星。
+......You didn't hear wrongly.
+I want a mini satellite.
 
 --------------------
 [0007]
 Kaoru Toudou
 **********
-却下だよ。
+Rejected.
 
 --------------------
 [0008]
 Kouta Tsuchiya
 **********
-なぜ！？
+Why!?
 
 --------------------
 [0009]
 Kaoru Toudou
 **********
-バカも休み休み言いな！
-生徒に衛星をやる学園が
-どこにあるんだい！？
+You're asking for the impossible!
+Giving a student a satellite,
+Why would the school do that!?
 
 --------------------
 [0010]
 Kaoru Toudou
 **********
-それに、仮にやるとしても
-アンタの目的が学業に関係ないのは
-わかりきってるからね！
+Furthermore, even if it was possible
+Your aims are obviously unrelated to your
+studies.
 
 --------------------
 [0011]
 Kouta Tsuchiya
 **********
-…………だったら、別の物を。
-超高性能小型カメラがいい。
+Then I'll ask for something else.
+An ultra-high performance compact camera.
 
 --------------------
 [0012]
 Kaoru Toudou
 **********
-それで何をするんだい？
+Why do you want that?
 
 --------------------
 [0013]
 Kouta Tsuchiya
 **********
-……………。
+.........
 
 --------------------
 [0014]
 Kaoru Toudou
 **********
-却下だよ！！
+Rejected!!
 
 --------------------
 [0015]
 Kouta Tsuchiya
 **********
-……だ、だったら……小型マイク……
+......If, if so......
+...a compact microphone...
 
 --------------------
 [0016]
 Kaoru Toudou
 **********
-それで何をするんだい？
+What are you going to do with it?
 
 --------------------
 [0017]
 Kouta Tsuchiya
 **********
-……………。
+.........
 
 --------------------
 [0018]
 Kaoru Toudou
 **********
-退学届にサインしな。
+Do you want to be expelled?
 
 --------------------
 [0019]
 Kouta Tsuchiya
 **********
-なら何を賞品にすれば……！？
+If so what prize should I want......!?
 
 --------------------
 [0020]
 Kaoru Toudou
 **********
-考えなくていいよ。
-アンタの賞品はアタシが決めた。
+Don't bother,
+I'll decide for you.
 
 --------------------
 [0021]
 Kouta Tsuchiya
 **********
-……何？
+What?
 
 --------------------
 [0022]
 Kaoru Toudou
 **********
-今日から１週間、全教科の補習授業だ。
-その腐った性根を叩き直してやるよ！
+A week from today, extra classes 
+for every subject.
+It'll correct your corrupted morality!
 
 --------------------
 [0023]
 Kouta Tsuchiya
 **********
-……全力で拒否する。
-そんな賞品はいらない……！
+......I'll reject with all my might.
+I don't need this kind of prize......!
 
 --------------------
 [0024]
 Kaoru Toudou
 **********
-遠慮しないでいいさ。賞品を受け取りな。
+You're welcome. Receive your prize well.
 
 --------------------
 [0025]
 Kouta Tsuchiya
 **********
-…………………………
+.........
 
 --------------------
 [0026]
 Kaoru Toudou
 **********
-ここまで素晴らしい成績だ。
-補習は１週間と言わず１ヶ月にしてやるよ。
-アタシからのサービスさ。
+What outstanding results. Let's make the
+extra classes one month instead of one 
+week. This is my generous help.
 
 --------------------
 [0027]
 Kouta Tsuchiya
 **********
-…………何故こんなことに。
+......How did it turn out this way?
 
 --------------------
 [0028]
 Yoshii Akihisa Yoshii
 **********
-……というわけでムッツリーニ、
-今日から一日８時間の補習だって。
+That's right, Muttsurini.
+From today onwards you have eight hours
+of extra classes.
 
 --------------------
 [0029]
 Yuuji Sakamoto
 **********
-まあ、当然の結果だな。
+Hah, this is an inevitable end.
 
 --------------------
 [0030]
 Hideyoshi Kinoshita
 **********
-そうじゃな。
-よくよく考えれば、盗撮用の衛星を
-賞品に許すはずはないからのう。
+Correct. Just think, a mini satellite 
+for creep photos could never be given
+as a prize.
 
 --------------------
 [0031]
 Yoshii Akihisa Yoshii
 **********
-最後まで気付かなかった僕たちって、
-ひょっとしたらバカだったのかも。
+I didn't realize it until now,
+but maybe we were acting like idiots.
 
 --------------------
 [0032]
 Yuuji Sakamoto
 **********
-今さら気づいたか。
-ていうか、バカはおまえだけだがな。
+You just realized that?
+That's why you're the only idiot.
 
 --------------------
 [0033]
 Yoshii Akihisa Yoshii
 **********
-エエエエエエ！？
-僕だけ仲間外れにしないでよ！！
+Ehhhh?
+Don't make me an exception!!
 
 --------------------
 [0034]
 Kouta Tsuchiya
 **********
-………………しない……明久も仲間。
+.....................No......
+Akihisa is on the same boat.
 
 --------------------
 [0035]
 Yoshii Akihisa Yoshii
 **********
-ム、ムッツリーニッ！！
-補習じゃないの！？
+Mu, Muttsurini!!
+Aren't you going for extra classes!?
 
 --------------------
 [0036]
 Kouta Tsuchiya
 **********
-…………許可をもらってここへ来た。
-明久を補習に誘うため…………
+............I came here with permission.
+To call Akihisa to go for extra classes
+together.
 
 --------------------
 [0037]
 Yoshii Akihisa Yoshii
 **********
-ええっ！？　遠慮するよ！
-賞品を受け取れるのはムッツリーニだけ！
-負けた僕たちはもらえないよ！
+Eh? No need!
+You're the only one who won the prize!
+I have no part of it as a loser!
 
 --------------------
 [0038]
 Kouta Tsuchiya
 **********
-…………遠慮しないでいい。
-鉄人にも相談した……もちろんＯＫ。
+Don't worry.
+I've talked about it with Ironman.  
+It's 100% okay with it.
 
 --------------------
 [0039]
 Yuuji Sakamoto
 **********
-明久、俺たちは用事を思い出した。
-ムッツリーニと仲良くやれよ！
+Akihisa, we suddenly had something to do.
+You have to get along with Muttsurini.
 
 --------------------
 [0040]
 Hideyoshi Kinoshita
 **********
-すまぬ明久！　達者でのう！
+Sorry for the trouble, 
+Akihisa! Study hard!
 
 --------------------
 [0041]
 Yoshii Akihisa Yoshii
 **********
-み、皆っ！？　ちょっと待って、僕も行く！
+E-Everyone!? Wait for me, I'm coming too!
 
 --------------------
 [0042]
 Kouta Tsuchiya
 **********
-…………行かせない。
+I won't let you go.
 
 --------------------
 [0043]
 Yoshii Akihisa Yoshii
 **********
-放してムッツリーニ！
-……ああ、鉄人の声がする！
+Let me go, Muttsurini!
+......Ah, Ironman's voice!
 
 --------------------
 [0044]
 Kouta Tsuchiya
 **********
-…………もう遅い。
-明久、楽しい補習の始まり……！
+It's too late.
+Akihisa, let's have fun...!
 
 --------------------

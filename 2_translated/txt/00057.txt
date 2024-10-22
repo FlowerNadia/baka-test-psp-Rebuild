@@ -1,274 +1,281 @@
 [0000]
 Kaoru Toudou
 **********
-――ん？　誰だい？
+--Hmm? Who is it?
 
 --------------------
 [0001]
 Yuuko Kinoshita
 **********
-失礼します。
-お時間よろしいでしょうか？
+Sorry to bother you.
+Can we speak for a minute?
 
 --------------------
 [0002]
 Kaoru Toudou
 **********
-アンタは確か、２年Ｆクラスの木下……
+Kinoshita from 2F......
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-それは弟です。
-アタシは２年ＡクラスのYuuko Kinoshitaです。
+That's my younger brother.
+I'm Yuuko Kinoshita, from Class 2A.
 
 --------------------
 [0004]
 Kaoru Toudou
 **********
-おやまあ、弟がＦで姉がＡかい。
-両極端な姉弟だねぇ。
+The brother in F and the sister in A...
+What a difference between twins.
 
 --------------------
 [0005]
 Yuuko Kinoshita
 **********
-弟が不真面目なだけです。
-それより、内密のお話があるのですが……
+It's just that he doesn't try enough.
+Beside the point, I have something to
+discuss with you......
 
 --------------------
 [0006]
 Kaoru Toudou
 **********
-どうせ賞品のことだろう？
-早く言いな。
+It's about the prize, right?
+Hurry up and speak.
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-……本が、欲しいんです。
-それも普通の書店には売ってなくて、
-すでに販売が終了した本なのですが……
+......I want a book. But it's something
+you can't get in a normal bookstore.
+A book that had it's publication ceased.
 
 --------------------
 [0008]
 Kaoru Toudou
 **********
-古書かい？
-それとも発禁になったものとか？
+An old book? 
+Or is it... forbidden?
 
 --------------------
 [0009]
 Yuuko Kinoshita
 **********
-そんなやましい物ではありません！
-純粋な愛を描いた本です！
+Of course it's nothing suspicious like 
+that!
+It's a book about pure love!
 
 --------------------
 [0010]
 Kaoru Toudou
 **********
-なんだ……恋愛ものかい。
-まあ、色気づく年頃だしねぇ。
+So...it's a romance novel then?
+Ah, after all you're at that age.
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-そ、そういうわけじゃありません！
-だいたいビー……
-
+It's nothing like that!
+This is B...
+(BL = Boys Love, in other terms yaoi)
 --------------------
 [0012]
 Kaoru Toudou
 **********
-びー……何だい？
+B......what?
 
 --------------------
 [0013]
 Yuuko Kinoshita
 **********
-ビビビ……ビールはまだ早いですよね！？
-アタシたちの年では！
+B B B......Beer is too early!?
+For my age, I mean!
 
 --------------------
 [0014]
 Kaoru Toudou
 **********
-当たり前さね。
-酒は２０歳を過ぎてからだよ。
+Of course.
+You have to be 20 to drink alcohol.
 
 --------------------
 [0015]
 Yuuko Kinoshita
 **********
-（危ない……何とか誤魔化せた。
-　まさかＢＬ本を賞品にしたいだなんて、
-　バレたら困るもの……！）
+(That was close...at least I wriggled out
+Wanting a BL book as a prize, It'd be 
+embarrassing if I said it out loud!...)
 
 --------------------
 [0016]
 Yuuko Kinoshita
 **********
-（でも……それでも、入手し損ねた
-　イベント限定の豪華特装版だけは
-　絶対に欲しい！　欲しいのッッッ！）
+(But,even so, it'd be waste if I didn't
+get it. A limited edition copy only sold 
+at one event, I absolutely want it! )
 
 --------------------
 [0017]
 Kaoru Toudou
 **********
-……ん？　何をブツクサ言ってるんだい？
+......Huh? What are you mumbling?
 
 --------------------
 [0018]
 Yuuko Kinoshita
 **********
-い、いえ、何でもありません！
-それより賞品なのですが……
-大丈夫でしょうか？
+Nuh, no, nothing!
+About the prize......
+It should be fine, right?
 
 --------------------
 [0019]
 Kaoru Toudou
 **********
-そうさねぇ。
-ここ数年の間に売られた物なら、
-何とかなるはずだよ。
+Yes,
+As long as it was sold within a few years
+We should be able to get it.
 
 --------------------
 [0020]
 Yuuko Kinoshita
 **********
-それが特定のイベント限定で販売されたもので、
-ほとんど出回ってないものでも……ですか？
+It's on limited sale at a special event,
+It has never been on the market......
+Is it still fine?
 
 --------------------
 [0021]
 Kaoru Toudou
 **********
-アタシを舒めるんじゃないよ？
-その程度の物、難なく手に入るさ。
-本のタイトルは何ていうんだい？
+Are you looking down at me? That kind of 
+stuff, I'd be able to get it easily.
+What's the book's name?
 
 --------------------
 [0022]
 Yuuko Kinoshita
 **********
-『オレとオマエの初恋嵐！　金色追想版』
-……です。
+『Our First Love Disaster! Golden 
+Reminescence Edition』
+......I guess.
 
 --------------------
 [0023]
 Kaoru Toudou
 **********
-やっぱり恋愛ものじゃないか。
-まあ、相応しい成績を取ればくれてやるよ。
+Romance-related as expected.
+Well, I'll give it to you if you can get
+the results.
 
 --------------------
 [0024]
 Yuuko Kinoshita
 **********
-それならご心配なく。
-必ずや納得して頂ける成績を
-おさめてきますから！
+Don't worry.
+I definitely will
+Get results that will satisfy you!
 
 --------------------
 [0025]
 Kaoru Toudou
 **********
-まあ、精々がんばりな。
+Ah, do your best.
 
 --------------------
 [0026]
 Yuuko Kinoshita
 **********
-ありがとうございます。
-それでは失礼します。
+Thank you very much.
+I'll be leaving then.
 
 --------------------
 [0027]
 Yuuko Kinoshita
 **********
-……これでよし。
-後は勝負に勝つだけ、ね。
+......It's done.
+Now I just need to win the competition.
 
 --------------------
 [0028]
 Yuuko Kinoshita
 **********
-厄介な相手は代表と……後は姫路さんか。
-この２人以外は大したことないわね。
+The opponent will be the troublesome 
+class rep......and Himeji-san I think.
+The others should be small fries.
 
 --------------------
 [0029]
 Yuuko Kinoshita
 **********
-特に秀吉たちのいるＦクラスの連中には、
-間違いなく勝てるはず。
-よーし、まずはそこから狙おうっと。
+Especially Hideyoshi and the rest of 
+Class F, I will win for sure.
+Right, I'll start from there.
 
 --------------------
 [0030]
 Kouta Tsuchiya
 **********
-……由々しき事態。
-みんなに報告しないと。
+......Huge news.
+Everyone needs to know about it.
 
 --------------------
 [0031]
 Hideyoshi Kinoshita
 **********
-なんじゃと！？
-姉上がそんなことを言っておったのか？
-……皆、すまんのう。
+What!?
+Sis actually said something like that?
+......Everyone, I'm sorry.
 
 --------------------
 [0032]
 Yoshii Akihisa Yoshii
 **********
-秀吉のせいじゃないよ。
-それにしても、そこまで言われちゃうと
-何としてでも勝ちたくなるよね。
+It's not your fault, Hideyoshi. Other 
+than that, she actually said all that
+Now I want to win even more.
 
 --------------------
 [0033]
 Yuuji Sakamoto
 **********
-当たり前だ。
-手に入れなきゃならないものもあるしな。
-絶対に負けられないぜ。
+Of course.
+We also have things we need to win.
+I won't lose for sure.
 
 --------------------
 [0034]
 Hideyoshi Kinoshita
 **********
-わしもじゃ。
-相手が姉上であろうと、
-負けるわけにはいかん。
+Me too.
+Even if sis is my opponent,
+I can't lose.
 
 --------------------
 [0035]
 Minami Shimada
 **********
-ウチも！
-勝負に勝って、賞品を貰わなきゃ！
+Me as well!
+I want to win the competition, and get
+the prize!
 
 --------------------
 [0036]
 Mizuki Himeji
 **********
-私もです！
-精一杯がんばります！
+I agree!
+I'll do my best!
 
 --------------------
 [0037]
 Yuuji Sakamoto
 **********
-よーし、各々の目的のためだ。
-相手がＡクラスであろうと、
-絶対に負けるんじゃねーぞ！
+Alright, for our own needs.
+Even if we're up against Class A,
+We definitely won't lose!
 
 --------------------

@@ -1,188 +1,192 @@
 [0000]
 Yoshii Akihisa Yoshii
 **********
-……おかしいなぁ。
-雄二たち、どこにいるんだろう？
+......That's weird.
+Where is Yuuji and everyone?
 
 --------------------
 [0001]
 Yuuko Kinoshita
 **********
-あら、誰か探してるの？
+Ah, are you looking for someone?
 
 --------------------
 [0002]
 Yoshii Akihisa Yoshii
 **********
-（これは、もしかしてチャンスなのか？
-　狙ってた相手が向こうから来てくれたぞ！）
+(This is a chance, isn't it?
+The target walked into our trap!)
 
 --------------------
 [0003]
 Yoshii Akihisa Yoshii
 **********
-（でも、雄二たちがいないし……
-　僕一人で勝てるか！？）
+(But, Yuuji and the others aren't here...
+Can I win alone!?)
 
 --------------------
 [0004]
 Yuuko Kinoshita
 **********
-どう？　良かったらアタシと対戦しない？
-……それが目的なんでしょ？
+How is it? Will you battle me?
+......It's your aim, is it not?
 
 --------------------
 [0005]
 Yoshii Akihisa Yoshii
 **********
-どうしてそれを！
-まさか……僕の心を読んだんじゃ！？
+How did you find out!
+It can't be that......you've read our 
+minds!?
 
 --------------------
 [0006]
 Yuuko Kinoshita
 **********
-まあそんなところね。
-こっちは何だってお見通しなのよ。
+Ah, just like that.
+I've seen through everything.
 
 --------------------
 [0007]
 Yoshii Akihisa Yoshii
 **********
-いつの間にそんな能力を……さすがＡクラス！
+When did you get such a power...
+truly a Class A student!
 
 --------------------
 [0008]
 Yuuko Kinoshita
 **********
-それより、欲しい物があるんでしょ？
-だったら自分の勝ち星を増やすためにも
-対戦しなきゃ。
+Other than that, don't you have something
+you want? If so, to increase the number 
+of victory stars, You'll have to battle.
 
 --------------------
 [0009]
 Yoshii Akihisa Yoshii
 **********
-そうか、言われてみれば確かに。
-勝たないと賞品は貰えないわけだし……
+It's true if you put it that way.
+I can't get the prize if I don't win...
 
 --------------------
 [0010]
 Yoshii Akihisa Yoshii
 **********
-……よーし、やってやる！
-木下さん、対戦しよう！
+......Fine, here I come, Kinoshita-san!
+Let's battle!
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-（よしっ！　上手くいったわ！
-　さすがはＦクラスの誇るバカ中のバカね。
-　これで楽勝！）
+(Great! He fell for it easily!
+As expected of Class F's infamous idiot.
+I'll win easily!)
 
 --------------------
 [0012]
 Yoshii Akihisa Yoshii
 **********
-でも木下さん、テストは４人１組だよね？
-あと２人はどうするの？
+But Kinoshita-san, don't we need 4 people
+in a team? What about the other 2?
 
 --------------------
 [0013]
 Yuuko Kinoshita
 **********
-ああ、それなら適当に――
+Ahh, then we'll simply just--
 
 --------------------
 [0014]
 Shouko Kirishima
 **********
-……私が参加する。
+......I'll take part.
 
 --------------------
 [0015]
 Yuuko Kinoshita
 **********
-（代表！？　一番の難敵が来ちゃった。
-　せっかく楽に勝てると思ったのに……）
+(Class rep!? The biggest enemy is here.
+I thought it'd be an easy win......)
 
 --------------------
 [0016]
 Yoshii Akihisa Yoshii
 **********
-霧島さん！
-どうして、わざわざ僕たちのところへ……
+Kirishima!
+Why did you come here on purpose.....
 
 --------------------
 [0017]
 Shouko Kirishima
 **********
-……たまたま通りかかっただけ。
-でも、目的を果たすためには対戦相手が必要。
+.....I passed by coincidently.
+But, to achieve my aim, I need opponents.
 
 --------------------
 [0018]
 Yuuko Kinoshita
 **********
-ちょ、ちょっと待って！
-代表が入っても、あと１人足りないの。
-だから別の所へ行ってくれない？
+Wa, wait! Even if class rep's here,
+we still lack 1 more.
+Why don't we go somewhere else?
 
 --------------------
 [0019]
 Minami Shimada
 **********
-大丈夫！　ウチが入るわ！
+No problem! I'll join!
 
 --------------------
 [0020]
 Yuuko Kinoshita
 **********
-あなたは……！
+You're......!
 
 --------------------
 [0021]
 Minami Shimada
 **********
-今度こそ分からないわよ。
-なんたって、対戦メンバーの中に
-霧島さんがいるんだから。
+This time we can't say for sure.
+Since one of the members here
+Is none other than Kirishima-san.
 
 --------------------
 [0022]
 Shouko Kirishima
 **********
-……私は私の目的のために戦う。
+......I only fight for myself.
 
 --------------------
 [0023]
 Minami Shimada
 **********
-でも、木下さんに負けたくないでしょ？
-賞品が貰えなくなっちゃうし！
+But, you don't want to lose to Kinoshita,
+right?
+You'll also lose your prize!
 
 --------------------
 [0024]
 Shouko Kirishima
 **********
-……負けない。
-文月学園に愛の巣を作るまでは。
+......I won't lose.
+Until I've built a love nest in Fumizuki
+High School.
 
 --------------------
 [0025]
 Yoshii Akihisa Yoshii
 **********
-なんだかよくわからないけど、
-人数も揃ったし、とにかく対戦成立って
-ことでいいのかな？
+Although I don't get it,
+But we've enough people,
+And the battle is on, is it not?
 
 --------------------
 [0026]
 Yuuko Kinoshita
 **********
-分かったわ。
-気をつけなくちゃならないのが代表だけなら、
-十分勝てる見込みはある……始めるわよ！
+Fine.
+I just need to be wary of class rep,
+she is almost unbeatable.....Let's begin!
 
 --------------------

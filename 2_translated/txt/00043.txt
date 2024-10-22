@@ -1,90 +1,90 @@
 [0000]
 Yuuji Sakamoto
 **********
-ぐっ！？
-３人がかりで負けただと！？
+Eh!?
+All three of us actually lost!?
 
 --------------------
 [0001]
 Hideyoshi Kinoshita
 **********
-ムッツリーニを侮っていたようじゃのう。
-まさかこれほどまでに強いとは……！
+We really underestimated Muttsurini.
+He actually had such strength......!
 
 --------------------
 [0002]
 Shouko Kirishima
 **********
-……雄二、ごめんなさい。
-役に立てなかった。
+I'm sorry, Yuuji......
+I couldn't help you.
 
 --------------------
 [0003]
 Yuuji Sakamoto
 **********
-気にするな。
-おまえのせいじゃない……俺の采配ミスだ。
-亊子、迷惑かけたな。
+Nevermind. I don't blame you.......
+It's my shotcalling that went wrong.
+Shouko, sorry for troubling you.
 
 --------------------
 [0004]
 Shouko Kirishima
 **********
-……そう思うなら、ちゃんとして。
+If so, you have to make it right.
 
 --------------------
 [0005]
 Yuuji Sakamoto
 **********
-ちゃんと？　何をだ？
-――てっ、お、おい！
-俺をどこへ連れて行くつもりだ！？
+Do well? Do what?
+--He, hey!
+Where are you bringing me to!?
 
 --------------------
 [0006]
 Shouko Kirishima
 **********
-……誰もいないところ。
-雄二、迷惑かけた責任を取って
-既成事実を作って。
+......To somewhere without people.
+Yuuji has to be responsible,
+Let's go do it.
 
 --------------------
 [0007]
 Kouta Tsuchiya
 **********
-…………証拠写真が必要なら任せろ。
+...Let me get photographic evidence.
 
 --------------------
 [0008]
 Yuuji Sakamoto
 **********
-ちょっと待て！　意味がわからん！
-いいから離――
+Wait! What are you doing!
+Let me go--
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-せあっ、亊子、やめっ、
-スタンガあぐぁああああああ！！
+Ah, Shouko, no!
+Don't use the stun gun- ahhhhhhhh!!
 
 --------------------
 [0010]
 Shouko Kirishima
 **********
-……雄二は連れて行く。
+......I'll be leaving with Yuuji.
 
 --------------------
 [0011]
 Hideyoshi Kinoshita
 **********
-すまぬ、雄二。
-わしには助けられないようじゃ……
+I'm sorry, Yuuji.
+I really couldn't do anything...
 
 --------------------
 [0012]
 Kouta Tsuchiya
 **********
-……まずは１勝。
+......win number 1.
 
 --------------------

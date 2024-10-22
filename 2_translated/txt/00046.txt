@@ -1,134 +1,134 @@
 [0000]
 Yoshii Akihisa Yoshii
 **********
-おーい、ムッツリーニ！
-こっちこっちー！
+Hey, Muttsurini!
+Over here, over here!
 
 --------------------
 [0001]
 Kouta Tsuchiya
 **********
-…………明久。それに木下姉弟。
-次の相手か。
+Akihisa and the Kinoshita twins.
+You're my next opponents.
 
 --------------------
 [0002]
 Yoshii Akihisa Yoshii
 **********
-そうだよ。だからこっちに来なよ。
-大丈夫、廊下の真ん中に
-落とし穴なんてないからさ。
+Right, so hurry up and come over. Don't
+worry about the centre of the corridor,
+There's no trap over there.
 
 --------------------
 [0003]
 Kouta Tsuchiya
 **********
-……分かった。
+...You gave it away.
 
 --------------------
 [0004]
 Yoshii Akihisa Yoshii
 **********
-（よし、引っかかった！
-　本当は廊下の両端に落とし穴があるのさ！）
+(Good, he fell for it.  We actually
+booby-trapped the sides of the hall.)
 
 --------------------
 [0005]
 Yoshii Akihisa Yoshii
 **********
-――って、ちょっと待ってっ！
-ムッツリーニ、
-なんで真ん中を歩いてくるの！？
+Eh? Wait!
+Kouta, why are you walking
+through the middle of the hall?
 
 --------------------
 [0006]
 Kouta Tsuchiya
 **********
-…………明久の顔を見ていれば、
-どこに何があるのか、すぐに分かる。
+...I saw your expression.
+It told me the truth.
 
 --------------------
 [0007]
 Hideyoshi Kinoshita
 **********
-明久、言うたじゃろう。
-ムッツリーニの方が一枚も二枚も上手じゃと。
+Akihisa, didn't I already tell you.
+Muttsurini can completely outsmart you.
 
 --------------------
 [0008]
 Yoshii Akihisa Yoshii
 **********
-ううう……完亅な作戦だったのに……！
+Awww...my perfect plan!
 
 --------------------
 [0009]
 Yuuko Kinoshita
 **********
-完亅どころか最悪ね。
-やっぱりあなた、Ｆクラスだわ。
+Perfect? It was totally predictable.
+Typical of Class F's biggest idiot.
 
 --------------------
 [0010]
 Yoshii Akihisa Yoshii
 **********
-なんだって！？
-秀吉のお姉さんだからって
-バカにするのはやめてほしい！
+What did you say!?
+Aren't you Hideyoshi's sister?
+Don't treat me like an idiot!
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-バカだから、バカ扱いするのよ。
-まさかそんなことも分からないの？
-やっぱりバカね。
+An idiot is an idiot.
+Don't you even know this?
+Just what I'd expect from an idiot.
 
 --------------------
 [0012]
 Yoshii Akihisa Yoshii
 **********
-ううっ……秀吉、何とか言ってよ！
+Uhh...Hideyoshi, say something!
 
 --------------------
 [0013]
 Hideyoshi Kinoshita
 **********
-すまぬ……正論すぎて反論できん。
+I'm sorry...it's undeniably true.
 
 --------------------
 [0014]
 Yuuko Kinoshita
 **********
-あんたもＦクラスだったわよね？
-吉井君よりバカでないのなら、
-この勝負はやめなさい。
+Aren't you also from Class F?
+You are an idiot too,
+Hurry up and surrender.
 
 --------------------
 [0015]
 Kouta Tsuchiya
 **********
-…………なぜ？
+Why?
 
 --------------------
 [0016]
 Yuuko Kinoshita
 **********
-勝ち目のない勝負は時間の無駄よ？
-それともアタシに勝てると思っているの？
+You're wasting your time.
+Unless you actually thought you can win?
 
 --------------------
 [0017]
 Kouta Tsuchiya
 **********
-…………そのとおり。
-絶対に勝つ。
+Of course.
+I definitely want to win.
 
 --------------------
 [0018]
 Yuuko Kinoshita
 **********
-言うじゃない。
-すぐに実力の差を教えてあげるわ。
-覚悟なさい！
+You dare to say it. I'll show you the gap
+between our strength.
+Repent now!
 
 --------------------

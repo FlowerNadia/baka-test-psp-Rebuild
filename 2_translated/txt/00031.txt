@@ -1,85 +1,87 @@
 [0000]
 Yuuji Sakamoto
 **********
-どうだ……俺の勝ちだーーーっ！
+How about that... I won!
 
 --------------------
 [0001]
 Shouko Kirishima
 **********
-……負けた。
-でも、どうして……
+...I've lost.
+But, how is it possible?...
 
 --------------------
 [0002]
 Yuuji Sakamoto
 **********
-教えてやる。
-亊子、俺はおまえ以上に
-おまえのことを知っているのさ。
+I'll tell you how.
+I understand you very well, Shouko.
+Even more than you understand yourself.
 
 --------------------
 [0003]
 Yuuji Sakamoto
 **********
-おまえがどんなことを考えて、
-どんなふうに行動するのかな。
+I've anticipated all of your
+thoughts and actions.
 
 --------------------
 [0004]
 Shouko Kirishima
 **********
-……雄二、有難う。
-分かってる、今のはプロポーズ。
-やっと素直になってくれた。
+Yuuji, thank you.
+I understand. You're proposing to me.
+You're finally being honest with yourself
 
 --------------------
 [0005]
 Yuuji Sakamoto
 **********
-――は？　ち、違う！　誤解すんな！
-おまえが負けた理由を言っただけだろ！？
+--Huh? W-Wait, 
+no! That's not what I meant!
+I'm just telling you why you lost, okay?!
 
 --------------------
 [0006]
 Yuuko Kinoshita
 **********
-いいえ、違うわ。愛の告白だったわよ。
-疑いようのないぐらい完亅な。
+No, that's wrong. 
+It was definitely a confession.
+There's no doubt about it.
 
 --------------------
 [0007]
 Mizuki Himeji
 **********
-は、はい。
-聞いててドキドキしちゃいました。
+She's right.
+Just hearing it made my heart pound.
 
 --------------------
 [0008]
 Shouko Kirishima
 **********
-……行こう、雄二。
-２人の愛の巣に。
+Let's go, Yuuji.
+To our love nest.
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-誰が行くか！
-くっ……そこを退いてくれ！
+Who the hell would go with you?
+Dammit... Get out of my way!
 
 --------------------
 [0010]
 Yuuko Kinoshita
 **********
-代表、坂本君が逃げたわよ。
-追わなくていいの？
+Class  rep, he escaped!
+Aren't you going after him?
 
 --------------------
 [0011]
 Shouko Kirishima
 **********
-……行く所は分かってる。
-それにもう、手は打ってあるから。
+I know exactly where he's going.
+All the preparations are complete.
 
 --------------------

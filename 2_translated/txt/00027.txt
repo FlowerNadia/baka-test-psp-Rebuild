@@ -1,99 +1,100 @@
 [0000]
 Yuuji Sakamoto
 **********
-よしっ、俺の勝ちだ！
+Awesome, I won!
 
 --------------------
 [0001]
 Kouta Tsuchiya
 **********
-……不覚。
+......I was careless.
 
 --------------------
 [0002]
 Yuuji Sakamoto
 **********
-対戦する前から血を流し過ぎたのが敗因だな。
+It's because of all that blood you lost
+before the battle.
 
 --------------------
 [0003]
 Mizuki Himeji
 **********
-それは大変です！
-何か食べて元気をつけないと……
+Oh no, that can't do!
+If you don't eat something to supplement 
+what you lost...
 
 --------------------
 [0004]
 Mizuki Himeji
 **********
-土屋くん、これをどうぞ。
-クッキーを焼いてきたんです。
+Tsuchiya, please eat. 
+I baked these cookies myself.
 
 --------------------
 [0005]
 Hideyoshi Kinoshita
 **********
-そ、それを食べると、
-もっと調子が悪くなるような……
+I-If he eats that,
+he's gonna get worse...
 
 --------------------
 [0006]
 Mizuki Himeji
 **********
-皆さんもいかがですか？
+I know! Why don't you all have some?
 
 --------------------
 [0007]
 Hideyoshi Kinoshita
 **********
-わ、わしは急用を思い出したのじゃ。
-これにて失礼する！
+Sorry, but I have somewhere I need to be.
+Really urgent business, you know!
 
 --------------------
 [0008]
 Yuuji Sakamoto
 **********
-お、俺も次の対戦があるからな！
-姫路、気持ちだけはありがたくもらっとくぞ！
+I-I've gotta prepare for the next battle!
+Thanks for the concern, Himeji!
 
 --------------------
 [0009]
 Mizuki Himeji
 **********
-そうですか……残念です。
+If so......what a waste.
 
 --------------------
 [0010]
 Mizuki Himeji
 **********
-じゃあ土屋くんだけでもどうぞ。
+Then, I guess Tsuchiya have to eat it all
 
 --------------------
 [0011]
 Kouta Tsuchiya
 **********
-…………わ、わかった。
-食べる……い、いただきます――あむっ。
+I guess you'll just have to eat it alone.
 
 --------------------
 [0012]
 Mizuki Himeji
 **********
-ど、どうでしょうか？
-美味しいですか？
+H-How is it?
+Is it any good?
 
 --------------------
 [0013]
 Kouta Tsuchiya
 **********
-……グッ！
-少し……休ませてもら――
+......Ugh!
+AJust need... some rest--
 
 --------------------
 [0014]
 Mizuki Himeji
 **********
-あら、もう寝てしまったんですか？
-よっぽど疲れていたんですね。
+Oh my, he fell asleep that quickly?
+He must be very tired.
 
 --------------------

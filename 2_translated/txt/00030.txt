@@ -1,105 +1,114 @@
 [0000]
 Shouko Kirishima
 **********
-……雄二、待っていた。
-心配しないで、マリッジブルーは
-誰にでもあるから。
+Yuuji, I've been waiting for so long.
+Don't worry. Everyone is nervous before
+they get married.
 
 --------------------
 [0001]
 Yuuji Sakamoto
 **********
-その口調だと、俺が何を賞品に望んでるか
-知ってるようだな。
+If you put it that way, 
+that means you know, don't you?
+About what I want for my prize.
 
 --------------------
 [0002]
 Shouko Kirishima
 **********
-……雄二のことなら、何でも分かる。
-もっと素直になればいいのに。
+I know everything there is to know about
+Yuuji. You should be more honest about 
+your feelings.
 
 --------------------
 [0003]
 Yuuji Sakamoto
 **********
-俺は十分素直だ。
-だからこそ婚姻届を取り返したいんだよ！
+I'm very honest.
+That's why I want the marriage license 
+back!
 
 --------------------
 [0004]
 Shouko Kirishima
 **********
-……それは嘘。
-けど、そういうところは嫌いじゃない。
-雄二のこと、全部好きだから。
+You're lying.
+But I don't hate that you are.
+I still love everything about you.
 
 --------------------
 [0005]
 Yuuji Sakamoto
 **********
-人の話はちゃんと聞け。
-誤解すんのもいい加減にしろ！
+Do you understand what I'm saying?
+Enough is enough 
+please sober up a little!
 
 --------------------
 [0006]
 Yuuko Kinoshita
 **********
-けれど、そこから始まる愛もあるの。
-むしろその方が今後の展開に期待できるわ。
+Although love can form from blind 
+devotion, there's always more to it than
+you can see.
 
 --------------------
 [0007]
 Yuuji Sakamoto
 **********
-木下、何言ってるんだ？
+What are you going on about, Kinoshita?
 
 --------------------
 [0008]
 Yuuko Kinoshita
 **********
-まあ、多種多様な恋愛模様のことよ。
+Nothing really. I'm just saying love can
+come in many forms.
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-何だっていいが邪魔はすんな。
-今回ばかりは負けられないんだ。
+Say whatever you want, 
+but don't get in my way.
+I'm not going to lose this time.
 
 --------------------
 [0010]
 Yuuko Kinoshita
 **********
-奇遇ね。アタシもなの。
-この戦いに勝てば、ずっと夢見てたものが
-手に入るのよ。
+What a coincidence, because I won't either
+If I win this battle, then I will obtain
+something I've always dreamt of.
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-……姫路もなのか？
+...Himeji's here too?
 
 --------------------
 [0012]
 Mizuki Himeji
 **********
-は、はいっ。
-私、どうしても新しいお料理道具が欲しくて……
+T-That's right.
+I'd just really love some new cooking
+utensils...
 
 --------------------
 [0013]
 Shouko Kirishima
 **********
-……雄二、今すぐ素直にしてあげる。
+...Yuuji, I'll show you how to be more 
+honest.
 
 --------------------
 [0014]
 Yuuji Sakamoto
 **********
-俺は十分素直だ。
-亊子、俺は絶対に負けない。
-おまえに勝って、婚姻届を取り戻してやる！
+I am already honest.
+I'm not going to lose to you. I'll defeat
+you here and take back my freedom!
 
 --------------------

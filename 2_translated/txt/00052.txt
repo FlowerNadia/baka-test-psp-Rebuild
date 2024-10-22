@@ -1,150 +1,153 @@
 [0000]
 Shouko Kirishima
 **********
-……次の相手は？
+......Who else?
 
 --------------------
 [0001]
 Yuuko Kinoshita
 **********
-代表、アタシが相手よ。
+Class Rep, I'll be your opponent
 
 --------------------
 [0002]
 Yuuko Kinoshita
 **********
-欲しい物があるの。
-絶対に手に入らないと思っていた物が、
-これに勝てば手に入るの……！
+I have to win this competition
+to get the prize I want. There's
+no other way to get it.
 
 --------------------
 [0003]
 Hideyoshi Kinoshita
 **********
-そんな大層な物かのう？
-イベントで売っておった本じゃろう？
-確か男ばかりが出ておる――
+Is that thing so valuable?
+Isn't it just some book sold at an event?
+Although all of them are really handsome-
 
 --------------------
 [0004]
 Yuuko Kinoshita
 **********
-ちょっと、秀吉っ！？
-ああああああんた何余計なこと言ってんのよ！？
+Hold on, Hideyoshi!
+W-W-What are you going on about?
 
 --------------------
 [0005]
 Hideyoshi Kinoshita
 **********
-何が余計なのじゃ？
-わしは、いつも姉上が読んでおるような
-本の――ひいいいいいいいっ！？
+What? Aren't those the kind of books
+you're always read--aaaauuuggghhh!
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-ムッツリーニ、助けるのじゃ！
-姉上を止めてくれ！
+Muttsurini, help me!
+Stop my sis!
 
 --------------------
 [0007]
 Kouta Tsuchiya
 **********
-……できることとできないことがある。
+I could... but I won't.
 
 --------------------
 [0008]
 Shouko Kirishima
 **********
-……Ｆクラスの土屋と木下。
-私を妨害するつもり？
+Tsuchiya and Kinoshita from Class F.
+Are you going to get in my way?
 
 --------------------
 [0009]
 Kouta Tsuchiya
 **********
-……雄二とは共闘関係。
-それに、欲しい物がある。
+I promised Yuuji I'd help.
+But mostly,I want to win the prize myself
 
 --------------------
 [0010]
 Shouko Kirishima
 **********
-……例えば、こんな物？
+......For example, this?
 
 --------------------
 [0011]
 Kouta Tsuchiya
 **********
-……そ、それは……超大判のグラビア本！？
-なぜそんなものを……
+T-that...is that a high quality dirty 
+book!?
+Why do you have it?
 
 --------------------
 [0012]
 Shouko Kirishima
 **********
-……雄二の部屋で拾った。
-この後、焼却炉で灰になる。
+I found it in Yuuji's room.
+I was on my way to go incinerate it.
 
 --------------------
 [0013]
 Kouta Tsuchiya
 **********
-……国の宝に何という仕打ちを！
+How dare you treat a national
+treasure like that!
 
 --------------------
 [0014]
 Kouta Tsuchiya
 **********
-……宝が灰になるのは見過ごせない。
-それはこちらで引き取りたい。
+I can't just let a treasure like that 
+burn.
+How about you just give it to me?
 
 --------------------
 [0015]
 Shouko Kirishima
 **********
-……それは取引？
-私に協力するという意味？
+......Is this a trade?
+Your meaning is you're going to help me?
 
 --------------------
 [0016]
 Kouta Tsuchiya
 **********
-……と、取引は――
+...Yes, I'll help--
 
 --------------------
 [0017]
 Hideyoshi Kinoshita
 **********
-ムッツリーニ……お主、
-誘いに乗るつもりか！？
+Muttsurini.......
+Are you giving in to temptations!?
 
 --------------------
 [0018]
 Kouta Tsuchiya
 **********
-…………と、取引は、しない。
-そ、そんなものに興味はない。
+............No, the deal can't be made.
+I have no interest in such things.
 
 --------------------
 [0019]
 Hideyoshi Kinoshita
 **********
-その鼻血、説得力に欠けるのう……
+Your nosebleed, makes it rather 
+unconvincing......
 
 --------------------
 [0020]
 Yuuko Kinoshita
 **********
-どうでもいいから、早く始めましょう。
-代表、この勝負アタシが勝たせてもらうわよ。
+Whatever, let's just get started.
+I'll be winning this one, Rep.
 
 --------------------
 [0021]
 Shouko Kirishima
 **********
-……私もそのつもり。
-絶対に負けない。
+I could say the same for myself.
+I definitely won't lose.
 
 --------------------

@@ -1,120 +1,123 @@
 [0000]
 Miharu Shimizu
 **********
-次の対戦相手は誰にしよう？
-手頃なのは…………ああっ！？
+Who's the opponent for my next battle?
+Over there is...Ahh!?
 
 --------------------
 [0001]
 Miharu Shimizu
 **********
-お姉さまああああああああああああああ！！
+Onee-Samaaaaaaaaaaaaaa!!
 
 --------------------
 [0002]
 Minami Shimada
 **********
-み、美春！？　こ、来なくていい！
-ウチに近づかないでっ！
+Mi, Miharu!? Do, don't come over!
+Don't get close to me!
 
 --------------------
 [0003]
 Miharu Shimizu
 **********
-もう、お姉さまったら。
-本当は一緒にいてほしいくせに。
+Well, Onee-Sama.
+You actually wanted to be together 
+with me.
 
 --------------------
 [0004]
 Minami Shimada
 **********
-そんなことは絶対にないの！
-いいから早く向こうへ行って！
+Absolutely no!
+Just hurry up and leave!
 
 --------------------
 [0005]
 Yuuko Kinoshita
 **********
-それは却下ね。
-これでちょうど４人揃った。
-あんたたち、アタシの相手をしてもらうわ。
+That can't happen.
+We have 4 people now.
+All of you, be my opponents.
 
 --------------------
 [0006]
 Minami Shimada
 **********
-４人？
-ここには３人しかいないわよ？
+4 people?
+Isn't there just 3 here?
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-いるわよ。ほら、そこの物陰に１人。
+There is. 
+Look, the 1 hiding in the shadow.
 
 --------------------
 [0008]
 Minami Shimada
 **********
-え……あ、土屋？
-そんなところで何をしてるの。
+Eh......Ah, Tsuchiya?
+Why are you hiding there.
 
 --------------------
 [0009]
 Kouta Tsuchiya
 **********
-…………情報収集。
-対戦するなら参加する。
+............Reconnaissance.
+I'll join if it's a battle.
 
 --------------------
 [0010]
 Yuuko Kinoshita
 **********
-これで４人揃ったわ。
-文句は無いわよね。
+Then we have four people.
+I'm fine with it.
 
 --------------------
 [0011]
 Minami Shimada
 **********
-そうだ、これは願ってもないチャンスかも。
-木下さんも加わるなら、
-美春が負ける確率は高くなるはず……
+Right, this is a rare opportunity.
+As long as Kinoshita-san joins,
+Miharu's chance of losing is very high.
 
 --------------------
 [0012]
 Minami Shimada
 **********
-いいわ、やりましょう！
+Good, let's do it!
 
 --------------------
 [0013]
 Miharu Shimizu
 **********
-その挑戦、美春も受けます。
-でも、絶対に負けませんから！
+This challenge, Miharu accepts it.
+But, I won't lose for sure!
 
 --------------------
 [0014]
 Yuuko Kinoshita
 **********
-勝つのはアタシよ。
-実力の違いを分かってないみたいね。
+I'll be the one to win.
+I see that you don't see the gap in
+strength between us.
 
 --------------------
 [0015]
 Miharu Shimizu
 **********
-それはあなたの方です。
-美春のスペックは今、いつもの１００倍です。
-だってお姉さまが隣にいるんですから。
+Speak for yourself. Miharu's strength is
+100 times more than usual.
+Because Onee-Sama is here with me.
 
 --------------------
 [0016]
 Minami Shimada
 **********
-ちょっと！？　くっつかないで！
-手も握らないで！　抱きつくなーっ！
-あーん、もういい加減にしてーっ！
+Wait!? Don't stick to me!
+Don't hold my hand! Don't hug me!
+Ah, stop everything at once!
 
 --------------------

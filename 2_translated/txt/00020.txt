@@ -1,124 +1,129 @@
 [0000]
 Minami Shimada
 **********
-次の相手は……えっ！？
-アキ達なの！？　瑞希に坂本まで……！
+The next round of opponents are... Aki?!
+With Mizuki and Yuuji too?!
 
 --------------------
 [0001]
 Yuuji Sakamoto
 **********
-悪い……絶対に欲しい物があってな。
-それを取り戻さないと、俺の未来が……！
+Sorry, but I have something I need to get
+If I don't get it back, my future will!
 
 --------------------
 [0002]
 Minami Shimada
 **********
-瑞希もなの？
+Mizuki?
 
 --------------------
 [0003]
 Mizuki Himeji
 **********
-はい。食材とお料理道具が欲しいんです。
-明久くんたちのために、
-もっともっとお料理を作りたくて……
+I want cooking supplies and ingredients.
+I want to make more meals for Akihisa
+and everyone else!
 
 --------------------
 [0004]
-明久＆雄二（Yoshii Akihisa Yoshii＆Yuuji Sakamoto）
+Akihisa&Yuuji
 **********
-なんだってっ！？
+What?!
 
 --------------------
 [0005]
 Minami Shimada
 **********
-何なのよ２人とも、急に大声出して。
+What's wrong, you two? 
+Why the sudden outburst?
 
 --------------------
 [0006]
 Yoshii Akihisa Yoshii
 **********
-ねぇ雄二、この展開はかなりまずいよね……
+This is seriously bad, Yuuji. 
+If this goes on...
 
 --------------------
 [0007]
 Yuuji Sakamoto
 **********
-ああ、姫路の作る料理は致死性が高い。
-実際に、今まで口にして
-何度も死線をさまよったからな……
+Yeah. Himeji's cooking is lethal.
+I've lost count of the times I've almost
+died after a bite from one of her dishes.
 
 --------------------
 [0008]
 Yoshii Akihisa Yoshii
 **********
-でも、どう説明するのさ？
-こんなこと、姫路さんに正直に話すのは
-あまりにも残酷だよ……
+But what do we do?
+If we tell Himeji...
+No, it's too cruel.
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-なら良い方法がある。
-姫路が作った料理は、明久、おまえが食べろ。
-そうすりゃ俺の命の危険は無くなる。
+I have an idea. You should eat
+everything she makes, Akihisa.
+Then I won't be in any danger.
 
 --------------------
 [0010]
 Yoshii Akihisa Yoshii
 **********
-ちょ、ちょっと待ってよ！？
-僕の命は危険なままじゃないか！
+Akihisa Yoshii
+Wait, what?!
+Won't that put my life at risk?!
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-だったら正直に話すのか？
-姫路を悲しませたくないだろう！？
+Then what are you going to do? Tell her?
+I thought you didn't want to 
+break Himeji's heart!?
 
 --------------------
 [0012]
 Yoshii Akihisa Yoshii
 **********
-うう……そ、それは……
+Uh... Th-That's...
 
 --------------------
 [0013]
 Minami Shimada
 **********
-いつまでそうやって話してるつもり？
-日が暮れちゃうじゃない。
+Are you done yet? If you keep talking
+then we won't be done until sunset.
 
 --------------------
 [0014]
 Mizuki Himeji
 **********
-あのぉ……そろそろ始めませんか？
+Then is it time we being?
 
 --------------------
 [0015]
 Yuuji Sakamoto
 **********
-あ、ああ……そうだな。
-明久、とりあえずさっきの件は保留だ。
+Right. I guess it is.
+Akihisa, put the discussion on hold.
 
 --------------------
 [0016]
 Yoshii Akihisa Yoshii
 **********
-わかった！
-とにかく今は、目の前の勝負に集中、だね。
+Got it!
+We have to concentrate on the competition.
 
 --------------------
 [0017]
 Minami Shimada
 **********
-アキが集中したって結果は見えてるけどね。
-それじゃ、始めるわよ！
+Even if Aki tries to concentrate, 
+it won't change how this ends.
+Let's do it!
 
 --------------------

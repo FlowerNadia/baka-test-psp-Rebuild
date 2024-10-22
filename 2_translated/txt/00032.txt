@@ -1,356 +1,366 @@
 [0000]
 Yuuji Sakamoto
 **********
-ババア、賞品はどこだ！？
-今すぐ賞品をよこせ！
+Hey, old hag! Where's my prize?
+Hurry up and give it to me!
 
 --------------------
 [0001]
 Kaoru Toudou
 **********
-またアンタかい。
-その前に、成績はどうなんだい？
+You again.
+First, what are your battle results?
 
 --------------------
 [0002]
 Yuuji Sakamoto
 **********
-言われたとおり３回連続で勝ったぞ。
-確かめてみろ。
+Three straight wins as you requested.
+Go see for yourself.
 
 --------------------
 [0003]
 Kaoru Toudou
 **********
-ちょっとお待ち。
-……ほう……確かにね。
-なかなかやるじゃないか。
+Wait one moment.
+Oho... It's as you've said.
+So you do have some skills.
 
 --------------------
 [0004]
 Yuuji Sakamoto
 **********
-だから早く賞品をくれ！
-俺と亊子の婚姻届を！　今すぐにっ！
+Hurry up and give me my prize!
+The marriage application of me and Shouko!
+Give it to me now!
 
 --------------------
 [0005]
 Kaoru Toudou
 **********
-うるさいねえ、ほら、これでいいんだろ？
+So noisy. Here, is this it?
 
 --------------------
 [0006]
 Yuuji Sakamoto
 **********
-うおおおっ！？
-これっ！　確かにこれだ！
+Whoa!
+Not bad! That's definitely it!
 
 --------------------
 [0007]
 Yuuji Sakamoto
 **********
-俺の乂印が押された婚姻届……
-これさえ戻れば……
-これで俺の未来が――っ！！
+It even has my signature on it.
+Now that I have this...
+My future will be--!
 
 --------------------
 [0008]
 Kaoru Toudou
 **********
-乘陶しいねぇ。
-もう用はないだろ？　とっとと消えな。
+You're so troublesome.
+If there's nothing else, then get out of
+here.
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-ああ、そうさせてもらうぜ。
-ババアの顔なんざ見たくないしな。
+You don't need to tell me twice.
+I don't wanna see your ancient face 
+either, old hag.
 
 --------------------
 [0010]
 Kaoru Toudou
 **********
-全く、減らず口の多いガキだよ。
-そのうち罰が当たるだろうさ。
+What a rude brat.
+You'll get your recompense soon enough.
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-これで一件落着だ。
-後はこれを焼却炉に放り込みさえすれば……
+I guess this is the end.
+Now I just have to incinerate it...
 
 --------------------
 [0012]
 Kouta Tsuchiya
 **********
-…………そうはいかない。
+...Don't even think about it.
 
 --------------------
 [0013]
 Yoshii Akihisa Yoshii
 **********
-悪いね雄二。
-僕達のために犠牲になってもらうよ。
+Sorry, Yuuji... 
+but sacrifices have to be made.
+Namely, you.
 
 --------------------
 [0014]
 Yuuji Sakamoto
 **********
-ム、ムッツリーニッ！？　それに明久も！
-くそっ、どういうつもりだ！？
+Mu, Muttsurini!? And Akihisa too!
+You bastards, what do you think 
+you're doing?!
 
 --------------------
 [0015]
 Kouta Tsuchiya
 **********
-…………婚姻届を渡せ。
-手荒な真似はしたくない。
+...Hand over the marriage application.
+I don't want to get my hands dirty.
 
 --------------------
 [0016]
 Yoshii Akihisa Yoshii
 **********
-雄二、その婚姻届があれば、
-僕とムッツリーニの欲しい物が手に入るんだ。
-だからおとなしく渡してもらうよ。
+Just give us that marriage license and
+Me and Muttsurini will get what we want.
+So just hand it over quietly.
 
 --------------------
 [0017]
 Yuuji Sakamoto
 **********
-わかったぞ……亊子だな？
-アイツと取引したんだな！？
+So that's how it is... Shouko, right?
+You made a deal with the devil, right?!
 
 --------------------
 [0018]
 Kouta Tsuchiya
 **********
-……違う。共闘しているだけ。
+...Wrong. It's just a truce.
 
 --------------------
 [0019]
 Yuuji Sakamoto
 **********
-いいや、利用されてるだけだ。
-とにかく婚姻届は渡せない。
-欲しけりゃ力ずくで取ってみろ！
+Wrong, you both are just being used.
+I won't let you take this away from me.
+Just come and get it, if you dare!
 
 --------------------
 [0020]
-？？？（Shouko Kirishima）
+？？？（Shouko)
 **********
-……分かった。
+Understood.
 
 --------------------
 [0021]
 Yuuji Sakamoto
 **********
-ギャアアアアッ！？
-目がぁっ！？　目があああああっ！
+Whaaaaaaaaaaaa?!
+My eyes?! My eyeeeeeeeees!
 
 --------------------
 [0022]
 Yoshii Akihisa Yoshii
 **********
-うわぁ……
-今、指の第二関節まで目の中に入ったよね？
+Whoa...
+What was that, 
+half of her finger was in his eye?
 
 --------------------
 [0023]
 Kouta Tsuchiya
 **********
-…………コクコク。
+... *nods* 
 
 --------------------
 [0024]
 Yuuji Sakamoto
 **********
-ぐぐ……亊子……何しやがる！？
+Ugh... Shouko... What are you doing?!
 
 --------------------
 [0025]
 Shouko Kirishima
 **********
-……婚姻届を取りに来た。
-雄二、プロポーズはいつでもいい。
+Getting the marriage license.
+You can propose to me at any time.
 
 --------------------
 [0026]
 Yuuji Sakamoto
 **********
-何でそうなる！？
-プロポーズなんざ絶対にしないからな！
+What the hell are you going on about?!
+I will never propose to you!
 
 --------------------
 [0027]
 Shouko Kirishima
 **********
-……そう。分かった。
+I see. Understood.
 
 --------------------
 [0028]
 Yuuji Sakamoto
 **********
-諦めてくれるのか！？
+You're just giving up like that?!
 
 --------------------
 [0029]
 Shouko Kirishima
 **********
-……いいえ。
-今すぐ籍を入れる。
+No.
+I'm going to register it.
 
 --------------------
 [0030]
 Yuuji Sakamoto
 **********
-ちょっと待て！？　おかしいだろ！？
+Stop!? that doesn't make sense!?
 
 --------------------
 [0031]
 Shouko Kirishima
 **********
-……雄二が言いたいことは分かってる。
-プロポーズという形式にとらわれる必要はない。
+I understand what you mean, Yuuji.
+But proposing isn't necessary 
+to get married.
 
 --------------------
 [0032]
 Yuuji Sakamoto
 **********
-そんなこと、ひとことも言ってねえ！
-くそ、こうなったら婚姻届を――あぐっ！
-んぐんぐ……ゴクンッ！
+That's not what I meant!
+If that's how it's gonna be--*chomp*
+*chew chew* ... *swallow*!
 
 --------------------
 [0033]
 Yoshii Akihisa Yoshii
 **********
-あーっ！　婚姻届を食べた！
-でも紙を食べるならもっと美味しい食べ方が……
+Ah! He just devoured the license!
+But there's a better way to eat paper 
+than that...
 
 --------------------
 [0034]
 Yuuji Sakamoto
 **********
-おまえと一緒にするな！
-とにかく、これで婚姻届は無くなったんだ。
-亊子、もうどうすることもできないぞ。
+Don't put me down on your level!
+The marriage license no longer exists.
+You're out of plans now, Shouko.
 
 --------------------
 [0035]
 Shouko Kirishima
 **********
-……大丈夫。
+...Nevermind.
 
 --------------------
 [0036]
 Yuuji Sakamoto
 **********
-な、何が大丈夫なんだ……？
+W-What do you mean, nevermind?
 
 --------------------
 [0037]
 Shouko Kirishima
 **********
-……吸い出すから。
-雄二にキスして、出るまでずっと。
+...I'll just have to suck it out.
+With the deepest of kisses.
 
 --------------------
 [0038]
 Yuuji Sakamoto
 **********
-は？　しょ、正気か！？
+Huh? Are... Are you insane?!
 
 --------------------
 [0039]
 Shouko Kirishima
 **********
-……照れなくていい。
-キスして欲しくて飲み込んだことは
-わかっている。
+Don't be shy.
+You ate it so that I would kiss you.
+I understand perfectly.
 
 --------------------
 [0040]
 Yuuji Sakamoto
 **********
-なぜそうなる！？
-待て亊子、それ以上近づくな！
-明久、ムッツリーニ、亊子を何とかしてくれ！
+How'd you come to that conclusion?!
+wait, Shouko, don't come any closer!
+Akihisa, Muttsurini, get me out of here!
 
 --------------------
 [0041]
 Yoshii Akihisa Yoshii
 **********
-結婚するって認めちゃえば？
-そうしたら、とりあえずこの場は
-おさまるんじゃないかな。
+Why don't you just get married? That way
+you won't have your eyes gouged out all 
+the time. All's well that ends well!
 
 --------------------
 [0042]
 Yuuji Sakamoto
 **********
-そんなことできるか！
-頼む、後でおまえらが勝つのに協力する！
-だから助けてくれっ！
+Impossible!Take it as if I'm begging you,
+I'll help you win next time so...!
+So just save me!
 
 --------------------
 [0043]
 Yoshii Akihisa Yoshii
 **********
-……どうするムッツリーニ？
+......Muttsurini, what do you think?
 
 --------------------
 [0044]
 Kouta Tsuchiya
 **********
-……雄二と霧島の戦力を比べた場合、
-検討の余地はない。
+If it's Yuuji against Kirishima,
+the result is obvious.
 
 --------------------
 [0045]
 Yoshii Akihisa Yoshii
 **********
-だよね。
-というわけで、僕は右腕をおさえる。
+Thought so.
+Alright, I'll take the right hand.
 
 --------------------
 [0046]
 Kouta Tsuchiya
 **********
-……俺は左腕。
+...And I'll lock the left.
 
 --------------------
 [0047]
 Yuuji Sakamoto
 **********
-おい、おまえら……！？
-やめろ、手を放せ！　放してくれっ！
+Hey, you guys...?!
+Stop it! Let go of me!
 
 --------------------
 [0048]
 Shouko Kirishima
 **********
-……雄二は寝てていい。
+Everything will be fine once you go to
+sleep, Yuuji.
 
 --------------------
 [0049]
 Yuuji Sakamoto
 **********
-な、なんだ亊子……それ、まさかスタンガ――
+W-What are you doing, Shouko? 
+That... can't be a stun--
 
 --------------------
 [0050]
 Yuuji Sakamoto
 **********
-や、やめっ、それ、あぶっ、あぐぁあああ！！
+St-St-Stop th-th-that n-n-nooooaaaaaaagh!
 
 --------------------
 [0051]
 Yuuji Sakamoto
 **********
-お、俺は……無力だ……
+I-I'm... helpless...
 
 --------------------

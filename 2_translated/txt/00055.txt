@@ -1,110 +1,111 @@
 [0000]
 Shouko Kirishima
 **********
-……私の勝ち。
+...I won.
 
 --------------------
 [0001]
 Yuuji Sakamoto
 **********
-くそっ……明久を亊子もろとも
-自爆させておけば良かったか！？
+Idiot.  Akihisa, if you'd just sacrificed
+yourself to get Shouko we would have won.
 
 --------------------
 [0002]
 Yoshii Akihisa Yoshii
 **********
-そんなことできないよっ！
-だいたい自爆なんてルールあるの？
+Is that even possible?
+I don't think there's a way to 
+self-destruct.
 
 --------------------
 [0003]
 Miharu Shimizu
 **********
-役立たず！
-やっぱり豚野郎以下のバカ豚野郎です！
+Useless pigs!
+You're both idiots!
 
 --------------------
 [0004]
 Yuuji Sakamoto
 **********
-そんなことは、
-最初からわかっていたことだがな……
+Akihisa is, anyway.
+He's the biggest idiot in school.
 
 --------------------
 [0005]
 Yoshii Akihisa Yoshii
 **********
-どうしてそこまで
-言われなくちゃいけないんだよっ！
+Why do you have to put me down like that?
 
 --------------------
 [0006]
 Yoshii Akihisa Yoshii
 **********
-特に雄二！
-せっかく協力してあげたのに、
-その態度はどう考えてもおかしいよ！
+Especially you, Yuuji!
+We tried to help you,
+and this is how you respond!
 
 --------------------
 [0007]
 Kouta Tsuchiya
 **********
-……なら、明久も一緒にこのロープを。
+Akihisa, help me with this rope.
 
 --------------------
 [0008]
 Yoshii Akihisa Yoshii
 **********
-ムッツリーニ！？
-わかった、これで雄二を……！
+Muttsurini!?
+I understand, then Yuuji will......!
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-何ィッ！？
-くそっ、動けないっ！　裏切りやがったな！
+What!?
+Damn it, I can't move! 
+You all betrayed me!
 
 --------------------
 [0010]
 Yoshii Akihisa Yoshii
 **********
-やだなあ、裏切りだなんて。
-雄二、これは勝負なんだよ？
-情け容赦の無い、非情な世界なんだ。
+What, what betrayal are you talking about
+Yuuji, this is a competition!
+It's a ruthless world without any mercy.
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-ムッツリーニ、おまえもか！？
+Muttsurini, even you!?
 
 --------------------
 [0012]
 Kouta Tsuchiya
 **********
-…………ビジネスは非情。
+...It's an inevitable sacrifice.
 
 --------------------
 [0013]
 Yuuji Sakamoto
 **********
-くそっ……分かった、亊子。
-話は後で聞く。
-だからこいつらにロープを解かせろっ！
+Damn it... I understand, Shouko.
+We'll talk later.
+Help me get out of these ropes first!
 
 --------------------
 [0014]
 Shouko Kirishima
 **********
-……解いてあげる。
-愛の巣についたら。
+I'll help you.
+Once we've reached our love nest.
 
 --------------------
 [0015]
 Yuuji Sakamoto
 **********
-うあああああああああああっ！
+Ahhhhhhhhhhhhhh!
 
 --------------------

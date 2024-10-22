@@ -1,83 +1,84 @@
 [0000]
 Yuuko Kinoshita
 **********
-最初の相手は誰にしようかしら？
-初戦はコテしらべできる相手が良いんだけど。
+Who should I start with?
+It's best I find someone I know well for
+my first battle.
 
 --------------------
 [0001]
 Kouta Tsuchiya
 **********
-………………コソコソ。
+...................Suspicious.
 
 --------------------
 [0002]
 Yuuko Kinoshita
 **********
-あれはＦクラスの土屋！
-ちょっと待って！
+That's Tsuchiya from Class F!
+Wait!
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-はあっ、はあっ、待ってって言ったでしょ？
-どうして逃げるのっ？
+Ha, ha, didn't I tell you to wait?
+Why did you need to run?
 
 --------------------
 [0004]
 Kouta Tsuchiya
 **********
-…………作戦成功。
+............Mission complete.
 
 --------------------
 [0005]
 Mizuki Himeji
 **********
-え、ええと……木下さん、
-お相手お願いします！
+Th, that......Kinoshita-san,
+Please battle me!
 
 --------------------
 [0006]
 Yuuko Kinoshita
 **********
-姫路さん！？
-クッ……いきなり難敵に。
-……ん？　まさか作戦って……！？
+Himeji-san!? Uh......
+A strong opponent for my first battle.
+...Huh? Is the mission you mentioned!?
 
 --------------------
 [0007]
 Kouta Tsuchiya
 **********
-…………そのとおり。
-ここへ誘い込んだ。
+............Correct.
+It's to lure you here.
 
 --------------------
 [0008]
 Miharu Shimizu
 **********
-そして、美春の勝利です！
+It's Miharu's turn to win!
 
 --------------------
 [0009]
 Yuuko Kinoshita
 **********
-あなたは確かＤクラスの……
-あなたもこの２人の味方なの？
+Aren't you from Class D......
+You are their friends as well?
 
 --------------------
 [0010]
 Miharu Shimizu
 **********
-関係ありません。
-自分の目的を果たすためなら、
-誰でも相手になります！
+No problem.
+If it's to achieve my aim,
+I don't care who's my opponent!
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-そう……だったら仕方ないわね。
-まとめて相手をしてあげるわ。
+If so......it can't be helped.
+I'll eradicate all of you.
 
 --------------------

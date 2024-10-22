@@ -1,263 +1,269 @@
 [0000]
 Miharu Shimizu
 **********
-失礼します！　学園長、美春に賞品をください！
+Sorry for the trouble! Principal,
+give Miharu the prize!
 
 --------------------
 [0001]
 Kaoru Toudou
 **********
-だからノックして、返事を待ってから入りな。
-ったく、この学園のガキは
-どうしてこうも無礼なヤツが多いのかねぇ。
+I told you, knock first and wait to enter.
+Geez, why are there so many
+Uncouth students in this school.
 
 --------------------
 [0002]
 Miharu Shimizu
 **********
-そんなことより賞品です。
-今すぐパートナー制度を始めてください！
+Hurry up and give me the prize.
+Please establish a new rule here and now!
 
 --------------------
 [0003]
 Kaoru Toudou
 **********
-なんだい、その制度は？
+What new rule do you want?
 
 --------------------
 [0004]
 Miharu Shimizu
 **********
-卒業まで、常に学園の誰かと
-二人一組でパートナーを組む制度です。
-教室も住むところも一緒です。
+Until graduation, everyone has to pair up
+with someone else from the school. They
+have to be together at school or at home.
 
 --------------------
 [0005]
 Kaoru Toudou
 **********
-ふぅん、賞品としてその制度を
-導入して欲しいってことかい。
-確か２年Ｄクラスの……
+Hmm, as a prize
+You want to set up a rule.
+You're really Class D's......
 
 --------------------
 [0006]
 Miharu Shimizu
 **********
-Miharu Shimizuです。
-そして、こちらが美春の永遠のパートナー、
-Minami Shimadaお姉さまです。
+Also, here is Miharu's permanent partner,
+Shimada Minami, my Onee-Sama.
 
 --------------------
 [0007]
 Minami Shimada
 **********
-だから違うってば！
-パートナーじゃないし、永遠でもない！
+I already said no!
+We're not partners, and not forever!
 
 --------------------
 [0008]
 Kaoru Toudou
 **********
-うるさいよ。痴話喧嘩なら外でしな。
-……で、成績は……と。
+Noisy. If you want to quarrel, 
+do it outside.
+......Then, the results.......
 
 --------------------
 [0009]
 Kaoru Toudou
 **********
-ふぅん……意外に大したものだよ。
-これなら良いだろう。
+Hmm......you're unexpectedly strong.
+It'll be enough this way.
 
 --------------------
 [0010]
 Miharu Shimizu
 **********
-でしたら、早速制度を……！
+If so, enforce the rule immediately...!
 
 --------------------
 [0011]
 Kaoru Toudou
 **********
-分かったよ。
-そうさね……とりあえず来年……いや、
-再来年から始めることにしようかね。
+I know.
+After all......next year......No,
+We'll enforce it after next year.
 
 --------------------
 [0012]
 Miharu Shimizu
 **********
-何ですかそれ！？
-それじゃ遅すぎます！
+Why!?
+It'll be too late by then!
 
 --------------------
 [0013]
 Kaoru Toudou
 **********
-そう言われても、結構大掛かりな制度だからね。
-いろいろと検討しなきゃならないしねぇ。
+Even if you want it, it's a troublesome
+rule. There are many problems we need to
+discuss
 
 --------------------
 [0014]
 Miharu Shimizu
 **********
-ふざけないでください！
-学園長なんでしょう？
-約束を守ってください！
+Please don't joke around!
+Aren't you the principal?
+Keep your promise!
 
 --------------------
 [0015]
 Kaoru Toudou
 **********
-アタシにだって出来ないことはあるのさ。
-それに約束は守るって言ってるだろう？
-時期までは確約してないけどね。
+It's something even I can't do.
+Didn't I say I'll keep my promise?
+I just didn't say when.
 
 --------------------
 [0016]
 Miharu Shimizu
 **********
-そ、そんなぁ……
+How, how did it turn out this way...
 
 --------------------
 [0017]
 Minami Shimada
 **********
-美春、夢が実現して良かったわね。
-ただまあ、制度が実施されるのは
-ウチが卒業した後だけど。
+Miharu, good to hear your dream came true
+Just that, by the time the rule kicks in
+We've all graduated.
 
 --------------------
 [0018]
 Miharu Shimizu
 **********
-そんなの意味がありません！
-うう……これで上手くいくと思ったのに……
-お姉さまと結ばれると思ったのに！
+Then there's no benefits at all!
+Aww...I thought it would go smoothly...
+That I would be bound to my One=Sama!
 
 --------------------
 [0019]
 Minami Shimada
 **********
-いや、それは永遠にありえないから。
+No, that's never happening.
 
 --------------------
 [0020]
 Miharu Shimizu
 **********
-ありえます。美春は絶対に諦めません。
-だから――学園長！
+It's possible, Miharu will never give up.
+That's why--principal!
 
 --------------------
 [0021]
 Kaoru Toudou
 **********
-何だい、賞品の変更かい？
+What is it?
+You want to change your prize?
 
 --------------------
 [0022]
 Miharu Shimizu
 **********
-違います。
-賞品は１人につき１つだけですか？
+No.
+The prize is limited to 1 per person,
+correct?
 
 --------------------
 [0023]
 Kaoru Toudou
 **********
-いや、時間内なら何度でもやるよ。
-ただし、成績次第だけどね。
+No, there's no limit as long as its 
+during the event.
+But, I need to see results.
 
 --------------------
 [0024]
 Miharu Shimizu
 **********
-だったら、もう１つ賞品をお願いします！
-制度の施行を明日にしてください！
+If so, I'd like to ask for one more prize
+Please set up the rule tomorrow!
 
 --------------------
 [0025]
 Kaoru Toudou
 **********
-そう来たかい。
-しかし、再来年を明日にねぇ……
+Is that so...
+But, to make it a rule so quickly...
 
 --------------------
 [0026]
 Kaoru Toudou
 **********
-まあ、もう一度優秀な成績を
-ここへ持ってくることができたら
-検討してやろうじゃないか。
+If you can get excellent results again
+And bring it here
+Then we'll talk about it again.
 
 --------------------
 [0027]
 Minami Shimada
 **********
-美春、もう諦めたら？
-時間内にもう一度３連勝なんて、
-絶対に無理よ。
+Miharu, why don't you just give up?
+You need to win 3 times in a row again 
+during the event, It'll never happen.
 
 --------------------
 [0028]
 Miharu Shimizu
 **********
-大丈夫です！　美春は負けません！
-だってお姉さまと一緒なんですから！
+No problem! Miharu won't lose!
+Because I'm with my Onee-Sama!
 
 --------------------
 [0029]
 Minami Shimada
 **********
-え？　――ちょ、ちょっと何！？
-手を引っ張らないで！　ていうか走るな！
-今度はどこへ行くのよ！？
+--What!
+Don't pull my hand! And don't run!
+Where are we going!?
 
 --------------------
 [0030]
 Miharu Shimizu
 **********
-もちろん対戦です！
-今度は２人で戦うんです！
+Of course to battle!
+This time 2 of us will be together!
 
 --------------------
 [0031]
 Minami Shimada
 **********
-えーっ！？　何でウチが！？
+Eh--!? Why should I!?
 
 --------------------
 [0032]
 Miharu Shimizu
 **********
-もちろん美春のことを愛してるからです！
-お姉さま、よろしくお願いします！
+Because you love Miharu deeply!
+Onee-Sama, please take care of me!
 
 --------------------
 [0033]
 Minami Shimada
 **********
-嫌よ！　嫌だってば！
-ウチは男子が好きなのっ！！
+No! I already said I don't want to!
+I'm interested in guys!!
 
 --------------------
 [0034]
 Miharu Shimizu
 **********
-そんなものより、美春と一緒の方が
-素晴らしいに決まってます！
+Rather than that, being with Miharu
+Will be more elegant, I'd say!
 
 --------------------
 [0035]
 Miharu Shimizu
 **********
-さあお姉さま、
-二人の愛の障害をブッ潰しに行きましょう！
+Come, Onee-Sama,
+Let's overcome all the obstacles to our
+love!
 
 --------------------
 [0036]
 Kaoru Toudou
 **********
-はあ…………変な時代になったもんだよ、全く。
+Haa...How the times change, geez.
 
 --------------------

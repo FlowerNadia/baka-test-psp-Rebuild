@@ -1,323 +1,329 @@
 [0000]
 Hideyoshi Kinoshita
 **********
-失礼するぞい。
+Pardon the intrusion.
 
 --------------------
 [0001]
 Kaoru Toudou
 **********
-――ん？　アンタは確かＦクラスの……
+--Hm? You're Class F's......
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-Hideyoshi Kinoshitaじゃ。
-今回の賞品について、聞きたいことが
-あるのじゃが。
+Hideyoshi Kinoshita.
+I'd like to ask some questions
+regarding the prize.
 
 --------------------
 [0003]
 Kaoru Toudou
 **********
-どのガキか知らないが、
-小型衛星を欲しがっていると聞いたよ。
-まさかアンタじゃなかろうねぇ？
+I heard one of you brats tried
+asking for a mini satellite.
+That wouldn't be you, would it?
 
 --------------------
 [0004]
 Hideyoshi Kinoshita
 **********
-そんな大層な物ではなく、
-わしが欲しいのは黒金の腕輪じゃ。
+I don't want something so extravagant.
+All I want is the iron bracelet.
+
 
 --------------------
 [0005]
 Kaoru Toudou
 **********
-でもあれは、あんたじゃ
-使えなかったんじゃないのかい？
+I'll see what I can do. Is that all?
+Wait a minute, can you even use it?
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-もう一度試してみたいのじゃ。
-あの腕輪があれば、わしももっと戦力として
-皆に貢献出来るかもしれんと思うてのう。
+No, but I'd like to try, anyway. 
+I'm sure I can improve my fighting ability
+with it and stop being a burden in battle
 
 --------------------
 [0007]
 Kaoru Toudou
 **********
-殊勝なガキは嫌いじゃないが、
-アレがそこまで役に立つとは思えんがね。
+You're not so bad, for a brat.
+But I doubt that little toy will help you.
 
 --------------------
 [0008]
 Kaoru Toudou
 **********
-……まあ、いい。
-欲しけりゃやるさね。
-ただし、成績と応相談だがね。
+…Alright.
+If that's all you want, you can have it,
+but only if your results show any promise.
 
 --------------------
 [0009]
 Hideyoshi Kinoshita
 **********
-分かっておる。
+Absolutely.
 
 --------------------
 [0010]
 Kaoru Toudou
 **********
-ふん、まあ精々がんばるこったね。
+Hm, try your best.
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-あら？　秀吉じゃない。
-こんな所でどうしたの？
+Huh? Hideyoshi?
+What are you doing here?
 
 --------------------
 [0012]
 Hideyoshi Kinoshita
 **********
-姉上か。
-ちょうど今、学園長に賞品のことを
-相談してきたところじゃ。
+Hey, sis.
+I went to see the principal.
+I wanted to ask her about my prize.
 
 --------------------
 [0013]
 Yuuko Kinoshita
 **********
-へー。それで、何にしたの？
+Wow. What did you ask for?
 
 --------------------
 [0014]
 Hideyoshi Kinoshita
 **********
-姉上こそ決まっておるのか？
+What do you want, sis?
 
 --------------------
 [0015]
 Yuuko Kinoshita
 **********
-アタシはまだよ。
-それより秀吉は何にするの？　教えなさいよ。
+I haven't made my mind up.
+But don't avoid the question! Tell me.
 
 --------------------
 [0016]
 Hideyoshi Kinoshita
 **********
-わ、わしは……
+I, I......
 
 --------------------
 [0017]
 Hideyoshi Kinoshita
 **********
-（……うーむ。皆に貢献するために
-　黒金の腕輪を頼んだと正直に話すのは、
-　姉上といえど少々照れくさいのう……）
+(Ugh...It'd be embarrassing if I told her
+that I want the iron bracelet to help 
+everyone...)
 
 --------------------
 [0018]
 Yuuko Kinoshita
 **********
-どうしたの？　早く教えなさいよ。
+Come on! Tell me already.
 
 --------------------
 [0019]
 Hideyoshi Kinoshita
 **********
-……まあ、ちょっとしたモノじゃ。
-小さな輪っかを頼んだだけじゃ。
+It's no big deal, really...
+I just want a bracelet.
 
 --------------------
 [0020]
 Yuuko Kinoshita
 **********
-ええええっ！？
+Ehhhhhh!?
 
 --------------------
 [0021]
 Yuuko Kinoshita
 **********
-（今のセリフ……昨日読んだ本と同じだわ！）
+(That reminds me... This sounds just like
+something I saw in a book, recently.)
 
 --------------------
 [0022]
 Yuuko Kinoshita
 **********
-（美形男子高校生の主人公から
-　誕生日プレゼントは何が良いかって聞かれた
-　時の、彼氏の反応にそっくり！）
+(A handsome prince asks his boyfriend what
+he wants for his birthday... And he softly
+replies with 'I just want a bracelet'.)
 
 --------------------
 [0023]
 Yuuko Kinoshita
 **********
-（恥ずかしそうに頬を染めるところまで同じ。
-　……そうよ……絶対にそうだわ！）
+(He was even blushing like he is.
+That's it! This is my chance.)
 
 --------------------
 [0024]
 Hideyoshi Kinoshita
 **********
-どうしたのじゃ、姉上。
-なんだか顔が赤いようじゃが……
+What's wrong, sis?
+Your face is looking a little red...
 
 --------------------
 [0025]
 Yuuko Kinoshita
 **********
-そそそ、そんなことないわよ！
-それよりアンタ、まさか……まさか……！
+W-W-What are you talking about?!
+But you... you're...?
 
 --------------------
 [0026]
 Hideyoshi Kinoshita
 **********
-まさか、何じゃ？
+What was that?
 
 --------------------
 [0027]
 Yuuko Kinoshita
 **********
-（ううっ、まさか弟に先を越されるなんて……）
+(Ugh, I never thought I'd be embarrassed
+by my little brother......)
 
 --------------------
 [0028]
 Hideyoshi Kinoshita
 **********
-あ、姉上、どうしたのじゃ？
-何か悪い物でも食べたのではあるまいな？
+Sis, is everything okay?
+You didn't get food poisoning, did you?
 
 --------------------
 [0029]
 Yuuko Kinoshita
 **********
-違うわよ。
-それより秀吉、ちゃんと言って。
-その賞品は、誰のためなの！？
+My stomach's fine.
+Just tell me, Hideyoshi...
+Who is that prize for?
 
 --------------------
 [0030]
 Hideyoshi Kinoshita
 **********
-え？　あ、ああ、それはその……
-詳しいことは全て終わってからじゃ。
-あ、姉上もがんばるのじゃぞ！
+Eh? A, unh, that.......
+I'll tell you once it's all over.
+Try your best too, sis!
 
 --------------------
 [0031]
 Yuuko Kinoshita
 **********
-こら、秀吉、待ちなさいっ！
-話はまだ終わってないわよっ！
+Hideyoshi, get back here!
+I haven't finished speaking with you!
 
 --------------------
 [0032]
 Yuuko Kinoshita
 **********
-まったくもう。
-見つけたら、詳しい話を聞き出さないと。
+Whatever.
+I'll get answers next time.
 
 --------------------
 [0033]
 Yuuko Kinoshita
 **********
-それにしても、ねぇ……
-秀吉に好きな人ができたなんて。
+I just...
+Can't believe he has someone he likes.
 
 --------------------
 [0034]
 Kouta Tsuchiya
 **********
-…………これは大スクープ！
+......This is big news!
 
 --------------------
 [0035]
 Yoshii Akihisa Yoshii
 **********
-……秀吉を奪うなんて、絶対に許さない。
-どこのどいつか知らないけれど
-絶対に見つけ出してやる……！
+Whoever they are, I'll never forgive them!
+They can have Hideyoshi... 
+Over my dead body!
 
 --------------------
 [0036]
 Yuuko Kinoshita
 **********
-あなたたち、いつからそこに！？
+How long have you two been there?!
 
 --------------------
 [0037]
 Kouta Tsuchiya
 **********
-……秀吉が学園長室に入った時から。
+...Since Hideyoshi entered the 
+principal's office.
 
 --------------------
 [0038]
 Yuuko Kinoshita
 **********
-それって、思いっきり尾行じゃない。
+That is just plain stalking.
 
 --------------------
 [0039]
 Kouta Tsuchiya
 **********
-……このくらい日常茶飯事。
+... No.
 
 --------------------
 [0040]
 Yuuko Kinoshita
 **********
-あのね……って、
-今はそれどころじゃないわね。
-この状況、どうしたものかしら？
+Whatever...
+I don't have time to argue with you.
+What do you guys think about this?
 
 --------------------
 [0041]
 Yoshii Akihisa Yoshii
 **********
-絶対に認めないっ！
+I reject this reality!
 
 --------------------
 [0042]
 Kouta Tsuchiya
 **********
-…………同感。
-秀吉が特定の誰かと付き合うのは
-気に入らない。
+Agreed. If Hideyoshi was really in a 
+relationship,it would make a lot of 
+paying... a lot of people unhappy.
 
 --------------------
 [0043]
 Yuuko Kinoshita
 **********
-そう、だったら決まりね。
-秀吉が賞品をもらえないように、
-徹底的に妨害するわよ。
+If that's true, 
+then we have to stop Hideyoshi
+from winning that prize at any cost!
 
 --------------------
 [0044]
 Yuuko Kinoshita
 **********
-アタシより先に彼氏を作られたら、
-なんて言うか、姉としての立場がないわ。
+I'll never accept Hideyoshi dating
+before me!
+I mean, I am his older sister.
 
 --------------------
 [0045]
 Yoshii Akihisa Yoshii
 **********
-秀吉をたぶらかすなんて……
-いったいどこの男だ！
+I can't believe someone seduced Hideyoshi
+What kind of man he is!
 
 --------------------
 [0046]
 Kouta Tsuchiya
 **********
-……絶対に突き止める。
+We definitely have to get to the bottom 
+of this.
 
 --------------------

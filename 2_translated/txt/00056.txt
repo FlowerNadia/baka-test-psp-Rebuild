@@ -1,239 +1,245 @@
 [0000]
 Shouko Kirishima
 **********
-……成績を確かめて。
-賞品をもらうには十分なはず。
+I'm here to verify the results.
+I should be eligible for a prize.
 
 --------------------
 [0001]
 Kaoru Toudou
 **********
-ふむ……確かにそのとおりのようだね。
-いいだろう。好きな物を言いな。
+Hmm...Yes.
+Okay, what is it you want?
 
 --------------------
 [0002]
 Shouko Kirishima
 **********
-……私と雄二の愛の巣が欲しい。
-常に２人きりになれる、
-静かで完亅に防音されている場所が。
+A love nest for me and Yuuji.
+A place where we can be alone,
+Without anyone to disturb us.  Soundproofed.
 
 --------------------
 [0003]
 Yuuji Sakamoto
 **********
-ババア、絶対に許すな！
-プライバシーの……いや、俺の未来の侵害だ！
+Old hag, absolutely not!
+Don't you dare...It'll ruin my future!
 
 --------------------
 [0004]
 Shouko Kirishima
 **********
-……雄二は照れ屋さん。
+Yuuji is shy.
 
 --------------------
 [0005]
 Yuuji Sakamoto
 **********
-ギャアアアアアアッ！？
-目がっ！？　目がぁっ！？
+Whaaaat?
+My eyes! My eyes!
 
 --------------------
 [0006]
 Kaoru Toudou
 **********
-静かにしな。
-ただまあ、坂本の言う通りだね。
-よって愛の巣とやらは不許可だ。
+Keep it down.
+Hmm, Sakamoto is right.
+Love nest or so isn't allowed.
 
 --------------------
 [0007]
 Shouko Kirishima
 **********
-……約束が違う。
+That's not what you promised.
 
 --------------------
 [0008]
 Kaoru Toudou
 **********
-学内の風紀を乱すとなれば、話は別さ。
-違う物にしな。
+It'll ruin the school's image
+so it's not an option.
+Choose something else.
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-言っとくが、俺を賞品にするのは無しだぞ！
-俺を物扱いするなよ！
-人権を無視するんじゃねー！
+Just to be clear, I'm not a prize!
+Don't treat me as an object to be given away!
+I have my rights as a human being!
 
 --------------------
 [0010]
 Shouko Kirishima
 **********
-……大丈夫。
-雄二は既に私のもの。
-賞品に望む必要は無い。
+......It's nothing.
+Yuuji is already mine.
+I have no prize to look forward to.
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-そうじゃないだろ！
+That's not true!
 
 --------------------
 [0012]
 Kaoru Toudou
 **********
-どうでもいいが、アタシは忙しいんだ。
-賞品が決まったら出直してきな。
+Anything is fine, but I have work to do.
+Hurry up and think of a prize.
 
 --------------------
 [0013]
 Shouko Kirishima
 **********
-……だったら自習室。
-空き教室でいい。
+......Then I want a self-study classroom.
+An empty classroom is fine.
 
 --------------------
 [0014]
 Yuuji Sakamoto
 **********
-何だと……？
+What did you just say?
 
 --------------------
 [0015]
 Kaoru Toudou
 **********
-そこで何をするつもりだい？
+What do you intend to do?
 
 --------------------
 [0016]
 Shouko Kirishima
 **********
-……もちろん自習。
+......Self-study, of course.
 
 --------------------
 [0017]
 Kaoru Toudou
 **********
-ふぅん……考えたものだね。
-どうせマンツーマンでやるんだろう？
+Hmm...... I see you've thought deeply
+about it,  after all it's one-on-one 
+tutoring for sure, yes?
 
 --------------------
 [0018]
 Shouko Kirishima
 **********
-……当然。
-そのほうが捗る。
+.......Of course.
+Only then it'll be effective.
 
 --------------------
 [0019]
 Kaoru Toudou
 **********
-分かった。なら、それを承認しようじゃないか。
-で、いつからだい？
+I understand, then, I'll go and 
+authorize it.
+Also, when do you want it to begin?
 
 --------------------
 [0020]
 Yuuji Sakamoto
 **********
-承認するなよッ！
+Don't authorize it!
 
 --------------------
 [0021]
 Shouko Kirishima
 **********
-……今から。
-私と雄二が自習する。
+......From now.
+Yuuji and I are going to self-study.
 
 --------------------
 [0022]
 Yuuji Sakamoto
 **********
-ババア、亊子を止めろ！
-校内の風紀が乱れるぞ！？
-分かってんのか！？
+Old hag, stop her!
+It'll ruin the school's image!
+Understand?
 
 --------------------
 [0023]
 Kaoru Toudou
 **********
-自習でかい？
-せいぜい真面目にやるんだね。
+Isn't it just self-study?
+You should be more serious about it.
 
 --------------------
 [0024]
 Yuuji Sakamoto
 **********
-いいから止めろ！
-このままじゃ俺の未来が――っ！
+Hurry up and stop her!
+If it goes on, my future--!
 
 --------------------
 [0025]
 Kaoru Toudou
 **********
-うるさいねぇ。
-アタシは忙しいんだ。
-とっとと出て行きな。
+You're being very noisy,
+and I have work to do.
+Get out of here.
 
 --------------------
 [0026]
 Shouko Kirishima
 **********
-……雄二。一緒に自習。
+Yuuji, let's go study together.
 
 --------------------
 [0027]
 Yuuji Sakamoto
 **********
-お断りだ！
-俺は死んでも自習なんか――
+I refuse!
+Even if it means dying--
 
 --------------------
 [0028]
 Shouko Kirishima
 **********
-……なら、寝てていい。
+......Then, have a nap.
 
 --------------------
 [0029]
 Yuuji Sakamoto
 **********
-ま、待て亊子……！
-それ、まさかスタンガ――
+W-w-wait, Shouko!
+Is that a stun gun--
 
 --------------------
 [0030]
 Yuuji Sakamoto
 **********
-あがっ、亊子、やめっ、あぐぁあああ！！
+Please, Shouko, don't be like that! 
+Ahhhh!
 
 --------------------
 [0031]
 Shouko Kirishima
 **********
-……雄二、これで毎日一緒にいられる。
+......Yuuji, this way we can be 
+together everyday.
 
 --------------------
 [0032]
 Yuuji Sakamoto
 **********
-ま、毎日……だと……
+Ugh, everyday.......
 
 --------------------
 [0033]
 Shouko Kirishima
 **********
-……そう。
-必ず毎日、自習時間を設ける。
+......Right.
+I will leave out time to self-study 
+everyday.
 
 --------------------
 [0034]
 Yuuji Sakamoto
 **********
-自習よりも……俺の自由を……
-返して……くれ……
+Rather than self-study......my freedom.
+Please return it......
 
 --------------------

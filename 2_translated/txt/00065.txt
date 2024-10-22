@@ -1,240 +1,245 @@
 [0000]
 Miharu Shimizu
 **********
-うふふふ……チャンス……！
-これは間違いなくチャンスです！
+Ufufufu......chance......!
+This is without doubt my chance!
 
 --------------------
 [0001]
 Miharu Shimizu
 **********
-名づけて“揺れる橋の上で愛を誓った恋人は
-永遠に結ばれる百合咲く花園大作戦”です！
+I'll call this
+"Operation Blossoming Garden:
+Eternal Love on a Swaying Bridge"
 
 --------------------
 [0002]
 Miharu Shimizu
 **********
-このテストに勝ち抜いて、
-そしてお姉さまを賞品にしてもらえば
-二人の関係はより確実なものに……！
+Once I win this test,
+And have Onee-Sama as prize
+It'll allow our relationship to be more!
 
 --------------------
 [0003]
 Miharu Shimizu
 **********
-お姉さま、あと少しです！
-あと少しで２人は永遠に結ばれるんです！
+Onee-sama, just a little more!
+Just a little more then we'll together 
+for all eternity!
 
 --------------------
 [0004]
 Minami Shimada
 **********
-結ばれないわよ！
+No we won't!
 
 --------------------
 [0005]
 Minami Shimada
 **********
-さっきから聞いてれば勝手なことばかり……！
-ウチと美春は、永遠どころか
-一瞬も結ばれることはないんだから！
+You think I'll go along with it!?
+I'm not into girls,
+I don't want to be with you!
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-そもそも、揺れる橋も、百合の花園も
-今回は何も関係しとらんじゃろう。
+Also, an unstable bridge and a lily 
+garden, aren't related at all to this.
 
 --------------------
 [0007]
 Miharu Shimizu
 **********
-してます！
-橋は与えられた試練！　そして百合は
-美春とお姉さまの愛の結晶なのです！
+I know! The bridge is a trial! And
+Lilies will be the product of Onee-Sama
+and Miharu's love!
 
 --------------------
 [0008]
 Mizuki Himeji
 **********
-でも……人を賞品にするのはどうでしょう？
-難しいんじゃないんでしょうか？
+But......What will happen if we have
+someone as the prize?
+Isn't it very difficult?
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-その通りだな。
-いくらあのババァでも、
-人を賞品にくれるっていうのは許さないだろう。
+It won't happen.
+That old hag will never agree
+to a person being the prize.
 
 --------------------
 [0010]
 Miharu Shimizu
 **********
-うふふふ、そんなこと百も承知です。
-ですから賞品のかわりに、この学園に
-パートナー制度を作ることを提案するのです。
+Ufufufu, I know that of course.
+Thus, the prize that I want,
+Is to make a new rule in school.
 
 --------------------
 [0011]
 Minami Shimada
 **********
-どういうこと？
+What do you mean?
 
 --------------------
 [0012]
 Yuuji Sakamoto
 **********
-ははあ……読めたぞ。
-要はその制度を使って、
-島田と強引に結ばれようってわけだな。
+I get it.
+She's going to make a rule
+That would force Shimada to be with her.
 
 --------------------
 [0013]
 Miharu Shimizu
 **********
-違います！　強引じゃありません！
-これは運命です！　だってお姉さまは
-美春を愛してるんですから！
+Wrong! It's not forcing!
+This is fate! Because
+Onee-Sama loves Miharu deeply as well!
 
 --------------------
 [0014]
 Minami Shimada
 **********
-違う！　ウチは男子が好きなの！
-それにパートナー制度が出来たからって、
-あんたをパートナーにはしないもん！
+No! I'm interested in guys!
+And even if you established such a rule,
+I wouldn't be with you!
 
 --------------------
 [0015]
 Miharu Shimizu
 **********
-もう、お姉さまったら照れちゃって……
+Ah well, Onee-Sama is embarrassed......
 
 --------------------
 [0016]
 Miharu Shimizu
 **********
-心配しなくて大丈夫です。
-お姉さまを私のパートナーにすることも、
-賞品の代わりにお願いしておきますから！
+Don't worry, it'll be fine.
+I will gladly request for Onee-Sama 
+to be pair with me!
 
 --------------------
 [0017]
 Minami Shimada
 **********
-お願いするなーっ！
+Don't ask for that!
 
 --------------------
 [0018]
 Yoshii Akihisa Yoshii
 **********
-ちなみに、その制度の期間はいつまで？
+Also, how long will the rule last?
 
 --------------------
 [0019]
 Miharu Shimizu
 **********
-もちろん卒業するまでです。
-ちなみにその間、教室も住む所も一緒です。
+Of course it'll be until we graduate.
+It'll be at home as well as in class.
 
 --------------------
 [0020]
 Minami Shimada
 **********
-冗談じゃないわ！　断固として拒否する！
+That's not funny!
+No way is that happening!
 
 --------------------
 [0021]
 Yuuji Sakamoto
 **********
-拒否したところで、
-清水の考えが学園長に受け入れられて
-しまったら、どうにもならん。
+You can refuse all you want, but if the
+principal accepts Shimizu's idea, you 
+won't be able to do anything about it.
 
 --------------------
 [0022]
 Yuuji Sakamoto
 **********
-本気でどうにかしたいなら、
-清水が勝つのを防ぐしかないな。
-島田、手を貸すぞ。
+If you really want to stop it,
+You can only stop Shimizu from winning.
+Shimada, I will help you.
 
 --------------------
 [0023]
 Minami Shimada
 **********
-坂本……協力してくれるの？
+Sakamoto...are you willing to help me?
 
 --------------------
 [0024]
 Yuuji Sakamoto
 **********
-ああ……こんな制度が敷かれてみろ。
-間違いなく亊子は俺をパートナーにするはずだ。
-そうなったら……そうなったら…………！
+Ahh...If such a rule is established.
+Shouko without doubt will force me to
+to be her partner and then..........!
 
 --------------------
 [0025]
 Yuuji Sakamoto
 **********
-うあああああああああああああッ！！
+Waahhhhhhhhhhhhhh!!
 
 --------------------
 [0026]
 Yoshii Akihisa Yoshii
 **********
-そうか、この制度があれば……
-もしかしたら僕も、可愛い女の子とパートナーに
-なれる可能性が――
+Is it so, if this rule is in place......
+There's a possibility that I'll be
+Grouped with a cute girl--
 
 --------------------
 [0027]
 Yuuji Sakamoto
 **********
-ああ、間違いなくアキちゃん好きの男どもに
-パートナーにされるだろうな。
+Ahh, without doubt you'll be forced into
+a group with a guy who admires Aki-chan.
+(Aki-chan = cross-dressing Akihisa)
 
 --------------------
 [0028]
 Yoshii Akihisa Yoshii
 **********
-……雄二！
-僕も協力するよ！
-一緒に力を合わせて清水さんを止めよう！
+......Yuuji!
+I'll help!
+I'll stop Shimizu with all my might!
 
 --------------------
 [0029]
 Miharu Shimizu
 **********
-そうはいきません、この豚野郎。
-美春とお姉さまの恋路を邪魔する家畜は、
-全力で排除します！
+That won't happen, you filthy pigs! I'll
+destroy anyone who dares to stand in the
+way of me and my One-Sama's love!
 
 --------------------
 [0030]
 Minami Shimada
 **********
-だから、あんたとの恋路なんて
-無いんだってば！
+For the last time,
+There's nothing between us!
 
 --------------------
 [0031]
 Yuuji Sakamoto
 **********
-とにかく清水、このまま
-おまえを見過ごすわけにはいかない。
-いいか、全力で阻止するから覚悟しろ。
+Anyway, Shimizu,
+We can't let you make that rule.
+We'll stop you, so be ready.
 
 --------------------
 [0032]
 Miharu Shimizu
 **********
-上等です！
-お姉さまとの愛のためなら、
-美春はいつでも受けて立ちます！
+Good!
+If it's for the love for Onee-Sama,
+Miharu will win any challenge!
 
 --------------------

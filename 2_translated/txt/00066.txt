@@ -1,85 +1,89 @@
 [0000]
 Miharu Shimizu
 **********
-最初の相手は誰です？
-早く名乗り出てください。
+Who is the first opponent?
+Hurry up and report in.
 
 --------------------
 [0001]
 Yuuji Sakamoto
 **********
-なら、まずは俺が相手だ。
+If so, let me be the first.
 
 --------------------
 [0002]
 Yoshii Akihisa Yoshii
 **********
-よーし、僕もやる！
-雄二、ここは一緒に協力して……
+Good, me too!
+Yuuji, we'll work together here......
 
 --------------------
 [0003]
 Yuuji Sakamoto
 **********
-ああ、全力で俺の盾になってくれ。
-その間に俺が勝てば、清水の野望を潰せる。
-期待してるぜ、明久。
+just do your best in being my meat shield
+If we win early, we'll break her spirit.
+I'm looking forward to it, Akihisa.
 
 --------------------
 [0004]
 Yoshii Akihisa Yoshii
 **********
-……なるほど。
-じゃあ、僕の盾は秀吉にお願いしようっと。
-その間に僕が勝てばいいんだね。
+......I see. If so I have to trouble 
+Hideyoshi to be my meat shield.
+It'll be fine if I win this time.
 
 --------------------
 [0005]
 Hideyoshi Kinoshita
 **********
-なぜそうなるのじゃ。
-明久こそ、わしの盾になってもらうぞい。
+Why would I be that.
+It should be Akihisa who be my meat
+shield.
 
 --------------------
 [0006]
 Yoshii Akihisa Yoshii
 **********
-それじゃ、僕一人が損をするじゃないか！
-これは皆の危機なんだ。
-全員で協力して切り抜けないと！
+If so, won't it be just me who's at a 
+disadvantage! This is everyone's crisis.
+We need everyone to do their best to win!
 
 --------------------
 [0007]
 Miharu Shimizu
 **********
-何人で来ようが関係ありません。
-お姉さまの愛が美春を勝たせてくれます！
+It's fine even you get more people.
+Onee-sama's love will let Miharu win!
 
 --------------------
 [0008]
 Yoshii Akihisa Yoshii
 **********
-清水さんはとことん前向きだなあ。
-ほら、秀吉も清水さんを見習って……
+Miharu is full of positivity, huh?
+Maybe you could learn a thing or two
+from her, Hideyoshi...
 
 --------------------
 [0009]
 Hideyoshi Kinoshita
 **********
-わけのわからん理屈でわしを巻き込むでない！
+Don't try to put me in the same group as
+her!
 
 --------------------
 [0010]
 Yuuji Sakamoto
 **********
-秀吉、何を言っても無駄だ。
-そろそろ始めるぞ。
+Hideyoshi, nothing you say will help.
+It's time we begin.
 
 --------------------
 [0011]
 Miharu Shimizu
 **********
-望むところです！
-美春とお姉さまの愛を証明してあげます！
+Finally!
+Let me prove the love between Onee-Sama
+and Miharu!
 
 --------------------

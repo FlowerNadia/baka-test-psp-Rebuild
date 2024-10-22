@@ -1,122 +1,127 @@
 [0000]
 Yuuji Sakamoto
 **********
-くそっ！　秀吉、おまえの勝ちだ。
+Damn! you won, hideyoshi.
 
 --------------------
 [0001]
 Minami Shimada
 **********
-すごいじゃない。
-瑞希たちに勝ったのも、納得できるかも……
+Amazing.
+No wonder you beat Mizuki and the others.
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-いやいや、偶然かまぐれか、あるいは運じゃ。
-そうそう良い結果が続くとも思えんがのう。
+No, it was just dumb luck.
+I have a feeling future matches won't be
+as easy.
 
 --------------------
 [0003]
 Yoshii Akihisa Yoshii
 **********
-だったらもう一度戦って！
-むしろ僕が勝つまで戦ってよ！
+Let's battle again!
+atleast until I win!
 
 --------------------
 [0004]
 Hideyoshi Kinoshita
 **********
-無茶を言わんでくれ。
-お主、さっきからおかしいぞ？
+Cut it with the nonsense,
+You're acting stranger than earlier.
 
 --------------------
 [0005]
 Yoshii Akihisa Yoshii
 **********
-それは秀吉のせいだよ。
-僕というものがありながら、
-相手はいったいどこの誰なの！？
+It's all your fault, Hideyoshi.
+You already have me,
+Why would you need another man!?
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-明久……いったい何を言っておるのじゃ。
+Akihisa......
+what in the world are you talking about.
 
 --------------------
 [0007]
 Minami Shimada
 **********
-僕というものがありながらって……
-アキと木下って、どういう関係なの？
+You just said he already has you......
+What is Aki and Hideyoshi's relationship?
 
 --------------------
 [0008]
 Yuuji Sakamoto
 **********
-ただのクラスメイトという以外に、
-何があるというんだ？
+Just classmates,
+What else would they be?
 
 --------------------
 [0009]
 Minami Shimada
 **********
-……そうよね。
+.......Right
 
 --------------------
 [0010]
 Yoshii Akihisa Yoshii
 **********
-違うよ！
-なんていうか、もっと大切な関係じゃないか！
-僕の秀吉、秀吉の僕っていうか……！
+Wrong!
+Of course we're more than classmates!
+I'm Hideyoshi's,and Hideyoshi is mine...!
 
 --------------------
 [0011]
 Hideyoshi Kinoshita
 **********
-わしは秀吉、お主は明久の間違いじゃろう？
+I'm mine, you're yours, 
+I don't think there's anything special
+between us?
 
 --------------------
 [0012]
 Minami Shimada
 **********
-さっきので頭を使い過ぎたんじゃない？
-少し休ませた方が良さそうね。
+Did he burn out his brain?
+Maybe Aki should lay down for a bit.
 
 --------------------
 [0013]
 Yoshii Akihisa Yoshii
 **********
-そんなんじゃない！
-秀吉、なんでわかってくれないの！？
+My brain is fine!
+Hideyoshi, why don't you love me!?
 
 --------------------
 [0014]
 Yuuji Sakamoto
 **********
-いいから休んどけ。
+Give it a rest, go lay down.
 
 --------------------
 [0015]
 Yoshii Akihisa Yoshii
 **********
-んゴフッ！？
+Huh!?
 
 --------------------
 [0016]
 Yuuji Sakamoto
 **********
-……これでよし、と。
-じゃあな秀吉、次もがんばれよ。
+......He should calm down now.
+See you later, Hideyoshi. 
+Good luck on your next battle.
 
 --------------------
 [0017]
 Hideyoshi Kinoshita
 **********
-もちろんじゃ。
-雄二と島田もな。
+Of course,
+Good luck to you guys as well.
 
 --------------------

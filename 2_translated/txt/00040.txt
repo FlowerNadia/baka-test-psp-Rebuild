@@ -1,510 +1,523 @@
 [0000]
 Hideyoshi Kinoshita
 **********
-……さて、首尾よく賞品がもらえると
-良いのじゃが。
+......Alright, All I have to do is claim
+the prize. Should be easy enough.
 
 --------------------
 [0001]
 Yoshii Akihisa Yoshii
 **********
-まあ、学園長がああ言ったわけだし、
-賞品はもらえると思うけど……
+After all the principal said it herself,
+The prize can still be claimed......
 
 --------------------
 [0002]
 Yuuko Kinoshita
 **********
-……問題は、その後よね。
+......But what about after it gets
+claimed.
 
 --------------------
 [0003]
 Hideyoshi Kinoshita
 **********
-二人とも、何故わしについてくるのじゃ。
+Why are you two following me.
 
 --------------------
 [0004]
 Yuuko Kinoshita
 **********
-アンタが貰う賞品が気になるのよ。
+We want to see what your prize is.
 
 --------------------
 [0005]
 Yoshii Akihisa Yoshii
 **********
-そうだよ！
-そして、それを誰にあげるか気になるんだ！
+That's right!
+And we're more curious who you're giving
+it to!
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-いったい何を言っておるのじゃ。
-わしは、貰った賞品を
-誰かに渡すつもりなど――
+What are you talking about?
+It's my prize
+Why would I give it to anyone-
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-アタシの知ってる人？
-それとも、まさか別の学校？
+Is it someone I know?
+Or is it someone from another school?
 
 --------------------
 [0008]
 Yoshii Akihisa Yoshii
 **********
-違うよね？
-秀吉は僕を裏切らないよね？
-僕らの秀吉だよね！？
+No way! Hideyoshi can't betray us, right?
+Hideyoshi belongs to everyone of this 
+world!
 
 --------------------
 [0009]
 Hideyoshi Kinoshita
 **********
-話を聞いておるのか。
-二人とも何を考えておるか知らんが、
-誤解も甚だしいぞ。
+Can't you both just listen to me.
+I can't really make out what you're
+thinking,But it's very wrong.
 
 --------------------
 [0010]
 Hideyoshi Kinoshita
 **********
-失礼するぞ、学園長。
-例の賞品の件なのじゃが……
+Sorry for the intrusion, principal.
+I'm here to claim the prize......
 
 --------------------
 [0011]
 Kaoru Toudou
 **********
-ああ、その話かい。
-……んん？　目が悪くなったのかねぇ。
-アンタが２人に見えるよ。
+Ah, about that......
+......Hm? My vision must be going.
+I'm seeing double of you.
 
 --------------------
 [0012]
 Hideyoshi Kinoshita
 **********
-それはわしの姉上じゃ。
+That's my sister.
 
 --------------------
 [0013]
 Yuuko Kinoshita
 **********
-２年ＡクラスのYuuko Kinoshitaです。
-アタシは弟の付き添いで。
+I'm Kinoshita Yuko from Class 2A.
+I'm just here to accompany my little
+brother.
 
 --------------------
 [0014]
 Kaoru Toudou
 **********
-ああ、名前は聞いたことあるよ。
+Oh, I heard of your name before.
 
 --------------------
 [0015]
 Hideyoshi Kinoshita
 **********
-学園長、わしの成績を確認してほしいのじゃ。
-例の物を貰う条件は満たしていると
-思うのじゃが……
+Principal, please confirm my results.
+Should've met all the conditions
+I think......
 
 --------------------
 [0016]
 Kaoru Toudou
 **********
-ちょっと待ちな。
+Hold on a minute.
 
 --------------------
 [0017]
 Kaoru Toudou
 **********
-……ふむふむ。
-まあ、確かにこれで十分さね。
+.......Hm...
+You're right, you did everything.
 
 --------------------
 [0018]
 Hideyoshi Kinoshita
 **********
-では、よろしく頼むぞい。
-いつ貰えるのじゃ？
+If so thanks for your kindness.
+May I receive it now?
 
 --------------------
 [0019]
 Kaoru Toudou
 **********
-慌てなくとも、ここに予備がある。
-一応あんたでも扱えるよう、
-簡単な調整だけはしておいたよ。
+No need to rush, here's a spare.
+I had it customized,
+So only you can use it.
 
 --------------------
 [0020]
 Hideyoshi Kinoshita
 **********
-そこまでしてくれるとは思わなんだぞい。
-恩に着るのじゃ。
+I didn't expect you to be so considerate.
+Thank you very much.
 
 --------------------
 [0021]
 Kaoru Toudou
 **********
-勘違いするんじゃないよ。
-使い物になるかどうか、ついでに
-あんたで試してみようって話さね。
+Don't misunderstand.
+I also want to know if this prototy works
+So I'm also using you to test it.
 
 --------------------
 [0022]
 Kaoru Toudou
 **********
-何度も言うが、これはもともと欠陥品だからね。
-どんな不具合が起きるか予想できないよ？
+I said it before,it's a defective product
+What'll happen cannot be anticipated?
 
 --------------------
 [0023]
 Hideyoshi Kinoshita
 **********
-物は使い方次第じゃ。
-どうにかうまく使いこなしてみせる。
-心配は無用じゃ。
+That'll depend on how I use it.
+I will find a way to use it correctly.
+No worries.
 
 --------------------
 [0024]
 Kaoru Toudou
 **********
-見た目と違って、見上げた根性だねぇ。
-分かったよ、ほら、持って行きな。
+You're pretty ambitious, for a Class F
+student.
+Okay, it's yours now.
 
 --------------------
 [0025]
 Hideyoshi Kinoshita
 **********
-おお、有難い！
-学園長、感謝するのじゃ。
+Thank you very much!
+I truly appreciate this, principal.
 
 --------------------
 [0026]
 Kaoru Toudou
 **********
-まあ、精々精進することだね。
+I could only do this much for you.
 
 --------------------
 [0027]
 Hideyoshi Kinoshita
 **********
-これで一件落着じゃな。
+I guess it's over now.
 
 --------------------
 [0028]
 Yuuko Kinoshita
 **********
-それより秀吉、
-その指輪、少し大きすぎない？
+But, Hideyoshi,
+Isn't that ring a little too big?
 
 --------------------
 [0029]
 Yoshii Akihisa Yoshii
 **********
-いや……これは指輪じゃないよ。
-試召戦争で使う黒金の腕輪だよね？
+No......that's not a ring.
+Isn't that the iron bracelet for Summoner
+Test?
 
 --------------------
 [0030]
 Hideyoshi Kinoshita
 **********
-そのとおりじゃ。
-これでわしも多少は役に立てるはずじゃ。
+Correct,
+Now I'll be able to contribute more.
 
 --------------------
 [0031]
 Yuuko Kinoshita
 **********
-ちょっと待って！
-秀吉が欲しかったのって……これ？
-指輪じゃないの？
+Wait!
+What you want......is this?
+Not a ring?
 
 --------------------
 [0032]
 Hideyoshi Kinoshita
 **********
-姉上は、さっきから何を言っておるのじゃ？
-わしが指輪を欲しがる理由がどこにある。
+What are you saying, sis?
+Why would I want a ring?
 
 --------------------
 [0033]
 Yuuko Kinoshita
 **********
-アンタがそう言ったんじゃない！
+You said it yourself, okay!
 
 --------------------
 [0034]
 Hideyoshi Kinoshita
 **********
-……わしが？
+......I said it?
 
 --------------------
 [0035]
 Yuuko Kinoshita
 **********
-だ、だって……顔を赤くして小さな輪っかを
-賞品にしたって言われたら……普通は
-好きな彼氏にあげる指輪だと思うじゃない？
+D..Didn't you said...(blushing) a small
+ring or something like that...., Everyone
+would think it's for a boyfriend, right?
 
 --------------------
 [0036]
 Hideyoshi Kinoshita
 **********
-そんなこと、あるわけなかろう！
-何よりわしは男じゃ！　仮に指輪を
-渡すにしても、彼氏じゃのうて彼女じゃ！
+That's all wrong!
+Firstly, I'm man! Even if it's a ring,
+I'd be giving it to a girlfriend!
 
 --------------------
 [0037]
 Yuuko Kinoshita
 **********
-ふーん、それじゃあ本当に、
-ただの勘違いだったってわけね。
+Ah, I see,
+Just a misunderstanding.......
 
 --------------------
 [0038]
 Hideyoshi Kinoshita
 **********
-最初から、そう言っておるじゃろう！
+That's what I've been saying!
 
 --------------------
 [0039]
 Yuuko Kinoshita
 **********
-まあとにかく、そういうことならいいわ。
-でも秀吉、これからもアタシより先に彼氏を作っ
-たら承知しないからね。いいこと？
+In that case, everything's fine.
+But if you dare to have a boyfriend
+before me, I won't forgive you, okay?
 
 --------------------
 [0040]
 Hideyoshi Kinoshita
 **********
-わかったのじゃ……
+I know......
 
 --------------------
 [0041]
 Yuuko Kinoshita
 **********
-それじゃあ、一件落着ということで
-アタシはこれで失礼するわ。
+Then it's over,
+I'll be leaving.
 
 --------------------
 [0042]
 Yoshii Akihisa Yoshii
 **********
-ごめん秀吉……ただの勘違いだったんだね。
-でも、良かったよ……
+I'm sorry, Hideyoshi......
+Just a misunderstanding.
+But, it's fine too......
 
 --------------------
 [0043]
 Hideyoshi Kinoshita
 **********
-何が良かったのじゃ？
+What's fine?
 
 --------------------
 [0044]
 Yoshii Akihisa Yoshii
 **********
-だって秀吉には僕がいるじゃないか！
-他の人と付き合うなんて、
-そんなの耐えられないよ！
+Because you already have me!
+If you chose someone besides me,
+How could I stand it!
 
 --------------------
 [0045]
 Hideyoshi Kinoshita
 **********
-明久、突然何を言い出すのじゃ！？
+Akihisa, what are you blabbering about?
 
 --------------------
 [0046]
 Yuuji Sakamoto
 **********
-放っとけ。
-そいつがおかしいのは、元からだ。
+Ignore him.
+He's always like this.
 
 --------------------
 [0047]
 Yoshii Akihisa Yoshii
 **********
-雄二、どうしてここに？
+Yuuji, why are you here?
 
 --------------------
 [0048]
 Yuuji Sakamoto
 **********
-ムッツリーニから、
-秀吉が賞品を貰ったって聞いてな。
-彼氏にやるんだって？
+Kouta told me to come, He said Hideyoshi
+is going to claim the prize.
+He said it's for a boyfriend?
 
 --------------------
 [0049]
 Hideyoshi Kinoshita
 **********
-それは誤解じゃ！
-わしが貰ったのはこれ、黒金の腕輪じゃ。
+That's a misunderstanding!
+I just wanted the iron bracelet.
 
 --------------------
 [0050]
 Yuuji Sakamoto
 **********
-物好きなヤツだな。
-それは紛れもなく欠陥品だぞ？
+You're interesting,
+Isn't this just a defective product?
 
 --------------------
 [0051]
 Hideyoshi Kinoshita
 **********
-わかっておる。
-じゃが、学園長がわしにも扱えるよう
-調整してくれたのじゃ。
+I know.
+But the principal said this is tweaked,
+So that I can use it.
 
 --------------------
 [0052]
 Yuuji Sakamoto
 **********
-ババアが？
-そいつはどうにも信用ならねーな。
+The old hag?
+You're can't just believe what she says.
 
 --------------------
 [0053]
 Hideyoshi Kinoshita
 **********
-多少の不具合は出るかもしれんがな。
-それでも、どうにか使いこなすつもりじゃ。
+I'm worried it might still be problematic
+Even so, I will still find a way to use
+it.
 
 --------------------
 [0054]
 Yuuji Sakamoto
 **********
-なら、試してみようぜ。
-ちゃんと使えるかどうか、
-とにかく確かめてみないとな。
+Then let's try it out.
+Better to test it now,
+then to find out it doesn't work.
 
 --------------------
 [0055]
 Hideyoshi Kinoshita
 **********
-そうじゃのう。
-では――起動！
+Right.
+Then--Summon!
 
 --------------------
 [0056]
 Hideyoshi Kinoshita
 **********
-おお、どうやらうまくいったようじゃ。
+Hideyoshi Kinoshita
+Oh, looks like it's working.
 
 --------------------
 [0057]
 Yuuji Sakamoto
 **********
-……まだだ。
-ちゃんと召喚獣を呼び出せなきゃ意味がねえ。
+......Not yet.
+If you can't summon your avatar,
+it's useless.
 
 --------------------
 [0058]
 Hideyoshi Kinoshita
 **********
-ならば――試獣召喚！
+If so――Summon!
 
 --------------------
 [0059]
 Yoshii Akihisa Yoshii
 **********
-どう、秀吉？
+Hideyoshi, how is it?
 
 --------------------
 [0060]
 Hideyoshi Kinoshita
 **********
-特に問題は無いようじゃ。
-以前のように爆発もしないようじゃのう。
+It works perfectly.
+It didn't explode like I thought it would
 
 --------------------
 [0061]
 Yuuji Sakamoto
 **********
-……待て。
-見てみろ、召喚獣の様子がおかしいぞ？
+......Wait.
+Guys, look, doesn't the avatar looks
+weird?
 
 --------------------
 [0062]
 Yoshii Akihisa Yoshii
 **********
-ほんとだ……服をはだけて……
-ちょっと色っぽくなっているような……
+Yeah......why are the clothes......
+Kinda sexy......
 
 --------------------
 [0063]
 Hideyoshi Kinoshita
 **********
-なんじゃと……？
+What......?
 
 --------------------
 [0064]
 Yuuji Sakamoto
 **********
-腕輪を調整したことで、
-別の不具合が出たんじゃないのか？
+If the bracelet was customized,
+You've got a whole new set of bugs?
 
 --------------------
 [0065]
 Kouta Tsuchiya
 **********
-…………これは、売れる！
+......This, can be sold for a lot of 
+money!
 
 --------------------
 [0066]
 Hideyoshi Kinoshita
 **********
-ムッツリーニ、いつの間に来たのじゃ！？
+Muttsurini, when did you get here?
 
 --------------------
 [0067]
 Kouta Tsuchiya
 **********
-……いいからセクシーポーズを！
+......Do a sexy pose!
 
 --------------------
 [0068]
 Hideyoshi Kinoshita
 **********
-セ、セクシーポーズじゃと！？
-なにゆえわしが……
+Se, sexy pose!?
+Why should I......
 
 --------------------
 [0069]
 Kouta Tsuchiya
 **********
-……早く！
-召喚獣といっしょに！
+......Hurry!
+Do it with your avatar!
 
 --------------------
 [0070]
 Hideyoshi Kinoshita
 **********
-し、仕方がないのう……こ、こうか？
+I-I guess I might as well......
+I-is this fine?
 
 --------------------
 [0071]
 Yoshii Akihisa Yoshii
 **********
-ウオオオオ！？　イイ！　イイよ秀吉！！
-すごくいい！
+Whoaohhhh!? Great! Great, Hideyoshi!!
+Amazing!
 
 --------------------
 [0072]
 Kouta Tsuchiya
 **********
-……ッ！　……ッ！
+......Ngh! ......Ngh!
+*nod* *nod*
 
 --------------------
 [0073]
 Yuuji Sakamoto
 **********
-やっぱり、あまり使えそうにないな。
-この腕輪は……
+In the end it didn't function properly.
+This bracelet......
 
 --------------------

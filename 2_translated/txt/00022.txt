@@ -1,112 +1,114 @@
 [0000]
 Minami Shimada
 **********
-今、２勝かぁ。
-あと少しで如月ハイランドの優待券。
-がんばらなきゃ！
+So that makes two wins.
+One more and I can get those VIP tickets!
+I have to do my best.
 
 --------------------
 [0001]
 Miharu Shimizu
 **********
-そうはさせません！
+There's no way I'd let that happen!
 
 --------------------
 [0002]
 Minami Shimada
 **********
-……美春……あんたねぇ、
-いい加減にしなさいよ。
+Oh. It's you, Miharu.
+When will you learn?
 
 --------------------
 [0003]
 Miharu Shimizu
 **********
-それはお姉さまの方です！
-美春というものがありながら、なんであんな
-豚野郎とデートするんです！？
+I should be saying that to you, Onee-Sama
+You already have me, so why?!
+Why do you want to date an idiot pig?!
 
 --------------------
 [0004]
 Minami Shimada
 **********
-えっ！？　デートじゃないわよ！
-ただ単にその……アキの性癖を確かめるって
-いうか、葉月を守るためっていうか……
+What?! It's not a date! It's just ...
+I can learn about Aki's preferences.
+So I can protect Hazuki, you know?
 
 --------------------
 [0005]
 Minami Shimada
 **********
-それより、坂本もまたやるの？
-さっき対戦したばかりだし、
-勝ったウチを賞賛してくれたじゃない。
+Anyways, you're here too, Yuuji?
+Didn't we just have a battle?
+And you even congratulated me.
 
 --------------------
 [0006]
 Yuuji Sakamoto
 **********
-さっきのは、戦いの意味が違ったのさ。
-今回はあくまでも自分の目的のために戦う。
-手加減は無しだ。
+This battle is different.
+This time I'm fighting for myself,
+no holding back.
 
 --------------------
 [0007]
 Minami Shimada
 **********
-さっきのと今回ので、
-何がどう違うのか全然わからないんだけど。
+I'm not too sure what you mean.
+I can't really see a difference.
 
 --------------------
 [0008]
 Yuuji Sakamoto
 **********
-とにかく賞品がいるんだよ！
-アレを取り戻さないと俺の未来は一本道なんだ！
-地獄行きワイルドロードが全開なんだよ！
+It's all about getting the prize!
+I have no future if I don't get it.
+I'll unleash my true power! Wild Lord!
 
 --------------------
 [0009]
 Kouta Tsuchiya
 **********
-……雄二の目的は、霧島との婚姻届。
-それは霧島家の金庫に保管されている……
+Yuuji's aim is the marriage application
+of Kirishima and him. It's being kept in
+Kirishima's treasure room...
 
 --------------------
 [0010]
 Minami Shimada
 **********
-役所に提出したいなら、
-霧島さんにそう言えばいいじゃない。
+If he wanted to hand it in to the
+officials, Wouldn't it be better if he
+just tell Kirishima.
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-誰が提出するかっ！
-いいからとにかく勝たせてくれ！
-そして俺に未来を取り戻させてくれ！
+Who wants to hand it in!
+I just want to win!
+And have my future returned to me!
 
 --------------------
 [0012]
 Kouta Tsuchiya
 **********
-…………俺も同じ。
-ムッツリ商会の未来がかかっている。
+Me too.
+Kouta Trading Co.'s future is at stake.
 
 --------------------
 [0013]
 Minami Shimada
 **********
-……未来ですって？
-まさか、盗撮用の監視カメラとかじゃ
-ないでしょうね？
+Future? What future?
+You aren't planning to get hidden cameras
+installed, are you?
 
 --------------------
 [0014]
 Kouta Tsuchiya
 **********
-…………答える必要はない。
-始めよう……！
+............I have no reason to answer.
+Start......!
 
 --------------------

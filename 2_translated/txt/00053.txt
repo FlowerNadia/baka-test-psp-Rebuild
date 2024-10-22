@@ -1,83 +1,85 @@
 [0000]
 Shouko Kirishima
 **********
-……これで２勝。
-あと少しで目的を達成できる。
+That makes two wins.
+It's not much further to the goal.
 
 --------------------
 [0001]
 Yuuko Kinoshita
 **********
-さすが代表ね……負けたわ。
+It's the class rep as expected......
+I've lost.
 
 --------------------
 [0002]
 Yuuko Kinoshita
 **********
-けど、悔しいっ！
-せっかく限定本が手に入ると思ったのに〜！
+This totally sucks!
+I could've gotten a limited ediiton copy!
 
 --------------------
 [0003]
 Hideyoshi Kinoshita
 **********
-姉上、落ち着くのじゃ。
-たかが本の一冊や二冊、またどこかで
-手に入るじゃろう？
+Sis, just calm down.
+It's a book, it's not a big deal.
+Why are you so focused on it?
 
 --------------------
 [0004]
 Yuuko Kinoshita
 **********
-たかが、ですって？
-普通の本じゃないのよ！
+Not a big deal?
+It's not just any book!
 
 --------------------
 [0005]
 Hideyoshi Kinoshita
 **********
-確かに、姉上が普段読んでおる本は
-普通ではな――ま、待つのじゃ姉上！
-その関節はそっちには曲がらなあああっ！
+True, the books you read aren't
+really considered normal-- Ah, wait!
+My joint doesn't bend that way!  Ahhh!
 
 --------------------
 [0006]
 Kouta Tsuchiya
 **********
-……霧島。
+...Kirishima.
 
 --------------------
 [0007]
 Shouko Kirishima
 **********
-……まだ何か？
+...What is it?
 
 --------------------
 [0008]
 Kouta Tsuchiya
 **********
-…………共闘関係を結びたい。
-報酬はさっきのグラビア本。
+...I want to form an alliance
+in exchange for the book.
 
 --------------------
 [0009]
 Shouko Kirishima
 **********
-……わかった。
-何か頼みたい時に連絡する。
+...I understand.
+I'll contact you when I need help.
 
 --------------------
 [0010]
 Kouta Tsuchiya
 **********
-……承知。
-連絡を待つ。
+......Noted.
+I'll wait.
+
 
 --------------------
 [0011]
 Shouko Kirishima
 **********
-……私も次の相手を見つけないと。
-雄二、あと少しだから。
+I have to keep winning.
+Yuuji, just a little longer...
 
 --------------------

@@ -1,58 +1,60 @@
 [0000]
 Minami Shimada
 **********
-やった！　ウチの勝ちっ！
+Woohoo! I won! I won!
 
 --------------------
 [0001]
 Shouko Kirishima
 **********
-……油断した。
-この結果は想定外。
+...I was careless...
+I never expected this ending.
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-勝負の世界は非情なもの。
-死して屍拾う者なしじゃな。
+This world is cruel to those who lose.
+The defeated are beyond redemption.
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-格好つけてる余裕があるなら、
-もっと頑張りなさいよ！
-アタシの本が！　限定本がああああっ！
+If you have time to spout off cool lines
+then you should be trying harder!
+My book! My limited edition! Ahhhhh!
 
 --------------------
 [0004]
 Hideyoshi Kinoshita
 **********
-お、落ち着け姉上！
-まだ手に入る機会はある！
-じゃから暴れんでくれっ！
+Ca..calm down, sis!
+You still have chance to get it!
+So please don't go berserk!
+
 
 --------------------
 [0005]
 Shouko Kirishima
 **********
-……また次勝てばいい。
-目的を果たすまで
-立ち止まるわけにはいかない。
+Win next time.
+You must not give up
+until you reach your goal.
 
 --------------------
 [0006]
 Yuuko Kinoshita
 **********
-そうね、代表。
-よし、アタシも次の勝負にかけるわ！
+Thank you, class rep.
+Alright! 
+I'll bet everything on my next battle!
 
 --------------------
 [0007]
 Minami Shimada
 **********
-皆すごい気迫……
-ウチも負けてはいられないわ。
+They sure are lively.
+I definitely can't lose.
 
 --------------------

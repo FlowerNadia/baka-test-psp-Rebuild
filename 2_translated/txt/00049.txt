@@ -1,246 +1,248 @@
 [0000]
 Yuuji Sakamoto
 **********
-いい加減に静かにしろ！
-ていうか亊子と木下と清水、
-おまえらは別のクラスだろーが！？
+Take it down a notch, will ya?
+And Shouko, Kinoshita, Shimizu,
+shouldn't you be in your own classes?
 
 --------------------
 [0001]
 Shouko Kirishima
 **********
-……愛があれば関係ない。
+I'll go wherever love takes me.
 
 --------------------
 [0002]
 Miharu Shimizu
 **********
-そのとおりです！
-お姉さまへの愛は宿命！
-誰にも邪魔することはできません！
+Exactly!
+My fate is to love Onee-Sama!
+No one can stop me!
 
 --------------------
 [0003]
 Yuuji Sakamoto
 **********
-あーそうかいそうかい。
-分かったから、とっとと帰りやがれ。
+Yeah, yeah, whatever.
+Just go back to your classrooms.
 
 --------------------
 [0004]
 Miharu Shimizu
 **********
-ひどいっ！　ひどすぎますっ！
-お姉さま、あの豚野郎に
-何とか言ってください！
+Hey! That's too much! Onee-sama!!!
+Tell this pig we're meant to be together!
 
 --------------------
 [0005]
 Minami Shimada
 **********
-言わないわよ。
-坂本の言う通り、とっとと帰って。
+I don't know what you're talking about.
+He's right, you need to leave.
 
 --------------------
 [0006]
 Miharu Shimizu
 **********
-分かりました。
-それでは失礼します。
+I understand.
+I'm going back.
 
 --------------------
 [0007]
 Minami Shimada
 **********
-――って、手を握るなっ！
-こら、離して！
-ていうか、さっさと出てってーっ！
+--Ah, don't grab my hand!
+Hey, let me go!
+Also, hurry up and go back!
 
 --------------------
 [0008]
 Miharu Shimizu
 **********
-痛ーいっ！　お姉さま、ひどいです！
-何で美春の愛を受け入れてくれないんですか！？
+Ouch~ That's too much, onee-sama!
+Why can't you accept Miharu's love!?
 
 --------------------
 [0009]
 Yuuko Kinoshita
 **********
-島田さんはもう教室の中よ。
-それにしても面白そうなことになったわね。
+Shimada has already returned to her
+classroom. I've a feeling that it'll 
+be interesting.
 
 --------------------
 [0010]
 Shouko Kirishima
 **********
-……これで予定を早められる。
-文月学園に愛の巣を。
+Let's hurry up and get this started.
+I will make the Fumizuki Academy
+Love Nest a reality.
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-代表、本当にやる気なの？
+Class rep, you really want to do this?
 
 --------------------
 [0012]
 Shouko Kirishima
 **********
-……やらない理由がない。
+...I have no reason to hold back.
 
 --------------------
 [0013]
 Yuuko Kinoshita
 **********
-そうなのね……
+I see...
 
 --------------------
 [0014]
 Shouko Kirishima
 **********
-……必ず勝つ。
-どんな手を使っても。
+I must win.
+By any means necessary.
 
 --------------------
 [0015]
 Kouta Tsuchiya
 **********
-…………ということを言っている。
+I was thinking the same thing.
 
 --------------------
 [0016]
 Yuuji Sakamoto
 **********
-……うう……うう……うううう……
+Uh... uh... uuuuhhhhh......
 
 --------------------
 [0017]
 Yoshii Akihisa Yoshii
 **********
-あれ？　雄二、どうしたの？
+What's wrong, Yuuji?
 
 --------------------
 [0018]
 Yuuji Sakamoto
 **********
-うあああああああああああああああっ！！
+Uaaaaagggghhhh!
 
 --------------------
 [0019]
 Yuuji Sakamoto
 **********
-マジだ……アイツ……！
-口にした目的は、確実に果たす女、
-それがShouko Kirishima……っ！
+It's serious......this is bad......!
+Shouku is a woman who will do anything to
+archive her goal.
 
 --------------------
 [0020]
 Yoshii Akihisa Yoshii
 **********
-霧島さんとの愛の巣かあ。
-羨ましいね。
+A love nest for the two of you?
+I'd say you're pretty lucky, actually.
 
 --------------------
 [0021]
 Yuuji Sakamoto
 **********
-明久、少しだけでいい。
-今まで俺が亊子に何をされてきたか……
-おまえが見てきたことを思い出してみてくれ。
+Just think back for a minute, Akihisa,
+try to remember.
+What does Shouko usually do to me?
 
 --------------------
 [0022]
 Yoshii Akihisa Yoshii
 **********
-……………………
+.........
 
 --------------------
 [0023]
 Yoshii Akihisa Yoshii
 **********
-…………ごめん。
+............I'm sorry.
 
 --------------------
 [0024]
 Yuuji Sakamoto
 **********
-分かってくれればいい。
+It's fine as long as you understand.
 
 --------------------
 [0025]
 Yoshii Akihisa Yoshii
 **********
-でも、それじゃあどうするのさ？
+So what should we do then?
 
 --------------------
 [0026]
 Yuuji Sakamoto
 **********
-明久、ムッツリーニ、秀吉、
-頼む！　おまえたちの力を貸してくれ！
+Akihisa, Muttsurini, Hideyoshi.
+Sorry for the trouble, I need your help!
 
 --------------------
 [0027]
 Yuuji Sakamoto
 **********
-無事にこの危機を逃れられたら、
-後でおまえたちが賞品を手に入れられるよう
-協力する！
+If you help me out of this,
+I'll help all of you to get your prizes.
 
 --------------------
 [0028]
 Kouta Tsuchiya
 **********
-…………ギブ＆テイク。
-承知した。
+...That sounds fair.
+Deal.
 
 --------------------
 [0029]
 Hideyoshi Kinoshita
 **********
-仕方あるまい。
-そういうことなら、わしも協力しよう。
+It can't be helped.
+Since it's already like this, 
+I'll also help.
 
 --------------------
 [0030]
 Yoshii Akihisa Yoshii
 **********
-じゃあ僕も。
-大船に乗ったつもりでいてよ。
+Me too.
+I'll take care of everything!
 
 --------------------
 [0031]
 Yuuji Sakamoto
 **********
-皆、恩に着る。
-ただ明久、大船というのは言い過ぎだな。
-せいぜい泥舟といったところだ。
+Thanks, guys. But Akihisa, you're 
+overestimating yourself.
+You're the biggest idiot in the school.
 
 --------------------
 [0032]
 Yoshii Akihisa Yoshii
 **********
-ちょっと雄二！
-本気で頼む気あるの！？
+Come on, Yuuji!
+Is this how you ask someone for help?
 
 --------------------
 [0033]
 Minami Shimada
 **********
-アキたち、何を盛り上がってるんだか。
+I wonder what Aki and guys are arguing
+about.
 
 --------------------
 [0034]
 Mizuki Himeji
 **********
-賞品が賞品ですから、無理もありませんよ。
+It's probably related to the prizes.
 
 --------------------
 [0035]
 Minami Shimada
 **********
-まあ、それもそうね。
-さてと、ウチも頑張らなきゃ。
+You think so?
+Then I'll have to do my best as well.
 
 --------------------

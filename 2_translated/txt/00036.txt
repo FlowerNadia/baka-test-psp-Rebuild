@@ -1,111 +1,116 @@
 [0000]
 Hideyoshi Kinoshita
 **********
-次の相手は誰かのう？
-先程のように厄介な相手は
-御免被りたいのじゃが……
+I wonder who my next opponents will be...
+I hope they're not as troublesome as
+last round...
 
 --------------------
 [0001]
 Yoshii Akihisa Yoshii
 **********
-あー、秀吉だ！　ちょうど良かった。
-次の相手は決まってる？
+Hey, it's Hideyoshi! Perfect timing!
+Have you decided on your next opponents?
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-いや、まだじゃが。
+No, not yet.
 
 --------------------
 [0003]
 Minami Shimada
 **********
-だったらウチたちとやらない？
-秀吉を入れたら４人になるの。
+In that case, why don't you battle us?
+With you, we'll have four people.
 
 --------------------
 [0004]
 Yuuji Sakamoto
 **********
-参加するのは全員Ｆクラスだ。
-見知った連中ばかりだから、気楽でいいだろ？
+Everyone here's from Class F, too.
+It's won't be as stressful playing with
+friends, wouldn't you say?
 
 --------------------
 [0005]
 Hideyoshi Kinoshita
 **********
-そうじゃのう。
-初戦は姉上と霧島、そして姫路でのう……
+Yeah.
+My first match was against Yuuko, Shouko,
+and Himeji...
 
 --------------------
 [0006]
 Yuuji Sakamoto
 **********
-そりゃキツかったな。
-まあ、負けても仕方ないだろ。
+Oh man, that's rough.
+Well, it's not your fault for losing 
+that one.
 
 --------------------
 [0007]
 Hideyoshi Kinoshita
 **********
-いや、それが何とか勝てたのじゃ。
-意外なことに全てが上手くいってのう。
+Well, I actually won that round.
+Even I was surprised.
 
 --------------------
 [0008]
 Minami Shimada
 **********
-ほんとに！？　すごいじゃない、木下！
+Are you for real!? 
+You're incredible Kinoshita!
 
 --------------------
 [0009]
 Yoshii Akihisa Yoshii
 **********
-……それって、やっぱり彼氏のために
-頑張ったってことだ。
-僕らというものがありながら……
+All this for your new boyfriend, huh?
+It's like you don't need us anymore,
+Hideyoshi.
 
 --------------------
 [0010]
 Hideyoshi Kinoshita
 **********
-ぬおっ！？
-明久からどす黒いオーラが漏れておる！？
+Huh?!
+Why are you giving off that dark aura?!
 
 --------------------
 [0011]
 Yoshii Akihisa Yoshii
 **********
-……気にしなくていいよ。
-とにかく、秀吉だけには絶対負けないからね。
+Don't worry about it. But, whatever.
+I'm not going to lose to you.
 
 --------------------
 [0012]
 Hideyoshi Kinoshita
 **********
-なにゆえ、わしに対してだけ
-敵対心を燃やすのじゃ？
-雄二、明久に何があったのじゃ？
+Why are you being so hostile
+towards me?
+Yuuji, what happened to Akihisa?
 
 --------------------
 [0013]
 Yuuji Sakamoto
 **********
-知らん。バカでもこじらせたんだろ。
-それよりそろそろ始めるぞ。
+Hell if I know. I think he just went full
+Idiot.
+Anyway,we should go ahead and get started
 
 --------------------
 [0014]
 Minami Shimada
 **********
-そうね。手加減無しだからね？
+Right. No holding back, right?
 
 --------------------
 [0015]
 Hideyoshi Kinoshita
 **********
-望むところじゃ！
+Right!
 
 --------------------

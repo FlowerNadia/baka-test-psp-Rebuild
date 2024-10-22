@@ -1,352 +1,364 @@
 [0000]
 Minami Shimada
 **********
-失礼します！
+Pardon the intrusion!
 
 --------------------
 [0001]
 Kaoru Toudou
 **********
-何だい、騒々しいねぇ。
-それに部屋に入るのは返事を待ってからにしな。
+What is it? You're so noisy.
+You need to make an appointment before
+entering.
 
 --------------------
 [0002]
 Minami Shimada
 **********
-すみません……
-えーと……今、だめですか？
+I'm sorry...
+Is it alright if I come in?
 
 --------------------
 [0003]
 Kaoru Toudou
 **********
-……ったく。何の用だい？
-どうせ賞品のことだろうけどね。
+Well? What is it?
+It should be related to the prize.
 
 --------------------
 [0004]
 Minami Shimada
 **********
-はい！　如月ハイランドの優待券を２枚、
-お願いしたいんですけど……
+Right! 
+Two VIP tickets to Kisaragi Grand Park,
+It's something I really want...
 
 --------------------
 [0005]
 Kaoru Toudou
 **********
-確かＦクラスのMinami Shimadaだったね。
-成績は……おや、意外に大したもんじゃないか。
-これならやってもいいね。
+You must be Shimada Minami from Class F.
+Results.....Oh, unexpectedly good.
+If so it's fine to give it to you.
 
 --------------------
 [0006]
 Minami Shimada
 **********
-Ｄａｎｋｅ　ｓｃｈｏｎ！
-いつ頃もらえますか？
+Danke schön!
+Ah, right. When will I get it?
 
 --------------------
 [0007]
 Kaoru Toudou
 **********
-そうさねぇ……もろもろの手続きを含めて、
-明日には渡せるかねえ？
+Right... Considering the prize itself,
+I'd say come back tomorrow?
 
 --------------------
 [0008]
 Minami Shimada
 **********
-……だ、だったら今週末の日曜日……
-アキとついに……ついにデートッ！！
+T-Then this Sunday I can...
+finally go out with Akihisa!
 
 --------------------
 [0009]
 Kaoru Toudou
 **********
-……ん？　何か言ったかい？
+Hm? Did you say something?
 
 --------------------
 [0010]
 Minami Shimada
 **********
-ななな何でもありませんっ！
-とにかく優待券をお願いします！
-２枚ですよ！？　約束しましたからね！？
+No, no, no, nothing at all!
+Just really want the VIP tickets!
+Two of them! You promise?
 
 --------------------
 [0011]
 Kaoru Toudou
 **********
-わかったよ。
-……ったく、学園長の言うことを
-信じられないのかねぇ。
+I know, I know.
+Is it really that hard to
+trust a principal?
 
 --------------------
 [0012]
 Minami Shimada
 **********
-だって学園長……ですし。
+Well, it's because you're... 
+The principal.
 
 --------------------
 [0013]
 Kaoru Toudou
 **********
-……あー、そうかい。
+......Ah, is that so.
 
 --------------------
 [0014]
-（ト書き）
+Narrator
 **********
-そして週末の日曜日……
+And on that Sunday...
 
 --------------------
 [0015]
 Minami Shimada
 **********
-……な、何これ？
+What is it?
 
 --------------------
 [0016]
 Yoshii Akihisa Yoshii
 **********
-休園日って書いてあるね……
+It... says it's closed today.
 
 --------------------
 [0017]
 Minami Shimada
 **********
-どうして！？　日曜日なのに！？
-日曜日に休む遊園地なんてありえないじゃない！
+Why?! Why would it be closed on Sunday?!
+There's no such thing as a park closed 
+on weekends!
 
 --------------------
 [0018]
 Yoshii Akihisa Yoshii
 **********
-いやでも、設備の不良のため、
-やむなく……ってあるし……仕方ないよ。
+Due to technical difficulties,
+We had to...something something...
+it can't be helped.
 
 --------------------
 [0019]
 Minami Shimada
 **********
-はあ……せっかくのデートだったのに……
+Man... I was really looking forward to 
+this date...
 
 --------------------
 [0020]
 Yoshii Akihisa Yoshii
 **********
-え？　今、デートって言った？
+Wait, did you say date?
 
 --------------------
 [0021]
 Yoshii Akihisa Yoshii
 **********
-んブハッ！？
+Huh?!
 
 --------------------
 [0022]
 Minami Shimada
 **********
-違うっ！
-そんなこと、ひとことも言ってないわよ！
-今のはデ、デ、デ――
+No!
+I did not say such things!
+I said da, da, da--
 
 --------------------
 [0023]
 Yoshii Akihisa Yoshii
 **********
-デブ？　もしかして美波、太ったとか？
+Fat? It can't be that, 
+you said that you've got fat?
 
 --------------------
 [0024]
 Minami Shimada
 **********
-実はまた……０．５ｃｍほどウエストが……
+To be frank, my waist......
+has increased by 0.5cm......
 
 --------------------
 [0025]
 Minami Shimada
 **********
-……って、違う！　デブなんて言ってないわよ！
-少しだけ太ったかもしれないけど、
-デブなんかじゃないんだから！
+...No, no! I didn't mention fat at all!
+Although I may have gain a little weight,
+I'm not fat!
 
 --------------------
 [0026]
 Yoshii Akihisa Yoshii
 **********
-じゃあ、何て言ったのさ？
+Then what did you say?
 
 --------------------
 [0027]
 Minami Shimada
 **********
-そ、それは……それはぁ…………
+That... That uh...
 
 --------------------
 [0028]
 Miharu Shimizu
 **********
-そこまでですっ！
+It's over!
 
 --------------------
 [0029]
 Minami Shimada
 **********
-美春っ！？　どうしてここに！？
+Miharu?! Why are you here?!
 
 --------------------
 [0030]
 Yoshii Akihisa Yoshii
 **********
-それにムッツリーニも！？
+And Muttsurini as well!?
 
 --------------------
 [0031]
 Kouta Tsuchiya
 **********
-…………ＦＦＦ団として当然。
-それに…………商品としても魅力。
+............Naturally, as a member of the
+FFF Inquisition. 
+...There's opportunity for new products
 
 --------------------
 [0032]
 Yoshii Akihisa Yoshii
 **********
-商品？　もしかして美波のこと？
+new product? 
+Are you talking about Minami?
 
 --------------------
 [0033]
 Yoshii Akihisa Yoshii
 **********
-まるで水平線みたいになだらかな胸なのに、
-写真としての商品価値があるのか聞いている間に
-僕の足が極められてええええ！
+How's there product value in pictures
+of a girl with a chest as flat as 
+my leg being viciously twiiiiiiiiiiisted!
 
 --------------------
 [0034]
 Kouta Tsuchiya
 **********
-……シャッターチャンスッ！
+Photo opportunity!
 
 --------------------
 [0035]
 Minami Shimada
 **********
-水平線みたいになだらかで悪かったわね！
+What's that about me being flat?!
 
 --------------------
 [0036]
 Miharu Shimizu
 **********
-まったくです！
-何て失礼なことを言うんですか、この豚野郎！
+Yeah! How dare you insult
+my Onee-Sama's lovely figure?!
 
 --------------------
 [0037]
 Yoshii Akihisa Yoshii
 **********
-清水さんまで僕の腕をおおおおおお……！
-ふ、２人とも待って！　誤解だ！
-僕はそれが悪いことだなんて一言も……
+Shimizu too... My wriiiiiiiiiiiist!
+Wait, you two! Stop! You've got it wrong!
+I didn't say anything like that...
 
 --------------------
 [0038]
 Miharu Shimizu
 **********
-問答無用です！
+It's useless!
 
 --------------------
 [0039]
 Yoshii Akihisa Yoshii
 **********
-いたたたたたたたたっ！
-て、手が折れる！　ついでに足も折れるっ！
+Ouuuuuch!
+My hand! My hand is going to break! 
+My leg, too!
 
 --------------------
 [0040]
 Miharu Shimizu
 **********
-お姉さまの写真なら、美春が全部買います！
-鑑賞用と消費用と保存用です！
+I'll buy all the photos of my Onee-Sama, 
+don't you worry!
+I'll make sure appreciate and enjoy them!
 
 --------------------
 [0041]
 Yoshii Akihisa Yoshii
 **********
-か、鑑賞用と消費用って、同じじゃないの？
+A-Aren't those the same things?
 
 --------------------
 [0042]
 Miharu Shimizu
 **********
-全然違います！
-観賞用は見て楽しむ用。
-消費用は見て、頬擦りをして、それから――
+They're totally different!
+appreciation just looking at the pictures
+When I enjoy, I'll put it to my face ri--
 
 --------------------
 [0043]
 Minami Shimada
 **********
-それ以上しなくていい！
-ていうか、写真も撮らなくていいから！
+There's nothing after that!
+Also, I don't allow you to take any photos!
 
 --------------------
 [0044]
 Yoshii Akihisa Yoshii
 **********
-み、美波、落ち着いて！
-話してる相手と足を極めてる相手が全然違うよ！
-それは僕の足だってばっ！
+M-Minami, please calm down!
+You're not stepping on Muttsurini here!
+I've already said that's my leg!
 
 --------------------
 [0045]
 Miharu Shimizu
 **********
-そういうわけにはいきません！
-美春はお姉さまの写真が欲しいのです！
-鑑賞用と消費用と保存用です！
+I can't allow that!
+Miharu wants more Onee-Sama's photos!
+For appreciation, enjoyment and storage!
 
 --------------------
 [0046]
 Yoshii Akihisa Yoshii
 **********
-清水さん！　待って、ちょっと待って！
-それはムッツリーニに言えばいいよ！
-だから、僕の手は放して――
+Shimizu! Wa, wait!
+You should be saying that to Muttsurini!
+That's why, let go of my hand--
 
 --------------------
 [0047]
 Minami Shimada
 **********
-もう、どうしてこうなっちゃうのよ……
-せっかくのデートだったのに……！
+Man, how did it turn out like this...
+I finally get a date and...!
 
 --------------------
 [0048]
 Yoshii Akihisa Yoshii
 **********
-デ、デート？
-美波、やっぱりデートって言った？
+D-Date?
+You just said date, right?
 
 --------------------
 [0049]
 Minami Shimada
 **********
-ち、ち、違うっ！
-そんなこと、言ってないわよ！
+No, no, no, no, no! You're wrong!
+I said no such thing!
 
 --------------------
 [0050]
 Miharu Shimizu
 **********
-そうです！
-そんなことはさせません！
+Yeah! I'd never allow her to
+date a pig like you!
 
 --------------------
 [0051]
 Yoshii Akihisa Yoshii
 **********
-あああああああああっ！
+Ahhhhhhhhhh!
 
 --------------------

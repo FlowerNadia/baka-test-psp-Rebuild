@@ -1,696 +1,711 @@
 [0000]
 Yoshii Akihisa Yoshii
 **********
-ふう…………やっと放課後だ。
-あと少しで終わる…………
-それにしても……うう……体中が痛いよ……
+Ugh...School is almost done for today.
+Just a little more before it ends......
+Other than that...uhh...my body hurts...
 
 --------------------
 [0001]
 Mizuki Himeji
 **********
-賞品で貰った指輪の負荷なんですよね？
-明久くん、大丈夫ですか？
+Is it the side effect of the ring you got
+as prize?
+Akihisa-kun, are you fine?
 
 --------------------
 [0002]
 Yoshii Akihisa Yoshii
 **********
-あんまり……何もしてないのにズキズキして……
-何だか意識が遠のいてきたよ……
+Not really......I don't remember doing
+anything yet my whole body hurts......
+My consciousness feels blurred......
 
 --------------------
 [0003]
 Yoshii Akihisa Yoshii
 **********
-いつもなら、放課後にはお腹も空いてくるのに
-何だか食欲も湧いてこないよ……
+If it's as usual, I should feel hungry 
+after school, but I don't have any 
+appetite at all......
 
 --------------------
 [0004]
 Mizuki Himeji
 **********
-それはいけません！
-新しいお料理道具で、さっそく何か
-作りましょうか。
+That can't do!
+I'll have to use the new cooking utensils
+And make something for you.
 
 --------------------
 [0005]
 Yoshii Akihisa Yoshii
 **********
-い、いや、いいよ！
-そんなことをしたら命の危険が――じゃなくて、
-姫路さんに迷惑がかかるから！
+No, no need!
+My life is at risk if so--No.
+It'd trouble Himeji-san!
 
 --------------------
 [0006]
 Mizuki Himeji
 **********
-そんなことありません！
-も、もし明久くんさえよければ、
-あのっ、そのっ……食べさせてあげますし……
+That's not true!
+If, if Akihisa allows, 
+That, this......I'll feed you......
 
 --------------------
 [0007]
 Yoshii Akihisa Yoshii
 **********
-ええええっ！？　それは嬉しいっ！
+Ehhhhh!? That makes me glad!
 
 --------------------
 [0008]
 Yoshii Akihisa Yoshii
 **********
-（けど、そうなったら僕の命が……危ない！
-　でも、食べさせてもらいたい！
-　いったいどうすればいいんだ……）
+(But, my life will be......at risk!
+But, I do want her to feed me!
+What should I do......)
 
 --------------------
 [0009]
 Shouko Kirishima
 **********
-……雄二、私も食べさせてあげる。
+......Yuuji, I'll feed you as well.
 
 --------------------
 [0010]
 Yuuji Sakamoto
 **********
-いらん。腹いっぱいだ。
+I don't want, I'am full.
 
 --------------------
 [0011]
 Shouko Kirishima
 **********
-……嘘。
-絶対に空いているはず。
+......Liar.
+There must be space left for sure.
 
 --------------------
 [0012]
 Yuuji Sakamoto
 **********
-聞こえなかったのか？
-腹いっぱいだと――
+Didn't you hear me say I'm full?
+I can't eat another--
 
 --------------------
 [0013]
 Yuuji Sakamoto
 **********
-ンごほっ！？　胃を鷲掴みに……！？
+Huh!? Grabbing my stomach......!?
 
 --------------------
 [0014]
 Shouko Kirishima
 **********
-……吐いて。
-余計なものを全部。
-そうしたら私が食べさせてあげる。
+......Vomit.
+All the extra stuffs.
+Then I can feed you.
 
 --------------------
 [0015]
 Yuuji Sakamoto
 **********
-グォ……誰が吐くか……！
-今吐いたら、さっき食った婚姻届まで
-戻しちまう。
+Ugh......Who'll vomit......!
+If I vomit, I'd also vomit the marriage
+application that I ate just now.
 
 --------------------
 [0016]
 Shouko Kirishima
 **********
-……それは、一石二鳥。
+......I see that it'll kill two birds
+with one stone.
 
 --------------------
 [0017]
 Yuuji Sakamoto
 **********
-ぐおおおおおっ！？
-だが、絶対に吐くか！
-婚姻届を戻したら、今日の苦労が水の泡だ！
+Ughhh!? But, I definitely can't do that!
+If I vomit now, all my efforts to destroy
+it will be wasted!
 
 --------------------
 [0018]
 Hideyoshi Kinoshita
 **********
-雄二、無理はいかんぞ。
-助けてやりたいが、うう……
-姉上に折乖されて両手両足が痛うてのう……
+Being reluctant won't work. 
+I want to help, but after having my
+joints locked, my legs and arms hurt badly
 
 --------------------
 [0019]
 Yuuko Kinoshita
 **********
-自業自得よ。
-……それにしても、うふふ、
-ちゃんと手に入って良かったわ。
+Serves you right.
+......Even though, ufufu,
+It's good that I've hurt your arms.
 
 --------------------
 [0020]
 Hideyoshi Kinoshita
 **********
-賞品で貰った本のことじゃな。
-確かタイトルは――
+That book that was given as prize.
+The title is--
 
 --------------------
 [0021]
 Yuuko Kinoshita
 **********
-秀吉、言ったら両手両足じゃ済まないわよ？
+Hideyoshi, if you keep talking you'll 
+wish you could feel your arms hurt.
 
 --------------------
 [0022]
 Hideyoshi Kinoshita
 **********
-そ、それは困るのじゃ！
-うう……今日は踏んだり蹴ったりじゃ……
+Tha, that's troublesome!
+Uhh......today I'm just a punching bag,
+aren't I......
 
 --------------------
 [0023]
 Minami Shimada
 **********
-ほんとよね……
-如月ハイランドの優待券は貰ったけど、
-コイツが……ちょっと！　離れなさいよ！
+That's true......
+Even though I got the VIP tickets,
+This person......Wait! Go away!
 
 --------------------
 [0024]
 Miharu Shimizu
 **********
-嫌です！
-美春とお姉さまは愛し合っているんですよ？
-一緒にいないとだめなんです！
+Don't Miharu and Onee-Sama love each
+other?
+We can't be separated!
 
 --------------------
 [0025]
 Minami Shimada
 **********
-ウチが一緒にいたいのは、
-あんたじゃないもん！
+The person I want to be with...
+Isn't you!
 
 --------------------
 [0026]
 Miharu Shimizu
 **********
-もう……みんなの前だから照れちゃって。
-でも、お姉さまのそういうところ、
-美春は大好きです！
+Well......I see you're shy being in front
+of everyone and so. But, this personality
+Is what Miharu likes the most!
 
 --------------------
 [0027]
 Minami Shimada
 **********
-あーっ、もう！　なんでそうなるのよ！？
-何とかして美春に離れてもらわないと……
+Ah, darn! How did it turn out this way!?
+I'd have to find a way to make Miharu 
+leave.
 
 --------------------
 [0028]
 Minami Shimada
 **********
-そうだ！　ねえみんな、もう少し対戦しない？
-ウチ、賞品のかわりに美春を接近禁止に
-してもらうわ！
+Right! Everyone, can we battle once more?
+What I want as prize is a restraining
+order on Miharu!
 
 --------------------
 [0029]
 Yoshii Akihisa Yoshii
 **********
-それ賛成！　僕も別の賞品が欲しい。
-次は、負荷のないちゃんとした指輪がいいよ。
+Agreed! I want some other prize as well,
+I want the ring with no defects next.
 
 --------------------
 [0030]
 Shouko Kirishima
 **********
-……私も。
-私と雄二専用の自習室が欲しい。
+......Me too.
+I want a study room just for Yuuji and I.
 
 --------------------
 [0031]
 Yuuji Sakamoto
 **********
-反対だ！　絶対に阻止してやる！
+I reject! I will stop you for sure!
 
 --------------------
 [0032]
 Miharu Shimizu
 **********
-美春もです！
-お姉さま、意地を張らないでください！
-美春は悲しいです！
+Miharu as well!
+Onee-Sama, please don't be so headstrong!
+Miharu will be sad!
 
 --------------------
 [0033]
 Hideyoshi Kinoshita
 **********
-わしは……どうするかのう？
+What......should I do?
 
 --------------------
 [0034]
 Yuuko Kinoshita
 **********
-参加に決まってるでしょ？
-賞品はアタシが決めてあげるわ。
+Why not join in as well?
+This time I'll decide the prize for you.
 
 --------------------
 [0035]
 Hideyoshi Kinoshita
 **********
-どういうことじゃ？
-まさか姉上――
+What do you mean?
+Sis actually want--
 
 --------------------
 [0036]
 Yuuko Kinoshita
 **********
-……欲しい本があと２冊あるの。
-秀吉、協力して。じゃないと――
+......I still have 2 more books I want.
+Hideyoshi, help me. Or else--
 
 --------------------
 [0037]
 Hideyoshi Kinoshita
 **********
-わ、わかった！
-わかったから腕を掴まんでくれ！
+I, I understand!
+I understand so please let go of my 
+wrist!
 
 --------------------
 [0038]
 Kouta Tsuchiya
 **********
-…………俺も参加する。
-次こそはちゃんとした賞品を頂く。
+............I'll join as well.
+I want a good prize too.
 
 --------------------
 [0039]
 Mizuki Himeji
 **********
-あれ？　みんな参加するんですか？
-……人数が多すぎますよね？
+Huh? Is everyone joining?
+......Isn't there too many of us?
 
 --------------------
 [0040]
 Minami Shimada
 **********
-じゃあ、何回かに分けようか？
+If there is, we can go in turns!
 
 --------------------
 [0041]
 Yuuko Kinoshita
 **********
-だめよ。時間がないわ。
-たぶん対戦できるのは１回が限度ね。
+We can't. There's not enough time.
+We can only do 1 battle at most.
 
 --------------------
 [0042]
 Yuuji Sakamoto
 **********
-なら、中止だ中止。
-このまま終わろうぜ。
+Then, just stop here.
+Just let it end this way.
 
 --------------------
 [0043]
 Shouko Kirishima
 **********
-……だめ。
-絶対に対戦する。そして勝つ。
+......No.
+I definitely must have a battle. 
+And then win.
 
 --------------------
 [0044]
 Yuuko Kinoshita
 **********
-言っとくけど、アタシも参加するわよ。
-絶対に譲るつもりはないから。
+I'll say it beforehand, I must join.
+And I won't be holding back.
 
 --------------------
 [0045]
 Minami Shimada
 **********
-ウチだって。
+Me too.
 
 --------------------
 [0046]
 Kouta Tsuchiya
 **********
-…………俺も。
-ムッツリ商会の未来のため。
+..........Me too.
+For the future of my company.
 
 --------------------
 [0047]
 Yuuji Sakamoto
 **********
-そうなったら俺もだ！
-亊子を勝たせてたまるか！
+If so then count me in!
+How can I let Shouko win!
 
 --------------------
 [0048]
 Miharu Shimizu
 **********
-美春もです！
-お姉さまに近づくことが出来ないなんて……
-そんなの許しません！
+Miharu too! Not allowing me to get close
+to Onee-Sama...
+I definitely won't allow it!
 
 --------------------
 [0049]
 Mizuki Himeji
 **********
-やっぱり定員オーバーですね。
-……どうしましょう？
+There's too many of us.
+......What should we do?
 
 --------------------
 [0050]
 Minami Shimada
 **********
-それに、賞品をもらうには
-３回連続で勝たないとダメなんだよね。
-そんなに対戦できる時間もないし……
+Also, in order to get the prize
+We need to win 3 times in a row.
+We don't have enough time to do that......
 
 --------------------
 [0051]
 Yoshii Akihisa Yoshii
 **********
-だったらさ、もういっそのこと全員でやらない？
-全員参加で１回だけ対戦するんだ。
+Even so, why not just have everyone play?
+Everyone just join this 1 battle.
 
 --------------------
 [0052]
 Hideyoshi Kinoshita
 **********
-何じゃと？
+What do you mean?
 
 --------------------
 [0053]
 Yoshii Akihisa Yoshii
 **********
-回数は１回だけど、参加者が多いぶん勝つのは
-難しいよね。だからそれで賞品がもらえるように
-学園長と交渉すればいいんじゃないかな。
+An All-Out battle with everyone, thus
+Making it harder than 3 normal battles.
+We can negotiate that with the principal.
 
 --------------------
 [0054]
 Yuuji Sakamoto
 **********
-だが、そもそも全員参加で対戦ができるのか？
+But, are you sure it'll work?
 
 --------------------
 [0055]
 Yoshii Akihisa Yoshii
 **********
-それは分からないけど……でも、
-４人でできるんだから、
-たぶん大丈夫なんじゃない？
+I'm not sure......But,
+If it works for 4 people, 
+Won't it be fine if it's just a few more?
 
 --------------------
 [0056]
 Yuuko Kinoshita
 **********
-根拠は無いけど、そうするしかなさそうね。
-じゃあ、この勝負に勝った者が賞品を受け取る。
-それでいい？
+I don't trust your logic, but we don't 
+have any other options. So, the winner of
+this battle gets the prize. Is that fine?
 
 --------------------
 [0057]
 Shouko Kirishima
 **********
-……異論はない。
+......I have no objection.
 
 --------------------
 [0058]
 Minami Shimada
 **********
-ええ、それで恨みっこなし！
+Yeah, no hard feelings if you lose!
 
 --------------------
 [0059]
 Kouta Tsuchiya
 **********
-……承知した。
+......Understood.
 
 --------------------
 [0060]
 Yoshii Akihisa Yoshii
 **********
-よし、それじゃあ始めるよ！
+Great, then let's begin!
 
 --------------------
 [0061]
 Minami Shimada
 **********
-何これ！？　どうなってるの！？
+What is this!? What is happening!?
 
 --------------------
 [0062]
 Yuuji Sakamoto
 **********
-システムエラーのようだな。
-やはり、規定人数を超える対戦は
-無理だということか。
+Looks like a system error. 
+In conclusion,it's not possible to have
+more than 4 people to battle.
 
 --------------------
 [0063]
 Shouko Kirishima
 **********
-……雄二、見て。
-私たちの召喚獣が勝手に……
+......Yuuji, look.
+My avatar summoned itself......
 
 --------------------
 [0064]
 Miharu Shimizu
 **********
-そんな！　美春、召喚していません！
+How can it be! Miharu didn't summon!
 
 --------------------
 [0065]
 Yuuko Kinoshita
 **********
-私のも……いったいどういうことなの？
+Me too......what in the world happened?
 
 --------------------
 [0066]
 Yoshii Akihisa Yoshii
 **********
-見て！　召喚獣が暴れ始めた！
-校舎の中を荒らしてるよ！
+Look! The avatars are starting to fool 
+around! They're rampaging around the
+school grounds!
 
 --------------------
 [0067]
 Kouta Tsuchiya
 **********
-……おかしい。
-召喚獣に物理干渉能力はないはず。
+......That's really weird.
+Avatars shouldn't have an physical
+capabilities.
 
 --------------------
 [0068]
 Hideyoshi Kinoshita
 **********
-だめじゃ……召喚獣をコントロールできん！
+I can't......I can't control my avatar!
 
 --------------------
 [0069]
 Mizuki Himeji
 **********
-きゃああああっ！？
-召喚獣がこっちに……だめっ！
-スカートを引っ張らないでくださぁい！
+Kyaaaaa!?
+The avatar got here......Stop!
+Please don't pull my skirt!
 
 --------------------
 [0070]
 Minami Shimada
 **********
-瑞希、今助けてあげる！
-……って、だめ！　召喚獣に触れない！
+Mizuki, I'll come help you now!
+......Eh, I can't! I can't touch the
+avatar!
 
 --------------------
 [0071]
 Yuuji Sakamoto
 **********
-こっちからの干渉は不可能なのか。
-どういう理屈だ？
+We can't seem to intervene.
+What kind of mechanism is this?
 
 --------------------
 [0072]
 Yuuko Kinoshita
 **********
-のんきに構えないで！
-召喚獣が足を登ってきて――あああっ！
-スカートの中にっ！！
+Please don't be so calm!
+The avatar got on my leh--Ahhh!
+It got into my skirt!!
 
 --------------------
 [0073]
 Kouta Tsuchiya
 **********
-……これは、シャッターチャンス！
+.......This, is a good photo opportunity!
 
 --------------------
 [0074]
 Hideyoshi Kinoshita
 **********
-ムッツリーニ！
-今はそんなことしてる場合ではなかろう！
+Muttsurini!
+This is not the time for such things!
 
 --------------------
 [0075]
 Minami Shimada
 **********
-これは、ちょっとまずいわね……
+This is really bad......
 
 --------------------
 [0076]
 Yoshii Akihisa Yoshii
 **********
-雄二、どうしよう！？
-もう少し見ていたいような気もするけど、
-でも早く何とかしないと！
+Yuuji, what should we do!?
+Although I want to look for awhile more,
+But we need to think of something fast!
 
 --------------------
 [0077]
 Yuuji Sakamoto
 **********
-……そうだ！　明久、おまえの召喚獣はどうだ？
-コントロールできないか？
+...Right! Akihisa, where's your avatar?
+Can you control it?
 
 --------------------
 [0078]
 Yoshii Akihisa Yoshii
 **********
-え？　あれ……大丈夫みたい。
-ちゃんと僕の思う通りに動くよ。
+Eh? Huh......it looks fine.
+It can move how I want it to.
 
 --------------------
 [0079]
 Yuuji Sakamoto
 **********
-そうか、おまえの召喚獣は、
-観察処分者だから皆と違うのかもしれない。
+I see, your avatar belongs to a
+probationary student, That's why 
+it's different from everyone's.
 
 --------------------
 [0080]
 Hideyoshi Kinoshita
 **********
-つまり、頼みの綱は
-明久の召喚獣だけということじゃな。
+Which also means, we can only rely on
+Akihisa's avatar.
 
 --------------------
 [0081]
 Kaoru Toudou
 **********
-だったら早く何とかしな。
+Then hurry up and take action.
 
 --------------------
 [0082]
 Yoshii Akihisa Yoshii
 **********
-学園長！？
+Principal!?
 
 --------------------
 [0083]
 Kaoru Toudou
 **********
-自分の不始末は、自分でけりをつける。
-それが筋だよ。違うかい？
+You create the problem, you fix it.
+This is the way. Is it not?
 
 --------------------
 [0084]
 Yoshii Akihisa Yoshii
 **********
-自分の不始末って言われても、
-これは僕だけのせいじゃないし……
+Even though it's my mistake,
+This isn't my responsibility......
 
 --------------------
 [0085]
 Yuuji Sakamoto
 **********
-全員参加の発案者は、
-間違いなく明久だったよな。
+The one who proposed for everyone to
+participate, is no doubt Akihisa.
 
 --------------------
 [0086]
 Yoshii Akihisa Yoshii
 **********
-そんな！　皆だって同意したじゃないか！
-それに皆の召喚獣と僕の召喚獣じゃ、
-力が違いすぎるよ！
+How is it so! Didn't everyone agree to it?
+Also to rely on my avatar,
+The difference in strength is too much!
 
 --------------------
 [0087]
 Kaoru Toudou
 **********
-まともに動ける召喚獣は
-アンタのだけなんだから、アンタがどうにか
-するしかないんだよ。
+The only person who can control his avatar
+is you, that's why we all can only
+rely on you.
 
 --------------------
 [0088]
 Kaoru Toudou
 **********
-その代わり、
-上手く事態を収められたら、
-賞品代わりに好きな物をやるよ。
+But,
+If you solve this nicely,
+I'll give you something you like.
 
 --------------------
 [0089]
 Yoshii Akihisa Yoshii
 **********
-本当に！？
-よし……じゃあ僕がやってみるよ！
-皆、フォローを頼む！
+Really!? If you say so......
+Everyone, If you're here believing in me,
+I think I can do it
 
 --------------------
 [0090]
 Yuuji Sakamoto
 **********
-……必要ない。
-いいか明久、俺たちが逃げる間、
-おまえが个をやるんだ。そしてその間に――
+......Nevermind.
+Listen, Akihisa, while we escape,
+You be the bait. And at that moment--
 
 --------------------
 [0091]
 Yoshii Akihisa Yoshii
 **********
-その間に？
+At this moment?
 
 --------------------
 [0092]
 Yuuji Sakamoto
 **********
-おまえの召喚獣を使って、相手を倒せばいい。
-どうだ、一石二鳥だろ？
+Use your avatar and take down the 
+opponent. How is it, isn't it killing
+two birds with one stone?
 
 --------------------
 [0093]
 Yoshii Akihisa Yoshii
 **********
-雄二、それは一石二鳥じゃなくて、
-一人二役って言うんじゃなかったっけ……
+Yuuji, this isn't killing two birds with
+one stone, It's me doing two different
+things simultaneously......
 
 --------------------
 [0094]
 Yuuji Sakamoto
 **********
-驚いたぜ。おまえがそんな言葉の使い分けを
-知ってるとはな。
-まあそういうわけで、後は頼んだ。
+I'm surprised you thought that far ahead.
+What can I say?
+It's all you, man.
 
 --------------------
 [0095]
 Kouta Tsuchiya
 **********
-……全員、速やかに退避。
+......Everyone, flee as fast as possible.
 
 --------------------
 [0096]
 Yoshii Akihisa Yoshii
 **********
-えっ！？　ちょっと、皆！？
+Eh!? Wait, everyone!?
 
 --------------------
 [0097]
 Yoshii Akihisa Yoshii
 **********
-ちょっと待って！　行かないで！
-さすがに僕一人じゃ無理だよ！
+Just wait! Don't go!
+It's too much to rely on me alone!
 
 --------------------
 [0098]
 Yoshii Akihisa Yoshii
 **********
-お願いだから戻ってきて！
-じゃないとあああああああああああっ！！
+I'm begging all of you to come back!
+If not ahhhhhhhhhhhhhh!!
 
 --------------------

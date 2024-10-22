@@ -1,184 +1,186 @@
 [0000]
 Hideyoshi Kinoshita
 **********
-次勝てば、晴れて賞品を
-手に入れることができるのじゃな。
-気を引き締めていかねばのう。
+I'll just need one more win,
+Then I'll get the prize.
+I must be focused and go all out.
 
 --------------------
 [0001]
 Miharu Shimizu
 **********
-ラッキー続きもここまでです。
-この勝負、美春が頂きます！
+Your luck is about to run out.
+Miharu is not going down so easily.
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-清水、お主が次の相手じゃな……？
+Shimizu, are you my opponent......?
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-アタシもいるわ。
-秀吉、何をしても無駄よ。
+I'll also be your opponent.
+Hideyoshi, you can't win.
 
 --------------------
 [0004]
 Hideyoshi Kinoshita
 **********
-なんとっ！　また姉上か！？
+Outrageous! sis again!?
 
 --------------------
 [0005]
 Kouta Tsuchiya
 **********
-…………俺もいる。
-秀吉、見損なった……
+......And me.
+Hideyoshi, I was wrong about you......
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-何のことじゃ？
-先程の明久といい、ムッツリーニといい、
-いったいわしが何をしたというんじゃ？
+What are you talking about?
+First Akihisa, now Kouta is acting weird.
+What did I do wrong?
 
 --------------------
 [0007]
 Kouta Tsuchiya
 **********
-…………自分の胸に手を当てて
-聞いてみるといい。
+......Why don't you put boths hands on
+your chest and try to feel.
 
 --------------------
 [0008]
 Hideyoshi Kinoshita
 **********
-わしの胸……？
-……そうか、姉上の仕業じゃな！
+My chest......?
+......I see, sis is pulling some sort of
+trick!
 
 --------------------
 [0009]
 Yuuko Kinoshita
 **********
-そのとおりよ。
-姉より優秀な部分があるなんて、
-そんなの認めるわけにはいかないわ！
+Figured it out? Not bad, You think I'd
+allow you to be more elegant than me?
+I won't allow it.
 
 --------------------
 [0010]
 Hideyoshi Kinoshita
 **********
-それは誤解じゃ！
-わしの胸は成長しておらん！
-姉上より小さいままじゃ！
+This is a misunderstanding!
+I don't have breasts!
+They'll always be smaller than yours!
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-……は？　何それ？
+......Huh? What are you talking about?
 
 --------------------
 [0012]
 Hideyoshi Kinoshita
 **********
-じゃから、胸の話ではないのか？
-自分の胸がないのをひがんで、
-わしに八つ当たりをしておるのじゃろう。
+Weren't you talking about breasts?
+It's your own problem for having small
+ones, Taking it out on me isn't fair.
 
 --------------------
 [0013]
 Yuuko Kinoshita
 **********
-……秀吉、ちょっとこっちに来て。
+......Hideyoshi, come here for a sec.
 
 --------------------
 [0014]
 Hideyoshi Kinoshita
 **********
-ま、待った！
-これに勝てば賞品が貰えるのじゃ。
-……この戦いだけは、絶対に負けられん！
+Wa, wait!
+Just one more win and I'll get the prize.
+......I'm not gonna lose this battle!
 
 --------------------
 [0015]
 Yuuko Kinoshita
 **********
-あんたが賞品を貰うことは永遠にないわ。
-……弟の分際で姉より先に彼氏を作るなんて、
-言語道断だわっ！
+Don't even think about winning....
+To think, having a boyfriend before me, 
+and as a boy too,It's outrageous!
 
 --------------------
 [0016]
 Kouta Tsuchiya
 **********
-…………秀吉は共有財産。
-ＦＦＦ団の一員として見過ごせない。
+.........Hideyoshi belongs to everyone.
+Our mighty FFF Inquisition won't rest.
 
 --------------------
 [0017]
 Hideyoshi Kinoshita
 **********
-さっきから何の話じゃ！？
-わしに彼氏じゃと！？
-誰からそんな話を聞いたのじゃ！？
+What are you all talking about!?
+I don't have a boyfriend!
+Where do you hear that!?
 
 --------------------
 [0018]
 Yuuko Kinoshita
 **********
-あんたからよ！
+You said it yourself!
 
 --------------------
 [0019]
 Hideyoshi Kinoshita
 **********
-そんな事は言っておらん！
+I didn't say anything like that!
 
 --------------------
 [0020]
 Miharu Shimizu
 **********
-胸の話も、彼氏の話も、
-正直どうだっていいです。
+having breats or a boyfriend,
+It doesn't matter.
 
 --------------------
 [0021]
 Hideyoshi Kinoshita
 **********
-良くないのじゃ！
-わしの人権に関わる問題じゃ！
+It does!
+It's a big issue related to my rights!
 
 --------------------
 [0022]
 Yuuko Kinoshita
 **********
-アタシのプライドにも関わるわよ！
+And my pride as well!
 
 --------------------
 [0023]
 Miharu Shimizu
 **********
-とにかく、いつまで不毛な言い争いを
-続けるつもりですか？
+What meaningless bickering
+How long are you guys going to argue for?
 
 --------------------
 [0024]
 Miharu Shimizu
 **********
-さっさと勝負して、
-決着をつければ良いと思いますけど。
-美春は急いでるんです。
+Hurry up and fight,
+The sooner we start, the sooner it's over.
+Miharu has urgent matters to attend.
 
 --------------------
 [0025]
 Hideyoshi Kinoshita
 **********
-それもそうじゃな。
-ええい、真偽を確かめるのは後じゃ！
+True.
+I'll find out the truth when we're
+finished!
 
 --------------------

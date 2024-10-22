@@ -1,108 +1,109 @@
 [0000]
 Yuuko Kinoshita
 **********
-さて、次の相手は……
+Then, the next opponent......
 
 --------------------
 [0001]
 Yuuji Sakamoto
 **********
-俺たちだ！
+That would be us!
 
 --------------------
 [0002]
 Hideyoshi Kinoshita
 **********
-姉上、ムッツリーニから聞いたぞ。
-何でも大層な暴言を吐いたそうじゃな。
+Sis, I heard it from Muttsurini.
+you've said something you shouldn't.
 
 --------------------
 [0003]
 Yuuko Kinoshita
 **********
-暴言？　何か言ったかしら？
+Rude? Like what?
 
 --------------------
 [0004]
 Hideyoshi Kinoshita
 **********
-Ｆクラスのわしら相手なら、
-間違いなく勝てると言ったじゃろう？
-覚えておらんのか？
+You said if Class F is your opponent,
+You will win for sure?
+Or have you forgotten about it?
 
 --------------------
 [0005]
 Yuuko Kinoshita
 **********
-それは暴言じゃなくて事実じゃない。
-なんなら、今から証明してあげるわよ？
+It's not rude if it's the truth.
+Why don't I prove it to you now?
 
 --------------------
 [0006]
 Yuuji Sakamoto
 **********
-できるものならやってみろ。
-さっきのようにはいかないぜ。
+You can try if you think you're tough 
+enough
+It won't be as easy as your last battle.
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-はいはい、分かったわよ。
-アタシはいつでもＯＫだから。
+Yeah yeah, I know.
+This will be even easier.
 
 --------------------
 [0008]
 Yuuji Sakamoto
 **********
-秀吉、島田、始めるぞ。
-準備はいいか？
+Hideyoshi, Shimada, let's begin.
+Is everyone prepared?
 
 --------------------
 [0009]
 Minami Shimada
 **********
-ええ、瑞希と土屋の仇を討つわよ！
+Yes, I'll avenge Mizuki and Tsuchiya!
 
 --------------------
 [0010]
 Yuuji Sakamoto
 **********
-……清水の分はいいのか？
+......Not Miharu?
 
 --------------------
 [0011]
 Minami Shimada
 **********
-美春のため……なんて言ったら、
-あの子、またどんな勘違いをするか
-わかったもんじゃないでしょ。
+Miharu......If I said it's for her,
+She would take it the wrong way,
+I don't need that.
 
 --------------------
 [0012]
 Hideyoshi Kinoshita
 **********
-確かにそうじゃのう……
+True.......
 
 --------------------
 [0013]
 Yuuji Sakamoto
 **********
-どんな勘違いをされようが、
-今までとたいして変わらないような
-気もするけどな。
+I don't think it'll matter what you say,
+If I had to guess, She'd take it that way
+no matter what you said.
 
 --------------------
 [0014]
 Minami Shimada
 **********
-うっ……嫌なことを言わないでよ！
+Uh.....Don't say such a hateful thing!
 
 --------------------
 [0015]
 Yuuko Kinoshita
 **********
-言うことはそれだけ？
-なら、そろそろ始めましょう！
+These are your last words?
+If so, then it's time to begin!
 
 --------------------

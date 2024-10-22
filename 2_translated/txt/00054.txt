@@ -1,113 +1,114 @@
 [0000]
 Yoshii Akihisa Yoshii
 **********
-き、来たよ！　雄二、霧島さんだ！
+She, she's here! Yuuji, it's Kirishima!
 
 --------------------
 [0001]
 Yuuji Sakamoto
 **********
-……やっぱり勝ち残ってやがったな。
-亊子、ここで負けてもらうぞ。
+She actually made it here.
+Shouko, you won't make it any further.
 
 --------------------
 [0002]
 Miharu Shimizu
 **********
-そのとおりです！
-お姉さまとの愛をかけたリベンジ、
-ここで果たさせてもらいます！
+That's right!
+I'll show you,
+My love for onee-sama!
 
 --------------------
 [0003]
 Shouko Kirishima
 **********
-……無理。
-私と雄二の愛以上に強いものはない。
-だから、この勝負も勝つ。
+Hmmph.
+The love Yuuji and I share is stronger.
+That's why I will win.
 
 --------------------
 [0004]
 Yuuji Sakamoto
 **********
-そもそも、そんなものは存在しないと
-何度言ったらわかるんだ！？
+First of all, we're not in love.
+How many times do I have to tell you?
 
 --------------------
 [0005]
 Shouko Kirishima
 **********
-……雄二、照れなくていい。
+It's okay, Yuuji. Don't be shy.
 
 --------------------
 [0006]
 Yuuji Sakamoto
 **********
-照れてない！
-明久、いいな！　集中しろ！
+I'm not being shy!
+Akihisa, are you ready? 
 
 --------------------
 [0007]
 Yoshii Akihisa Yoshii
 **********
-わかってる！
-この勝負、絶対に負けないよ！
+Understood!
+This competition, I definitely won't 
+lose!
 
 --------------------
 [0008]
 Miharu Shimizu
 **********
-それを聞くとすごく不安になってきました。
-このバカ豚野郎は外した方が……
+I don't think it's a good idea
+to include that idiot...
 
 --------------------
 [0009]
 Yuuji Sakamoto
 **********
-そんなことできるか！
+How can we leave him out?
 
 --------------------
 [0010]
 Yoshii Akihisa Yoshii
 **********
-雄二……ありがとう！
-やっぱり持つべきものは友達だね！
+Yuuji......Thank you!
+You're actually a friend I can trust!
 
 --------------------
 [0011]
 Yuuji Sakamoto
 **********
-いいか清水、明久はバカだからこそ
-使い捨てにできるんだ！
+Shimizu, think about it.
+We just need to use Akihisa's stupidity!
 
 --------------------
 [0012]
 Miharu Shimizu
 **********
-なるほど、
-そういう事なら利用させてもらいます。
-死して屍拾う者無しです。
+I see, So that's what you're going to do.
+I guess you may do alright for a pig.
 
 --------------------
 [0013]
 Yoshii Akihisa Yoshii
 **********
-うう……雄二に期待した僕がバカだった……
+Uhh......I'm an idiot for believing in
+Yuuji......
 
 --------------------
 [0014]
 Yuuji Sakamoto
 **********
-心配するな。期待する前からおまえはバカだ。
-それより始めるぞ。
-亊子、準備はいいな？
+Don't worry, you're just an idiot.
+Alright, it's going to begin.
+Shouko, are you ready?
 
 --------------------
 [0015]
 Shouko Kirishima
 **********
-……いつでもいい。
-私と雄二を邪魔するものは、
-たとえ雄二でも許さない。
+I'm ready.
+I'll destroy anyone who thinks
+they can stop me from being with Yuuji.
 
 --------------------

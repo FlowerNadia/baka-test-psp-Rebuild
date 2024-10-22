@@ -1,139 +1,143 @@
 [0000]
 Yuuko Kinoshita
 **********
-どうして……また負けた……
+How......could I lose.....
 
 --------------------
 [0001]
 Kouta Tsuchiya
 **********
-……俺たちの共有財産が……
+......Our public asset......
 
 --------------------
 [0002]
 Miharu Shimizu
 **********
-不正です！　負けてません！
-今の勝負は無効ですっ！
+You're joking! I didn't lose!
+That didn't count!
 
 --------------------
 [0003]
 Hideyoshi Kinoshita
 **********
-往生際が悪いぞい？
-この勝負、わしの勝ちじゃ。
-これで３勝、晴れて賞品獲得じゃな。
+That didn't count?
+This time, I won. A three-win streak,
+I can finally get the prize.
 
 --------------------
 [0004]
 Miharu Shimizu
 **********
-木下さん、いいんですか！？
-姉が弟に負けてもいいんですか！？
+Kinoshita-san, you'll let this slip!?
+You lost to your brother as an elder 
+sister!?
 
 --------------------
 [0005]
 Yuuko Kinoshita
 **********
-良くはないけど……でも、
-負け惜しみを言うつもりは無いわ。
+Of course I can't let this slip......But,
+He won fair and square, nothing we can do.
 
 --------------------
 [0006]
 Hideyoshi Kinoshita
 **********
-良いことを言うのう。
-自分の実力が足りなかった事を
-素直に認めるとは、さすが姉上じゃ。
+Well said. You lack strength
+As expected of my sister, 
+you're willing to admit defeat.
 
 --------------------
 [0007]
 Yuuko Kinoshita
 **********
-アタシに何が足りないですって？
+You think you're stronger than me?
 
 --------------------
 [0008]
 Hideyoshi Kinoshita
 **********
-いや……その……実力じゃと……
+No......that's not what I meant......
+uh......
 
 --------------------
 [0009]
 Yuuko Kinoshita
 **********
-秀吉……後でじっくり話があるわ。
-準備運動をして待ってなさい。
+Hideyoshi......
+I have something to tell you later.
+Just prepare yourself and wait.
 
 --------------------
 [0010]
 Hideyoshi Kinoshita
 **********
-ああああ姉上、それはどういうことじゃ！
-なぜ話を聞くのに準備運動が必要なのじゃ！？
+Si..sis? What does that mean!?
+Wait for what? What's gonna happen!?
 
 --------------------
 [0011]
 Yuuko Kinoshita
 **********
-だって体を柔らかくしておいた方が、
-関節を増やす時、きっと痛みが少ないわよ？
+Of course you need to relax your joints,
+Wouldn't it hurt alot more if you didn't?
 
 --------------------
 [0012]
 Hideyoshi Kinoshita
 **********
-や、やめるのじゃ！
-わしは関節なぞ増やしとうない！
+Don't, Don't do that!
+I don't do well with pain!
 
 --------------------
 [0013]
 Miharu Shimizu
 **********
-とにかくこの勝負、認めません！
-賞品の権利を美春に譲りなさい！
+I won't admit defeat for this battle!
+Let me have the prize!
 
 --------------------
 [0014]
 Kouta Tsuchiya
 **********
-……そんなことできるのか？
+......Is that even possible?
 
 --------------------
 [0015]
 Hideyoshi Kinoshita
 **********
-できるわけがなかろう。
-それに、賞品を獲得したのはわしじゃ。
-誰にも譲るつもりはない。
+As if.
+The prize is mine, I earned it.
+I'm not giving it to anyone.
 
 --------------------
 [0016]
 Yuuko Kinoshita
 **********
-秀吉……そこまで相手のことを……
+Hideyoshi......
+you actually love him that much......
 
 --------------------
 [0017]
 Hideyoshi Kinoshita
 **********
-とにかく勝負はこれまでじゃ。
-賞品を貰わなければならないからのう。
-わしは学園長室に行かせてもらうぞい。
+The battle has ended.
+I'll go and claim my prize.
+I need to go to the principal's office.
 
 --------------------
 [0018]
 Yuuko Kinoshita
 **********
-あっ！
-ちょっと秀吉、待ちなさいよ。
-アタシも一緒に行くわ！
+Ah!
+Wait, Hideyoshi, hold on.
+I want to come with you.
 
 --------------------
 [0019]
 Kouta Tsuchiya
 **********
-……これは、明久や雄二に
-知らせておかなければ。
+......Akihisa and Yuuji
+need to be informed of this.
 
 --------------------
