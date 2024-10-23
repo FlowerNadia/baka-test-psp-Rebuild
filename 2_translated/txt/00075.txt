@@ -219,7 +219,7 @@ Don't worry about it.
 
 --------------------
 [0034]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 You've got a good heart, Yoshii!
 But, those who died get a remedial class!
@@ -246,7 +246,7 @@ I guess I'm not as strong as you, Mizuki.
 
 --------------------
 [0038]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 And with that, to the remedial classroom!
 
@@ -271,7 +271,7 @@ from you.
 
 --------------------
 [0042]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Try to win next time, Sakamoto. Try to 
 find motivation in the remedial classroom!
@@ -298,7 +298,7 @@ else.
 
 --------------------
 [0046]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Those who died with a score of zero,
 meet me in the remedial classroom!
@@ -323,7 +323,7 @@ Kouta Tsuchiya
 
 --------------------
 [0050]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 I suppose a remedial class is in order, then.
 
@@ -347,7 +347,7 @@ I'll definitely win next time.
 
 --------------------
 [0054]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 But before that, meet me in the remedial
 classroom!
@@ -373,7 +373,7 @@ you won't be so lucky.
 
 --------------------
 [0058]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 But before that, Kinoshita,
 the remedial classroom awaits.
@@ -400,7 +400,7 @@ for making me lose!
 
 --------------------
 [0062]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Remedial class for you! We'll beat that
 temper of yours into shape.

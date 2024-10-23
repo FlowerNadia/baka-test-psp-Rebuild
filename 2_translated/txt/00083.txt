@@ -68,6 +68,7 @@ Kaoru Todo
 **********
 what should I do...
 
+
 --------------------
 [0011]
 Kaoru Todo
@@ -95,7 +96,6 @@ Kaoru Todo
 **********
 the next test subject
 will be...
-
 
 --------------------
 [0015]
@@ -351,7 +351,7 @@ will be...
 Kaoru Todo
 **********
 Middle School 
-Health/P.E.
+Health\P.E.
 
 --------------------
 [0053]

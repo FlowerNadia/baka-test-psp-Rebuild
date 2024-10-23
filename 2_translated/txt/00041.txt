@@ -146,7 +146,7 @@ evilness!
 [0020]
 Devil Akihisa
 **********
-『A satellite functions 24/7 all 365 days,
+『A satellite functions 24\7 all 365 days,
 It can take photos of anyone, anytime, 
 they won't know...you could see them all』
 

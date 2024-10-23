@@ -88,7 +88,7 @@ here too.
 Yuuko Kinoshita
 **********
 Is that a problem?
-	
+
 --------------------
 [0014]
 Yoshii Akihisa Yoshii
@@ -225,7 +225,7 @@ Akihisa.
 
 --------------------
 [0034]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Himeji, you know the rules.
 Those who died get a remedial class.
@@ -251,7 +251,7 @@ Aki...
 
 --------------------
 [0038]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Those who died in battle,
 meet me in the remedial classroom!
@@ -279,7 +279,7 @@ in my life...
 
 --------------------
 [0042]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Those who died, meet me in the
 remedial classroom!
@@ -306,7 +306,7 @@ I'll remember this, Akihisa!
 
 --------------------
 [0046]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Those who died, meet me in the
 remedial classroom!
@@ -333,7 +333,7 @@ Kouta Tsuchiya
 
 --------------------
 [0050]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Those who died, meet me in the
 remedial classroom!
@@ -359,7 +359,7 @@ Shouko Kirishima
 
 --------------------
 [0054]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Kirishima, you know the rules.
 Time for a supplementary class.
@@ -386,7 +386,7 @@ just admitted you're an idiot?
 
 --------------------
 [0058]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Kinoshita, meet me in the
 remedial classroom!
@@ -412,7 +412,7 @@ you done!?
 
 --------------------
 [0062]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Shimizu, meet me in the
 remedial classroom!

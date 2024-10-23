@@ -233,7 +233,7 @@ as expected...
 
 --------------------
 [0035]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 And, loser will go through
 supplementary class!
@@ -261,7 +261,7 @@ you very much.
 
 --------------------
 [0039]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Himeji, as the loser, supplementary
 class is obligatory.
@@ -287,7 +287,7 @@ You are strong.
 
 --------------------
 [0043]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 You'll be strong! Train yourself 
 in the supplementary class!
@@ -313,7 +313,7 @@ Yuuji Sakamoto
 
 --------------------
 [0047]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Whether you acknowledge it or not, 
 losers go to the supplementary class!
@@ -340,7 +340,7 @@ we are twins.
 
 --------------------
 [0051]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 It' because your training is lacking!
 Loser takes supplementary class!
@@ -366,7 +366,7 @@ Kouta Tsuchiya
 
 --------------------
 [0055]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Supplementary class for the loser!
 Come!
@@ -392,7 +392,7 @@ I won't lose next time.
 
 --------------------
 [0059]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Kirishima, this should be clear.
 Loser is to take supplementary class.
@@ -418,7 +418,7 @@ being noisy!
 
 --------------------
 [0063]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Shimizu, loser to the supplementary class, 
 you know?

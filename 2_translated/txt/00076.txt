@@ -227,7 +227,7 @@ I'm so naive...
 
 --------------------
 [0034]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Don't worry. Temper yourself with 
 supplementary class and do it over again!
@@ -254,7 +254,7 @@ I've totally lost!
 
 --------------------
 [0038]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Himeji, you're now KIA.
 Take the supplementary class.
@@ -280,7 +280,7 @@ I got careless there.
 
 --------------------
 [0042]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Your ability is lacking! To the
 Supplementary class!
@@ -306,7 +306,7 @@ yours.
 
 --------------------
 [0046]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 And the supplementary class is now yours!
 
@@ -331,7 +331,7 @@ Kouta Tsuchiya
 
 --------------------
 [0050]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 But, I'll have you take the 
 supplementary class!
@@ -358,7 +358,7 @@ Shouko Kirishima
 
 --------------------
 [0054]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 That also means your ability is inadequate.
 To the Remedial class at once!
@@ -385,7 +385,7 @@ to end like this... !
 
 --------------------
 [0058]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 You can review your loss
 in supplementary class!
@@ -413,7 +413,7 @@ please!
 
 --------------------
 [0062]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 First thing first, go to supplementary class!
 

@@ -238,7 +238,7 @@ so mortified.
 
 --------------------
 [0035]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Become stronger then! Loser
 to the supplementary class!
@@ -264,7 +264,7 @@ Thank you.
 
 --------------------
 [0039]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Since you are the loser, you need to take
 the supplementary class, Himeji.
@@ -291,7 +291,7 @@ from this!?
 
 --------------------
 [0043]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Shimada, sorry to bother when you are so busy. 
 But, onwards to supplementary class.
@@ -319,7 +319,7 @@ winner.
 
 --------------------
 [0047]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 And you are the loser.
 Loser to the supplementary class!
@@ -346,7 +346,7 @@ Killed in action.
 
 --------------------
 [0051]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 And so, supplementary class you go!
 
@@ -371,7 +371,7 @@ Kouta Tsuchiya
 
 --------------------
 [0055]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Introspection is the food for growth!
 Come and take the supplementary class!
@@ -396,7 +396,7 @@ Shouko Kirishima
 
 --------------------
 [0059]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Kirishima, loser to the supplementary class!
 Do you understand?!
@@ -423,7 +423,7 @@ Sigh...
 
 --------------------
 [0063]
-Sōichi Nishimura
+Souichi Nishimura
 **********
 Your mind is the cause!
 Mold it with supplementary class!
