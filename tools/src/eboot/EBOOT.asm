@@ -2,6 +2,7 @@
 .open "1_extracted\\EBOOT.BIN","3_patched\\SYSDIR\\EBOOT.BIN",0x8804000 -0xc0
   ; grouping macro, does nothing but allows gruping in code editor
   .macro .endorg :: .endmacro
+  .definelabel func_08886344, 0x08886344
 
   ; speaker name limit
   .org 0x08807808
@@ -9,9 +10,23 @@
       li         a1,0x29
   .endorg
 
-  ; .org 0x0088867A4
-  ;     a2,20     ; original li a2,6,the game break, if we enlarge the value
-  ; .endorg
+  ; speaker textbox limit
+  ; claim enough stack space
+  .org 0x08886708 :: addiu      sp,-0x200
+
+  ; free claimed stack space
+  .org 0x0888676C :: addiu      sp,0x200
+  .org 0x08886798 :: addiu      sp,0x200
+  .org 0x088867D8 :: addiu      sp,0x200
+  
+  ; fixup call
+  .org 0x0888679C
+      addiu      a1,sp,0x30     ; second arg now starts at new claimed space
+      jal        func_08886344
+       li        a2,0x20        ; new max speaker line size
+      move        s2,v0
+      addiu      a0,sp,0x30     ; first arg now starts at new claimed space
+  .endorg
 
   ; textbox line limit char
   .org 0x08804DC0
