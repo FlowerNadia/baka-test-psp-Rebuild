@@ -28,6 +28,51 @@
       addiu      a0,sp,0x30     ; first arg now starts at new claimed space
   .endorg
 
+  ; Speaker textbox graphic enlargement
+
+  ; The textbox is drawn in slices in the following
+  ; arrangement (px -> pixel, s -> slice (8px each))
+  ; with a 14px space in-between the sceen borders
+  ;
+  ;   62px    13s    32px          24s          62px
+  ;  <---->  <--->  <---->  <--------------->  <----> 
+  ;   .----  -----  ---.                      
+  ;  /  .--  -----  ----`-  -----------------  -,.
+  ;  |  |                                       | \
+  ;   \_\__  _____  ______  _________________  _/_/
+
+  ; So let's make some defines
+  TXTBX_START_POS  equ 14
+  ENDS_SLICE_SIZE  equ 62
+  NAME_SLICE_SIZE  equ 32
+  SLICE_SIZE       equ 8
+
+  ; Let's make the name field 4 slices (32px) longer
+  NAME_SLICE_COUNT equ 13 + 4
+  ; By necessity the text section needs to be 4 slices shorter
+  TEXT_SLICE_COUNT equ 24 - 4
+
+  ; Auto-calculate positions for the given slice counts
+  TXTBX_START_X    equ TXTBX_START_POS
+  NAME_SLICE_X     equ TXTBX_START_X  + ENDS_SLICE_SIZE
+  NAME_END_X       equ NAME_SLICE_X   + (SLICE_SIZE * (NAME_SLICE_COUNT))
+  TEXT_SLICE_X     equ NAME_END_X     + NAME_SLICE_SIZE
+  TXTBX_END_X      equ TEXT_SLICE_X   + (SLICE_SIZE * (TEXT_SLICE_COUNT))
+
+  ; Update the position table
+  .org 0x08930990
+      ;    | X pos           | Y pos |
+      .dh    TXTBX_START_X ,  160  ; Left slice
+      .dh    NAME_SLICE_X  ,  160  ; Name middle slice
+      .dh    NAME_END_X    ,  160  ; Name end slice
+      .dh    TEXT_SLICE_X  ,  186  ; text middle slice
+      .dh    TXTBX_END_X   ,  186  ; Right slice
+  .endorg
+
+  ; The game uses a "max x pos" to draw slices, update that too
+  .org 0x088074E4 :: li     a3,NAME_END_X  - NAME_SLICE_X ; endpos
+  .org 0x0880750C :: li     a3,TXTBX_END_X - TEXT_SLICE_X ; endpos
+
   ; textbox line limit char
   .org 0x08804DC0
       li         a0,0x29
