@@ -1,5 +1,10 @@
 
 0_iso/*.iso
 4_build/*.iso
+2_translated/union/*.bin
 2_translated/sc/*.bin
+3_patched/*
 *.pyc
+*.BAC
+*.backup
+*.bak
