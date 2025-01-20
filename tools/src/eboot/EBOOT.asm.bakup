@@ -2,7 +2,7 @@
 .open "1_extracted\\EBOOT.BIN","3_patched\\SYSDIR\\EBOOT.BIN",0x8804000 -0xc0
   ; grouping macro, does nothing but allows gruping in code editor
   .macro .endorg :: .endmacro
-  .definelabel func_08886344, 0x08886344
+  .definelabel func_08886344, 0x08886344 - 0x8804000 ; relocation fixup
 
   ; speaker name limit
   .org 0x08807808
@@ -23,8 +23,8 @@
   .org 0x0888679C
       addiu      a1,sp,0x30     ; second arg now starts at new claimed space
       jal        func_08886344
-       li        a2,0x20        ; new max speaker line size
-      move        s2,v0
+       li         a2,0x20       ; new max speaker line size
+      move       s2,v0
       addiu      a0,sp,0x30     ; first arg now starts at new claimed space
   .endorg
 
@@ -48,20 +48,22 @@
   SLICE_SIZE       equ 8
 
   ; Let's make the name field 4 slices (32px) longer
-  NAME_SLICE_COUNT equ 13 + 4
+  NAME_SLICE_COUNT equ (13 + 4)
+  NAME_PX_SIZE     equ (SLICE_SIZE * NAME_SLICE_COUNT)
   ; By necessity the text section needs to be 4 slices shorter
-  TEXT_SLICE_COUNT equ 24 - 4
+  TEXT_SLICE_COUNT equ (24 - 4)
+  TEXT_PX_SIZE     equ (SLICE_SIZE * TEXT_SLICE_COUNT)
 
   ; Auto-calculate positions for the given slice counts
   TXTBX_START_X    equ TXTBX_START_POS
   NAME_SLICE_X     equ TXTBX_START_X  + ENDS_SLICE_SIZE
-  NAME_END_X       equ NAME_SLICE_X   + (SLICE_SIZE * (NAME_SLICE_COUNT))
+  NAME_END_X       equ NAME_SLICE_X   + NAME_PX_SIZE
   TEXT_SLICE_X     equ NAME_END_X     + NAME_SLICE_SIZE
-  TXTBX_END_X      equ TEXT_SLICE_X   + (SLICE_SIZE * (TEXT_SLICE_COUNT))
+  TXTBX_END_X      equ TEXT_SLICE_X   + TEXT_PX_SIZE
 
   ; Update the position table
   .org 0x08930990
-      ;    | X pos           | Y pos |
+      ;    | X pos         | Y pos |
       .dh    TXTBX_START_X ,  160  ; Left slice
       .dh    NAME_SLICE_X  ,  160  ; Name middle slice
       .dh    NAME_END_X    ,  160  ; Name end slice
@@ -70,8 +72,8 @@
   .endorg
 
   ; The game uses a "max x pos" to draw slices, update that too
-  .org 0x088074E4 :: li     a3,NAME_END_X  - NAME_SLICE_X ; endpos
-  .org 0x0880750C :: li     a3,TXTBX_END_X - TEXT_SLICE_X ; endpos
+  .org 0x088074E4 :: li     a3,NAME_PX_SIZE ; px size
+  .org 0x0880750C :: li     a3,TEXT_PX_SIZE ; px size
 
   ; textbox line limit char
   .org 0x08804DC0
