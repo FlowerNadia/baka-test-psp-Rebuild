@@ -1,7 +1,8 @@
 .PSP
-.open "1_extracted\\EBOOT.BIN","3_patched\\SYSDIR\\EBOOT.BIN",0x8804000 -0xc0
+.open "1_extracted\\EBOOT.BIN","3_patched\\SYSDIR\\EBOOT.BIN",0x8804000-0xc0
   ; grouping macro, does nothing but allows gruping in code editor
   .macro .endorg :: .endmacro
+  .definelabel func_08886344, 0x08886344 - 0x8804000 ; relocation fixup
 
   ; speaker name limit
   .org 0x08807808
@@ -9,9 +10,70 @@
       li         a1,0x29
   .endorg
 
-  ; .org 0x0088867A4
-  ;     a2,20     ; original li a2,6,the game break, if we enlarge the value
-  ; .endorg
+  ; speaker textbox limit
+  ; claim enough stack space
+  .org 0x08886708 :: addiu      sp,-0x200
+
+  ; free claimed stack space
+  .org 0x0888676C :: addiu      sp,0x200
+  .org 0x08886798 :: addiu      sp,0x200
+  .org 0x088867D8 :: addiu      sp,0x200
+  
+  ; fixup call
+  .org 0x0888679C
+      addiu      a1,sp,0x30     ; second arg now starts at new claimed space
+      jal        func_08886344
+       li         a2,0x20       ; new max speaker line size
+      move       s2,v0
+      addiu      a0,sp,0x30     ; first arg now starts at new claimed space
+  .endorg
+
+  ; Speaker textbox graphic enlargement
+
+  ; The textbox is drawn in slices in the following
+  ; arrangement (px -> pixel, s -> slice (8px each))
+  ; with a 14px space in-between the sceen borders
+  ;
+  ;   62px    13s    32px          24s          62px
+  ;  <---->  <--->  <---->  <--------------->  <----> 
+  ;   .----  -----  ---.                      
+  ;  /  .--  -----  ----`-  -----------------  -,.
+  ;  |  |                                       | \
+  ;   \_\__  _____  ______  _________________  _/_/
+
+  ; So let's make some defines
+  TXTBX_START_POS  equ 14
+  ENDS_SLICE_SIZE  equ 62
+  NAME_SLICE_SIZE  equ 32
+  SLICE_SIZE       equ 8
+
+  ; Let's make the name field 4 slices (32px) longer
+  NAME_SLICE_COUNT equ (13 + 4)
+  NAME_PX_SIZE     equ (SLICE_SIZE * NAME_SLICE_COUNT)
+  ; By necessity the text section needs to be 4 slices shorter
+  TEXT_SLICE_COUNT equ (24 - 4)
+  TEXT_PX_SIZE     equ (SLICE_SIZE * TEXT_SLICE_COUNT)
+
+  ; Auto-calculate positions for the given slice counts
+  TXTBX_START_X    equ TXTBX_START_POS
+  NAME_SLICE_X     equ TXTBX_START_X  + ENDS_SLICE_SIZE
+  NAME_END_X       equ NAME_SLICE_X   + NAME_PX_SIZE
+  TEXT_SLICE_X     equ NAME_END_X     + NAME_SLICE_SIZE
+  TXTBX_END_X      equ TEXT_SLICE_X   + TEXT_PX_SIZE
+
+  ; Update the position table
+  .org 0x08930990
+      ;    | X pos         | Y pos |
+      .dh    TXTBX_START_X ,  160  ; Left slice
+      .dh    NAME_SLICE_X  ,  160  ; Name middle slice
+      .dh    NAME_END_X    ,  160  ; Name end slice
+      .dh    TEXT_SLICE_X  ,  186  ; text middle slice
+      .dh    TXTBX_END_X   ,  186  ; Right slice
+  .endorg
+
+  ; The game uses a "max x pos" to draw slices, update that too
+  .org 0x088074E4 :: li     a3,NAME_PX_SIZE ; px size
+  .org 0x0880750C :: li     a3,TEXT_PX_SIZE ; px size
 
   ; textbox line limit char
   .org 0x08804DC0
