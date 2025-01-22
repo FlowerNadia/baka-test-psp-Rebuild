@@ -14,7 +14,7 @@ Some guides or more info on the project can be found on documentation channel (W
 
 this is a fan project, we run on love, coffee and depression
 
-##Info on Parent Github page:
+## Info on Parent Github page:
  
 ### Repo Structure
 `0_orginal` = The base game files  
