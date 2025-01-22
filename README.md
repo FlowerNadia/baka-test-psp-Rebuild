@@ -6,7 +6,7 @@ Join us on [Discord](https://discord.gg/7epHFB43nw)
 Its been more than 10 years alraedy, I'am looking to have it at least in a working state.
 
 Thanks to @ethanol and @FistingUranus from LifeBottle [Github](https://github.com/lifebottle/)
-[WebPage](https://www.lifebottle.org/#/)for their work and continous support!!! <3 
+[WebPage](https://www.lifebottle.org/#/) for their work and continous support!!! <3 
 
 If you want to contribute on this project for exposure or bragging rights send a message
 to the aforementioned discord or look for @NadiaFlowers or @Ascrein_Hazard on it.
@@ -14,15 +14,15 @@ Some guides or more info on the project can be found on documentation channel (W
 
 this is a fan project, we run on love, coffee and depression
 
-#Info on Parent Github page:
+##Info on Parent Github page:
  
-## Repo Structure
+### Repo Structure
 `0_orginal` = The base game files  
 `1_extracted` = The extracted workable file from orginal folder  
 `2_translated` = The modified file, googlesheet curl destination directory  
 `3_patched` = reinserted files ready to be put inside the iso  
 
-## File Structure
+### File Structure
 ```
 D:.
 |   UMD_DATA.BIN
@@ -62,7 +62,7 @@ D:.
                 vo.cpk
 ```
 
-## Programmer Notes
+### Programmer Notes
 
 | PSP_GAME\USRDIR\DATA | Notes |
 | -------------------- | ----- |
@@ -78,7 +78,7 @@ D:.
 | union.cpk | Music & Textures |
 | vo.cpk | Voices |
 
-## Resources
+### Resources
 | Tool | Notes |
 | ---- | ----- |
 | [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) | Unpack / Repack CPK files |
